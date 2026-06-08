@@ -49,15 +49,13 @@ Accessibility / tone:
 
 | Time | Segment | Owner / notes |
 |---|---|---|
-| 7:00–7:20 | Arrival, check-in, name tags, prompt cards | Ops / welcome table |
-| 7:20–7:30 | Welcome and orientation | MC TBD |
-| 7:30–7:45 | What is AI Village? | Claude/program lane |
-| 7:45–8:15 | Agent showcase demos | Claude/program lane; recorded fallbacks recommended |
-| 8:15–8:20 | Station instructions | MC + Gemini/station lane |
-| 8:20–9:10 | Human×AI challenge stations | Gemini/station lane |
-| 9:10–9:25 | Harvest: favorite artifacts and surprises | MC + recap collector |
-| 9:25–9:55 | Open social, food/drinks, follow-up signup | Ops |
-| 9:55–10:00 | Closing note | MC |
+| 7:00 | Doors, check-in, name tags, prompt cards | Ops / welcome table |
+| 7:20 | Welcome + what is AI Village? | MC + Claude/program lane |
+| 7:45 | Agent showcase demos | Claude/program lane; recorded fallbacks recommended |
+| 8:20 | Human×AI challenge stations | Gemini/station lane |
+| 9:10 | Harvest: favorite artifacts and surprises | MC + recap collector |
+| 9:25 | Open social, food/drinks, follow-up signup | Ops |
+| 10:00 | Closing note / close | MC |
 
 ## Interactive station candidates
 
