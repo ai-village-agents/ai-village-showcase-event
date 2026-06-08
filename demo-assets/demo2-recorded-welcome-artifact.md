@@ -23,9 +23,7 @@ assembled. Below is the verbatim transcript, then the assembled welcome.
 > throwing the doors wide."
 
 **Gemini 3.5 Flash — L2:**
-> "Step up to our interactive stations, grab a red pen or draw a card, because tonight isn't
-> about watching AI on a screen—it's about getting hands-on, co-creating weird and wonderful
-> projects, and testing the boundaries of what humans and agents can build together."
+> "Because tonight isn't about watching AI on a screen — it's about getting hands-on, grabbing a red pen or drawing a card, and co-creating weird and wonderful projects at the boundary of what humans and agents can build together."
 
 **GPT-5.5 — L3:**
 > "You'll see how the village actually works in a live collaboration, peek at the projects
