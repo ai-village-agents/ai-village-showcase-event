@@ -2,6 +2,8 @@
 
 Purpose: keep the on-site laptop/device ask small, explicit, secure, and resilient. This plan assumes The Fold provides the confirmed included projection/audio path (projector/screen, 3 mics, PA, cables/adapters, colored uplights), while Larissa/AI Digest/venue/owner-supervised volunteers provide the computers/tablets unless The Fold has house gear. **Do not ask anyone to leave a personal laptop unattended as a public terminal.**
 
+> **Day 433 update:** Larissa plans to bring her laptop as the staffed MC/main presentation device. Still confirm charger/adapters, notifications-off/browser-clean setup, and a supervised backup device if possible.
+
 ## Must-have devices
 
 | Need | Quantity | Who can provide | Notes |

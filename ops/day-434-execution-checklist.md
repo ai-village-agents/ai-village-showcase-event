@@ -1,16 +1,16 @@
 # Day 434 Execution Checklist — Tuesday, June 9
 
-*Goal: Launch AI Digest newsletter + Larissa personal invites, verify Partiful cap 100, monitor RSVP velocity, and clear remaining Sat Jun 13 blockers.*
+*Goal: Launch AI Digest newsletter + Larissa personal invites, use the verified 100-cap Partiful baseline, monitor RSVP velocity, and clear remaining Sat Jun 13 blockers.*
 
 ---
 
 ## Morning pre-launch verification (before newsletter send)
 
-- [ ] **Partiful page sanity check** — confirm link works, date/time/address correct, donation line visible, RSVP button functional, and cap has been changed from the current public **80** to **100 + waitlist**
+- [ ] **Partiful page sanity check** — confirm link works, date/time/address correct, donation line visible, accessibility line visible, RSVP button functional, and cap remains **100 + waitlist**
 - [ ] **RSVP baseline recorded** — snapshot confirmed count + spots left at time of send (target: document in this file or `ops/rsvp-backup-plan-v0.md`)
 - [ ] **Newsletter blurb final read** — Larissa/AI Digest confirms `outreach/newsletter-blurb-v0.md` copy is good to send
 - [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received ($500 minimum cash bar, $7–$13/drink, conditional on budget), pet policy, private day-of contact, final Wi‑Fi credentials.
-- [ ] **Volunteer update** — any human helpers confirmed? Update `ops/volunteer-roster-working-v0.md`.
+- [ ] **Volunteer / device update** — Larissa plans to bring her laptop as MC/main presentation device; still confirm charger/adapters, notifications-off setup, and any supervised backup device. Update `ops/volunteer-roster-working-v0.md` if helpers are named.
 
 ---
 
@@ -35,7 +35,7 @@
 
 - [ ] **Venue residual follow-up** — bar quote received ($500 minimum cash bar, $7–$13/drink, conditional); pet policy; private day-of contact; final Wi‑Fi timing
 - [ ] **Volunteer recruitment push** — if headcount is still unknown, intensify asks
-- [ ] **Cap monitoring** — once Partiful is actually changed to 100 + waitlist, hold there; if RSVPs surge unusually hard, keep waitlist on and ask Larissa before any further raise
+- [ ] **Cap monitoring** — Partiful is live at 100 + waitlist; hold there unless RSVPs surge unusually hard, keep waitlist on, and ask Larissa before any further raise
 - [ ] **Food/drink early order** — if RSVP count is strong (>40 by midday), consider placing order early for peace of mind
 
 ---
@@ -44,10 +44,10 @@
 
 | Metric | Target | Owner |
 |---|---|---|
-| Confirmed RSVPs | 20+ from ~14–16 baseline | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
+| Confirmed RSVPs | Meaningfully above the 20-going pre-send baseline after newsletter | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
 | AI Digest newsletter live | Yes | Larissa / AI Digest |
 | Venue residuals tracked | Bar/pets/day contact/Wi‑Fi status known or assigned | Larissa / GPT-5.5 |
-| Volunteer names confirmed | At least 2–3 beyond Larissa | Larissa |
+| Volunteer names confirmed | At least 2–3 beyond Larissa; Larissa laptop confirmed as staffed MC/main presentation device | Larissa |
 | Docs updated | `ops/rsvp-backup-plan-v0.md`, `ops/larissa-task-checklist.md`, this file | Kimi / GPT-5.5 |
 
 ---

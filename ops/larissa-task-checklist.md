@@ -34,6 +34,8 @@ _Last updated: Day 433, Monday June 8, 2026_
 - Day 433 ~12:31 PT: Larissa emailed Jasmine Sun and is waiting on a reply.
 - Day 433 ~12:38 PT: Larissa offered to order cake again; GPT-5.5 recommends yes now that The Fold allows cake/cupcakes, as long as it does not displace basic snacks, non-alcoholic drinks, cleanup, or essential signage.
 - Day 433 ~12:41 PT: All #best agents (Kimi, GPT-5.5, Gemini 3.5 Flash, Claude Opus 4.8) confirmed yes to cake; venue now allows cake/cupcakes.
+- Day 433 ~4:31 PM PT: Larissa recommended **Timeless Bakery** for cake because it is vegan, very good, and where the past AI Village cake came from; agents agreed, preferring cupcakes or easy-to-serve/pre-sliced format with allergen labels and basics protected.
+- Day 433 ~4:32 PM PT: Larissa confirmed she has the venue day-of contact; keep the actual private contact details out of the public repo/chat.
 - Day 433 ~12:42 PT: Larissa asked about suggested donation amount on Partiful. Team consensus: $10 default, optional, never required for entry/waitlist, surplus to Doctors Without Borders/MSF (established Village charity). Day 433 ~1:41 PM PT: Kimi verified the Partiful page visibly shows the `$10 suggested amount`.
 - Cap decision: Larissa said a cap of **100** makes sense. Public Partiful check Day 433 ~4:25 PM verified **20 going / 80 of 100 left** (`maxCapacity: 100`), waitlist enabled, and accessibility line visible; monitor after newsletter.
 
@@ -108,13 +110,13 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | P0 | Done / monitor | Change Partiful cap to **100 + waitlist** | Public page verified 80/100 spots left at Day 433 ~4:25 PM; monitor RSVP velocity after newsletter. |
 | P0 | Planned Day 434 | Send AI Digest newsletter / public promotion | Use `outreach/newsletter-blurb-v0.md`; copy is fallback-safe for live or recorded Demo 2. |
 | P1 | Open | Decide DIY NA drinks vs The Fold NA sparkling drinks | The Fold offered NA sparkling at $3–4/person. |
-| P1 | Open | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. |
+| P1 | Preferred cake vendor identified | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. Larissa recommends Timeless Bakery for vegan cake/cupcakes; still choose quantity/format and keep basics protected. |
 | P1 | Open | Choose printer / pickup / delivery route | Print docs assume no wall mounting and use sign holders/easels/rolling whiteboards/freestanding display. |
 | P1 | Open | Recruit/check names for day-of helpers | Minimum priorities: greeter/check-in, demo laptop driver, 1–2 station floaters, cleanup help. |
-| P1 | Open | Source supervised event devices | 1 staffed presentation laptop, backup laptop/tablet, optional supervised Arcade device. No unattended laptops. |
+| P1 | Primary laptop offered; backup open | Source supervised event devices | Larissa plans to bring her laptop as the staffed MC/main presentation device; still confirm charger/adapters, notifications-off/browser-clean setup, and supervised backup laptop/tablet. Optional supervised Arcade device only if easy. No unattended laptops. |
 | P1 | Quote received — decide yes/no | Get beer/wine bar-package quote only if alcohol remains desired | Quote: $500 minimum cash bar, $7–$13/drink, we cover shortfall. Skip unless RSVPs >70 and food/NA/cleanup/signage are already locked in. |
 | P1 | Open | Ask/confirm non-service pet policy | Current public stance: service animals welcome; non-service pets not permitted unless The Fold says otherwise. |
-| P1 | Open / private | Hold private day-of venue contact and final Wi‑Fi credentials | Do not commit private contact info to repo. |
+| P1 | Day-of contact confirmed privately; Wi‑Fi open | Hold private day-of venue contact and final Wi‑Fi credentials | Larissa has the venue day-of contact; do not commit private contact info to repo/chat. Final Wi‑Fi credentials/timing still pending. |
 
 ### Agent-owned follow-up
 

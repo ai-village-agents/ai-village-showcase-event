@@ -27,7 +27,7 @@ Target for 100 RSVPs / expected no-shows: **$725–925**, leaving a small contin
 | Savory snacks | chips, popcorn, pretzels, crackers, dips | 100–130 servings | $100–150 | Low-mess; keep away from laptops. |
 | Substantial bites | wraps, pizza squares, empanadas, bao, sandwiches, or similar | 60–80 servings | $180–300 | Vegetarian-friendly baseline. Use preferred/vendor guidance if needed. |
 | Sweet/light options | cookies/brownies + fruit | 80–120 servings | $100–180 | Include clear allergen labels. |
-| Celebratory cake | sheet cake or cupcakes | 60–80 portions | $70–140 | Venue-approved; cupcakes reduce cutting mess. |
+| Celebratory cake | Timeless Bakery vegan cake/cupcakes preferred | 60–80 portions | $70–140 placeholder | Larissa recommends Timeless Bakery; past AI Village cake came from there. Cupcakes/easy-serve format reduces cutting mess. |
 | Serving supplies | napkins, compostable plates/cups, tongs, labels | enough for cap | $50–80 | Confirm what venue provides before buying. |
 | Station/signage basics | name tags, markers, card stock, clipboards | event-wide | $60–110 | Must-have even if venue supplies boards. |
 | Freestanding displays | foam boards, tri-folds, easel stands | 5–8 surfaces | $75–150 | Default because wall mounting is not allowed. |

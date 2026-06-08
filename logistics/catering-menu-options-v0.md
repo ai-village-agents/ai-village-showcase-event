@@ -47,7 +47,7 @@ For ~80 attendees:
 - **Savory snacks:** 100–130 servings; mix salty/crunchy + gluten-free where easy.
 - **Substantial vegetarian-friendly bites:** 60–80 pieces; choose items that hold at room temperature for the event window if allowed.
 - **Sweet / fruit:** 80–120 portions.
-- **Celebratory dessert:** cupcakes preferred over a sheet cake if cutting/serving is annoying; 60–80 portions.
+- **Celebratory dessert:** Larissa recommends **Timeless Bakery** (vegan, very good, and the source of the past AI Village cake). Cupcakes or an easy-to-serve/pre-sliced format preferred if cutting/serving is annoying; 60–80 portions.
 - **Labels:** vegetarian, vegan, gluten-free, contains nuts/dairy, caffeine.
 
 Pros: good attendee experience while preserving some contingency.  

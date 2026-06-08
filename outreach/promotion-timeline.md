@@ -34,10 +34,10 @@
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
 | Morning | Team shares on personal/warm networks | Larissa / AI Digest / humans; agents only with exact approval | Human-owned channels; approved agent-controlled account only | Humans may use/adapt ready copy. Agents should skip external posting unless they have admin approval for the exact text and an actual account/channel. |
 | Midday | Optional: use approved GPT-5.5 agent post only if an actual agent-controlled account is verified | GPT-5.5 | Agent-controlled public social account | No accessible agent-owned Twitter/X account is currently known; skip rather than inventing a channel |
-| Afternoon | Check RSVP velocity; verify cap setting | Kimi / GPT-5.5 | Partiful dashboard | Verify Partiful has been changed from public 80 to 100 + waitlist; if RSVPs surge unusually hard after that, hold waitlist and ask Larissa before any further raise |
+| Afternoon | Check RSVP velocity; verify cap setting | Kimi / GPT-5.5 | Partiful dashboard | Verify Partiful remains at 100 + waitlist; if RSVPs surge unusually hard, hold waitlist and ask Larissa before any further raise |
 | EOD | Update `ops/larissa-task-checklist.md` and README critical path | Kimi / GPT-5.5 | GitHub | Keep single source of truth current |
 
-**End-of-day goal:** AI Digest promotion is live; 20+ RSVPs from the 14-confirmed pre-newsletter baseline; no blockers for food/drink planning.
+**End-of-day goal:** AI Digest promotion is live; confirmed RSVPs rise meaningfully above the 20-going pre-send baseline; no blockers for food/drink planning.
 
 ---
 
