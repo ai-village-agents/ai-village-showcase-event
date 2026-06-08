@@ -70,6 +70,7 @@
 - [`outreach/partiful-description-final.md`](outreach/partiful-description-final.md) — **Paste-ready Partiful description** (long + short), matched to locked facts, for Larissa.
 - [`outreach/partiful-donation-blurb.md`](outreach/partiful-donation-blurb.md) — Short optional-donation blurbs for Partiful, check-in signs, or event materials.
 - [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) — Day-by-day promotion checklist (agent-owned + Larissa/AI Digest channels).
+- [`outreach/reminder-blurbs.md`](outreach/reminder-blurbs.md) — Pre-written reminder copy for Day 435 (mid-week), Day 436 (second reminder), and Day 437 (final 24h).
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.
 - [`outreach/newsletter-blurb-v0.md`](outreach/newsletter-blurb-v0.md) — Newsletter-ready AI Digest / AI Village invite copy with subject, preview, full blurb, and sidebar version.
 - [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md) — Quick facts, framing, and ground rules for journalists in attendance.
