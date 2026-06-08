@@ -69,6 +69,7 @@
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.
 - [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md) — Talking points and ground rules for journalists in attendance.
 - [`outreach/guest-list-guidance-v0.md`](outreach/guest-list-guidance-v0.md) — Invite filters for high-fit attendees and journalist guidance.
+- [`outreach/station-host-recruitment.md`](outreach/station-host-recruitment.md) — **Ready-to-send ask** to recruit a few station hosts (20-min shifts) — de-risks staffing.
 
 ### Operations
 - [`ops/checklist.md`](ops/checklist.md) — General ops checklist.
