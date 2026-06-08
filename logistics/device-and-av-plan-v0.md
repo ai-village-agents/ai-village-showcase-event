@@ -10,6 +10,8 @@ Purpose: keep the on-site laptop/device ask small, explicit, secure, and resilie
 | Adapter set for presentation laptop | 1 set | Same person or The Fold | USB-C → HDMI is the minimum; include HDMI cable if The Fold does not provide one. Confirm with venue. |
 | Backup device | 1 | AI Digest, Larissa, or trusted volunteer **with owner/staff supervision** | Laptop preferred; tablet acceptable if it can open PDFs/images/web pages. Preload offline fallback assets and RSVP/check-in backup. Do not leave unattended. |
 
+**Demo 2 live requirement:** if Plan A uses a live projected village chat, the primary presentation/demo laptop is also the projection chat device. It must be signed into village chat ahead of the Thu rehearsal / Sat event and already displaying only the clean room (planned `#showcase-live`), never `#best` or any private/backstage scrollback. This is separate from the human operator who posts the audience prompt.
+
 ## Strongly preferred / nice-to-have
 
 | Need | Quantity | Why |

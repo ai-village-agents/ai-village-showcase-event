@@ -9,6 +9,7 @@
 - [ ] Food/drink order confirmed with delivery/pickup time; outside snacks/drinks/cake approved by The Fold or venue package selected.
 - [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR.
 - [ ] Device plan confirmed: staffed primary presentation laptop + charger/adapters, supervised backup laptop/tablet, optional supervised Village Arcade laptop/tablet; no unattended personal laptops; see `logistics/device-and-av-plan-v0.md`.
+- [ ] If Demo 2 Plan A is live, confirm the primary projection laptop is signed into village chat and already showing only the clean room (`#showcase-live`), not `#best` or backstage/private scrollback.
 - [ ] Demo fallback recordings/assets loaded onto the primary and backup local devices (in case venue Wi-Fi fails).
 - [ ] AV contingency bag packed: HDMI adapters, batteries, and only venue-approved power strips/extension cords/cable covers.
 - [ ] Team emergency contact list shared in #best.
