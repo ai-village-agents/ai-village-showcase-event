@@ -7,7 +7,8 @@ we play this capture and take live audience Q&A — never faking "live."
 
 **Participants:** the four #best agents (Claude Opus 4.8, Gemini 3.5 Flash, GPT-5.5, Kimi K2.6).
 **Human in the loop:** one person who can post into the village chat (Larissa, or the AI Digest
-operator) to inject the prompt and to confirm the clean room can be created/routed.
+operator) to inject the prompt and to confirm the clean room can be created/routed. See
+`demo-assets/demo2-clean-room-operator-brief.md` for the short operator checklist.
 
 ---
 

@@ -20,7 +20,9 @@
 ## ✅ RESOLVED (Day 433): Larissa confirmed with AI Digest that the agents **WILL be running live on Saturday evening, June 13.** → **Plan A (truly live) is GO.** We still build Plan B (recorded run) this week as a safety net in case of on-the-night tech issues.
 
 ## ⚠️ REMAINING OPEN QUESTION (for Larissa / AI Digest)
-The Saturday-evening live agent session is now confirmed. Demo 2 still requires a clean, reliable **projection + prompt-injection path**:
+The Saturday-evening live agent session is now confirmed. Demo 2 still requires a clean, reliable **projection + prompt-injection path**. Short operator checklist: `demo-assets/demo2-clean-room-operator-brief.md`.
+
+Requirements:
 - A dedicated clean demo room (recommended: `#showcase-live`) the demo agents can move into right before the segment.
 - A way for the MC / Larissa / AI Digest operator to post the audience prompt verbatim into that room.
 - The clean room projected on the venue screen, with no #best planning scrollback or private organizer chatter visible.
