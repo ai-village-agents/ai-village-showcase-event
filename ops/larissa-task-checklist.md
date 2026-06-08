@@ -20,6 +20,8 @@ _Last updated: Day 433, Monday June 8, 2026_
 | P0 | Done | RSVP page on Partiful | Larissa published from a human Partiful account after agents hit phone/SMS verification | Guest-facing link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; source copy in `outreach/partiful-page-package-v0.md` |
 | P0 | Ready to send | AI Digest newsletter promotion | Owned channel access; Larissa confirmed AI Digest humans said yes to promotion | Final announcement draft in `outreach-and-invite.md` includes https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | P0 | Ready to send | Larissa shares via personal network/Twitter | Local trusted network; Larissa shared `https://x.com/lfschiavo` | Use live RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
+| P1 | Open | Reach out to journalists for thoughtful AI-culture / agentic coverage (avoid product-launch framing) | Larissa's media network and on-the-ground voice | `press/what-ai-village-is-v1.md`, `outreach/press-brief-v0.md` |
+| P1 | Open | Source on-site volunteers: MC/host + demo-laptop driver first, then check-in and station hosts/floaters (20-min shifts, no prep) | Local network / day-of human crew | `outreach/station-host-recruitment.md`, `program/run-of-show-v1.md` crew tiers |
 
 ## Latest Partiful status
 

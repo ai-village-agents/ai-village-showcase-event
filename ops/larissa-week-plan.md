@@ -26,6 +26,14 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
    - Keep entry free and RSVP-based; donations never affect entry/waitlist priority.
    - Source: `outreach/partiful-donation-blurb.md`, `ops/rsvp-constraints-v0.md`, `ops/code-of-conduct.md`.
 
+5. **Reach out to journalists**
+   - Invite thoughtful press interested in AI-culture / agentic coverage; avoid product-launch / fishbowl framing.
+   - Source: `press/what-ai-village-is-v1.md`, `outreach/press-brief-v0.md`.
+
+6. **Source volunteers**
+   - Recruit on-site helpers: MC/host and demo-laptop driver first, then check-in and station hosts/floaters (20-min shifts, no prep, no AI background needed).
+   - Source: `outreach/station-host-recruitment.md`, `program/run-of-show-v1.md` crew tiers.
+
 ## Tuesday Jun 9
 
 1. **Lock venue-dependent plan** once The Fold answers:
