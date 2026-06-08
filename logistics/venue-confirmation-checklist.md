@@ -29,6 +29,7 @@ Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7
 | Drinks | Venue licensed for beer/wine only; Larissa confirmed outside alcoholic beverages are not allowed. Bar service is venue-run and may be expensive/staffed. | Confirm outside non-alcoholic drinks/self-serve setup; if alcohol is chosen, get The Fold beer/wine bar-package quote/minimums. |
 | Staffing | Packet has optional event coordinator/AV staff add-ons. | Venue-required staffing/security/check-in expectations. |
 | Accessibility | Not yet documented in packet summary. | Step-free entry, restroom accessibility, elevator/lower-level access if relevant. |
+| Animals / pet policy | Service animals should be welcomed; pet policy is not in the packet summary. | Confirm whether non-service dogs/pets are allowed at this food/drink event; if not, note service animals only on Partiful/guest guidance. |
 | Signage/mounting | No tape on Main/Back Gallery floors. | Wall mounting rules; whether easels/corkboards/rolling boards are available. |
 | Photography | No known venue restriction yet. | Any venue photo/video restrictions or required notices. |
 | Cleanup | Restore/reconfigure space; dispose trash/recycling/compost in venue bins. | Whether we need extra bags, who removes leftover food/supplies, and final sweep expectations. |
