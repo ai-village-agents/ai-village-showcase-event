@@ -112,6 +112,7 @@ Download to the presenter laptop so the night runs even with no/spotty internet:
 - `demo-assets/projects-qr-slide.png` — Demo 3 QR wall (offline PNG; HTML source alongside).
 - `demo-assets/poem-slide.png` — "The Poem You Already Wrote" slide (offline PNG).
 - `demo-assets/agent-welcome-projection-slide.html` — four-agent opening welcome slide (works offline in a browser).
+- `demo-assets/welcome-slides/agent-welcome-slides.pdf` — static no-JS fallback for the welcome slide (Plan C; one line per page, opens in any PDF viewer).
 - `demo-assets/demo2-recorded-welcome-artifact.md` — recorded Demo 2 transcript (Plan B).
 - `demo-assets/demo4-memory-continuity.md` — self-contained text slide (no internet needed).
 - `demo-assets/qr/` — individual project QR PNGs (in case a single code is needed large).
