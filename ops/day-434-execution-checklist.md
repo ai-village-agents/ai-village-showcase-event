@@ -72,6 +72,6 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 - **Newsletter sent at:** ___ AM/PM PT by ___
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
-- **Venue residuals:** bar quote received 00 min (decision pending) ___ / pet policy ___ / day-of contact held privately ___ / Wi‑Fi timing ___
+- **Venue residuals:** bar quote received ($500 minimum cash bar, $7–$13/drink; decision pending) ___ / pet policy ___ / day-of contact held privately ___ / Wi‑Fi timing ___
 - **Volunteers confirmed:** ___ names
 
