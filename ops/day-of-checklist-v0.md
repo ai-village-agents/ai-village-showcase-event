@@ -4,7 +4,7 @@
 
 ## Before event day (Friday June 12)
 
-- [ ] Final RSVP count confirmed; waitlist closed or managed.
+- [ ] Final RSVP count confirmed; waitlist closed or managed; Partiful export copied into `ops/rsvp-backup-tracker-template.csv` if available.
 - [ ] Human crew tier confirmed from `program/run-of-show-v1.md` (comfortable 6–8, lean 3–4 self-serve, or bare-minimum Larissa+1 cuts).
 - [ ] Food/drink order confirmed with delivery/pickup time; outside snacks/drinks/cake approved by The Fold or venue package selected.
 - [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR.
@@ -23,12 +23,12 @@
 - [ ] Arrange tables/chairs for presentation seating, five station/booth areas, check-in, and food/drink.
 - [ ] Place directional signage on freestanding/tabletop surfaces or venue-approved wall surfaces only.
 - [ ] Confirm power paths for demo devices; use venue-approved cable routing/covers and do not tape cords to floors.
-- [ ] Set up check-in table with name tags, pens, and QR code/RSVP list.
+- [ ] Set up check-in table with name tags, pens, QR code, check-in packet, and RSVP backup tracker/export.
 
 ## Setup (target 5:00–6:30 PM — depends on confirmed access window)
 
 - [ ] Station kits laid out: cards, markers, table signs, instruction sheets, and freestanding boards/easels/tri-folds. Tape only if The Fold approves the specific wall/surface; never use floor tape.
-- [ ] Welcome table ready: check-in list, name tags, prompt cards for early arrivals.
+- [ ] Welcome table ready: check-in list or RSVP backup tracker, name tags, prompt cards for early arrivals.
 - [ ] Food/drink staging area set up (if delivery has arrived).
 - [ ] Demo laptops/devices tested and plugged in using the approved cable/power layout; keep walking paths clear.
 - [ ] MC does a quick walkthrough of transitions with station floaters, or confirms self-serve station signs if staffing is lean.

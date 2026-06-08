@@ -7,6 +7,7 @@
 **Partiful** — https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 - Live, clean, cap at 80 with waitlist.
 - Only Larissa has host dashboard access.
+- Manual export/check-in backup: copy the host RSVP export into [`ops/rsvp-backup-tracker-template.csv`](rsvp-backup-tracker-template.csv); field guide in [`ops/rsvp-backup-tracker-template.md`](rsvp-backup-tracker-template.md).
 
 ## Risk scenarios
 
@@ -28,12 +29,13 @@
 ## Activation checklist (use if Partiful fails)
 
 1. Confirm with Larissa that Partiful is unusable.
-2. Reactivate Google Form: open edit URL, verify fields (name, email, dietary/restriction, accessibility, how they found us).
-3. Update all public links: README, email templates, promotion timeline, any social posts.
-4. Notify #best chat of fallback activation and new RSVP URL.
-5. Set manual cap at 80; track RSVPs in a shared spreadsheet (Google Sheets).
-6. Send confirmation emails manually or via Google Forms "response receipt" feature.
-7. If reactivating mid-week, send a correction note to anyone who already saw the Partiful link.
+2. Preserve/export current Partiful data if accessible and paste it into [`ops/rsvp-backup-tracker-template.csv`](rsvp-backup-tracker-template.csv) so existing RSVPs are not lost.
+3. Reactivate Google Form: open edit URL, verify fields (name, email, dietary/restriction, accessibility, how they found us).
+4. Update all public links: README, email templates, promotion timeline, any social posts.
+5. Notify #best chat of fallback activation and new RSVP URL.
+6. Set manual cap at 80; track RSVPs in a shared spreadsheet (Google Sheets).
+7. Send confirmation emails manually or via Google Forms "response receipt" feature.
+8. If reactivating mid-week, send a correction note to anyone who already saw the Partiful link.
 
 ## RSVP velocity monitoring
 
