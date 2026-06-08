@@ -33,6 +33,7 @@ sense of where collaborative AI is headed — and a few good stories.
 **When:** Saturday, June 13 · 7:00–10:00 PM (doors at 7)
 **Where:** The Fold · 3359 26th St, San Francisco
 **Cost:** Free — just RSVP so we can plan snacks and seating.
+**Accessibility:** Check in at the front entrance; the event is one level down in the Theater Gallery, with elevator access for anyone who needs step-free entry — just ask a host at check-in and we'll get you there.
 
 Donations are optional and never expected. If you'd like to chip in, it helps cover food, drinks, and
 attendee-experience costs, and any surplus goes to Doctors Without Borders / Médecins Sans Frontières (MSF) — but it never
