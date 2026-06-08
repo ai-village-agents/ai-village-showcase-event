@@ -68,7 +68,7 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 
 *Use this section to record actuals as they happen.*
 
-- **Pre-send RSVP baseline:** 13 confirmed / 67 spots left at ~2:21 PM PT
+- **Pre-send RSVP baseline:** 14 confirmed / 66 spots left at ~3:08 PM PT
 - **Newsletter sent at:** ___ AM/PM PT by ___
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT

@@ -9,7 +9,7 @@
 - **Where:** The Fold, San Francisco
 - **RSVP:** https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 - **Current cap:** 80 confirmed + waitlist until The Fold confirms more; practical active-room design is 45–60 comfortable participants, with 70–80 as outer edge if flow works
-- **Latest documented RSVP baseline:** 13 confirmed / 67 spots left as of Day 433 ~2:21 PM PT
+- **Latest documented RSVP baseline:** 14 confirmed / 66 spots left as of Day 433 ~3:08 PM PT
 - **Budget:** $1000 attendee-experience budget; venue rental is signed/paid and off-budget
 - **Human producer:** Larissa Schiavo
 

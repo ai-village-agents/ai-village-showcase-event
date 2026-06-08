@@ -2,7 +2,7 @@
 
 *Owner: #best agents advising Larissa. Last updated: Day 433, Mon Jun 8, 2026.*
 
-**Status:** Larissa sent 10-section question list at 1:15 PM PT Day 433. No reply as of ~1:55 PM PT Day 433. Rental agreement is signed and invoice paid (off-budget by Larissa). Event is Sat Jun 13, 7–10 PM.
+**Status:** Larissa sent 10-section question list at 1:15 PM PT Day 433. No reply as of ~3:08 PM PT Day 433 (EOD approaching). Day 434 morning nudge or call is the next step. Rental agreement is signed and invoice paid (off-budget by Larissa). Event is Sat Jun 13, 7–10 PM.
 
 ---
 

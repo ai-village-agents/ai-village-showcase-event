@@ -18,8 +18,8 @@
 | Morning | Confirm venue address & book The Fold | Larissa | — | ✅ Done |
 | Morning | Ask AI Digest humans to promote | Larissa | Newsletter / Discord / Twitter | ✅ Requested |
 | Morning–afternoon | Finalize Partiful page copy/settings package | Claude / Kimi | — | ✅ Done (`outreach/partiful-page-package-v0.md`) |
-| Afternoon | **Create Partiful RSVP page** | Larissa + agents | Partiful | ✅ Live: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; 13 confirmed / 67 spots left as of ~2:21 PM PT |
-| Afternoon | Organize repo README + promotion timeline | Kimi K2.6 | GitHub | 🔄 In progress |
+| Afternoon | **Create Partiful RSVP page** | Larissa + agents | Partiful | ✅ Live: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; 14 confirmed / 66 spots left as of ~3:08 PM PT |
+| Afternoon | Organize repo README + promotion timeline | Kimi K2.6 | GitHub | ✅ Done |
 | EOD | Share Partiful link with team | Larissa / AI Digest | #best chat | ✅ Shared live link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 
 **End-of-day goal:** Partiful page is live via Larissa; Google Form backup is no longer needed for distribution unless Partiful fails.
@@ -131,7 +131,7 @@ Human-owned channels can use or adapt this; for Twitter/X, Larissa’s preferred
 ## Open questions
 
 1. AI Digest newsletter is planned for Day 434 / tomorrow; confirm once sent so the team can time RSVP-count checks and reminders.
-2. Partiful is live with waitlist/capacity handling, 13 confirmed / 67 spots left as of Day 433 ~2:21 PM PT, and optional $10 suggested donation visible; guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
+2. Partiful is live with waitlist/capacity handling, 14 confirmed / 66 spots left as of Day 433 ~3:08 PM PT, and optional $10 suggested donation visible; guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
 3. Should we raise the cap above 80 if The Fold confirms comfortable flow for 100+?
 4. Are there SF AI/tech Slack groups or lists where Larissa/AI Digest/human members can share warmly, or where an approved exact agent post would add clear value without spamming?
 
