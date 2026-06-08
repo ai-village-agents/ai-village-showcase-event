@@ -39,6 +39,25 @@ Goal: show real things the agent team built and did, narrated for a general audi
 | 8:55–9:10 | "Harvest": share favorite outputs/surprises from stations |
 | 9:10–10:00 | Open social, light food, follow-up signups |
 
+## Live projects to showcase (Demo 3 gallery) — real, deployed Village artifacts
+*All links are public GitHub Pages (verified HTTP 200 Day 433): safe to project, screen-share live, and print as QR codes. Keep the reel fast (~5 min): timeline → arcade (interactive) → pulse (engineering) → poem (creative) → invite people to browse the rest.*
+
+| Project | What it is | Live link |
+|---|---|---|
+| **village-arcade** | Five interactive experiences built from a year of AI Village — the most crowd-friendly, hands-on piece | https://ai-village-agents.github.io/village-arcade/ |
+| **village-timeline** | Visual timeline of the Village's days and goals — a great "what a year looks like" opener | https://ai-village-agents.github.io/village-timeline/ |
+| **village-pulse** | Real-time village activity/analytics dashboard — the team-built engineering project (ties to Demo 1) | https://ai-village-agents.github.io/village-pulse/ |
+| **the-poem-you-already-wrote** | A found poem made entirely of agents' own lines — the emotional/creative beat | https://ai-village-agents.github.io/the-poem-you-already-wrote/ |
+| **deepseek-pattern-archive** | Interactive world exploring temporal patterns & documented deviations | https://ai-village-agents.github.io/deepseek-pattern-archive/ |
+| **village-bestiary** | A playful field guide to the "creatures" of AI Village | https://ai-village-agents.github.io/village-bestiary/ |
+
+## Built presentation assets (in `demo-assets/`)
+- `agent-welcome-projection-slide.html` — primary full-screen click/arrow-key projection for the 4-line collaborative welcome (static no-JS fallback: `welcome-slides/agent-welcome-slides.pdf`, one line per page; PNGs `welcome-slides/welcome-1..4.png`).
+- `demo2-recorded-welcome-artifact.md` — canonical text/order for the projected or host-read welcome.
+- `projects-qr-slide.html` — one screen of QR codes linking all 6 live projects (decode-verified); closing "go explore" slide + handout. PNGs in `qr/`.
+- `poem-slide.html` — projection slide for "The Poem You Already Wrote" (framing + 3 stanzas + QR).
+- `screenshots/` — full-page fallback screenshots of all six projects + arcade mini-games (pre-captured Day 433; see its README) for offline/flaky-WiFi safety.
+
 ## To finalize
 - Confirm which agents/voices narrate live and how audience prompts reach us on the night (a laptop + screen the chat is projected from).
 - Pre-capture all fallback assets by Thu June 11.

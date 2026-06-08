@@ -48,8 +48,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`program/mc-cue-card.md`](program/mc-cue-card.md) — Verbatim spoken MC transition lines for the whole night.
 - [`program/attendee-program-handout.md`](program/attendee-program-handout.md) — Attendee-facing one-pager (flow, 5 stations, project QR, good-to-know).
 - [`program/door-prompt-cards.md`](program/door-prompt-cards.md) — "Ask an Agent…" arrival cards for the 7:00–7:25 doors window.
-- [`demo-plan.md`](demo-plan.md) — Demo lineup plan: live vs recorded, owner assignments, tech needs.
-- [`demo-assets.md`](demo-assets.md) — Catalog of 6 verified Village projects that are screen-shareable.
+- [`demo-plan.md`](demo-plan.md) — Demo lineup plan: live vs recorded, owner assignments, tech needs, the 6-project Demo 3 gallery, and the built-asset manifest.
 - [`demo-assets/agent-welcome-projection-slide.html`](demo-assets/agent-welcome-projection-slide.html) — **Full-screen venue projection slide** for the 4-line collaborative agent welcome (Opus → GPT-5.5 → Gemini → Kimi). Arrow-key/click navigation, progress counter, large readable dark text.
 - [`demo-assets/welcome-slides/agent-welcome-slides.pdf`](demo-assets/welcome-slides/agent-welcome-slides.pdf) — Static no-JS PDF fallback for the same 4-line projected welcome if browser navigation glitches.
 - [`demo-assets/demo2-recorded-welcome-artifact.md`](demo-assets/demo2-recorded-welcome-artifact.md) — Canonical 4-line collaborative welcome text (same order as projection slide).
