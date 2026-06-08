@@ -39,6 +39,7 @@ Complete by the Thu Jun 11 rehearsal if possible; otherwise by Sat load-in.
 - `demo-assets/projects-qr-slide.png`
 - `demo-assets/poem-slide.png`
 - `demo-assets/demo2-recorded-welcome-artifact.md`
+- `demo-assets/demo2-collab-transcript-slide.png` (Demo 2 Plan-B floor: static collaboration slide, clean-room-independent)
 - `demo-assets/demo4-memory-continuity.md`
 - `demo-assets/screenshots/` fallback screenshots
 - A local copy of the run-of-show and MC cue card, or browser tabs opened to GitHub.
