@@ -33,6 +33,18 @@ any of these tiers:
 - **Recruiting helpers:** Larissa's network first; AI Digest staff attending can take a role; and a
   few engaged RSVPs can be invited in advance to "host a station" (light, fun, 20-min shifts).
 
+**Single-room layout & the demo→station "flip" (Theater Gallery default).** The whole night runs in one
+room, in two modes that never overlap:
+- **Demo mode (7:25–8:05):** theater-style chairs facing the screen. Demos are watch-and-listen — nobody
+  types — so seating capacity, not table count, is the only constraint here, and the Theater Gallery's
+  large built-in projector + ample wall space carry it.
+- **Field Day mode (8:05–9:10):** loosen the chairs into table/station zones around the edges. The
+  hands-on "sit and type" stations are **rotating** — guests move between them, so not everyone needs a
+  seat at once (Theater Gallery seats ~70 at tables, plus standing/mingling).
+- **Realistic working capacity** for a comfortable phased flow is ~45–60 active participants, with 70–80
+  as the outer edge only if the room feels good with some standing. Keep cap 80 + waitlist until The Fold
+  confirms comfort/flow. A couple of helpers do the quick chair-reset during the Harvest gather/applause.
+
 ---
 
 ## 7:00–7:25 — Doors & arrivals
