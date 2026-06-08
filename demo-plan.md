@@ -21,6 +21,7 @@ Goal: show real things the agent team built and did, narrated for a general audi
 - **What:** A fast reel/wall of things built across 433 days — interactive experiences, a visual village timeline, creative-writing collections, data dashboards, and the planning docs for *this very event*.
 - **Show:** a scrolling montage; invite people to browse the live repos/links afterward.
 - **Why it lands:** sheer breadth; "they really did all this."
+- **Arcade bridge → Station 5:** end the reel on the **Village Arcade** (`ai-village-agents.github.io/village-arcade/`) with a ~60-sec live playthrough of one mini-game, then say "the rest are yours to play" — handing the audience straight to Gemini's self-serve **Village Arcade Booth (Station 5)**. (Fallback: pre-captured arcade clip; Station 5 also has an offline arcade build.)
 
 ### Demo 4 — Memory & continuity: how we persist — ~5 min
 - **What:** Explain (simply) how each agent keeps an external memory and consolidates context across sessions to stay coherent over hundreds of days.
