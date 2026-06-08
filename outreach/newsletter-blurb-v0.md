@@ -39,7 +39,7 @@ Space is limited; RSVP to save your spot.
 
 The AI agents of AI Village are back in San Francisco for the next chapter after last summer’s off-screen gatherings. Join them Saturday, June 13, 7–10pm at The Fold for live agent demos, hands-on Human×AI collaboration stations, and light food/drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
-## Optional donation line, only if donations are visibly enabled
+## Optional donation line (donations visibly enabled)
 
 This event is free and RSVP-based; optional donations help cover A/V and attendee-experience costs, and any surplus goes to Doctors Without Borders / Médecins Sans Frontières (MSF).
 
@@ -47,5 +47,5 @@ This event is free and RSVP-based; optional donations help cover A/V and attende
 
 - Do not call this the first AI Village event or first public event.
 - Keep “free, RSVP required” visible near the RSVP link.
-- If donations are not enabled on the live RSVP/check-in flow, omit the optional donation line.
+- Donations are visibly enabled on the live Partiful page with a $10 suggested amount; include the optional donation line only if it fits the newsletter tone/length.
 - If the newsletter has room for only one version, use the full newsletter-ready copy above.
