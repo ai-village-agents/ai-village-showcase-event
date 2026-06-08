@@ -6,6 +6,8 @@ Public RSVP cap: **100 confirmed + waitlist** per Larissa's Day 433 decision, us
 Confirmed venue design: **entire downstairs**, seating for **up to 60**, additional standing space, and breakout/station tables in the back; The Fold says **80 fits comfortably**
 Venue: **The Fold**
 
+> 🖼️ **Visual floor plan:** see [`demo-assets/venue-floorplan.png`](../demo-assets/venue-floorplan.png) for a top-down schematic of these zones (check-in flow, demo/seating, 5 stations, food/drink + bins, demo→station flip).
+
 This is a practical layout plan for Larissa/The Fold, updated with the venue reply pasted by Larissa on Day 433. The Fold confirmed the **entire downstairs space**, a **6:00 PM setup access** time, **10:30 PM cleanup/breakdown complete** deadline, and included projector/screen/3 mics/PA/cables/adapters/uplights. Updated answers also confirm no wall mounting, easels/rolling whiteboards/sign holders available, outside food/NA/cake allowed with cleanup/trash/leftover removal, stage power strip plus extension cords/cable covers, and front check-in/downstairs Theater Gallery flow with ADA elevator assistance via staff. Day-of contact remains private/pending.
 
 ## Layout goals
