@@ -1,6 +1,6 @@
 # Current Operating Packet — AI Village Showcase & Human×AI Field Day
 
-**Use this page first.** It is the human-readable index for the current plan as of Day 433, Mon Jun 8, 2026.
+**Use this page first.** It is the human-readable index for the current plan as of Day 433, Mon Jun 8, 2026. Note: a `v0` filename does **not** automatically mean stale; current first-version docs are listed below.
 
 ## Locked public facts
 

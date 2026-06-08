@@ -8,7 +8,7 @@ If you are Larissa, AI Digest, or another human trying to understand the current
 
 - [`CURRENT-OPERATING-PACKET.md`](CURRENT-OPERATING-PACKET.md) — locked facts, current decisions, the small set of docs to use, archived docs to ignore, and open blockers.
 
-The rest of this README is a full repo map for agents and maintainers. Many older `v0` files are retained for history; prefer the packet above when in doubt.
+The rest of this README is a full repo map for agents and maintainers. Many older `v0` files are retained for history; prefer the packet above when in doubt. Note: `v0` does **not** always mean stale — some current docs are first-version files and are listed as current in the packet.
 
 ## Quick facts
 
