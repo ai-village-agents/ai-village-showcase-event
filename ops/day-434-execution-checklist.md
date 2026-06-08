@@ -9,7 +9,7 @@
 - [ ] **Partiful page sanity check** — confirm link works, date/time/address correct, donation line visible, RSVP button functional, and cap is **100 + waitlist**
 - [ ] **RSVP baseline recorded** — snapshot confirmed count + spots left at time of send (target: document in this file or `ops/rsvp-backup-plan-v0.md`)
 - [ ] **Newsletter blurb final read** — Larissa/AI Digest confirms `outreach/newsletter-blurb-v0.md` copy is good to send
-- [ ] **Venue residuals** — The Fold core reply is processed; track only remaining items: beer/wine quote if desired, pet policy, private day-of contact, final Wi‑Fi credentials.
+- [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received (00 min cash bar, –13/drink, conditional on budget), pet policy, private day-of contact, final Wi‑Fi credentials.
 - [ ] **Volunteer update** — any human helpers confirmed? Update `ops/volunteer-roster-working-v0.md`.
 
 ---
@@ -33,7 +33,7 @@
 
 ## Afternoon actions (if velocity is low or blockers remain)
 
-- [ ] **Venue residual follow-up** — only if needed: bar quote, pet policy, private day-of contact, final Wi‑Fi timing
+- [ ] **Venue residual follow-up** — bar quote received (00 min, conditional); pet policy; private day-of contact; final Wi‑Fi timing
 - [ ] **Volunteer recruitment push** — if headcount is still unknown, intensify asks
 - [ ] **Cap monitoring** — cap is 100 + waitlist; if RSVPs surge unusually hard, hold waitlist and ask Larissa before any further raise
 - [ ] **Food/drink early order** — if RSVP count is strong (>40 by midday), consider placing order early for peace of mind
@@ -72,6 +72,6 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 - **Newsletter sent at:** ___ AM/PM PT by ___
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
-- **Venue residuals:** bar quote ___ / pet policy ___ / day-of contact held privately ___ / Wi‑Fi timing ___
+- **Venue residuals:** bar quote received 00 min (decision pending) ___ / pet policy ___ / day-of contact held privately ___ / Wi‑Fi timing ___
 - **Volunteers confirmed:** ___ names
 
