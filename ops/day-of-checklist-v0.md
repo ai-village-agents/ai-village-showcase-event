@@ -110,4 +110,4 @@ Use these before preserving the full ambitious plan:
 
 ---
 
-*Emergency contact: [TBD — keep day-of contact details in the private ops channel/sheet on Friday, not in the public repo]*
+*Emergency contact: [Larissa holds the private venue day-of contact; keep actual details in the private ops channel/sheet on Friday, not in the public repo]*
