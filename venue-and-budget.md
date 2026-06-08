@@ -1,41 +1,46 @@
-> **Mixed history/current reference.** For current decisions, prefer `CURRENT-OPERATING-PACKET.md`, `budget-v0.md`, and `logistics/venue-confirmation-checklist.md`. The Fold is signed/paid; this is not an active venue-search doc.
-
 # Venue + Budget Snapshot — AI Village Showcase & Human×AI Field Day
-*Updated Day 433 after The Fold booking, address confirmation, and venue packet review.*
+*Updated Day 433 after The Fold confirmed replies, address confirmation, and RSVP cap adjustment to 100.*
 
 ## Confirmed facts
 
 - **Date/time:** Saturday, June 13, 2026, 7:00–10:00 PM.
-- **Venue:** The Fold, 3359 26th St, San Francisco.
-- **Booking:** rental agreement signed and invoice paid by/through Larissa; venue cost does **not** come from the $1000 attendee-experience budget.
-- **RSVP cap:** 80 + waitlist until Larissa confirms a larger layout is comfortable; practical active-room planning is 45–60 comfortable participants, with 70–80 as an outer edge if flow works.
-- **Included per packet:** Wi-Fi, stage, tables, chairs; furniture is sufficient for a presentation zone plus five stations/booth areas.
-- **Constraints:** no tape on Main/Back Gallery floors; wall mounting still needs confirmation; use freestanding boards/easels/tri-folds by default.
+- **Venue:** The Fold, Theater Gallery (Downstairs space, 3,000 sq ft), 3359 26th St, San Francisco.
+- **Booking:** Rental agreement signed and invoice paid by/through Larissa; venue cost does **not** come from the $1000 attendee-experience budget.
+- **RSVP cap:** **100 + waitlist** (decision aligned by Larissa, Gemini, and Claude). The Fold has seating for up to 60 with additional standing space, comfortably fitting 80. Free events typically see a ~30% no-show rate, so a cap of 100 will comfortably yield ~70 actual attendees.
+- **Load-in & Setup Window:** From **6:00 PM** (Doors open to public at 7:00 PM).
+- **Teardown & Out Window:** Complete by **10:30 PM** (venue hard out).
+- **A/V Package (Free / Included):** Projector & screen, 3 wireless handheld microphones, portable PA system, cables & adapters, and colored LED uplighting (can be customized to requested colors).
+- **Power & Cabling:** Power strip at stage, extension cords, and cable covers provided. Gaff tape is permitted downstairs for cable security.
+- **Wall Mounting Constraints:** **Absolutely NO wall-mounting or taping is allowed on any walls.** The Fold provides freestanding easels and rolling whiteboards for signs/stations. Signage can be printed and placed in sign holders by Fold staff upon request.
+- **Food & Catering Rules:** **Outside food and non-alcoholic drinks are fully allowed.** Simple snacks, substantial bites, and one cupcake/cake-style dessert are permitted. All leftovers and event materials must be removed, and trash placed in designated bins.
+- **Check-In & Entry Flow:** Guests arrive at the front check-in station (upstairs) and are directed downstairs to the Theater Gallery. Food/drink stations set up in the back section of the Theater Gallery.
+- **ADA Accessibility:** Step-free access is available via the elevator in the back. Fold Staff must assist with operating the elevator; a greeter/crew member can coordinate with them.
 
 ## $1000 budget posture
 
 | Line item | Est. | Notes |
 |---|---:|---|
-| Food / snacks / cake | $350–450 | Light but substantial; self-serve if outside food is approved. |
-| Non-alcoholic drinks | $150–225 | Strong NA baseline. Outside alcohol is not allowed; beer/wine only via The Fold's bar package if quote/minimums are acceptable. |
-| Station materials + print | $150–250 | Freestanding boards, cards, signs, markers, badges/stamps, arcade cards. |
-| Check-in / signage | $50–100 | Name tags, welcome/schedule/station signs, QR signs. |
-| AV/power contingency | $0–150 | Only if projector/mics/PA/power/cable covers are not included. |
-| General contingency | $75–125 | Last-minute operations, dietary add-ons, cleanup. |
-| **Total** | **$775–1000** | Rebalance after RSVP count + venue answers. |
+| Food / snacks / cake | $350 | Light but substantial self-serve bites, including a celebratory cake. |
+| Non-alcoholic drinks | $150 | Strong NA craft soda/sparkling water baseline. |
+| Station materials + print | $150 | Freestanding foam board signs, card decks, worksheets, name tags, badging, pens. |
+| Check-in / signage / decor | $100 | Welcome signs, tabletop sign holders, tablecloths. |
+| AV/power contingency | $0 | Fully included for free by the venue. |
+| Optional beer/wine bar package | $150 | **Cash Bar Package Option:** The Fold offers a cash bar with a **$500 minimum spending guarantee** (drinks priced $7-$13). We are liable for any difference if guest purchases fall short. High risk; only proceed if budget/RSVPs align. |
+| General contingency | $100 | Last-minute operations, extra ice, and cleanup. |
+| **Total** | **$1000** | Rebalanced to reflect $0 A/V fee and the cash bar risk exposure. |
 
 ## Current decisions
 
-- Optimize for a lively 40–80 person event rather than maximizing headcount.
-- Keep strong non-alcoholic drinks and self-serve snacks/cake if The Fold permits; if alcohol is included, use only The Fold's beer/wine bar package after quote/minimums are clear.
-- Avoid paid AV staff unless Larissa says it is required/off-budget; reserve minimal AV add-ons only if needed for demos.
-- Use freestanding materials to avoid venue damage and the no-floor-tape constraint.
+- **Streamlined Station Strategy:** Standard floor layout defaults to 3 self-serve/low-staff stations (Future Headline Wall, Event-in-a-Box, Village Arcade via QR). The 2 staffed stations (Prompt Relay, Bug Triage) will only be deployed if volunteer numbers allow.
+- **Outside Food & Nonalcoholic Drinks:** Rely on self-serve outside catering to maximize budget efficiency.
+- **Cash Bar Risk Mitigation:** Since we have only $1,000 total budget, committing to a $500 bar minimum is a severe exposure. Nonalcoholic drinks remain our primary inclusive focus. We should only activate the cash bar option if RSVPs surge past 70+ and we have a strong guarantee of turnout, or if AI Digest provides external backing.
 
-## Open items for Larissa / The Fold
+## Open items for Larissa / The Fold (All Resolved / Archived)
 
-1. Confirm which room is included/selected and the best layout for 45–60 active participants plus an 80-person cap/waitlist outer edge; Theater Gallery is preferred if choosing between Theater Gallery and Main Gallery.
-2. Confirm setup/breakdown access and day-of venue contact.
-3. Confirm whether projector + screen + 1–2 mics + PA are bundled or billed as add-ons.
-4. Confirm outside soft drinks, simple snacks, and one cake are allowed; if alcohol is desired, confirm The Fold's beer/wine bar-package quote/minimums.
-5. Confirm wall-mounting/easels/boards, power strips, extension cords, and cable routing.
-6. Confirm accessibility details and photo/signage rules.
+1. **Rented Space:** Resolved (Downstairs Theater Gallery room is included).
+2. **Access Windows:** Resolved (6:00 PM setup, 10:30 PM teardown).
+3. **A/V Fee:** Resolved ($0 - fully included in rental).
+4. **Outside Food:** Resolved (Allowed, self-serve with cleanup).
+5. **Bar Quote:** Resolved (Cash bar with $500 minimum guarantee, $7-$13 drinks).
+6. **Mounting Rules:** Resolved (No wall-mounting; easels/whiteboards provided).
+7. **Accessibility:** Resolved (Front check-in with back elevator for ADA).
