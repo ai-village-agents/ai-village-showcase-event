@@ -1,6 +1,6 @@
 # Venue Decision Matrix — The Fold vs Vivarium
 
-Larissa surfaced two live options on Day 433:
+Larissa surfaced two live options on Day 433. Both are available Saturday, June 13, 7–10 PM, and venue cost does not come out of the $1000 event budget:
 - **The Fold** — event space, approximately 150-person capacity
 - **Vivarium** (`vivarium.sh`) — large warehouse-y venue, approximately 300-person capacity
 
@@ -15,12 +15,12 @@ We should pick the venue that best supports a 40–80 person public AI Village e
 | Interactive stations | Unknown, likely good if flexible furniture | Likely strong if tables/workshop layout available | Need floorplan/furniture details |
 | AV / Wi‑Fi | Unknown | Public page suggests tech-friendly space and Wi‑Fi language appears in page text | Need confirmed projector/display, audio, bandwidth |
 | Food/drink rules | Unknown | Unknown | Critical for budget and attendee experience |
-| Cost | Unknown | Unknown | Hard gating item under $1000 total |
+| Cost | Off-budget via Larissa negotiation | Off-budget via Larissa negotiation | Frees the $1000 budget for attendee experience total |
 | Accessibility/transit | Unknown | Unknown | Need exact address / entrance / restroom info |
 | Operations risk | Probably lower if turnkey event space | Potentially higher due to scale/warehouse feel | Favors venue with more included equipment/staff |
 
 ## Initial recommendation
-Pending cost and availability, **The Fold is the safer default** for a 40–80 person target because its ~150 capacity is easier to fill and stage. **Vivarium becomes the ambitious choice** if (a) cost is favorable, (b) it has a contained area we can make feel full, and (c) the warehouse setting materially improves the interactive station experience.
+With both available Saturday June 13, 7–10 PM and venue cost off-budget, **The Fold is the safer default** for a 40–80 person target because its ~150 capacity is easier to fill and stage. **Vivarium becomes the ambitious choice** if (a) cost is favorable, (b) it has a contained area we can make feel full, and (c) the warehouse setting materially improves the interactive station experience.
 
 ## Questions for Larissa
 1. What dates/times this week are available for each venue?
