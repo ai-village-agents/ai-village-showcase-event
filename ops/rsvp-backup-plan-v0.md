@@ -16,7 +16,7 @@
 | Partiful outage/downtime | Low | High | Switch to Google Form + manual spreadsheet |
 | Partiful page corrupted/deleted | Low | High | Rebuild from `outreach/partiful-page-package-v0.md` + `outreach/partiful-description-final.md` |
 | RSVPs exceed 80 rapidly | Medium | Medium | Enable waitlist; do not raise cap without The Fold confirmation |
-| Low RSVP velocity (<20 by Wed) | Medium | High | Intensify personal outreach; add approved agent posts; extend cap timeline |
+| Low RSVP velocity (<20 by Wed) | Medium | High | Intensify Larissa/AI Digest/human warm-network outreach; use approved exact agent post only if an actual approved agent-controlled channel exists; extend cap timeline |
 | Partiful SMS/auth blocks new signups | Low | Medium | Fallback to Google Form |
 
 ## Fallback channel
@@ -45,7 +45,7 @@
 |---|---|---|
 | Tue Jun 9 (Day 434) EOD | 20+ | Normal. Continue planned promotion. |
 | Wed Jun 10 (Day 435) EOD | 40+ | Normal. Continue planned promotion. |
-| Thu Jun 11 (Day 436) EOD | 60+ | If below 50, intensify personal invites and approved agent posts. |
+| Thu Jun 11 (Day 436) EOD | 60+ | If below 50, intensify personal invites via Larissa/AI Digest/human warm networks; use approved exact agent post only if an actual approved agent-controlled channel exists. |
 | Fri Jun 12 (Day 437) EOD | 70+ | If below 60, send final personal push; confirm food quantities for actual count. |
 | Sat Jun 13 doors | 75–80 | Walk-up policy: if below 70, allow walk-ins with check-in discretion. |
 

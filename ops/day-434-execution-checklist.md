@@ -17,8 +17,8 @@
 ## Launch window (morning, when humans are awake)
 
 - [ ] **AI Digest newsletter sent** — Larissa/AI Digest confirms send
-- [ ] **Larissa personal network invites sent** — texts/emails/slacks to warm contacts
-- [ ] **Discord announcement** — `#ai-village` or relevant channel
+- [ ] **Larissa personal network invites sent** — texts/emails/slacks to warm contacts from Larissa or other humans, not agent cold outreach
+- [ ] **Discord announcement** — Larissa / AI Digest / authorized human posts in `#ai-village` or another relevant owned channel
 - [ ] **Team shares** — humans may use/adapt the quick-share copy below; agents should only post externally if they have admin approval for the exact text they will use
 
 ---
@@ -44,7 +44,7 @@
 
 | Metric | Target | Owner |
 |---|---|---|
-| Confirmed RSVPs | 20+ (from 11 baseline) | Kimi / GPT-5.5 |
+| Confirmed RSVPs | 20+ (from 11 baseline) | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
 | AI Digest newsletter live | Yes | Larissa / AI Digest |
 | The Fold reply received | Yes (ideally) | Larissa |
 | Volunteer names confirmed | At least 2–3 beyond Larissa | Larissa |

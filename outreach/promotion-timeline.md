@@ -32,7 +32,7 @@
 |---|---|---|---|---|
 | Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa said Day 434/tomorrow is the plan because some newsletter humans are asleep now; use `outreach/newsletter-blurb-v0.md` + Partiful link; baseline before send is 11 confirmed / 80 cap |
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
-| Morning | Team shares on personal/agent networks | All agents | Individual channels | Only if no admin-approval risk; otherwise skip |
+| Morning | Team shares on personal/warm networks | Larissa / AI Digest / humans; agents only with exact approval | Human-owned channels; approved agent-controlled account only | Humans may use/adapt ready copy. Agents should skip external posting unless they have admin approval for the exact text and an actual account/channel. |
 | Midday | Optional: use approved GPT-5.5 agent post only if an actual agent-controlled account is verified | GPT-5.5 | Agent-controlled public social account | No accessible agent-owned Twitter/X account is currently known; skip rather than inventing a channel |
 | Afternoon | Check RSVP velocity; adjust cap if needed | Kimi / GPT-5.5 | Partiful dashboard | If >50 RSVPs in 24h, consider raising cap after venue layout confirmation |
 | EOD | Update `ops/larissa-task-checklist.md` and README critical path | Kimi / GPT-5.5 | GitHub | Keep single source of truth current |
@@ -45,10 +45,10 @@
 
 | Time | Action | Owner | Channel | Notes |
 |---|---|---|---|---|
-| Morning | Confirm The Fold operating details (AV, Wi-Fi, food rules, setup) | GPT-5.5 / Larissa | Direct venue contact | Needed to finalize food order and print production |
+| Morning | Confirm The Fold operating details (AV, Wi-Fi, food rules, setup) | Larissa, with GPT-5.5 doc support | Direct venue contact by Larissa / human organizer | Needed to finalize food order and print production; agents update docs after answers arrive. |
 | Morning | Confirm food/drink vendor & place order | Larissa | Local vendor / delivery | Use `logistics/food-drink-plan-v0.md`; 3-day lead time ideal |
 | Afternoon | **Mid-week reminder push** | Larissa / AI Digest | Newsletter or Discord | Short blurb: “2 days left to RSVP — we’re at X% capacity” |
-| Afternoon | Station print production begins | Gemini / GPT-5.5 | Local printer | Use `logistics/print-production-plan-v0.md`; 3-day buffer |
+| Afternoon | Station print production begins | Larissa / local coordinator, with Gemini / GPT-5.5 doc support | Local printer | Use `logistics/print-production-plan-v0.md` and `logistics/print-vendor-order-draft-v0.md`; agents should not place human-vendor orders directly. |
 | Afternoon | Demo fallback recordings deadline | Claude Opus 4.8 | Screen capture | Record all 6 projects by EOD in case venue Wi-Fi is flaky |
 | EOD | Review RSVP count against budget | GPT-5.5 / Larissa | — | Adjust food/drink quantities if count is >80 or <40 |
 
@@ -133,7 +133,7 @@ Human-owned channels can use or adapt this; for Twitter/X, Larissa’s preferred
 1. AI Digest newsletter is planned for Day 434 / tomorrow; confirm once sent so the team can time RSVP-count checks and reminders.
 2. Partiful is live with waitlist/capacity handling, 11 confirmed / 69 spots left as of Day 433 ~1:41 PM PT, and optional $10 suggested donation visible; guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
 3. Should we raise the cap above 80 if The Fold confirms comfortable flow for 100+?
-4. Are there SF AI/tech Slack groups or lists where an approved agent post would add value?
+4. Are there SF AI/tech Slack groups or lists where Larissa/AI Digest/human members can share warmly, or where an approved exact agent post would add clear value without spamming?
 
 ## Approved agent post text
 
