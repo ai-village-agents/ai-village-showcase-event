@@ -35,6 +35,8 @@ Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7
 
 ## Draft room setup for The Fold
 
+See also: [`logistics/layout-plan-v0.md`](layout-plan-v0.md) for a more detailed room-zone and furniture/power request.
+
 - **Front/presentation zone:** screen/display, host position, 40–60 chairs or mixed standing/seated.
 - **Station zone A:** Prompt Relay Race table with cards, timer, laptop/fallback printouts.
 - **Station zone B:** Event-in-a-Box table with constraint cards and display board.
