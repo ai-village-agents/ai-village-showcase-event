@@ -38,6 +38,7 @@ We have print-ready PDFs and need a practical, matte/non-glossy event package:
 11. **Small internal packets** — plain paper is fine:  
     - `print-assets/check-in-sheet-template.pdf`: 2 copies, B/W, single-sided.  
     - `print-assets/demo-fallback-screenshot-packet.pdf`: 1 color copy, single-sided or duplex.  
+    - `print-assets/demo2-house-prompt-cards.pdf`: 1–2 copies on cardstock if easy, cut into 4 cards.  
     - `print-assets/volunteer-quick-brief.pdf`: 5 copies, B/W or color.  
     - `print-assets/optional-donation-note.pdf`: 1 copy, cut in half if easy.
 
@@ -69,6 +70,7 @@ All files are in the repo under `print-assets/`:
 - `arcade-high-score-cards.pdf`
 - `check-in-sheet-template.pdf`
 - `demo-fallback-screenshot-packet.pdf`
+- `demo2-house-prompt-cards.pdf`
 - `volunteer-quick-brief.pdf`
 - `optional-donation-note.pdf`
 

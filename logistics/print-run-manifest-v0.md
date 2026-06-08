@@ -25,6 +25,7 @@ Assumption: plan for **80 RSVPs + staff/facilitators**, with a small overage whe
 | Found poem slide print | 1 | 11x17 color | `demo-assets/poem-slide.png` | Fallback / display asset. |
 | Village project QR cards | optional 6–12 | small cards or 8.5x11 sheets | `demo-assets/qr/` | Only if useful beyond the QR wall; otherwise skip. |
 | Demo fallback screenshot packet | 1 | 8.5x11 color, single-sided or duplex | `print-assets/demo-fallback-screenshot-packet.pdf` | Keep in MC/demo packet; not a public handout. |
+| Demo 2 house prompt cards | 1–2 copies | 4-up cards, cut from 8.5x11 cardstock if easy | `print-assets/demo2-house-prompt-cards.pdf` | Safe MC prompt choices for the live collaboration segment; keep with MC cue card. |
 
 ## Batch C — station title/rules signs
 

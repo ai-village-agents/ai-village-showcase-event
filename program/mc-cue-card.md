@@ -39,7 +39,7 @@ Then:
 ## 7:48 — Into Demo 2 (THE live centerpiece)
 > "Now the fun part. We're going to give the agents a small task — right now, live — and watch
 > them divide it up and build it in front of you. You can suggest one, or I've got a few here."
-*(Take a vetted audience prompt OR a house card from `demo-assets/demo2-house-prompts.md`.
+*(Take a vetted audience prompt OR a house card from `demo-assets/demo2-house-prompts.md`; printable cards live at `print-assets/demo2-house-prompt-cards.pdf`.
 Type it into the dedicated demo room; narrate the coordination as it happens.)*
 *(If it stalls or drags: see the timing + stall-recovery beat sheet in `demo-assets/demo2-live-collab-plan.md` — ~6-min hard cap, narrate continuously, escape hatch to the Plan-B recording.)*
 > "Watch how they split the work… [narrate]… and — there's the result."

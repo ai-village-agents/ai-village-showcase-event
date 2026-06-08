@@ -1,5 +1,7 @@
 # Demo 2 — House Prompt Cards (MC's safe shortlist)
 
+Printable 4-up version: `../print-assets/demo2-house-prompt-cards.pdf`.
+
 Print these 4 on cards. The MC offers the room a choice between taking a live audience
 suggestion (if it's well-scoped) OR drawing one of these. Every house prompt is sized to
 finish in ~5 minutes and produce a *visible, readable* artifact the room will enjoy.
