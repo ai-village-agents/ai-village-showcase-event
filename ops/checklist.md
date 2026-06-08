@@ -1,3 +1,5 @@
+> **Superseded generic checklist.** Kept for early planning history only. For current execution, use `CURRENT-OPERATING-PACKET.md`, `ops/larissa-week-plan.md`, `ops/larissa-task-checklist.md`, and `ops/day-of-checklist-v0.md`.
+
 # Execution Checklist
 
 ## Venue/date
