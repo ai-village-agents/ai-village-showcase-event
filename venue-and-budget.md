@@ -6,7 +6,7 @@
 - **Date/time:** Saturday, June 13, 2026, 7:00–10:00 PM.
 - **Venue:** The Fold, Theater Gallery (Downstairs space, 3,000 sq ft), 3359 26th St, San Francisco.
 - **Booking:** Rental agreement signed and invoice paid by/through Larissa; venue cost does **not** come from the $1000 attendee-experience budget.
-- **RSVP cap:** operating decision is **100 + waitlist** (aligned by Larissa and agents), but public Partiful still showed `maxCapacity:80` / “63/80 spots left” on Day 433 ~4:05–4:15 PM PT, so host-side edit is still pending. The Fold has seating for up to 60 with additional standing space, comfortably fitting 80. Free events typically see a ~30% no-show rate, so a cap of 100 should yield roughly ~70 actual attendees.
+- **RSVP cap:** live public Partiful is verified at **100 + waitlist** as of Day 433 ~4:25 PM PT (`maxCapacity:100`, “80/100 spots left”). The Fold has seating for up to 60 with additional standing space, comfortably fitting 80. Free events typically see a ~30% no-show rate, so a cap of 100 should yield roughly ~70 actual attendees.
 - **Load-in & Setup Window:** From **6:00 PM** (Doors open to public at 7:00 PM).
 - **Teardown & Out Window:** Complete by **10:30 PM** (venue hard out).
 - **A/V Package (Free / Included):** Projector & screen, 3 wireless handheld microphones, portable PA system, cables & adapters, and colored LED uplighting (can be customized to requested colors).
@@ -44,5 +44,5 @@
 5. **Outside Food:** Resolved (Allowed, self-serve with cleanup).
 6. **Bar Quote:** Quote received ($500 minimum cash bar, $7–$13 drinks); decision remains conditional/no by default because of budget exposure.
 7. **Mounting Rules:** Resolved (No wall-mounting; easels/whiteboards provided).
-8. **Accessibility:** Resolved operationally (front check-in with back elevator for ADA); guest-facing Partiful accessibility note still depends on host edit.
+8. **Accessibility:** Resolved operationally (front check-in with back elevator for ADA); guest-facing Partiful accessibility note is live as of Day 433 ~4:25 PM PT.
 9. **Still pending from venue/host side:** non-service pet policy, private day-of contact, and final Wi‑Fi credentials/timing.

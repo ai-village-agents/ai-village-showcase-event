@@ -68,7 +68,7 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 
 *Use this section to record actuals as they happen.*
 
-- **Pre-send RSVP baseline:** public page Day 433 ~4:05 PM showed **17 going / 11 interested / 2 maybe** and **63/80 spots left**; refresh host view after Partiful cap is set to 100
+- **Pre-send RSVP baseline:** public page Day 433 ~4:25 PM showed **20 going / 11 interested / 2 maybe** and **80/100 spots left** with `maxCapacity:100`; refresh host view after newsletter
 - **Newsletter sent at:** ___ AM/PM PT by ___
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT

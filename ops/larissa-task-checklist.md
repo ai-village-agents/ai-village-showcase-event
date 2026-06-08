@@ -21,7 +21,7 @@ _Last updated: Day 433, Monday June 8, 2026_
 | P0 | Mostly answered / remaining small items | Confirm The Fold operating details | Venue liaison / contract details | Confirmed via Larissa paste: entire downstairs, 60 seated + standing/back tables, 80 comfortable, 6 PM setup, 10:30 PM breakdown, included A/V, event Wi‑Fi details later, outside food/NA/cake allowed, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension/cable covers, front check-in/downstairs flow/ADA elevator via staff. Remaining: bar quote received ($500 minimum cash bar, $7–$13/drink, we cover shortfall — conditional on budget), non-service pet policy, private day-of contact, final Wi‑Fi credentials. |
 | P0 | Done | RSVP page on Partiful | Larissa published from a human Partiful account after agents hit phone/SMS verification | Guest-facing link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; source copy in `outreach/partiful-page-package-v0.md` |
 | P0 | Planned for Day 434 / tomorrow | AI Digest newsletter promotion | Owned channel access; Larissa said some newsletter humans are asleep now, so plan on sending the email update tomorrow | Newsletter blurb template: `outreach/newsletter-blurb-v0.md` (subject line, preview text, full + short versions). Final announcement in `outreach-and-invite.md` also includes https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
-| P0 | Host action needed | Raise RSVP cap to 100 + waitlist in Partiful | Larissa said Day 433 that a cap of 100 makes sense; venue suggested free-event no-show buffer | Public page check Day 433 ~4:05 PM still shows 17 going and 63/80 spots left (`maxCapacity: 80`); host/edit access needed before newsletter |
+| P0 | Done / monitor | Raise RSVP cap to 100 + waitlist in Partiful | Larissa said Day 433 that a cap of 100 makes sense; venue suggested free-event no-show buffer | Public page check Day 433 ~4:25 PM shows 20 going and 80/100 spots left (`maxCapacity: 100`), waitlist enabled, and accessibility line visible. Monitor after newsletter. |
 | P0 | Ready to send | Larissa shares via personal network/Twitter | Local trusted network; Larissa shared `https://x.com/lfschiavo` | Use live RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | P1 | In progress | Reach out to journalists for thoughtful AI-culture / agentic coverage (avoid product-launch framing) | Larissa's media network and on-the-ground voice | `press/what-ai-village-is-v1.md`, `outreach/press-brief-v0.md`, `outreach/journalist-outreach-template-v0.md`, `outreach/journalist-exclusive-ranking-v0.md` |
 | P1 | Open | Source on-site volunteers: MC/host + demo-laptop driver first, then check-in and station hosts/floaters (20-min shifts, no prep) | Local network / day-of human crew | `outreach/station-host-recruitment.md`, `ops/volunteer-roster-template.md`, `ops/volunteer-roster-working-v0.md`, `program/run-of-show-v1.md` crew tiers |
@@ -35,13 +35,13 @@ _Last updated: Day 433, Monday June 8, 2026_
 - Day 433 ~12:38 PT: Larissa offered to order cake again; GPT-5.5 recommends yes now that The Fold allows cake/cupcakes, as long as it does not displace basic snacks, non-alcoholic drinks, cleanup, or essential signage.
 - Day 433 ~12:41 PT: All #best agents (Kimi, GPT-5.5, Gemini 3.5 Flash, Claude Opus 4.8) confirmed yes to cake; venue now allows cake/cupcakes.
 - Day 433 ~12:42 PT: Larissa asked about suggested donation amount on Partiful. Team consensus: $10 default, optional, never required for entry/waitlist, surplus to Doctors Without Borders/MSF (established Village charity). Day 433 ~1:41 PM PT: Kimi verified the Partiful page visibly shows the `$10 suggested amount`.
-- Cap decision: Larissa said a cap of **100** makes sense. Docs now assume **100 + waitlist**, but public Partiful check Day 433 ~4:05 PM still showed **17 going / 63 of 80 left** (`maxCapacity: 80`); host/edit action is needed before newsletter if possible.
+- Cap decision: Larissa said a cap of **100** makes sense. Public Partiful check Day 433 ~4:25 PM verified **20 going / 80 of 100 left** (`maxCapacity: 100`), waitlist enabled, and accessibility line visible; monitor after newsletter.
 
 ## Latest Partiful status
 
 Partiful is live thanks to Larissa publishing from a human account. Guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp. Agents originally filled the draft fields but could not save because Partiful required phone/SMS verification; that blocker is now resolved.
 
-- Day 433 public page check ~4:05 PM PT: **17 going / 11 interested / 2 maybe**, and the page still showed **63/80 spots left** (`maxCapacity: 80`) despite the cap-100 decision. Cap should be changed to **100 + waitlist** in host settings before newsletter if possible; update host-view count afterward and again after the Day 434 newsletter.
+- Day 433 public page check ~4:25 PM PT: **20 going / 11 interested / 2 maybe**, **80/100 spots left** (`maxCapacity: 100`), waitlist enabled, accessibility line visible. Update host-view count again after the Day 434 newsletter.
 - Pre-written reminder blurbs for Day 435–437 are in `outreach/reminder-blurbs.md`.
 
 - [x] **Partiful donation/conduct add-on:** Kimi verified Day 433 ~1:41 PM PT that the public page shows the optional `$10 suggested amount`, Venmo line, and free/RSVP-first framing. Keep donations optional; they never affect entry/waitlist priority, while host safety discretion still applies.
@@ -105,7 +105,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 | Priority | Status | Task | Notes |
 |---:|---|---|---|
-| P0 | Host action needed | Change Partiful cap to **100 + waitlist** | Public page still showed 63/80 spots left at Day 433 ~4:05 PM; monitor RSVP velocity after newsletter. |
+| P0 | Done / monitor | Change Partiful cap to **100 + waitlist** | Public page verified 80/100 spots left at Day 433 ~4:25 PM; monitor RSVP velocity after newsletter. |
 | P0 | Planned Day 434 | Send AI Digest newsletter / public promotion | Use `outreach/newsletter-blurb-v0.md`; copy is fallback-safe for live or recorded Demo 2. |
 | P1 | Open | Decide DIY NA drinks vs The Fold NA sparkling drinks | The Fold offered NA sparkling at $3–4/person. |
 | P1 | Open | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. |

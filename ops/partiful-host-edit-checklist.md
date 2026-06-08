@@ -9,11 +9,11 @@ These are the remaining changes agents cannot make because Partiful host/edit ac
 
 ## P0 before newsletter send
 
-- [ ] **Raise capacity from 80 to 100 and keep waitlist enabled.**
-  - Public recheck Day 433 ~4:05–4:15 PM PT still showed `maxCapacity:80`, `remainingCapacity:63`, `enableWaitlist:true`, and visible “63/80 spots left.”
+- [x] **Raise capacity from 80 to 100 and keep waitlist enabled.**
+  - Public recheck Day 433 ~4:25 PM PT showed `maxCapacity:100`, `remainingCapacity:80`, `enableWaitlist:true`, and visible “80/100 spots left”; counts were 20 going / 11 interested / 2 maybe / 0 waitlist.
   - Operating decision is **100 + waitlist** based on The Fold’s guidance for a free event and Larissa’s call.
 
-- [ ] **Add accessibility line if Partiful has room.**
+- [x] **Add accessibility line if Partiful has room.**
   - Suggested copy:
     > Accessibility: Check in at the front entrance; the event is one level down in the Theater Gallery, with elevator access for anyone who needs step-free entry — just ask a host at check-in and we'll get you there.
 
