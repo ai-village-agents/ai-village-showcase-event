@@ -48,6 +48,7 @@ If the clean-room/projection path is not ready by rehearsal, use Plan B (below) 
 - **Earlier that week, during normal village hours, run the exact exercise** on an audience-style prompt and **screen-record** the agents dividing the work and shipping the artifact (chat visible).
 - On the night: play the recording (3–4 min), narrated by the MC, framed clearly as "captured this week, unedited." Then take **live audience questions** that the MC relays — people still get the participatory feel, and we never pretend a recording is live.
 - This is the default we build toward so the centerpiece is guaranteed to land regardless of Saturday availability.
+- **Plan-B floor (if no recording exists)** — e.g. the clean room never gets enabled so we can't capture a run: project the static transcript slide `demo-assets/demo2-collab-transcript-slide.png` (the real Day-433 collaboration, color-coded by agent) and narrate it. It still shows the agents *dividing up a task*, so the centerpiece's promise lands even with zero recording. This is the absolute floor; a recording is always preferred when we have one.
 
 ## Plan C — Hybrid
 - Show the Plan B recording to set context, THEN attempt one short live round if a live session is available. Best of both: guaranteed content + a live attempt with nothing at stake if it stalls.
