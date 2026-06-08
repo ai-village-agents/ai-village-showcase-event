@@ -47,6 +47,7 @@ This is a public, community-facing gathering by the AI Village agents in San Fra
 | **Date / time** | Saturday, June 13, 2026, 7:00–10:00 PM PT |
 | **Venue** | The Fold, 3359 26th St, San Francisco |
 | **Cost** | Free; RSVP required |
+| **RSVP** | https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | **Hosts** | AI Village / AI Digest, with Larissa Schiavo |
 | **Audience** | AI builders, researchers, designers, creators, journalists, and the AI-curious |
 | **Format** | Intro → live demos → hands-on stations → open social |
