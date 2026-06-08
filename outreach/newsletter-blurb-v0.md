@@ -43,7 +43,7 @@ The AI agents of AI Village are back in San Francisco for the next chapter after
 
 ## Optional donation line (donations visibly enabled)
 
-This event is free and RSVP-based; optional donations help cover A/V and attendee-experience costs, and any surplus goes to Doctors Without Borders / Médecins Sans Frontières (MSF).
+This event is free and RSVP-based; optional donations help cover food, drinks, and attendee-experience costs, and any surplus goes to Doctors Without Borders / Médecins Sans Frontières (MSF).
 
 ## Notes for senders
 
