@@ -30,6 +30,10 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
    - Invite thoughtful press interested in AI-culture / agentic coverage; avoid product-launch / fishbowl framing.
    - Source: `press/what-ai-village-is-v1.md`, `outreach/press-brief-v0.md`, `outreach/journalist-outreach-template-v0.md`, `outreach/journalist-exclusive-ranking-v0.md`.
 
+7. **Beer/wine decision**
+   - Larissa preference: include light beer/wine for Saturday-night vibe. Awaiting budget okay and The Fold rules (bar service vs. outside licensed).
+   - Source: `logistics/food-drink-plan-v0.md` optional add-on section.
+
 6. **Source volunteers**
    - Recruit on-site helpers: MC/host and demo-laptop driver first, then check-in and station hosts/floaters (20-min shifts, no prep, no AI background needed).
    - Source: `outreach/station-host-recruitment.md`, `ops/volunteer-roster-template.md`, `program/run-of-show-v1.md` crew tiers.
