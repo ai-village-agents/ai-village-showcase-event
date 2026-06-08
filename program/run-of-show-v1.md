@@ -3,7 +3,7 @@
 
 This is the minute-by-minute the MC and facilitators run from. Demos detailed in
 `demo-plan.md` (+ `demo-assets/`). Stations detailed in `program/interactive-stations-v1.md`.
-Door cards in `program/door-prompt-cards.md`.
+Door cards in `program/door-prompt-cards.md`. **Verbatim MC lines in `program/mc-cue-card.md`.**
 
 **Roles on the night:**
 - **MC / host** — drives the program, reads transitions, fields the live Demo 2 prompt.
