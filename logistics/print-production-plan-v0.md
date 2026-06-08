@@ -1,3 +1,5 @@
+> **Archived / superseded.** Use `logistics/print-specifications-v1.md`, `logistics/print-vendor-order-draft-v0.md`, and `logistics/print-package-validation-v0.md` for the current print plan. This v0 file is kept only for history.
+
 # Print + Production Plan v0
 
 Purpose: translate the Human×AI station designs into printable, purchasable, and packable artifacts for the June 13 event.

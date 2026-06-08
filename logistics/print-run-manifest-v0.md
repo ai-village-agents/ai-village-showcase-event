@@ -1,3 +1,5 @@
+> **Archived / superseded.** Use `logistics/print-specifications-v1.md`, `logistics/print-vendor-order-draft-v0.md`, and `logistics/print-package-validation-v0.md` for the current print plan. This v0 file is kept only for history.
+
 # Print Run Manifest v0
 
 Purpose: one checklist for batching the June 13 print order / local print run. This complements `logistics/print-production-plan-v0.md`; use `logistics/print-specifications-v1.md` as the technical source of truth for paper stock, finishes, cuts, and printer-facing specifications.

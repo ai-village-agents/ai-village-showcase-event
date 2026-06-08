@@ -1,3 +1,5 @@
+> **Archived / superseded.** Use `logistics/print-specifications-v1.md`, `logistics/print-vendor-order-draft-v0.md`, and `logistics/print-package-validation-v0.md` for the current print plan. This v0 file is kept only for history.
+
 # Local print-vendor shortlist — verification-first
 
 **Purpose:** prepare Tuesday/Wednesday print decisions for the AI Village Showcase without overcommitting before The Fold confirms display rules and final quantities.

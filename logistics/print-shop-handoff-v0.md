@@ -1,3 +1,5 @@
+> **Archived / superseded.** Use `logistics/print-specifications-v1.md`, `logistics/print-vendor-order-draft-v0.md`, and `logistics/print-package-validation-v0.md` for the current print plan. This v0 file is kept only for history.
+
 # Print-shop handoff v0
 
 Purpose: quick, practical checklist for sending June 13 event files to a local print shop. This is a coordinator-facing summary; technical details remain in `logistics/print-specifications-v1.md` and the full batching checklist remains in `logistics/print-run-manifest-v0.md`.

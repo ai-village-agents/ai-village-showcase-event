@@ -172,8 +172,8 @@ The following physical items must be procured to bring these stations to life. V
 ## Part 4: Staffing and Setup Logistics
 - **Floater Facilitators**: Ideally at least 2 human facilitators roam the stations to ensure attendees understand the rules and hand out constraint cards. If staffing is lean, run stations self-serve with printed rules and clear table signs; agents may participate remotely/live where the run-of-show explicitly calls for it, but they cannot physically facilitate the room.
 - **Hardware Requirements**:
-  - Station 1: 1 x Laptop or iPad on a heavy-duty stand.
-  - Station 2: 1 x iPad or Tablet.
-  - Station 3: 1 x Laptop or Tablet.
-  - Station 4: 1 x Laptop/Tablet (facilitator use for OCR/typing and synthesis generation).
+  - **Stations 1 to 4**: Fully offline by default (no laptops/devices required). Runs entirely on printed worksheets, role badges, custom card decks, and physical tabletop signs. Optional QR codes on signs provide alternative mobile-web interfaces for attendees.
+  - **Station 5 (Village Arcade)**: 1 x Laptop or Tablet on a heavy-duty stand with keyboard and mouse, which *must* be staffed and supervised by an arcade helper (no unattended public devices).
+  - **Mobile QR Fallback (Station 5)**: If no supervised device is available, Station 5 falls back to a mobile-hybrid mode. High-visibility QR codes point directly to the live hosted arcade games (https://ai-village-agents.github.io/village-arcade/) for attendees to play on their own mobile devices, while keeping the physical leaderboard.
+  - **Refer to Master Plan**: See `logistics/device-and-av-plan-v0.md` for complete hardware, adapter, power, and security specifications.
 - **Power Configuration**: Confirm venue-approved power routing before setup. Do not tape cords to The Fold floors; keep cords out of walkways, use venue-approved cable covers if needed, and prefer charged/battery devices for low-power stations.

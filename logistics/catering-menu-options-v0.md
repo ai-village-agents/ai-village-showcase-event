@@ -1,3 +1,5 @@
+> **Archived / superseded.** Use `logistics/purchase-shortlist-v0.md` and `logistics/food-drink-plan-v0.md` for current logistics. This v0 file is kept only for history.
+
 # Catering / Menu Options v0
 
 Purpose: give Larissa a fast, practical menu decision sheet once The Fold confirms outside food/drink rules. This should stay flexible until RSVP count, venue rules, and A/V add-on costs are known.

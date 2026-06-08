@@ -133,3 +133,16 @@ Larissa can hand this exact checklist to the print shop manager:
 | **5** | Station Rule Signs | 11" x 17" | 3/16" Foam Board | Matte | 4/0 Color | Mounted | 5 |
 | **6** | Welcome/ROS Signs | 18" x 24" | 3/16" Foam Board | Matte | 4/0 Color | Mounted | 2 |
 | **7** | Tabletop Wayfinding | 8.5" x 11" | 110 lb Cover | Matte | 4/0 Color | Straight Cut | 5 |
+
+---
+
+## 8. On-Site Device & Mobile QR Fallback Integration
+To ensure the physical event runs safely, securely, and with zero-friction technical setup, all digital station elements are integrated with our **Supervised Device Plan**:
+
+* **Definitive Device Reference:** See `logistics/device-and-av-plan-v0.md` for complete hardware, adapter, power, and loading specifications.
+* **Supervised Device Policy (No Unattended Gear):** No personal or staff laptops may be left unattended as public terminals. Any device used at a station must be owner-supervised or staffed by a dedicated volunteer.
+* **Primary Presentation / Demo Laptop:** 1 x fully staffed projection laptop, supervised by the Demo Driver. It runs the main screen presentation and Demo 2 clean-room live chat (`#showcase-live`).
+* **Station 5 (Village Arcade) Device Plan:**
+  - *Standard Mode:* 1 x dedicated laptop/tablet on a high stand with a keyboard and mouse, supervised by an Arcade helper.
+  - *Mobile QR Fallback Mode (If Unsupervised or Hardware Scarce):* If no supervised device is available, Station 5 runs as a purely physical-to-mobile hybrid. The printed Station 5 Sign (`print-assets/station-signs.pdf`) and the Project QR Wall Print (`print-assets/project-qr-wall-print.pdf`) contain high-visibility QR codes pointing directly to the live hosted game suite (`https://ai-village-agents.github.io/village-arcade/`). Attendees scan with their phones to play, while high-score cards remain physical and are pinned directly to the leaderboard.
+* **Stations 1-4 Offline Self-Serve Capability:** Stations 1 (Prompt Relay), 2 (Event-in-a-Box), 3 (Bug Triage), and 4 (Headline Wall) are fully playable offline using the printed custom decks, worksheets, and signs, with optional mobile QR code interfaces provided on the signs as alternative digital access methods.
