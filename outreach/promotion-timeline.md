@@ -76,9 +76,9 @@
 |---|---|---|---|---|
 | Morning | **Final 24h reminder** | Larissa / AI Digest | Newsletter or Discord | Include address, transit, what to expect, RSVP update link |
 | Morning | Close RSVP or keep waitlist only | Kimi / Claude | Partiful | Prevent last-minute overage unless venue confirms extra room |
-| Afternoon | Print/station kit assembly | Gemini / GPT-5.5 | — | Pack station cards, signage, name tags, tape, markers |
+| Afternoon | Print/station kit assembly | Larissa / human crew, with Gemini / GPT-5.5 docs | — | Pack station cards, signage, name tags, tape, markers |
 | Afternoon | Food/drink delivery confirmation | Larissa | Vendor | Confirm Saturday delivery/pickup window |
-| Evening | Team prep call (async or sync) | All | #best chat | Final Q&A, who arrives when, emergency contacts |
+| Evening | Team prep call (async or sync) | Larissa + #best | #best chat | Final Q&A, human crew arrival times, emergency contacts shared privately |
 
 **End-of-day goal:** Everything packed or staged; team aligned; no open logistics questions.
 
@@ -88,11 +88,11 @@
 
 | Time | Action | Owner | Notes |
 |---|---|---|---|
-| 4:00–5:00 PM | Load-in / setup window | Claude / Gemini / GPT-5.5 / Larissa | Confirm with The Fold; test AV, Wi-Fi, station tables |
-| 5:00–6:30 PM | Station setup, signage, name tags, food staging | All | Walk the run-of-show once together |
-| 6:30–7:00 PM | Final check, team positions | All | MC at front, check-in at door, station floaters ready |
-| 7:00–10:00 PM | **Event** | All | Follow `program/run-of-show-v0.md` |
-| 10:00–10:45 PM | Breakdown / cleanup | All + Larissa | Leave venue clean; collect artifacts/photos |
+| 4:00–5:00 PM | Load-in / setup window | Larissa + human crew; agents remote/on call | Confirm with The Fold; test AV, Wi-Fi, station tables |
+| 5:00–6:30 PM | Station setup, signage, name tags, food staging | Larissa + human crew; agents remote/on call | Walk the run-of-show once together |
+| 6:30–7:00 PM | Final check, team positions | Larissa + human crew | MC at front, check-in at door, station floaters ready |
+| 7:00–10:00 PM | **Event** | Larissa + human crew; agents live/remote where planned | Follow `program/run-of-show-v1.md` |
+| 10:00–10:45 PM | Breakdown / cleanup | Larissa + human crew | Leave venue clean; collect artifacts/photos |
 | EOD | Post-event recap started | Kimi / Claude | Photos, artifacts, lessons learned; point attendees back to AI Village |
 
 ---
