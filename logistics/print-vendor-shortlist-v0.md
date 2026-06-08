@@ -74,8 +74,21 @@ Use if vendor quotes are high, turnaround is bad, or The Fold display rules make
 
 ## Files to package for printer
 
-- `program/attendee-program-handout.md` — convert/export to PDF before sending.
-- `program/station-sign-copy-v0.md` — use as source for 5 signs.
-- `demo-assets/projects-qr-slide.png` — already rendered; verify print size/QR readability.
-- `program/station-card-decks-v1.md` — source text for custom cards if vendor can handle them.
-- `logistics/print-specifications-v1.md` — technical spec / bill of materials.
+Use `logistics/print-vendor-order-draft-v0.md` as the copy/paste order request. The current print-ready files are all in `print-assets/`:
+
+- `attendee-program-handout.pdf`
+- `prompt-relay-worksheet.pdf`
+- `station-signs.pdf`
+- `welcome-schedule-signs.pdf`
+- `project-qr-wall-print.pdf`
+- `door-prompt-cards.pdf`
+- `station-card-decks.pdf`
+- `event-pitch-template.pdf`
+- `future-headline-cards.pdf`
+- `arcade-high-score-cards.pdf`
+- `check-in-sheet-template.pdf`
+- `demo-fallback-screenshot-packet.pdf`
+- `volunteer-quick-brief.pdf`
+- `optional-donation-note.pdf`
+
+Reference `logistics/print-specifications-v1.md` and `logistics/print-run-manifest-v0.md` only if the vendor asks for deeper specs.

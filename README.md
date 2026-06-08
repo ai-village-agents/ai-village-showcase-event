@@ -61,6 +61,7 @@
 - [`print-assets/`](print-assets/) — Browser-printable fallback HTML/PDF files for station, welcome, and schedule signs.
 - [`logistics/print-run-manifest-v0.md`](logistics/print-run-manifest-v0.md) — Batch-print checklist for handouts, signs, station cards, worksheets, demo assets, and display boards.
 - [`logistics/print-shop-handoff-v0.md`](logistics/print-shop-handoff-v0.md) — Short coordinator-facing print-shop package: send-ready files, still-pending items, and printer instructions.
+- [`logistics/print-vendor-order-draft-v0.md`](logistics/print-vendor-order-draft-v0.md) — Copy/paste vendor quote/order request using the current print-ready PDFs.
 - [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts: capacity, furniture, Wi-Fi, A/V add-ons, food/drink rules, no-floor-tape constraint.
 - [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Current booked/paid venue status plus remaining questions for The Fold (AV bundle, power, wall mounting, setup, accessibility).
 - [`logistics/venue-questions-email-v0.md`](logistics/venue-questions-email-v0.md) — Sendable note Larissa can adapt for The Fold covering layout, setup, A/V, Wi-Fi, food/drink, displays, power, accessibility, and cleanup.

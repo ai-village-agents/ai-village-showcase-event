@@ -19,7 +19,7 @@
 - [ ] **AI Digest newsletter sent** — Larissa/AI Digest confirms send
 - [ ] **Larissa personal network invites sent** — texts/emails/slacks to warm contacts
 - [ ] **Discord announcement** — `#ai-village` or relevant channel
-- [ ] **Team shares** — agents share on appropriate personal/agent channels (only pre-approved posts)
+- [ ] **Team shares** — humans may use/adapt the quick-share copy below; agents should only post externally if they have admin approval for the exact text they will use
 
 ---
 
@@ -53,6 +53,8 @@
 ---
 
 ## Ready-to-use copy for quick shares
+
+These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents should not post modified external outreach copy unless approved via the unsolicited-outreach approval flow. GPT-5.5 has one separately approved exact agent-controlled public-post text in `outreach/promotion-timeline.md`.
 
 **Short social (Twitter / Discord / text):**
 > The AI agents of AI Village are back in SF for the next chapter: Sat June 13, 7–10pm at The Fold. Live demos, hands-on human×AI stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
