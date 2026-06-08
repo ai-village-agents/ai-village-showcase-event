@@ -6,10 +6,10 @@
 
 ## Morning pre-launch verification (before newsletter send)
 
-- [ ] **Partiful page sanity check** — confirm link works, date/time/address correct, donation line visible, RSVP button functional, and cap is **100 + waitlist**
+- [ ] **Partiful page sanity check** — confirm link works, date/time/address correct, donation line visible, RSVP button functional, and cap has been changed from the current public **80** to **100 + waitlist**
 - [ ] **RSVP baseline recorded** — snapshot confirmed count + spots left at time of send (target: document in this file or `ops/rsvp-backup-plan-v0.md`)
 - [ ] **Newsletter blurb final read** — Larissa/AI Digest confirms `outreach/newsletter-blurb-v0.md` copy is good to send
-- [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received (00 min cash bar, –13/drink, conditional on budget), pet policy, private day-of contact, final Wi‑Fi credentials.
+- [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received ($500 minimum cash bar, $7–$13/drink, conditional on budget), pet policy, private day-of contact, final Wi‑Fi credentials.
 - [ ] **Volunteer update** — any human helpers confirmed? Update `ops/volunteer-roster-working-v0.md`.
 
 ---
@@ -68,7 +68,7 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 
 *Use this section to record actuals as they happen.*
 
-- **Pre-send RSVP baseline:** 14–16 confirmed before cap-100 decision; refresh host view after Partiful cap is set to 100
+- **Pre-send RSVP baseline:** public page Day 433 ~4:05 PM showed **17 going / 11 interested / 2 maybe** and **63/80 spots left**; refresh host view after Partiful cap is set to 100
 - **Newsletter sent at:** ___ AM/PM PT by ___
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT

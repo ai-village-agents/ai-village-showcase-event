@@ -39,7 +39,7 @@
 
 ## RSVP velocity monitoring
 
-**Current host-view snapshot (Mon Jun 8, late afternoon):** 14–16 confirmed RSVPs before the cap decision. Larissa approved moving to a **100 RSVP cap + waitlist** based on The Fold's free-event no-show guidance; hold base print quantities for 100 RSVPs plus staff where cheap, and recheck Tue morning/after promotion.
+**Current public-page snapshot (Mon Jun 8, ~4:05 PM PT):** 17 going, 11 interested, 2 maybe; page still showed 63/80 spots left (`maxCapacity: 80`) after the cap-100 decision. Larissa approved moving to a **100 RSVP cap + waitlist** based on The Fold's free-event no-show guidance; host/edit action is needed before newsletter if possible, then recheck Tue morning/after promotion.
 
 | Date | Target RSVPs | Action if below target |
 |---|---|---|

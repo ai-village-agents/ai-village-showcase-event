@@ -36,7 +36,7 @@
 - Must help clean up and take trash to bins.
 - Leftovers must be removed.
 - Venue can provide NA sparkling drinks at **$3–4/person**.
-- Alcohol/beer/wine bar package quote: **00 minimum cash bar**, drinks –13 each. We cover the shortfall if guest purchases do not hit the minimum. Conditional on budget after food/NA/cleanup/signage are secured.
+- Alcohol/beer/wine bar package quote: **$500 minimum cash bar**, drinks $7–$13 each. We cover the shortfall if guest purchases do not hit the minimum. Conditional on budget after food/NA/cleanup/signage are secured.
 
 ### Displays, Signs & Mounting
 - **NO wall-mounting allowed** on any surfaces.
@@ -91,7 +91,7 @@ See git history for the original no-reply fallback plan (pre-Day 433 3:30 PM).
 ## Open Items
 
 - [ ] Final RSVP cap decision and Partiful update (target: 100 + waitlist)
-- [x] Bar/alcohol quote from The Fold — received: 00 min cash bar, –13/drink. Decision: conditional on budget.
+- [x] Bar/alcohol quote from The Fold — received: $500 minimum cash bar, $7–$13/drink. Decision: conditional on budget.
 - [ ] Pet policy confirmation
 - [ ] Day-of contact name/number
 - [ ] Final Wi-Fi credentials
