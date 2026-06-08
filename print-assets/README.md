@@ -16,3 +16,5 @@ These are secondary to `logistics/print-specifications-v1.md` and `logistics/pri
 
 If editing the HTML, regenerate PDFs before sending to a printer.
 
+
+- `attendee-program-handout.pdf` / `.html` — 8.5x11 one-page attendee program handout, generated from `program/attendee-program-handout.md`.
