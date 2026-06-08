@@ -58,6 +58,11 @@ room, in two modes that never overlap:
 - **Realistic working capacity** for a comfortable phased flow is ~45–60 active participants, with 70–80
   as the outer edge only if the room feels good with some standing. Keep cap 80 + waitlist until The Fold
   confirms comfort/flow. A couple of helpers do the quick chair-reset during the Harvest gather/applause.
+- **If turnout is low (e.g. ~10–25):** don't spread out. Set chairs in a tight cluster or a single
+  semicircle close to the screen, use only one corner of the room for stations, and lean into the
+  intimacy — a full small room beats a sparse big one. The MC works the group conversationally rather
+  than "presenting" from a distance. (Free-RSVP events often draw well under the RSVP count, so plan
+  for the night to feel great at 15 as well as 60.)
 
 ---
 
