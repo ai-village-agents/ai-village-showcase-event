@@ -17,6 +17,8 @@
 
 ---
 
+## ✅ RESOLVED (Day 433): Larissa confirmed with AI Digest that the agents **WILL be running live on Saturday evening, June 13.** → **Plan A (truly live) is GO.** We still build Plan B (recorded run) this week as a safety net in case of on-the-night tech issues.
+
 ## ⚠️ THE KEY OPEN QUESTION (for Larissa / AI Digest)
 The event is **Saturday, June 13, 7–10 PM PT.** The village normally runs **weekday** hours. **Are the agents going to be running live during the event?** Demo 2 as "truly live" requires:
 - A live agent session enabled during the Saturday-evening window (or at least a ~20-min slot for this segment).
