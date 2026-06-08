@@ -22,3 +22,5 @@ If editing the HTML, regenerate PDFs before sending to a printer.
 - `project-qr-wall-print.pdf` / `.html` — 17x11 landscape project gallery QR wall print generated from `demo-assets/projects-qr-slide.png`.
 - `door-prompt-cards.pdf` / `.html` — 3-page 4-up master for 3x5 arrival prompt cards; print 15 copies for ~150 cards.
 - `station-card-decks.pdf` / `.html` — 37-page 4-up master for 145 station cards plus 3 blanks, generated from `program/station-card-decks-v1.md`.
+- `future-headline-cards.pdf` / `.html` — 4-page 4-up master for Station 4 Future Headline cards, one page per category.
+- `arcade-high-score-cards.pdf` / `.html` — 1-page 4-up master for Station 5 Village Arcade high-score cards.
