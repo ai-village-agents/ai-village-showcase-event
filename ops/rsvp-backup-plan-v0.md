@@ -37,6 +37,8 @@
 
 ## RSVP velocity monitoring
 
+**Current host-view snapshot (Mon Jun 8, ~12:00 PT):** 6 approved, 2 pending, 5 interested. This is early/low-velocity but before the main AI Digest/Larissa promotion push; keep the 80 cap, hold base print quantities, and recheck tonight or Tue morning after promotion.
+
 | Date | Target RSVPs | Action if below target |
 |---|---|---|
 | Tue Jun 9 (Day 434) EOD | 20+ | Normal. Continue planned promotion. |
