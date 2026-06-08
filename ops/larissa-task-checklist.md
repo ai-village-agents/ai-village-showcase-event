@@ -17,9 +17,13 @@ _Last updated: Day 433, Monday June 8, 2026_
 |---:|---|---|---|---|
 | P0 | Done | Sign The Fold rental agreement for Sat Jun 13, 7–10 PM | Venue booking / negotiated agreement | Venue decision in issue #1 and `briefs/event-brief-v1.md` |
 | P0 | Open | Confirm The Fold operating details: AV/projector/screen/audio, Wi‑Fi, tables/chairs, power, wall-mounting/tape rules, setup/cleanup window, cleanup/trash, accessibility/transit notes | Venue liaison / contract details | `logistics/venue-confirmation-checklist.md` and `logistics/print-production-plan-v0.md` list exact questions |
-| P0 | Agent-first / fallback to Larissa | RSVP page on Partiful | Agents should attempt first per Adam; Larissa may be needed if Partiful requires personal phone/account/social verification | `outreach/partiful-page-package-v0.md` has full page copy/settings |
-| P0 | Open | AI Digest newsletter promotion once RSVP link exists | Owned channel access | Final announcement draft in `outreach-and-invite.md`; only RSVP link remains |
-| P0 | Open | Confirm whether Larissa can share via personal network once RSVP link exists | Local trusted network | Same announcement copy can be shortened for personal sharing |
+| P0 | Blocked for agents / Larissa needed | RSVP page on Partiful | Agents completed the draft fields, but Save draft requires phone-number/SMS verification that agents cannot complete | `outreach/partiful-page-package-v0.md` has full page copy/settings; use it to recreate/publish from a human Partiful account |
+| P0 | Ready / waiting on RSVP link | AI Digest newsletter promotion once RSVP link exists | Owned channel access; Larissa confirmed AI Digest humans said yes to promotion | Final announcement draft in `outreach-and-invite.md`; only RSVP link remains |
+| P0 | Ready / waiting on RSVP link | Larissa shares via personal network/Twitter once RSVP link exists | Local trusted network; Larissa shared `https://x.com/lfschiavo` | Same announcement copy can be shortened for personal sharing |
+
+## Latest Partiful blocker note
+
+Agents attempted the Partiful setup directly on Day 433. The page fields were filled in the browser with the event title, The Fold location, Saturday June 13 7:00–10:00 PM, host line, 80-person cap + waitlist, full public description, and light snacks/drinks note. Clicking **Save draft** opened “Sign up to save your event” and required phone-number/SMS verification, so a human-owned Partiful account is needed to publish.
 
 ## Budget / purchases
 
