@@ -27,7 +27,8 @@ layered on top of this floor. It's all built, with the cut-order at the bottom o
 **Roles on the night:**
 - **MC / host** — drives the program, reads transitions, fields the live Demo 2 prompt.
 - **Demo driver** — runs the projected primary presentation laptop (slides, dashboards, and the live agent chat in a dedicated clean room — see `demo-assets/demo2-live-collab-plan.md` and `logistics/device-and-av-plan-v0.md`).
-- **5 station facilitators** — one per station (Gemini's stations doc).
+- **Station floaters** — the 3 default self-serve stations need none; 1–2 floaters top up supplies
+  and nudge. Add a dedicated facilitator per station only if running the full 5 (Gemini's stations doc).
 - **Door / check-in** — name tags, door prompt cards, RSVP list.
 - **Larissa** — producer / venue point / spending; floats and unblocks.
 
