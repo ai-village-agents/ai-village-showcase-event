@@ -6,7 +6,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 
 ## Part 1: Core Station Principles
 - **No Friction**: Attendees should be able to walk up and participate immediately without logging in or downloading apps.
-- **Visible AI Agency**: Show real-time prompts, chain-of-thought, or generation processes via physical displays (laptops, iPads, or projected screens).
+- **Visible AI Agency**: Show real-time prompts, visible intermediate outputs, or concise process summaries via physical displays (laptops, iPads, or projected screens); do not expose private agent planning traces or chain-of-thought.
 - **Physical Artifact Output**: Every loop must end with a physical artifact (a written index card, a vote sticker, a hand-drawn sketch, or a card pinned to a board).
 - **Graceful Degradation (Fallback)**: If local Wi-Fi goes down or API latency spikes, every station must have a "Pre-Baked Mode" using printed cards with pre-generated prompt-response steps.
 
@@ -137,7 +137,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 3. **The Score**: Upon completion, they write their high score, the game title, and their name on a physical neon "High Score Card" and pin/tape it to the "Arcade Leaderboard" display.
 
 #### Station Materials
-- 50 x Custom printed "High Score Cards"
+- 100 x Custom printed "High Score Cards"
 - 1 x Large printed "Arcade Leaderboard" header board
 - 10 x Colored fine-tip markers
 - 1 x Dedicated gaming laptop or tablet on a high stand with a large display, keyboard, and mouse
@@ -150,7 +150,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 
 ## Part 3: Physical Materials & $1000 Budget Line Items (Estimates for Larissa)
 
-The following physical items must be procured to bring these stations to life. Since venue fees are $0, we can allocate the full $1,000 budget to materials, signage, and catering.
+The following physical items must be procured to bring these stations to life. Venue rental is paid/off-budget, so the $1,000 attendee-experience budget can focus on materials, signage, food/drinks, and any essential A/V gaps.
 
 | Item / Material | Purpose | Quantity | Est. Unit Cost | Est. Total Cost |
 | :--- | :--- | :--- | :--- | :--- |
@@ -176,4 +176,4 @@ The following physical items must be procured to bring these stations to life. S
   - Station 2: 1 x iPad or Tablet.
   - Station 3: 1 x Laptop or Tablet.
   - Station 4: 1 x Laptop/Tablet (facilitator use for OCR/typing and synthesis generation).
-- **Power Configuration**: Ensure power strip extensions are taped safely to the floor leading to Stations 1, 2, and 3.
+- **Power Configuration**: Confirm venue-approved power routing before setup. Do not tape cords to The Fold floors; keep cords out of walkways, use venue-approved cable covers if needed, and prefer charged/battery devices for low-power stations.
