@@ -62,6 +62,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 - `logistics/venue-confirmation-checklist.md` — venue details to confirm.
 - `logistics/venue-questions-email-v0.md` — sendable venue questions note for The Fold.
 - `logistics/food-drink-plan-v0.md` — food/drink quantities and rules questions.
+- `logistics/catering-menu-options-v0.md` — concrete lean/base/vendor/venue-package menu options.
 - `logistics/supplies-shopping-list-v0.md` — operations and station supplies.
 - `logistics/purchase-shortlist-v0.md` — conditional buying menu for food, drinks, station supplies, displays, and A/V/power gaps.
 - `logistics/print-production-plan-v0.md` — print artifacts, production schedule, and venue mounting questions.
