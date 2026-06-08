@@ -117,7 +117,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 | Venue rental agreement + invoice | ✅ Signed / paid | Larissa | — |
 | Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
 | Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility, outside snacks/cake policy, and optional beer/wine bar-package quote; device plan asks for 1 staffed primary presentation laptop + adapters, 1 supervised backup device, optional supervised Arcade device; no unattended personal laptops |
-| RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | 13 confirmed as of Day 433 ~2:21 PM PT; 67/80 spots left; link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
+| RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | 14 confirmed as of Day 433 ~3:08 PM PT; 66/80 spots left; link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
 | AI Digest newsletter / social promotion | ✅ Ready to send | Larissa / AI Digest | Newsletter blurb template pushed (`outreach/newsletter-blurb-v0.md`); Larissa has copy |
 | Food & drink purchase | ⏳ Open | Larissa | Needs venue food/NA/cake rules + final RSVP count; no outside alcohol; beer/wine only via The Fold bar package if quote/minimums are acceptable |

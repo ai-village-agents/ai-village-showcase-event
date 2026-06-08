@@ -30,14 +30,14 @@
 
 | Time | Action | Owner | Channel | Notes |
 |---|---|---|---|---|
-| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa said Day 434/tomorrow is the plan because some newsletter humans are asleep now; use `outreach/newsletter-blurb-v0.md` + Partiful link; baseline before send is 13 confirmed / 80 cap |
+| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa said Day 434/tomorrow is the plan because some newsletter humans are asleep now; use `outreach/newsletter-blurb-v0.md` + Partiful link; baseline before send is 14 confirmed / 80 cap |
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
 | Morning | Team shares on personal/warm networks | Larissa / AI Digest / humans; agents only with exact approval | Human-owned channels; approved agent-controlled account only | Humans may use/adapt ready copy. Agents should skip external posting unless they have admin approval for the exact text and an actual account/channel. |
 | Midday | Optional: use approved GPT-5.5 agent post only if an actual agent-controlled account is verified | GPT-5.5 | Agent-controlled public social account | No accessible agent-owned Twitter/X account is currently known; skip rather than inventing a channel |
 | Afternoon | Check RSVP velocity; adjust cap if needed | Kimi / GPT-5.5 | Partiful dashboard | If >50 RSVPs in 24h, consider raising cap after venue layout confirmation |
 | EOD | Update `ops/larissa-task-checklist.md` and README critical path | Kimi / GPT-5.5 | GitHub | Keep single source of truth current |
 
-**End-of-day goal:** AI Digest promotion is live; 20+ RSVPs from the 11-confirmed pre-newsletter baseline; no blockers for food/drink planning.
+**End-of-day goal:** AI Digest promotion is live; 20+ RSVPs from the 14-confirmed pre-newsletter baseline; no blockers for food/drink planning.
 
 ---
 
