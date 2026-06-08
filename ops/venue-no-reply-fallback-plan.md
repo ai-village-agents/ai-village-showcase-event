@@ -1,34 +1,27 @@
-# Venue No-Reply Fallback Plan — The Fold
+# The Fold No-Reply Operating Contingency Plan
 
-*Owner: Kimi K2.6 / GPT-5.5. Last updated: Day 433, Mon Jun 8, 2026.*
+*Owner: #best agents advising Larissa. Last updated: Day 433, Mon Jun 8, 2026.*
 
 **Status:** Larissa sent 10-section question list at 1:15 PM PT Day 433. No reply as of ~1:55 PM PT Day 433. Rental agreement is signed and invoice paid (off-budget by Larissa). Event is Sat Jun 13, 7–10 PM.
 
 ---
 
-## Escalation timeline
+## Follow-up and operating timeline
 
 | Day / Time | Action | Owner | Rationale |
 |---|---|---|---|
-| Day 433 (Mon) EOD | Note in team chat that no reply yet; plan first follow-up | Kimi / GPT-5.5 | Normal business delay |
-| Day 434 (Tue) morning | Larissa sends polite email nudge referencing Jun 13 date | Larissa | 48h since first email |
-| Day 434 (Tue) afternoon | If still no reply, Larissa calls The Fold directly | Larissa | Phone often faster than email |
-| Day 435 (Wed) morning | **Decision point:** If zero contact from The Fold, activate contingency mode (see below) | #best + Larissa | Need 3 days to pivot if venue is unresponsive |
-| Day 435 (Wed) EOD | If venue is definitively non-responsive, explore backup venue | Larissa | Last-resort; contract is signed so this is unlikely |
+| Day 433 (Mon) EOD | Do not chase repeatedly; keep preparing conservative print/layout/AV plans | #best | Normal same-day email delay |
+| Day 434 (Tue) morning | Larissa may send a polite nudge or call if she thinks timing warrants it | Larissa | Venue communication stays human-led |
+| Day 434 (Tue) noon | If no reply, activate the conservative **operating-at-The-Fold** assumptions already listed in `logistics/venue-confirmation-checklist.md` | #best + Larissa | Lets print/supply decisions proceed without needing wall/food/AV answers |
+| Day 434–435 | Keep venue-specific questions open, but avoid planning a replacement venue unless The Fold explicitly indicates a problem | Larissa | Contract is signed and paid; replacement search is not the plan |
 
 ---
 
-## What we can safely assume (contract + prior communication)
+## What we can safely rely on now
 
-Even without a reply to the Day 433 question list, the signed rental agreement and prior correspondence establish these baselines:
+The rental is signed and paid, so this plan assumes **the event remains at The Fold**. Until The Fold answers Larissa’s question list, avoid over-specific assumptions about rooms, AV add-ons, food/cake permissions, wall mounting, access window, and day-of contact. Use the conservative operating choices below instead.
 
-- **Space reserved:** Main Gallery + Back Gallery for Jun 13, 7–10 PM (per contract)
-- **Base furniture included:** 50 black chairs, 30 folding chairs, assorted wood tables, 6 high-top tables with linens, couches, 7 rolling office chairs
-- **Wi-Fi included:** Sonic 150/20 Mbps wired; Cisco Meraki 802.11ac wireless
-- **Base A/V included:** Stage, 2 Epson 1080p projectors/screens (if in contract; verify)
-- **Outside food allowed:** Prior communication indicated outside caterer welcome; light hors d’oeuvres + NA beverages at $20/person/2h also available
-- **Licensed beer/wine only unless discussed; no outside alcohol**
-- **Cleanup:** We restore space and dispose trash/recycling/compost
+Packet-derived facts and open questions remain tracked in `logistics/the-fold-venue-facts.md` and `logistics/venue-confirmation-checklist.md`.
 
 ---
 
@@ -36,49 +29,49 @@ Even without a reply to the Day 433 question list, the signed rental agreement a
 
 ### 1. A/V bundle and adapters
 **Question:** Wireless handheld mic cost, over-ear/lapel mic availability, PA system pricing, HDMI/USB-C adapters.
-**If no reply by Day 435:**
-- **Plan A:** Assume we can add A/V à la carte on arrival. Bring cash/card for same-day add-ons.
-- **Plan B:** Larissa calls morning of Day 435 to book verbally.
-- **Plan C:** Rent a portable PA + wireless mic from a local AV shop (e.g., Guitar Center, B&H) as backup. Budget impact: ~$150–300.
+**If still unanswered when decisions are needed:**
+- **Plan A:** Treat projector/screen/mic/PA as the first paid add-on to reserve once Larissa reaches the venue.
+- **Plan B:** Prepare a laptop-on-table / recorded-demo fallback that can work without venue PA if the room is intimate.
+- **Plan C:** Only if Larissa judges it necessary, price a portable PA + mic backup. Budget impact: roughly $150–300.
 
 ### 2. Setup / breakdown window and day-of contact
 **Question:** What time can we arrive? Who is the day-of contact?
-**If no reply by Day 435:**
-- **Plan A:** Arrive at 5:00 PM (2h before doors) assuming standard setup window. Larissa arrives first with phone ready.
-- **Plan B:** Call The Fold at 4:00 PM on Day 436 (Fri) to confirm arrival time.
-- **Plan C:** If doors must open at 7:00 PM and we can only arrive at 6:30 PM, run lean setup: skip elaborate signage, use printed handouts, minimal table dressing.
+**If still unanswered when decisions are needed:**
+- **Plan A:** Ask Larissa to confirm the earliest access window through the fastest human channel.
+- **Plan B:** Keep the setup plan modular so it can load in quickly: check-in table, presentation laptop, 5 station kits, food/drink table.
+- **Plan C:** If access is short, run lean setup: skip elaborate signage, use printed handouts/tabletop signs, and cut Demo 4 first.
 
 ### 3. Wall mounting / display rules / floor tape
 **Question:** Can we use tape on floors? Wall mounting rules? Easels allowed?
-**If no reply by Day 435:**
+**If still unanswered when decisions are needed:**
 - **Plan A:** Assume NO tape on Main Gallery/Back Gallery floors (this was stated in prior info). Use freestanding easels and tables for all signs.
-- **Plan B:** Bring Command strips or poster putty for wall signs as lightweight alternative; test in inconspicuous corner first.
-- **Plan C:** All signage is freestanding or handheld. No wall mounting.
+- **Plan B:** Foam boards, easels, tabletop tents, or tri-folds are preferred until wall rules are confirmed.
+- **Plan C:** All signage is freestanding/tabletop/handheld. No wall mounting.
 
 ### 4. Power / cables / routing
 **Question:** Outlet locations, extension cord policy, cable routing.
-**If no reply by Day 435:**
-- **Plan A:** Bring 2–3 heavy-duty extension cords and power strips. Assume standard gallery outlets along walls.
-- **Plan B:** Battery-powered options for anything non-critical (e.g., LED name-tag station).
+**If still unanswered when decisions are needed:**
+- **Plan A:** Keep power needs minimal: presentation laptop/display, demo laptop, and Village Arcade only.
+- **Plan B:** Bring venue-approved power strips/extensions only if Larissa confirms or the venue provides them; avoid taped floor cords.
 
 ### 5. Accessibility / check-in / flow
 **Question:** Accessible entrance, check-in table placement, bathroom locations.
-**If no reply by Day 435:**
+**If still unanswered when decisions are needed:**
 - **Plan A:** Arrive early and scout the space. Place check-in near main entrance. Post a sign with bathroom directions.
 - **Plan B:** Ask The Fold staff on arrival; they will likely be present.
 
 ### 6. Photo / video policy
 **Question:** Are we allowed to record the event?
-**If no reply by Day 435:**
-- **Plan A:** Assume yes for personal/event documentation. Post a small sign near entrance: “This event is being documented. Let staff know if you prefer not to be photographed.”
-- **Plan B:** If The Fold has restrictions, comply on arrival.
+**If still unanswered when decisions are needed:**
+- **Plan A:** Keep documentation modest and attendee-friendly; ask before close-up photos.
+- **Plan B:** If The Fold has restrictions, comply immediately.
 
 ### 7. Food / cake / outside snacks
 **Question:** Can we bring outside cake? Snack rules?
-**If no reply by Day 435:**
-- **Plan A:** Order light snacks + NA drinks through The Fold’s preferred vendor (Bi-Rite / B Star) or bring pre-packaged snacks.
-- **Plan B:** If outside cake is uncertain, skip the cake rather than risk a venue conflict. The event works without it.
-- **Plan C:** Larissa calls on Day 435 to get verbal OK for cake.
+**If still unanswered when decisions are needed:**
+- **Plan A:** Keep food/drink simple and low-mess until permissions are confirmed.
+- **Plan B:** If outside cake is uncertain, skip or defer cake rather than risk a venue conflict. The event works without it.
+- **Plan C:** Larissa gets verbal OK before ordering cake or outside catering.
 
 ---
 
@@ -89,9 +82,9 @@ Even without a reply to the Day 433 question list, the signed rental agreement a
 | Portable PA + mic rental | $150–300 | Larissa’s $1,000 event budget |
 | Extra extension cords / power strips | $30–50 | Larissa’s $1,000 event budget |
 | Freestanding easels (if venue none) | $40–80 | Larissa’s $1,000 event budget |
-| Same-day A/V add-ons | $200–400 | Larissa’s $1,000 event budget |
+| Same-day A/V add-ons | $0–400 | Larissa’s $1,000 event budget if not already included/off-budget |
 
-All contingencies fit within the $1,000 budget if needed.
+Do not spend against the $1,000 budget without Larissa’s approval. If AV costs rise, protect AV and simplify print/decor/food upgrades first.
 
 ---
 
@@ -103,19 +96,15 @@ All contingencies fit within the $1,000 budget if needed.
 
 ---
 
-## Backup venue (last resort only)
+## Replacement venue is not an active plan
 
-If The Fold becomes definitively unavailable after Day 435:
-- **Criteria:** SF venue, fits 80 people, available Sat Jun 13 7–10 PM, allows outside food/NA drinks, has projector or screen.
-- **Potential options:** AI Digest may have connections; Larissa has SF event experience.
-- **Trigger:** Only if The Fold explicitly cancels or is unreachable through Day 435 EOD.
-- **Likelihood:** Very low. Contract is signed and paid.
+Do **not** search for or propose replacement venues just because The Fold has not answered the operations email. The Fold is signed/paid and remains the venue. A replacement venue search would only begin if Larissa receives explicit information that The Fold cannot host the event or she asks the agents to help evaluate alternatives.
 
 ---
 
 ## Open actions
 
-- [ ] Day 434 morning: Larissa sends polite nudge email to The Fold
-- [ ] Day 434 afternoon: If no reply, Larissa calls The Fold
-- [ ] Day 435 morning: #best + Larissa review this plan and decide on contingency activation
-- [ ] Day 435: If needed, reserve portable PA + mic backup
+- [ ] Day 434 morning/noon: Larissa decides whether to nudge/call The Fold; agents do not contact venue directly.
+- [ ] Day 434 noon: If no reply, proceed with freestanding signage, conservative AV, simple food/drink, and 80-person cap assumptions.
+- [ ] When The Fold replies: update venue/layout/food/AV/print docs and close out unnecessary contingencies.
+- [ ] Only if Larissa requests: price specific AV/power/display backups.
