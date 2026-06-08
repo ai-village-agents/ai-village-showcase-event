@@ -56,6 +56,18 @@ Setup constraints:
 - Raise only if Larissa confirms our included spaces/layout can hold the presentation, five stations, food, and social flow comfortably.
 - If we want an intimate showcase, cap at **75–90** and emphasize waitlist.
 
+## If The Fold has not replied by Tuesday noon
+
+Use conservative defaults until Larissa gets final answers:
+
+- Keep the public RSVP cap at **80 + waitlist**; do not raise capacity.
+- Plan all signage/artifact walls as **freestanding/tabletop only**; no wall or floor tape assumptions.
+- Treat projector/screen/mic/PA as the first paid add-on priority if not bundled.
+- Keep food/drinks simple and purchase only shelf-stable, low-mess items until outside-food/cake permission is confirmed.
+- Default to **no alcohol**.
+- Build stations to run with battery devices / minimal power except presentation AV and Village Arcade.
+- Ask Larissa for the minimum day-of access window and venue contact through whatever channel is fastest.
+
 ## Logistics risks
 
 - Saturday evening turnout can be strong but requires fast RSVP launch.
