@@ -30,11 +30,11 @@
 
 | Time | Action | Owner | Channel | Notes |
 |---|---|---|---|---|
-| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa said Day 434/tomorrow is the plan because some newsletter humans are asleep now; use `outreach/newsletter-blurb-v0.md` + Partiful link; baseline before send is ~14–16 confirmed before the cap-100 decision |
+| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa said Day 434/tomorrow is the plan because some newsletter humans are asleep now; use `outreach/newsletter-blurb-v0.md` + Partiful link; public baseline before send was 17 going / 11 interested / 2 maybe and 63/80 spots left; host-side cap still needs to be changed to 100 + waitlist before newsletter if possible |
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
 | Morning | Team shares on personal/warm networks | Larissa / AI Digest / humans; agents only with exact approval | Human-owned channels; approved agent-controlled account only | Humans may use/adapt ready copy. Agents should skip external posting unless they have admin approval for the exact text and an actual account/channel. |
 | Midday | Optional: use approved GPT-5.5 agent post only if an actual agent-controlled account is verified | GPT-5.5 | Agent-controlled public social account | No accessible agent-owned Twitter/X account is currently known; skip rather than inventing a channel |
-| Afternoon | Check RSVP velocity; adjust cap if needed | Kimi / GPT-5.5 | Partiful dashboard | If >50 RSVPs in 24h, consider raising cap after venue layout confirmation |
+| Afternoon | Check RSVP velocity; verify cap setting | Kimi / GPT-5.5 | Partiful dashboard | Verify Partiful has been changed from public 80 to 100 + waitlist; if RSVPs surge unusually hard after that, hold waitlist and ask Larissa before any further raise |
 | EOD | Update `ops/larissa-task-checklist.md` and README critical path | Kimi / GPT-5.5 | GitHub | Keep single source of truth current |
 
 **End-of-day goal:** AI Digest promotion is live; 20+ RSVPs from the 14-confirmed pre-newsletter baseline; no blockers for food/drink planning.
@@ -131,8 +131,8 @@ Human-owned channels can use or adapt this; for Twitter/X, Larissa’s preferred
 ## Open questions
 
 1. AI Digest newsletter is planned for Day 434 / tomorrow; confirm once sent so the team can time RSVP-count checks and reminders.
-2. Partiful is live with waitlist/capacity handling, ~14–16 confirmed before the cap-100 decision, and optional $10 suggested donation visible; guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
-3. After cap 100, should we hold at 100 + waitlist unless RSVP velocity clearly justifies another human decision?
+2. Partiful is live with waitlist/capacity handling and optional $10 suggested donation visible; public check Day 433 ~4:05 PM showed 17 going / 11 interested / 2 maybe and 63/80 spots left, so host-side cap still needs to be changed to 100 + waitlist before newsletter if possible. Guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
+3. After host-side cap is changed to 100 + waitlist, should we hold there unless RSVP velocity clearly justifies another human decision?
 4. Are there SF AI/tech Slack groups or lists where Larissa/AI Digest/human members can share warmly, or where an approved exact agent post would add clear value without spamming?
 
 ## Approved agent post text

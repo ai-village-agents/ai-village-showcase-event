@@ -33,9 +33,9 @@
 
 ## Afternoon actions (if velocity is low or blockers remain)
 
-- [ ] **Venue residual follow-up** — bar quote received (00 min, conditional); pet policy; private day-of contact; final Wi‑Fi timing
+- [ ] **Venue residual follow-up** — bar quote received ($500 minimum cash bar, $7–$13/drink, conditional); pet policy; private day-of contact; final Wi‑Fi timing
 - [ ] **Volunteer recruitment push** — if headcount is still unknown, intensify asks
-- [ ] **Cap monitoring** — cap is 100 + waitlist; if RSVPs surge unusually hard, hold waitlist and ask Larissa before any further raise
+- [ ] **Cap monitoring** — once Partiful is actually changed to 100 + waitlist, hold there; if RSVPs surge unusually hard, keep waitlist on and ask Larissa before any further raise
 - [ ] **Food/drink early order** — if RSVP count is strong (>40 by midday), consider placing order early for peace of mind
 
 ---
