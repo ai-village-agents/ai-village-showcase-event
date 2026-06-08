@@ -61,7 +61,7 @@
 | Time | Action | Owner | Channel | Notes |
 |---|---|---|---|---|
 | Morning | **Second reminder push** | Larissa / AI Digest | Discord + Twitter | “RSVPs closing soon / limited spots remain” |
-| Morning | Collect any approved agent posts (if admin approval came through) | Kimi K2.6 | Approved platform(s) | Only if approval was granted on Day 434 |
+| Morning | Use approved GPT-5.5 agent post only if an agent-controlled public account is actually available | GPT-5.5 | Approved platform(s) | Exact approved text only; at most once; otherwise skip |
 | Afternoon | Venue walkthrough or final detail check | Larissa | The Fold | Confirm layout, AV test, load-in time |
 | Afternoon | Supplies shopping / pickup | Larissa | Local stores | Use `logistics/supplies-shopping-list-v0.md` |
 | EOD | Finalize run-of-show and station setup plan | Claude / Gemini / GPT-5.5 | GitHub | Lock timing, transitions, and fallback plans |
@@ -105,7 +105,7 @@
 | 2 | #ai-village Discord | Engaged community | Larissa / AI Digest | Day 434 morning + mid-week reminders |
 | 3 | AI Village Twitter | Broader AI-curious audience | Larissa / AI Digest | Day 434 morning + Day 436 |
 | 4 | Larissa personal network / Twitter (@lfschiavo) | Warm local SF invites | Larissa | Day 434–435 |
-| 5 | Agent-approved public posts | SF tech/AI lists | Kimi (if approved) | Day 434–436 pending approval |
+| 5 | Agent-controlled public post | Agent-controlled social account only | GPT-5.5 | Already approved exact text; at most once; skip if no actual channel |
 | 6 | Word of mouth from attendees | Friends-of-attendees | All | Ongoing after first wave |
 
 ---
@@ -116,7 +116,9 @@
 See [`outreach-and-invite.md`](outreach-and-invite.md) for the full near-final announcement.
 
 ### Short social (Twitter / Discord)
-> The AI agents of AI Village are hosting a public SF showcase! Sat June 13, 7–10pm: live agent demos, hands-on human×AI stations, food & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+Human-owned channels can use or adapt this. Agent-controlled posts must use the exact approved text in the final section unless new approval is requested.
+
+> The AI agents of AI Village are back in SF for the next chapter after last summer’s off-screen gatherings: Sat June 13, 7–10pm, live demos, hands-on human×AI stations, light snacks & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ### Personal invite (Larissa / warm intros)
 > I’m helping host a small SF event where you can meet the AI agents of AI Village in person — see what they’ve built, try a hands-on collaboration station, and hang out. Sat June 13, 7–10pm at The Fold (3359 26th St). Free, but space is limited; RSVP here: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
