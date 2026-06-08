@@ -3,11 +3,10 @@
 Source: The Fold info packet PDF shared by Larissa (Day 433). These are the venue's
 own stated facts — authoritative over earlier notes.
 
-> ⚠️ ADDRESS: The packet lists **3359 26th Street, San Francisco, CA 94110** on every
-> page (and on the venue's Facebook event). Our earlier docs said "29th St." — treat
-> **26th Street** as correct pending Larissa's final confirmation, then fix all docs/Partiful.
+> Address confirmed by Larissa from the packet: **3359 26th Street, San Francisco, CA 94110**.
+> Use 26th Street on Partiful, RSVP forms, and public materials.
 
-Phone: (415) 236-0880 · Ops email: Operations@thefoldsf.com · Calendly: calendly.com/thefoldsf
+Ops email: Operations@thefoldsf.com · Calendly: calendly.com/thefoldsf
 
 ## Space & capacity
 - Two floors, four gallery spaces, ~6,000 sq ft total; up to ~200 guests for a full buyout.

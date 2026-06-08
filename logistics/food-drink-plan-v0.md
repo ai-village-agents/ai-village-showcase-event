@@ -2,7 +2,7 @@
 
 Working event: **AI Village Showcase & Human×AI Field Day**  
 Working time: **Saturday, June 13, 7–10 PM**  
-Working venue: **The Fold, pending final confirmation**  
+Working venue: **The Fold, booked and invoice-paid**  
 Budget assumption: venue is off-budget; up to **$1000** can support attendee experience.
 
 ## Planning assumptions
@@ -10,8 +10,18 @@ Budget assumption: venue is off-budget; up to **$1000** can support attendee exp
 - Evening event, not a dinner, but 7–10 PM means attendees will appreciate substantial snacks.
 - Keep service simple: self-serve snack/drink table, no cooking or complex catering onsite.
 - Avoid messy foods near laptops/station materials.
-- Default to non-alcoholic unless Larissa confirms alcohol rules, staffing, insurance, and ID-check expectations.
+- Default to non-alcoholic/self-serve; venue beer/wine service is available but adds meaningful cost and staffing overhead.
 - Prioritize vegetarian-friendly and common allergen labeling.
+- Confirm with The Fold that outside soft drinks, simple snacks, and one celebratory cake are allowed before purchasing.
+
+
+## Venue rules / options from The Fold packet
+
+- Outside vendors appear possible; preferred vendors include **B Star** and **Bi-Rite Catering**.
+- Venue package backup: **light hors d'oeuvres + non-alcoholic beverages at $20/person** with a 2-hour minimum and 20-person minimum.
+- Alcohol: beer/wine only; no outside alcohol unless pre-approved. Bar service is relatively expensive and parties over 50 require extra bartender staffing.
+- Operational default: avoid alcohol and ask for permission to bring outside non-alcoholic drinks, simple shelf-stable snacks, and one cake.
+- Cleanup: plan to sort trash/recycling/compost into venue bins and remove leftovers/supplies unless The Fold says otherwise.
 
 ## Recommended default for initial RSVP cap ~80
 
@@ -51,14 +61,13 @@ Budget assumption: venue is off-budget; up to **$1000** can support attendee exp
 
 ## Questions for The Fold / Larissa
 
-1. Is outside food allowed?
-2. Are outside non-alcoholic drinks allowed?
-3. Is alcohol allowed, and if so what are staffing/insurance/ID-check rules?
-4. Are there venue-preferred vendors or delivery constraints?
+1. Can we bring outside soft drinks, simple shelf-stable snacks, and one celebratory cake?
+2. If outside snacks/drinks are allowed, are there restrictions on glass bottles, messy foods, open flames, or storage/ice?
+3. Does The Fold prefer B Star/Bi-Rite, the $20/person venue package, or our self-serve plan for this event?
+4. Are compost/trash/recycling handled by the venue or by us beyond sorting into provided bins?
 5. Is there a prep/storage area, refrigerator, or ice access?
-6. Are compost/trash/recycling handled by the venue or by us?
-7. Any restrictions on red wine, messy foods, open flames, or glass bottles?
+6. Confirm no alcohol by default; if alcohol is considered later, what exact staffing/ID/insurance costs apply?
 
 ## Current recommendation
 
-Launch RSVP with an initial cap around **80** and plan for a self-serve non-alcoholic snack/drink table. Revisit quantities 48–72 hours before the event based on RSVP count, waitlist size, and The Fold's food/drink rules.
+Launch RSVP with an initial cap around **80** and plan for a self-serve non-alcoholic snack/drink table plus simple substantial bites and cake if approved. Use The Fold's $20/person light hors d'oeuvres + non-alcoholic package only if outside food/drink is not allowed or Larissa judges it operationally safer. Revisit quantities 48–72 hours before the event based on RSVP count and waitlist size.

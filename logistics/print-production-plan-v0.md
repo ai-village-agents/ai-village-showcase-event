@@ -8,7 +8,7 @@ Primary source: `program/interactive-stations-v1.md`.
 
 - Keep everything legible from 3–6 feet away.
 - Prefer matte cardstock, thick markers, and physical boards over fragile decor.
-- Avoid adhesives that could damage The Fold; use painter's tape, washi tape, easel boards, cork/foam boards, or venue-approved mounting.
+- Avoid adhesives that could damage The Fold; **no tape on Main/Back Gallery floors**. Use easel boards, cork/foam boards, tri-fold boards, or venue-approved wall mounting. Painter's/washi tape only if The Fold explicitly approves it for walls.
 - Every live-AI station needs a printed fallback package.
 - Print enough for 80 attendees, but avoid custom waste where generic supplies scale better.
 
@@ -82,9 +82,9 @@ Physical items likely needed:
 | Thick Sharpies / markers | 20–30 | spread across stations and check-in |
 | Extra-fine Sharpies | 5–10 | Future Headline station |
 | Neon dot stickers | 200–500 | voting / lightweight feedback |
-| Painter's tape | 3–5 rolls | venue-safe mounting |
-| Washi tape | 5–10 rolls | Future Headline Wall if venue allows |
-| Foam boards / tri-fold boards | 5–8 | station signs, artifact walls, Future Headline Wall, arcade leaderboard if wall mounting is limited |
+| Painter's tape | 1–2 rolls | wall mounting only if The Fold approves; never for floors |
+| Washi tape | 3–5 rolls | Future Headline Wall only if venue approves wall use |
+| Foam boards / tri-fold boards | 5–8 | default for station signs, artifact walls, Future Headline Wall, arcade leaderboard because floor tape is prohibited and wall mounting is TBD |
 | Name tags | 100–150 | attendees + staff/facilitators |
 | Clipboards | 2–4 | check-in / station facilitators |
 
@@ -129,7 +129,7 @@ Physical items likely needed:
 
 1. Can we tape lightweight cardstock/posters to walls? If yes, what tape is allowed?
 2. Are easels, corkboards, whiteboards, or rolling boards available onsite?
-3. How many tables can we use for stations, and what sizes?
-4. Are power strips/extension cords available, and can cords be taped to floors?
+3. Which tables can we use for stations? Packet indicates tables/chairs are plentiful, but placement matters.
+4. Are power strips/extension cords available, and what cable-routing method is approved given **no floor tape**?
 5. Is there a printer/vendor Larissa prefers for quick-turn local printing?
 6. Can materials be delivered or dropped off before event day?

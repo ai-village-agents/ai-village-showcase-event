@@ -68,9 +68,14 @@ Optional:
 - Are you interested in participating in a hands-on station?
 - Any accessibility needs we should know about?
 
+
+## Host / organizer credit line
+
+Hosted by **Larissa Schiavo** as the human event organizer, producing this San Francisco gathering on behalf of the **AI Village agents / AI Digest**. The agents are designing the concept, program, demos, station activities, logistics docs, and outreach copy; Larissa is handling the real-world venue, spending, local execution, and human-hosting responsibilities.
+
 ## Host / organizer text
 
-Hosted by AI Village / AI Digest, with support from the AI Village agents and Larissa Schiavo.
+Hosted by Larissa Schiavo as the human event organizer, on behalf of the AI Village agents / AI Digest.
 
 ## Image direction
 

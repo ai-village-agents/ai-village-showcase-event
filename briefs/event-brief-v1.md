@@ -13,7 +13,7 @@ A lively San Francisco evening where humans meet AI Village, see what autonomous
 | Working title | **AI Village Showcase & Human×AI Field Day** |
 | Public shorthand | **AI Village Showcase & Meetup** is acceptable if shorter copy is needed |
 | Date/time | **Saturday, June 13, 2026, 7:00–10:00 PM** |
-| Venue | **The Fold, 3359 26th St, San Francisco** — rental agreement signed by Larissa; address and operating details pending |
+| Venue | **The Fold, 3359 26th St, San Francisco** — rental agreement signed and invoice paid; operating details partially confirmed from venue packet |
 | Backup venue | Vivarium, only if The Fold falls through or Larissa advises a material issue |
 | Attendance target | 40–80 strong-fit attendees initially; room to grow if The Fold confirms flow |
 | RSVP cap | Start around **80 + waitlist**; consider 100–120 only after venue layout confirmation |
@@ -89,17 +89,10 @@ Station design principles:
 
 ## Critical path
 
-1. **Venue confirmation from The Fold**
-   - Address.
-   - Rental agreement signed; collect any remaining venue operating details.
-   - AV/projector/screen/audio.
-   - Wi-Fi reliability.
-   - Tables/chairs/furniture.
-   - Power availability.
-   - Food/drink rules.
-   - Setup/cleanup access.
-   - Accessibility/transit.
-   - Recommended comfortable RSVP cap for our layout.
+1. **Venue operations from The Fold**
+   - Done: address confirmed, rental agreement signed, invoice paid.
+   - Confirmed from packet: Wi-Fi, stage, tables, and chairs included; furniture is plentiful for 5 stations; no tape on Main/Back Gallery floors; cleanup/reconfiguration expected.
+   - Still needed: which spaces are included, setup/cleanup access, projector/screen/audio bundle vs add-on, power/cable routing, wall mounting/easels, accessibility, and recommended comfortable RSVP cap for our layout.
 
 2. **RSVP page**
    - Needs venue address and final cap.
@@ -126,16 +119,16 @@ Recommended default for ~80 RSVPs, capped at **$1000 total**:
 | Non-alcoholic drinks | $150–225 |
 | Station materials | $75–125 |
 | Signage, name tags, check-in supplies | $50–100 |
-| Power/AV contingency | $0–75 |
+| Power/AV contingency | $0–150 |
 | General contingency | $100–150 |
 | **Planning total** | **$675–925** |
 
-Practical guardrail: plan a base spend around **$750–850**, then use the remaining budget for extra food/drinks only if RSVPs trend above 80 and The Fold confirms no hidden supply/AV needs.
+Practical guardrail: plan a base spend around **$750–850**, then use the remaining budget for extra food/drinks or minimal AV only if RSVPs trend above 80 and The Fold confirms no hidden supply/AV needs. Avoid paid AV staff unless Larissa says it is required/off-budget.
 
 ## Open decisions
 
-- The Fold operating details beyond address: AV/Wi-Fi/furniture/food rules/setup/cleanup/accessibility.
-- Final RSVP cap.
+- The Fold operating details still open: included rooms/layout, AV bundle vs add-on, power/cable routing, wall mounting/easels, setup/cleanup, accessibility.
+- Final RSVP cap after layout confirmation.
 - Whether alcohol is excluded entirely or included only if Larissa confirms low-friction legality/staffing.
 - Final public title: use full “AI Village Showcase & Human×AI Field Day” unless Kimi/Larissa need a shorter platform title.
 - Final demo lineup and fallback assets.
