@@ -8,15 +8,15 @@
 - **When:** Saturday, June 13, 2026 · 7:00–10:00 PM PT
 - **Where:** The Fold, San Francisco
 - **RSVP:** https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
-- **Current cap:** 100 confirmed + waitlist per Larissa's Day 433 decision; The Fold says 80 fits comfortably in-room and suggested a higher RSVP cap for a free event assuming ~30% no-shows
-- **Latest documented RSVP baseline:** 14 confirmed / 66 spots left as of Day 433 ~3:08 PM PT
+- **RSVP cap decision:** operating plan is **100 + waitlist** per Larissa's Day 433 decision; The Fold says 80 fits comfortably in-room and suggested a higher RSVP cap for a free event assuming ~30% no-shows. **Live Partiful still showed 63/80 spots left / `maxCapacity:80` on Day 433 ~4:05–4:15 PM PT, so host-side edit is still needed before the newsletter if possible.**
+- **Latest documented RSVP baseline:** 17 going / 11 interested / 2 maybe, 0 waitlist, and 63/80 public spots left as of Day 433 ~4:05–4:15 PM PT
 - **Budget:** $1000 attendee-experience budget; venue rental is signed/paid and off-budget
 - **Human producer:** Larissa Schiavo
 
 ## Decisions that are current
 
 - **Venue:** The Fold is the venue. No active replacement search. The Fold confirmed the **entire downstairs space**, seating for **up to 60** plus standing, breakout tables in the back, **6:00 PM setup access**, **10:30 PM cleanup deadline**, and included projector/screen/3 mics/PA/cables/adapters/uplights.
-- **Alcohol:** Outside alcohol is not allowed. If alcohol is included, use **The Fold's beer/wine bar package only** after quote/minimums; keep strong non-alcoholic drinks either way.
+- **Alcohol:** Outside alcohol is not allowed. Beer/wine would have to use **The Fold's cash-bar package**; quote is **$500 minimum**, **$7–$13/drink**, and the team covers any shortfall. Default remains no cash bar unless RSVPs are strong and essentials are protected/backed; keep strong non-alcoholic drinks either way.
 - **Food:** Outside self-serve NA drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed; remove leftovers/materials and help take trash to venue bins.
 - **Promotion:** Human channels (Larissa / AI Digest / warm networks) drive promotion. Agents do not cold-contact humans or post externally except with exact approval.
 - **Demo 2:** Plan A is a clean projected village room for live multi-agent collaboration; Plan B is a rehearsal recording. Do not project private `#best` scrollback.
@@ -70,7 +70,7 @@ These remain in the repo for audit/history but should not drive decisions:
 
 ## Open blockers to resolve next
 
-1. Remaining The Fold items: private day-of contact, beer/wine bar-package quote/minimums if alcohol is desired, non-service pet policy, final Wi‑Fi credentials before event, and exact cap monitoring after the move to 100. Confirmed: entire downstairs, 60 seated + standing/back tables, 80 comfortable in-room, 6 PM setup, 10:30 PM breakdown, included A/V/uplights/cables, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension cords/cable covers, outside NA/food/cake, front check-in/downstairs Theater Gallery flow, ADA elevator assistance via staff, and cleanup/trash/leftover expectations.
+1. Remaining The Fold / host items: host-side Partiful cap edit from 80 to **100 + waitlist**; private day-of contact; non-service pet policy; final Wi‑Fi credentials before event; and cash-bar yes/no decision. Cash-bar quote is known (**$500 minimum**, **$7–$13/drink**, team covers shortfall) and default remains no unless RSVPs are strong and essentials are protected/backed. Confirmed: entire downstairs, 60 seated + standing/back tables, 80 comfortable in-room, 6 PM setup, 10:30 PM breakdown, included A/V/uplights/cables, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension cords/cable covers, outside NA/food/cake, front check-in/downstairs Theater Gallery flow, ADA elevator assistance via staff, and cleanup/trash/leftover expectations.
 2. AI Digest / platform answer for Demo 2 clean projected room (`#showcase-live`) and rehearsal prompt-injection/projection path.
 3. Larissa/local route for printing and pickup/delivery.
 4. Human helper/device count: demo laptop driver, check-in, station floaters, plus 1 staffed primary presentation laptop + adapter set + supervised backup device; optional supervised Arcade device. No unattended personal laptops.
