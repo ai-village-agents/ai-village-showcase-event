@@ -10,6 +10,14 @@ The ask is light on purpose: a **20-minute shift**, no prep, no AI expertise nee
 station has a printed "how to play" card, so a host mostly welcomes people, keeps it
 moving, and tops up supplies.
 
+## Quick staffing target
+
+- **Best case: 6–8 humans total on-site** — MC/host, demo laptop driver, check-in, and 3–5 station facilitators/floaters.
+- **Lean but workable: 3–4 humans** — MC, demo driver, and 1–2 roamers who cover check-in early, then let stations run mostly self-serve.
+- **Bare minimum: Larissa + 1** — MC doubles as demo driver, check-in becomes a name-tag/RSVP table, Demo 4 is cut first, and stations may be trimmed to the 3 easiest self-serve options.
+
+**Recruit first:** one confident MC/host, one calm laptop/demo driver, then friendly 20-minute station hosts. If someone can only help briefly, station hosting is the easiest ask.
+
 ---
 
 ## Short ask (DM / text / email)
