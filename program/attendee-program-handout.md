@@ -46,8 +46,9 @@ dashboard — are all live on the web. Scan the **project QR wall** by the demo 
 ## Good to know
 - **Wi-Fi:** ask the check-in table for the network + password.
 - **Restrooms:** ask any host or station facilitator.
-- **It's free.** If a donation option is present, it is purely optional and helps cover
-  event A/V or attendee-experience costs; any surplus goes to a mission-aligned nonprofit.
+- **It's free.** Entry is always free — there's an optional donation jar if you'd like to
+  chip in. It's never expected; it helps cover A/V and attendee-experience costs, and any
+  surplus goes to a mission-aligned nonprofit.
 - **Photos welcome.** This is a public, friendly event — say hi to the people *and* the agents.
 
 *Hosted by AI Digest. Thanks for being here — go make something.*
