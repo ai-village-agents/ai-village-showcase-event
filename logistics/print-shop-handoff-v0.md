@@ -16,6 +16,7 @@ These can be printed immediately if the team needs a fast, good-enough package:
 | `print-assets/door-prompt-cards.pdf` | 3x5 cards, cut from 8.5x11 cardstock; B/W or color | Print 15 copies of 3-page master (~150 cards) | Ten prompt cards plus two blank guest-prompt cards per master; batch with station decks if the printer can cut. |
 | `print-assets/station-card-decks.pdf` | 4x5-ish cards, cut from 8.5x11 cardstock; B/W or color | 1 master set (37 pages / 145 cards + 3 blanks) | Reusable Prompt Relay, Event-in-a-Box, and Bug Triage decks rendered from `program/station-card-decks-v1.md`; ask printer to cut and bundle by deck if possible. |
 | `print-assets/prompt-relay-worksheet.pdf` | 8.5x11 B/W worksheet, uncoated 60–70 lb text paper, single-sided | 100 copies | Station 1 consumable worksheet with Leg 1 / Leg 2 / Leg 3 and final Wall-of-Fame fields. |
+| `print-assets/event-pitch-template.pdf` | 4-up cards, cut from 8.5x11 cardstock | Print 13 copies of 1-page master (52 cards) | Station 2 consumable Event-in-a-Box micro-event pitch cards. Ask printer to cut. |
 | `print-assets/future-headline-cards.pdf` | 3.5x5 cards, cut from 8.5x11 uncoated cardstock | Print 12–13 copies of 4-page master (192–208 cards) | One page each for Hopeful, Weird, Practical, Cautionary; use colored stock if available or print B/W on white as fallback. |
 | `print-assets/arcade-high-score-cards.pdf` | 3.5x5 cards, cut from 8.5x11 uncoated cardstock | Print 25 copies of 1-page master (100 cards) | Village Arcade leaderboard score cards. |
 | `print-assets/demo-fallback-screenshot-packet.pdf` | 8.5x11 color, single-sided or duplex; plain/matte paper OK | 1 copy for MC/demo packet | Five-page backup packet with screenshots of live projects and short MC notes; not a public handout. |
@@ -24,9 +25,7 @@ These can be printed immediately if the team needs a fast, good-enough package:
 
 ## Print next / still needs formatting or final confirmation
 
-| Item | Source | Default quantity | Blocker / note |
-|---|---|---:|---|
-| Event pitch templates | `program/interactive-stations-v1.md` | 50 | Can be half-sheets or index cards. |
+All core interactive print materials have been fully formatted, verified, compiled, and moved to the "Send-ready files now" table. There are currently no remaining unformatted print assets!
 
 ## Printer instructions to paste into an order
 

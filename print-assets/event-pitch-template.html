@@ -1,0 +1,318 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Event Pitch Template</title>
+<style>
+  @page { size: letter portrait; margin: 0.3in; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: 'Inter', Arial, sans-serif; color: #111827; background: white; -webkit-print-color-adjust: exact; }
+  
+  /* Layout table to hold 2x2 grid robustly in WeasyPrint 54.1 */
+  .layout-table { width: 100%; height: 9.8in; border-collapse: separate; border-spacing: 0.2in; }
+  .layout-row { display: table-row; }
+  .layout-cell { display: table-cell; width: 50%; height: 50%; vertical-align: top; }
+  
+  .card {
+    width: 3.6in;
+    height: 4.8in;
+    border: 1.5px dashed #4f46e5;
+    border-radius: 12px;
+    padding: 0.2in;
+    background: #faf5ff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 auto;
+  }
+  
+  .card-header {
+    border-bottom: 2px solid #111827;
+    padding-bottom: 6px;
+    margin-bottom: 8px;
+  }
+  
+  .header-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 8px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #4f46e5;
+  }
+  
+  .card-title {
+    margin: 4px 0 0;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    color: #111827;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .fields-group {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .field-row {
+    font-size: 10px;
+    font-weight: 800;
+    color: #374151;
+  }
+  
+  .field-row span {
+    font-weight: 500;
+    color: #4b5563;
+  }
+  
+  .writing-line {
+    border-bottom: 1.2px solid #cbd5e1;
+    height: 18px;
+    margin-top: 2px;
+  }
+  
+  .pitch-box {
+    border: 1.2px dashed #9ca3af;
+    border-radius: 6px;
+    padding: 6px;
+    background: #ffffff;
+    flex-grow: 1;
+    min-height: 1.1in;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .pitch-title {
+    font-size: 9px;
+    font-weight: 800;
+    color: #4b5563;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  
+  .pitch-lines {
+    flex-grow: 1;
+    background: repeating-linear-gradient(to bottom, transparent, transparent 21px, #e5e7eb 22px);
+    margin-top: 2px;
+  }
+  
+  .card-footer {
+    border-top: 1.5px solid #111827;
+    padding-top: 6px;
+    margin-top: 8px;
+    font-size: 8px;
+    font-weight: 800;
+    color: #374151;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-line {
+    border-bottom: 1px solid #111827;
+    flex-grow: 1;
+    margin-left: 6px;
+    height: 10px;
+  }
+</style>
+</head>
+<body>
+
+  <table class="layout-table">
+    <tr class="layout-row">
+      <td class="layout-cell">
+        <!-- Card 1 -->
+        <div class="card">
+          <div class="card-header">
+            <div class="header-meta">
+              <span>AI Village Showcase</span>
+              <span>Station 2: Event-in-a-Box</span>
+            </div>
+            <h2 class="card-title">Micro-Event Pitch</h2>
+          </div>
+          
+          <div class="fields-group">
+            <div class="field-row">
+              CATCHY TITLE:
+              <div class="writing-line" style="border-bottom: 1.5px solid #111827;"></div>
+            </div>
+            
+            <div class="field-row" style="display: flex; gap: 10px;">
+              <div style="flex: 1;">
+                AUDIENCE:
+                <div class="writing-line"></div>
+              </div>
+              <div style="flex: 1;">
+                SF VENUE:
+                <div class="writing-line"></div>
+              </div>
+            </div>
+            
+            <div class="field-row">
+              WEIRD TWIST:
+              <div class="writing-line"></div>
+            </div>
+            
+            <div class="pitch-box">
+              <div class="pitch-title">Pitch / Program Highlights:</div>
+              <div class="pitch-lines"></div>
+            </div>
+          </div>
+          
+          <div class="card-footer">
+            <span>CO-DESIGNED BY:</span>
+            <div class="footer-line"></div>
+          </div>
+        </div>
+      </td>
+      
+      <td class="layout-cell">
+        <!-- Card 2 -->
+        <div class="card">
+          <div class="card-header">
+            <div class="header-meta">
+              <span>AI Village Showcase</span>
+              <span>Station 2: Event-in-a-Box</span>
+            </div>
+            <h2 class="card-title">Micro-Event Pitch</h2>
+          </div>
+          
+          <div class="fields-group">
+            <div class="field-row">
+              CATCHY TITLE:
+              <div class="writing-line" style="border-bottom: 1.5px solid #111827;"></div>
+            </div>
+            
+            <div class="field-row" style="display: flex; gap: 10px;">
+              <div style="flex: 1;">
+                AUDIENCE:
+                <div class="writing-line"></div>
+              </div>
+              <div style="flex: 1;">
+                SF VENUE:
+                <div class="writing-line"></div>
+              </div>
+            </div>
+            
+            <div class="field-row">
+              WEIRD TWIST:
+              <div class="writing-line"></div>
+            </div>
+            
+            <div class="pitch-box">
+              <div class="pitch-title">Pitch / Program Highlights:</div>
+              <div class="pitch-lines"></div>
+            </div>
+          </div>
+          
+          <div class="card-footer">
+            <span>CO-DESIGNED BY:</span>
+            <div class="footer-line"></div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    
+    <tr class="layout-row">
+      <td class="layout-cell">
+        <!-- Card 3 -->
+        <div class="card">
+          <div class="card-header">
+            <div class="header-meta">
+              <span>AI Village Showcase</span>
+              <span>Station 2: Event-in-a-Box</span>
+            </div>
+            <h2 class="card-title">Micro-Event Pitch</h2>
+          </div>
+          
+          <div class="fields-group">
+            <div class="field-row">
+              CATCHY TITLE:
+              <div class="writing-line" style="border-bottom: 1.5px solid #111827;"></div>
+            </div>
+            
+            <div class="field-row" style="display: flex; gap: 10px;">
+              <div style="flex: 1;">
+                AUDIENCE:
+                <div class="writing-line"></div>
+              </div>
+              <div style="flex: 1;">
+                SF VENUE:
+                <div class="writing-line"></div>
+              </div>
+            </div>
+            
+            <div class="field-row">
+              WEIRD TWIST:
+              <div class="writing-line"></div>
+            </div>
+            
+            <div class="pitch-box">
+              <div class="pitch-title">Pitch / Program Highlights:</div>
+              <div class="pitch-lines"></div>
+            </div>
+          </div>
+          
+          <div class="card-footer">
+            <span>CO-DESIGNED BY:</span>
+            <div class="footer-line"></div>
+          </div>
+        </div>
+      </td>
+      
+      <td class="layout-cell">
+        <!-- Card 4 -->
+        <div class="card">
+          <div class="card-header">
+            <div class="header-meta">
+              <span>AI Village Showcase</span>
+              <span>Station 2: Event-in-a-Box</span>
+            </div>
+            <h2 class="card-title">Micro-Event Pitch</h2>
+          </div>
+          
+          <div class="fields-group">
+            <div class="field-row">
+              CATCHY TITLE:
+              <div class="writing-line" style="border-bottom: 1.5px solid #111827;"></div>
+            </div>
+            
+            <div class="field-row" style="display: flex; gap: 10px;">
+              <div style="flex: 1;">
+                AUDIENCE:
+                <div class="writing-line"></div>
+              </div>
+              <div style="flex: 1;">
+                SF VENUE:
+                <div class="writing-line"></div>
+              </div>
+            </div>
+            
+            <div class="field-row">
+              WEIRD TWIST:
+              <div class="writing-line"></div>
+            </div>
+            
+            <div class="pitch-box">
+              <div class="pitch-title">Pitch / Program Highlights:</div>
+              <div class="pitch-lines"></div>
+            </div>
+          </div>
+          
+          <div class="card-footer">
+            <span>CO-DESIGNED BY:</span>
+            <div class="footer-line"></div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>

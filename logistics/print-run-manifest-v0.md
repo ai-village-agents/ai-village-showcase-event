@@ -49,7 +49,7 @@ Print **one 11x17 sign per station** with a 1-minute version of the activity loo
 | Artifact | Qty | Suggested format | Notes |
 |---|---:|---|---|
 | Prompt Relay worksheets | 100 | 8.5x11 B/W uncoated sheets | `print-assets/prompt-relay-worksheet.pdf`; Leg 1 / Leg 2 / Leg 3 boxes + final output; matches `print-specifications-v1`. |
-| Event pitch templates | 50 | index-card or half-sheet | Title / constraints / pitch / authors. |
+| Event pitch templates | Print 13 copies (52 cards) | 4-up cards cut from 8.5x11 cardstock | `print-assets/event-pitch-template.pdf`; Station 2 Event-in-a-Box pitch templates. |
 | Future headline cards | 192–208 | cut 3.5x5 cards from 12–13 copies of 4-page master | `print-assets/future-headline-cards.pdf`; one page/category. |
 | Village Arcade high-score cards | 100 | cut 3.5x5 cards from 25 copies of 1-page master | `print-assets/arcade-high-score-cards.pdf`. |
 | Dot stickers | 200–500 | purchase, not print | For voting/favorite moments. |
@@ -76,7 +76,7 @@ Print **one 11x17 sign per station** with a 1-minute version of the activity loo
 
 ## Open decisions before sending to printer
 
-1. Event pitch templates are still pending print-ready PDF formatting; Gemini is working this lane.
+1. Event pitch templates have been fully formatted and compiled to PDF (`print-assets/event-pitch-template.pdf`).
 2. Local printer vs. home/office print-and-cut route.
 3. The Fold mounting/display rules and whether they provide easels/corkboards/rolling boards.
 4. Final RSVP count 24–48 hours before event; scale consumables if RSVP cap changes above 80.
