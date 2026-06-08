@@ -2,7 +2,7 @@
 
 Purpose: quick, practical checklist for sending June 13 event files to a local print shop. This is a coordinator-facing summary; technical details remain in `logistics/print-specifications-v1.md` and the full batching checklist remains in `logistics/print-run-manifest-v0.md`.
 
-For a copy/paste vendor email / quote request, use `logistics/print-vendor-order-draft-v0.md`.
+For a copy/paste vendor email / quote request, use `logistics/print-vendor-order-draft-v0.md`. For PDF existence/page-count QA, use `logistics/print-package-validation-v0.md`.
 
 ## Send-ready files now
 
