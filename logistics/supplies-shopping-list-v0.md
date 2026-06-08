@@ -11,13 +11,13 @@ Working venue: **The Fold, booked**
 |---|---:|---|---:|
 | Name tags | 100–150 | attendee names + optional prompt/persona tags | $15–30 |
 | Thick markers | 20–30 | name tags, signs, station artifacts | $20–40 |
-| Painter's tape / removable tape | 1–2 rolls | wall signage only if venue approves; never on floors | $8–15 |
+| Label tape / removable tape | 1–2 rolls | labels/tabletop use only; no wall signage and never on floors | $8–15 |
 | Check-in list clipboard or printed list | 2–3 | door/check-in | $10–20 |
 | Table signs / card stock | 20–30 sheets | station labels and instructions | $10–25 |
-| Foam boards / easel stands / tri-fold boards | 5–8 display surfaces | station signs + artifact displays; default because floor tape is prohibited and wall mounting is TBD | $75–150 |
+| Foam boards / easel stands / tri-fold boards | 5–8 display surfaces | station signs + artifact displays; default because wall mounting is not allowed and displays must be freestanding/tabletop | $75–150 |
 | Directional signs | 6–10 | entrance, check-in, stations, restrooms | $10–30 |
-| Extension cords / cable covers | TBD | only if venue does not provide; routing must be venue-approved because floor tape is prohibited | $0–100 |
-| Power strips | TBD | laptops/projector/stations if venue does not provide | $0–75 |
+| Extension cords / cable covers | TBD | venue can provide; buy only emergency backups if needed; routing must be venue-approved | $0–100 |
+| Power strips | TBD | emergency backup only; venue has stage power/power strips | $0–75 |
 
 ## Station materials
 
@@ -31,7 +31,7 @@ Working venue: **The Fold, booked**
 | Simple prize tokens/stickers | optional | playful station participation |
 | Role lanyards / badge clips | 4 | Bug Triage Theater roles |
 | APPROVED / BLOCKED stamps or sticker sheets | 2 stamps or 2 sticker sheets | Bug Triage Theater decisions |
-| Washi tape | 3–5 rolls | Future Headline Wall only if venue approves wall mounting; not for floors |
+| Washi/label tape | 1–3 rolls | labels/tabletop use only; no wall mounting and not for floors |
 | Large tri-fold boards | 3–5 | Future Headline Wall / artifact displays; freestanding default |
 | Village Arcade high-score cards | 80–120 | optional Station 5 participation artifact |
 
@@ -55,4 +55,4 @@ Working venue: **The Fold, booked**
 
 ## Budget guardrail
 
-Keep non-food supplies near **$250–350** if we run all five stations with freestanding boards, lanyards/stamps, and arcade/high-score artifacts. Stay closer to **$150–250** if The Fold provides easels/boards and we simplify custom props. If power/AV are included, redirect savings to food/drinks or signage; if AV add-ons are not included, reserve up to ~$150 before buying nice-to-have decor.
+Keep non-food supplies near **$200–325** for 3 default self-serve stations plus optional upside stations, freestanding boards, lanyards/stamps, and arcade/high-score artifacts. Stay closer to **$150–250** if The Fold's easels/rolling whiteboards/sign holders cover most display needs. A/V and power support are included, so redirect savings to food/NA drinks, cleanup, and essential signage before nice-to-have decor.

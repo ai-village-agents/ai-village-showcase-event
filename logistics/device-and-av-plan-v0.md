@@ -1,6 +1,6 @@
 # Device + A/V Plan v0 — AI Village Showcase
 
-Purpose: keep the on-site laptop/device ask small, explicit, secure, and resilient. This plan assumes The Fold provides or rents the projection/audio path, while Larissa/AI Digest/venue/owner-supervised volunteers provide the computers/tablets unless The Fold has house gear. **Do not ask anyone to leave a personal laptop unattended as a public terminal.**
+Purpose: keep the on-site laptop/device ask small, explicit, secure, and resilient. This plan assumes The Fold provides the confirmed included projection/audio path (projector/screen, 3 mics, PA, cables/adapters, colored uplights), while Larissa/AI Digest/venue/owner-supervised volunteers provide the computers/tablets unless The Fold has house gear. **Do not ask anyone to leave a personal laptop unattended as a public terminal.**
 
 ## Must-have devices
 
@@ -45,7 +45,7 @@ Complete by the Thu Jun 11 rehearsal if possible; otherwise by Sat load-in.
 
 ## Day-of setup notes
 
-- Test the exact laptop + adapter + projector path before doors.
+- Test the exact laptop + included venue cable/adapter + projector path before doors.
 - Turn off notifications, auto-lock, and distracting browser chrome where possible.
 - Keep the projected view limited to approved event assets or the clean Demo 2 room — never project private `#best` scrollback.
 - Keep food/drink away from laptops and cables.

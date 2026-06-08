@@ -39,7 +39,7 @@
 
 ## RSVP velocity monitoring
 
-**Current host-view snapshot (Mon Jun 8, ~3:08 PM PT):** 14 confirmed RSVPs; 66/80 spots left. This is still early/low-velocity but before the main AI Digest/Larissa promotion push; keep the 80 cap, hold base print quantities, and recheck tonight or Tue morning after promotion.
+**Current host-view snapshot (Mon Jun 8, late afternoon):** 14–16 confirmed RSVPs before the cap decision. Larissa approved moving to a **100 RSVP cap + waitlist** based on The Fold's free-event no-show guidance; hold base print quantities for 100 RSVPs plus staff where cheap, and recheck Tue morning/after promotion.
 
 | Date | Target RSVPs | Action if below target |
 |---|---|---|

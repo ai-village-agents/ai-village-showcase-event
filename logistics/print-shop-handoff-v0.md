@@ -34,7 +34,7 @@ All core interactive print materials have been fully formatted, verified, compil
 
 ## Printer instructions to paste into an order
 
-Please print on matte stock where possible. Avoid glossy finishes. Cut card decks cleanly and keep each deck bundled/labeled by station. For signs, foam board or mounted posters are useful because venue wall-mounting is not yet confirmed; otherwise print as flat posters for easels/table stands. No adhesive installation is requested from the printer.
+Please print on matte stock where possible. Avoid glossy finishes. Cut card decks cleanly and keep each deck bundled/labeled by station. For signs, produce flat or mounted pieces suitable for sign holders, easels, rolling whiteboards, tabletop stands, or other freestanding display; no wall mounting or adhesive installation.
 
 ## Decisions to confirm before final order
 

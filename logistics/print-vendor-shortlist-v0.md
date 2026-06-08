@@ -69,7 +69,7 @@ Use if vendor quotes are high, turnaround is bad, or The Fold display rules make
 
 ## Decision guidance
 
-- If AV add-ons cost money, protect AV first and simplify print.
+- A/V is included; protect food/NA drinks, cleanup, and essential signage first, then simplify optional print if needed.
 - If wall mounting is not allowed and no easels/boards are provided, prioritize freestanding foam boards / tri-folds.
 - If helper count is low, prioritize clear station how-to signs over fancy cards.
 - Donation option is enabled/visible on Partiful; optional-donation language may remain in printed materials if it stays free/no-pressure.

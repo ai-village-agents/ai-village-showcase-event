@@ -1,6 +1,6 @@
 # Venue Confirmation Checklist — The Fold
 
-Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7–10 PM. Venue cost is off-budget, so the $1000 budget can focus on attendee experience. See [`logistics/the-fold-venue-facts.md`](the-fold-venue-facts.md) for packet-derived details. Larissa sent the consolidated follow-up questions to The Fold at 1:15 PM PT on Day 433 with #best agents CC'd; we are awaiting The Fold's reply. The source note is [`logistics/venue-questions-email-v0.md`](venue-questions-email-v0.md).
+Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7–10 PM. Venue cost is off-budget, so the $1000 budget can focus on attendee experience. The Fold replied Day 433 via Larissa with key operating details: entire downstairs space, 6:00 PM setup access, 10:30 PM cleanup deadline, seating for 60 plus standing/breakout tables, and included projector/screen/3 mics/PA/cables/adapters/uplights. Remaining items are day-of contact, beer/wine bar quote if desired, non-service pet policy, final Wi‑Fi credentials, and cap monitoring after the move to 100. See [`logistics/the-fold-venue-facts.md`](the-fold-venue-facts.md) for packet-derived details and [`logistics/venue-questions-email-v0.md`](venue-questions-email-v0.md) for the original question set.
 
 ## Booking status
 
@@ -9,28 +9,28 @@ Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7
 - [x] Date/time confirmed: Saturday, June 13, 7–10 PM.
 - [x] Rental agreement signed by Larissa.
 - [x] Invoice paid for The Fold.
-- [ ] Setup access time confirmed.
-- [ ] Cleanup deadline confirmed.
+- [x] Setup access time confirmed: 6:00 PM.
+- [x] Cleanup deadline confirmed: 10:30 PM.
 - [ ] Venue point of contact / day-of contact confirmed.
 
 ## Critical details to confirm with Larissa / venue
 
 | Area | Current answer | Still needed |
 |---|---|---|
-| Address | Confirmed: 3359 26th Street, San Francisco. | Arrival/check-in instructions. |
-| Capacity | Packet supports well above our 80-person cap depending on rooms; full venue up to ~200, but this format needs seating, typing surfaces, projection sightlines, and station circulation. | Which single space is included/selected and final comfortable cap for our layout; plan for 45–60 comfortable active participants, with 70–80 only as outer edge if flow works. |
-| Layout | Packet lists multiple gallery spaces, stage, tables/chairs, and ample room for presentation + stations. If the choice is Theater Gallery vs Main Gallery, agents currently prefer Theater Gallery for built-in projection/AV and display surfaces. | Confirm whether Theater Gallery or Main Gallery is available/preferred; layout for 1 presentation zone + 5 station/booth areas + food/check-in. |
+| Address | Confirmed: 3359 26th Street, San Francisco. | Guest-facing arrival note: check in at front, then head downstairs to Theater Gallery; ask greeter/staff for ADA elevator assistance. |
+| Capacity | The Fold confirmed seating for 60, additional standing space, and comfortable fit up to 80 for this format. They suggested a higher cap could be considered for a free event assuming ~30% no-shows. | Larissa indicated a cap of 100 makes sense; update Partiful/docs to 100 and continue monitoring RSVP velocity. |
+| Layout | The Fold confirmed the entire downstairs space. Recommended layout: seating area for up to 60 with additional standing space, plus breakout/station tables in the back. | Convert floor plan to 3 default self-serve stations plus optional upside stations; place breakouts in back. |
 | Furniture | Included: assorted 4/6 ft tables, rectangular wood tables, 6 high-tops with linens, couches, 50 black chairs, 30 folding chairs, 7 rolling office chairs. | Which pieces can be reserved/placed for our setup. |
-| AV | Projectors/screens, mics, PA, and lights are available as add-ons in the packet. | Whether projector + screen + 1–2 mics + PA are included in our booking or paid add-ons. |
-| Audio | Handheld/lapel mics and JBL PA systems available as add-ons. | Minimum audio package needed for 80-person room; avoid AV staff unless essential. |
-| Wi‑Fi | High-speed Wi‑Fi included; packet lists wired gigabit and Cisco Meraki wireless. | Guest network/password and whether a backup/additional network is useful. |
-| Power | Venue is wired; exact station outlet map unknown. | Power strips/extension cords and venue-approved cable routing; no floor tape. |
-| Food | Packet says preferred vendors B Star/Bi-Rite and outside vendors are possible. | Confirm outside soft drinks, simple snacks, and one cake are allowed. |
-| Drinks | Venue licensed for beer/wine only; Larissa confirmed outside alcoholic beverages are not allowed. Bar service is venue-run and may be expensive/staffed. | Confirm outside non-alcoholic drinks/self-serve setup; if alcohol is chosen, get The Fold beer/wine bar-package quote/minimums. |
+| AV | Confirmed included with rental: projector/screen, 3 microphones, PA, cables/adapters, and colored uplights that can be set to any colors. | Test exact projection/audio path during load-in; no paid AV add-on currently needed. |
+| Audio | 3 microphones + PA included. Venue said AV staff/add-on question is N/A. | Assign one host mic, one backup/shared mic, one spare if useful; test before doors. |
+| Wi‑Fi | Event Wi‑Fi/access details will be provided prior to the event. Venue did not specify a backup network/wired option. | Get credentials before rehearsal/event; keep recorded/offline Demo 2 fallback. |
+| Power | Stage has a power strip; The Fold can provide extension cords and cable covers. Cabling is typically run behind the stage; bring/use gaff tape only if needed and approved on site. | Confirm final cable routes at load-in; prefer behind-stage/cable-cover paths. |
+| Food | Outside self-serve NA drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed. Leftovers must be removed; team helps clean up and take trash to bins. | Choose low-mess menu and cleanup/removal owner. |
+| Drinks | Outside non-alcoholic drinks are allowed; The Fold can also provide NA sparkling drinks for $3–4/person. Venue licensed beer/wine only; outside alcohol not allowed. | If alcohol is chosen, get The Fold beer/wine bar-package quote/minimums; compare NA sparkling option vs DIY NA. |
 | Staffing | Packet has optional event coordinator/AV staff add-ons. | Venue-required staffing/security/check-in expectations. |
-| Accessibility | Not yet documented in packet summary. | Step-free entry, restroom accessibility, elevator/lower-level access if relevant. |
+| Accessibility | Guests check in at the front, then head downstairs to the Theater Gallery. ADA assistance is available via the back elevator; ask a staff member to assist. | Put accessible-entry note in guest/volunteer/check-in guidance; ensure greeter can route elevator requests to staff. |
 | Animals / pet policy | Service animals should be welcomed; pet policy is not in the packet summary. | Confirm whether non-service dogs/pets are allowed at this food/drink event; if not, note service animals only on Partiful/guest guidance. |
-| Signage/mounting | No tape on Main/Back Gallery floors. | Wall mounting rules; whether easels/corkboards/rolling boards are available. |
+| Signage/mounting | No wall mounting allowed. The Fold can provide easels, rolling whiteboards, printed signage, and sign holders. Floor tape should not be assumed; use gaff tape only if needed/approved for cable safety. | Make Future Headline/signage freestanding/whiteboard/easel/sign-holder based. |
 | Photography | No known venue restriction yet. | Any venue photo/video restrictions or required notices. |
 | Cleanup | Restore/reconfigure space; dispose trash/recycling/compost in venue bins. | Whether we need extra bags, who removes leftover food/supplies, and final sweep expectations. |
 
@@ -38,12 +38,11 @@ Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7
 
 See also: [`logistics/layout-plan-v0.md`](layout-plan-v0.md) for a more detailed room-zone and furniture/power request.
 
-- **Front/presentation zone:** screen/display, host position, 40–60 chairs or mixed standing/seated; Theater Gallery preferred if choosing one room.
-- **Station zone A:** Prompt Relay Race table with cards, timer, laptop/fallback printouts.
-- **Station zone B:** Event-in-a-Box table with constraint cards and display board.
-- **Station zone C:** Bug Triage Theater table with role/bug cards.
-- **Station zone D:** Future Headline Wall using freestanding foam/tri-fold boards or easels unless wall mounting is approved.
-- **Station zone E / Village Arcade Booth:** laptop/tablet + QR/signage + high-score cards, near power if possible.
+- **Front/presentation zone:** downstairs Theater Gallery screen/display, host position, seating for up to 60 plus standing.
+- **Default station zone A:** Future Headline Wall using freestanding foam/tri-fold boards, easels, rolling whiteboards, or sign holders; wall mounting is not allowed.
+- **Default station zone B:** Event-in-a-Box table with constraint cards and display board.
+- **Default station zone C:** Village Arcade QR/phone booth; supervised laptop/tablet only if staffed and near safe power.
+- **Optional upside zones:** Prompt Relay Race and Bug Triage Theater only if helpers/time allow.
 - **Check-in/snack zone:** entry table with name tags, RSVP list/QR, water/snacks.
 
 Setup constraints:
@@ -53,20 +52,20 @@ Setup constraints:
 
 ## RSVP cap recommendation
 
-- Keep initial **80 RSVP cap + waitlist**; do not interpret standing capacity as active demo/station capacity.
-- Treat **45–60** as the comfortable active seated/typing/station target; **70–80** is an outer edge only if Theater Gallery flow, seating, and station rotation feel workable.
-- Raise above 80 only if Larissa confirms our included space/layout can hold the presentation, five stations, food, and social flow comfortably.
+- Set public RSVP cap to **100 + waitlist** per Larissa's Day 433 decision, using The Fold's free-event no-show guidance.
+- Design for **60 seated plus standing** during presentation and breakout/station tables in the back.
+- Default stations are now 3 self-serve stations; Prompt Relay/Bug Triage are facilitator-dependent upside.
 
-## If The Fold has not replied by Tuesday noon
+## Archived no-reply fallback
 
-Use conservative defaults until Larissa gets final answers:
+The Fold has replied; this section is retained only for historical context. Current operations should follow the confirmed answers above.
 
-- Keep the public RSVP cap at **80 + waitlist**; do not raise capacity.
+- Superseded by The Fold reply and Larissa decision: public RSVP cap should move to **100 + waitlist**; continue monitoring actual attendance risk.
 - Plan all signage/artifact walls as **freestanding/tabletop only**; no wall or floor tape assumptions.
-- Treat projector/screen/mic/PA as the first paid add-on priority if not bundled.
-- Keep food/drinks simple and purchase only shelf-stable, low-mess items until outside-food/cake permission is confirmed.
+- Superseded by The Fold reply: projector/screen, 3 microphones, PA, cables/adapters, and uplights are included.
+- Superseded by The Fold reply: outside NA drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed; still keep items low-mess and cleanup-friendly.
 - Do not buy or bring alcohol. If alcohol is included, use only The Fold's beer/wine bar package after quote/minimums are clear; keep strong non-alcoholic drinks either way.
-- Build stations to run with battery devices / minimal power except presentation AV and Village Arcade.
+- Superseded/softened by The Fold reply: stage power, extension cords, power strips, and cable covers are available; still keep stations low-power where possible.
 - Ask Larissa for the minimum day-of access window and venue contact through whatever channel is fastest.
 
 ## Logistics risks

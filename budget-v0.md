@@ -10,10 +10,10 @@ Current assumption: The Fold venue cost is handled separately and the invoice is
 | Drinks: nonalcoholic | $150–225 | Sparkling water, still water, soda/tea/juice; keep abundant even if beer/wine is added. |
 | Station materials | $150–250 | Printed cards, foam/tri-fold boards, markers, dot stickers, role badges, stamps/stickers, arcade cards. |
 | Signage/check-in/name tags | $50–100 | Name tags, check-in sheets/QR sign, welcome/schedule/station signs. |
-| AV/power contingency | $0–150 | Only if projector/mics/PA, extension cords, power strips, adapters, or cable covers are not included. Avoid paid AV staff unless required/off-budget. |
+| AV/power contingency | $0–75 | Projector/screen, 3 mics, PA, cables/adapters, and uplights are included; reserve only for emergency adapters/power/cable-cover gaps if The Fold cannot provide them. |
 | Optional beer/wine bar package | TBD / likely high | Use The Fold's bar package only if chosen; quote needed before committing because it may consume contingency or require budget tradeoffs. |
 | General contingency | $75–125 | Last-minute supplies, dietary add-ons, cleanup, overruns. |
-| **Planning total** | **$775–1000** | Rebalance once RSVP count, venue food rules, and AV bundle are known. |
+| **Planning total** | **$775–1000** | Rebalance once RSVP velocity, NA drink route, and any beer/wine decision are known. |
 
 ## Minimum-viable spending order
 
@@ -31,20 +31,18 @@ This is intentionally conservative: if a choice is between a polished extra and 
 ## Venue-driven budget notes
 
 - The Fold packet confirms Wi-Fi, stage, tables, and chairs are included.
-- A/V equipment appears available as an **add-on fee**; still need to know whether our booking includes projector + screen + 1–2 mics + PA.
+- A/V is confirmed included with rental: projector/screen, 3 microphones, PA, cables/adapters, and colored uplights. No paid A/V add-on currently needed; still test during load-in.
 - The Fold is beer/wine only. Larissa confirmed Day 433 that outside alcoholic beverages are **not allowed** under licensing, so any alcohol must use **The Fold's bar package**. Quote/minimums are needed before deciding.
-- Outside vendors appear possible; preferred vendors include B Star and Bi-Rite. Larissa is checking whether we can bring outside soft drinks, simple snacks, and one cake.
-- The venue offers a backup package of light hors d'oeuvres + non-alcoholic beverages at $20/person; use only if outside food/drink is not allowed or Larissa judges it operationally safer.
+- Outside self-serve NA drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed. Leftovers/materials must be removed and the team helps with trash to venue bins.
+- The Fold can provide NA sparkling drinks at $3–4/person; use if Larissa prefers venue-provided NA drinks over DIY purchase/transport.
 - No tape on Main/Back Gallery floors; budget for freestanding boards/easels/tri-folds instead of floor/wall-dependent displays.
 
 ## Budget choices to confirm with Larissa
 
-1. Can we bring outside non-alcoholic drinks, simple snacks, and one cake?
-2. Does our booking include projector + screen + 1–2 mics + PA, or do we need to reserve paid add-ons?
-3. If we choose beer/wine, what is The Fold's exact bar-package quote/minimum for ~80 people, including bartenders, gratuity, fees, and capped-host options?
-4. Does The Fold provide easels/corkboards/rolling boards, power strips, extension cords, or cable covers?
-5. What setup/breakdown access is included, and does it affect staffing or spend?
-6. What RSVP count should trigger budget rebalancing: 50, 75, 100?
+1. If we choose beer/wine, what is The Fold's exact bar-package quote/minimum for ~80 people, including bartenders, gratuity, fees, and capped-host options?
+2. Confirm final use of The Fold easels/rolling whiteboards/sign holders and stage power/extension cords/cable covers for the exact setup.
+3. Does the 6:00 PM setup / 10:30 PM breakdown window require extra paid help or a simplified setup?
+4. What actual RSVP/expected-attendance count should trigger budget rebalancing after the cap moves to 100?
 
 ## Lean alternative (~$650–750)
 
@@ -71,7 +69,7 @@ If Larissa / AI Digest decide to include a donation option, keep it clearly opti
 
 Recommended use order for any donations collected by Larissa on the event's behalf:
 
-1. Cover essential attendee-experience costs that exceed the $1,000 budget, especially A/V add-ons that make the live demos audible and visible.
+1. Cover essential attendee-experience costs that exceed the $1,000 budget, especially food/NA drinks, cleanup, signage/accessibility, and emergency AV replacement only if something breaks.
 2. Improve attendee comfort or accessibility, such as clearer signage, seating, water / non-alcoholic drinks, or other low-risk hospitality upgrades.
 3. Donate any surplus to Doctors Without Borders / Médecins Sans Frontières (MSF), the established Village charity, rather than expanding scope for novelty.
 

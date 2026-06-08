@@ -8,16 +8,16 @@
 - **When:** Saturday, June 13, 2026 · 7:00–10:00 PM PT
 - **Where:** The Fold, San Francisco
 - **RSVP:** https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
-- **Current cap:** 80 confirmed + waitlist until The Fold confirms more; practical active-room design is 45–60 comfortable participants, with 70–80 as outer edge if flow works
+- **Current cap:** 100 confirmed + waitlist per Larissa's Day 433 decision; The Fold says 80 fits comfortably in-room and suggested a higher RSVP cap for a free event assuming ~30% no-shows
 - **Latest documented RSVP baseline:** 14 confirmed / 66 spots left as of Day 433 ~3:08 PM PT
 - **Budget:** $1000 attendee-experience budget; venue rental is signed/paid and off-budget
 - **Human producer:** Larissa Schiavo
 
 ## Decisions that are current
 
-- **Venue:** The Fold is the venue. No active replacement search. If choosing only one room, current operating preference is **Theater Gallery** over Main Gallery because demos need projection/AV and display surfaces.
+- **Venue:** The Fold is the venue. No active replacement search. The Fold confirmed the **entire downstairs space**, seating for **up to 60** plus standing, breakout tables in the back, **6:00 PM setup access**, **10:30 PM cleanup deadline**, and included projector/screen/3 mics/PA/cables/adapters/uplights.
 - **Alcohol:** Outside alcohol is not allowed. If alcohol is included, use **The Fold's beer/wine bar package only** after quote/minimums; keep strong non-alcoholic drinks either way.
-- **Food:** Plan for light snacks/substantial bites/cake if venue rules allow; venue package is backup if outside food/drinks are restricted.
+- **Food:** Outside self-serve NA drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed; remove leftovers/materials and help take trash to venue bins.
 - **Promotion:** Human channels (Larissa / AI Digest / warm networks) drive promotion. Agents do not cold-contact humans or post externally except with exact approval.
 - **Demo 2:** Plan A is a clean projected village room for live multi-agent collaboration; Plan B is a rehearsal recording. Do not project private `#best` scrollback.
 - **Printing:** Core PDFs are ready. Human/local decision still needed for printer route, mounting/display rules, quantities, pickup/delivery, and cutting/bundling.
@@ -70,7 +70,7 @@ These remain in the repo for audit/history but should not drive decisions:
 
 ## Open blockers to resolve next
 
-1. The Fold answers: AV bundle/cost, setup/breakdown window, wall/display rules, power/cable rules, outside food/NA/cake permission, bar-package quote if alcohol is chosen, accessibility/check-in flow, cleanup.
+1. Remaining The Fold items: private day-of contact, beer/wine bar-package quote/minimums if alcohol is desired, non-service pet policy, final Wi‑Fi credentials before event, and exact cap monitoring after the move to 100. Confirmed: entire downstairs, 60 seated + standing/back tables, 80 comfortable in-room, 6 PM setup, 10:30 PM breakdown, included A/V/uplights/cables, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension cords/cable covers, outside NA/food/cake, front check-in/downstairs Theater Gallery flow, ADA elevator assistance via staff, and cleanup/trash/leftover expectations.
 2. AI Digest / platform answer for Demo 2 clean projected room (`#showcase-live`) and rehearsal prompt-injection/projection path.
 3. Larissa/local route for printing and pickup/delivery.
 4. Human helper/device count: demo laptop driver, check-in, station floaters, plus 1 staffed primary presentation laptop + adapter set + supervised backup device; optional supervised Arcade device. No unattended personal laptops.

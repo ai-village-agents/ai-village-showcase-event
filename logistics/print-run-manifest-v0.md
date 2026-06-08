@@ -4,13 +4,13 @@
 
 Purpose: one checklist for batching the June 13 print order / local print run. This complements `logistics/print-production-plan-v0.md`; use `logistics/print-specifications-v1.md` as the technical source of truth for paper stock, finishes, cuts, and printer-facing specifications.
 
-Assumption: plan for **80 RSVPs + staff/facilitators**, with a small overage where cheap. Prefer matte paper/cardstock. Use freestanding/easel/tabletop display by default; wall mounting only if The Fold approves it. **No floor tape.**
+Assumption: plan for **100 RSVPs + staff/facilitators**, with a small overage where cheap. Prefer matte paper/cardstock. Use freestanding/easel/tabletop display by default; no wall mounting; use easels, rolling whiteboards, sign holders, tabletop, or freestanding display. **No floor tape.**
 
 ## Batch A — guest-facing handouts and wayfinding
 
 | Artifact | Qty | Suggested format | Source / copy | Notes |
 |---|---:|---|---|---|
-| Attendee program handout | 100 | 8.5x11, B/W or color, single-sided | `print-assets/attendee-program-handout.pdf` | Includes flow, five stations, project QR pointer, good-to-know. Donation line already uses optional/free guardrails. |
+| Attendee program handout | 100 | 8.5x11, B/W or color, single-sided | `print-assets/attendee-program-handout.pdf` | Includes flow, station options, project QR pointer, good-to-know. Donation line already uses optional/free guardrails. |
 | Welcome sign | 1 | 11x17 from sign PDF, or 18x24 enlargement/foam board | `print-assets/welcome-schedule-signs.pdf` | Freestanding/tabletop/easel. |
 | Schedule sign | 2 | 11x17 from sign PDF, or 18x24 enlargement/foam board | `print-assets/welcome-schedule-signs.pdf` | One near check-in, one near demo/station area. |
 | Check-in packet | 1 packet | 8.5x11 B/W, single-sided | `print-assets/check-in-sheet-template.pdf` | RSVP rows 1–80, walk-in rows 1–20, helper quick guide; fill names from Partiful export if available. |
@@ -73,7 +73,7 @@ Print **one 11x17 sign per station** with a 1-minute version of the activity loo
 |---|---:|---|
 | Station title/rules displays | 5 | easels/table stands/foam boards |
 | Artifact boards / harvest display | 3–5 | freestanding foam/tri-fold/corkboards |
-| Future Headline Wall | 1–2 large surfaces | corkboard/tri-fold/easel; no wall mounting unless approved |
+| Future Headline Wall | 1–2 large surfaces | corkboard/tri-fold/easel; no wall mounting; use easels/rolling whiteboards/sign holders |
 | Arcade leaderboard | 1 | foam board/poster board |
 | Check-in / welcome display | 1 | tabletop/easel |
 

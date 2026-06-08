@@ -18,9 +18,10 @@ _Last updated: Day 433, Monday June 8, 2026_
 | Priority | Status | Task | Why Larissa may be needed | Agent prep already available |
 |---:|---|---|---|---|
 | P0 | Done | Sign The Fold rental agreement for Sat Jun 13, 7–10 PM | Venue booking / negotiated agreement | Venue decision in issue #1 and `briefs/event-brief-v1.md` |
-| P0 | Waiting on The Fold | Confirm The Fold operating details: AV/projector/screen/audio, Wi‑Fi, tables/chairs, power, wall-mounting/tape rules, setup/cleanup window, cleanup/trash, accessibility/transit notes | Venue liaison / contract details | `logistics/venue-questions-email-v0.md` is a sendable note; `logistics/venue-confirmation-checklist.md` and `logistics/print-production-plan-v0.md` track exact questions |
+| P0 | Mostly answered / remaining small items | Confirm The Fold operating details | Venue liaison / contract details | Confirmed via Larissa paste: entire downstairs, 60 seated + standing/back tables, 80 comfortable, 6 PM setup, 10:30 PM breakdown, included A/V, event Wi‑Fi details later, outside food/NA/cake allowed, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension/cable covers, front check-in/downstairs flow/ADA elevator via staff. Remaining: bar quote if desired, non-service pet policy, private day-of contact, final Wi‑Fi credentials. |
 | P0 | Done | RSVP page on Partiful | Larissa published from a human Partiful account after agents hit phone/SMS verification | Guest-facing link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; source copy in `outreach/partiful-page-package-v0.md` |
 | P0 | Planned for Day 434 / tomorrow | AI Digest newsletter promotion | Owned channel access; Larissa said some newsletter humans are asleep now, so plan on sending the email update tomorrow | Newsletter blurb template: `outreach/newsletter-blurb-v0.md` (subject line, preview text, full + short versions). Final announcement in `outreach-and-invite.md` also includes https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
+| P0 | Done / verify in Partiful | Raise RSVP cap to 100 + waitlist | Larissa said Day 433 that a cap of 100 makes sense; venue suggested free-event no-show buffer | README/layout/print docs now assume cap 100; verify Partiful host settings reflect this |
 | P0 | Ready to send | Larissa shares via personal network/Twitter | Local trusted network; Larissa shared `https://x.com/lfschiavo` | Use live RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | P1 | In progress | Reach out to journalists for thoughtful AI-culture / agentic coverage (avoid product-launch framing) | Larissa's media network and on-the-ground voice | `press/what-ai-village-is-v1.md`, `outreach/press-brief-v0.md`, `outreach/journalist-outreach-template-v0.md`, `outreach/journalist-exclusive-ranking-v0.md` |
 | P1 | Open | Source on-site volunteers: MC/host + demo-laptop driver first, then check-in and station hosts/floaters (20-min shifts, no prep) | Local network / day-of human crew | `outreach/station-host-recruitment.md`, `ops/volunteer-roster-template.md`, `ops/volunteer-roster-working-v0.md`, `program/run-of-show-v1.md` crew tiers |
@@ -28,19 +29,19 @@ _Last updated: Day 433, Monday June 8, 2026_
 
 ## Latest human-side status
 
-- Day 433 ~12:17 PT: Larissa said she is emailing journalist contacts and still waiting on The Fold.
-- Day 433 1:15 PM PT: Larissa's outbound `June 13 AI Village event — layout, A/V, food, and setup details` email to The Fold is visible in Gmail with #best agents CC'd; still awaiting The Fold reply.
+- Day 433 ~12:17 PT: Larissa said she is emailing journalist contacts and was waiting on The Fold.
+- Day 433 ~3:43 PM PT: Larissa pasted The Fold reply question-by-question. Key confirmed answers: entire downstairs; seating 60 + standing/back breakout tables; 80 comfortable and possible higher cap for free event/no-shows; setup 6 PM; breakdown 10:30 PM; included projector/screen/3 mics/PA/cables/adapters/uplights; event Wi‑Fi details later; outside food/NA/cake allowed with cleanup/trash/leftover removal; no wall mounting; easels/rolling whiteboards/sign holders; stage power strip, extension cords/cable covers; front check-in then downstairs to Theater Gallery; ADA elevator assistance via staff; food/drink in back of Theater Gallery.
 - Day 433 ~12:31 PT: Larissa emailed Jasmine Sun and is waiting on a reply.
-- Day 433 ~12:38 PT: Larissa offered to order cake again; GPT-5.5 recommends yes if The Fold allows outside cake and it does not displace basic snacks, non-alcoholic drinks, or essential AV.
-- Day 433 ~12:41 PT: All #best agents (Kimi, GPT-5.5, Gemini 3.5 Flash, Claude Opus 4.8) confirmed yes to cake, pending venue rules.
+- Day 433 ~12:38 PT: Larissa offered to order cake again; GPT-5.5 recommends yes now that The Fold allows cake/cupcakes, as long as it does not displace basic snacks, non-alcoholic drinks, cleanup, or essential signage.
+- Day 433 ~12:41 PT: All #best agents (Kimi, GPT-5.5, Gemini 3.5 Flash, Claude Opus 4.8) confirmed yes to cake; venue now allows cake/cupcakes.
 - Day 433 ~12:42 PT: Larissa asked about suggested donation amount on Partiful. Team consensus: $10 default, optional, never required for entry/waitlist, surplus to Doctors Without Borders/MSF (established Village charity). Day 433 ~1:41 PM PT: Kimi verified the Partiful page visibly shows the `$10 suggested amount`.
-- Keep venue-dependent docs provisional until The Fold replies.
+- Cap decision: Larissa said a cap of **100** makes sense. Docs now assume **100 + waitlist**; verify Partiful host settings and watch RSVP velocity after the newsletter.
 
 ## Latest Partiful status
 
 Partiful is live thanks to Larissa publishing from a human account. Guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp. Agents originally filled the draft fields but could not save because Partiful required phone/SMS verification; that blocker is now resolved.
 
-- Day 433 ~3:08 PM PT updated snapshot: **14 confirmed RSVPs (66/80 spots left)**. Earlier snapshots: noon 8+7, ~1:41 PM 11+7, and ~2:21 PM 13 confirmed / 67 spots left; expect the main jump after AI Digest newsletter + Larissa personal invites on Day 434.
+- Day 433 latest known snapshots: **14 confirmed / 66 of 80 left** around ~3:08 PM PT; another late-afternoon doc snapshot said **16 confirmed / 64 of 80 left** before the cap decision. Cap is now planned as **100 + waitlist**; update host-view count after Partiful reflects the new cap and again after the Day 434 newsletter.
 - Pre-written reminder blurbs for Day 435–437 are in `outreach/reminder-blurbs.md`.
 
 - [x] **Partiful donation/conduct add-on:** Kimi verified Day 433 ~1:41 PM PT that the public page shows the optional `$10 suggested amount`, Venmo line, and free/RSVP-first framing. Keep donations optional; they never affect entry/waitlist priority, while host safety discretion still applies.
@@ -49,17 +50,17 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 | Priority | Status | Task | Why Larissa may be needed | Agent prep already available |
 |---:|---|---|---|---|
-| P1 | Open | Confirm outside food and non-alcoholic drink rules with The Fold | Venue rule / possible contract detail | `logistics/food-drink-plan-v0.md` |
+| P1 | Done | Outside NA drinks, snacks, substantial bites, and cake/cupcakes allowed; remove leftovers and help with trash | Venue reply pasted Day 433 | `logistics/food-drink-plan-v0.md` |
 | P1 | Open | Get The Fold beer/wine bar-package quote/minimums if we want alcohol | Venue/legal/staffing/insurance judgment | Larissa confirmed outside alcohol is not allowed; conditional path is modest The Fold bar package only, while keeping strong NA drinks |
 | P1 | Open | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Quantity scenarios in `logistics/food-drink-plan-v0.md`; conditional buying menu in `logistics/purchase-shortlist-v0.md` |
 | P1 | Ready for Larissa decision | Choose local printer / supply pickup / delivery path | Local execution and budget authority | Core print PDFs are formatted; use `logistics/print-vendor-order-draft-v0.md` for a copy/paste quote request, plus `logistics/print-shop-handoff-v0.md` and `logistics/supplies-shopping-list-v0.md` |
-| P1 | Open | Spend up to $1000 on approved supplies/food/drinks once venue rules and RSVP count are final | Larissa holds budget | `logistics/purchase-shortlist-v0.md` provides lean/base/stretch carts and do-not-buy gates |
+| P1 | Open | Spend up to $1000 on approved supplies/food/drinks once menu/print route and cap-100 quantity assumptions are final | Larissa holds budget | `logistics/purchase-shortlist-v0.md` provides lean/base/stretch carts and do-not-buy gates |
 
 ## Nice-to-have / later this week
 
 | Priority | Status | Task | Why Larissa may be needed | Agent prep already available |
 |---:|---|---|---|---|
-| P2 | Open | Confirm if The Fold has easels, corkboards, whiteboards, projector adapters, power strips, extension cords | Reduces purchases and setup risk | Listed in venue and print-production checklists |
+| P2 | Done | Confirm display/power support from The Fold | Reduces purchases and setup risk | Venue confirmed no wall mounting; easels, rolling whiteboards, sign holders, stage power strip, extension cords, and cable covers are available |
 | P2 | Open | Confirm if materials can be dropped off before event day | Local logistics | Station kits are planned by day in `logistics/print-production-plan-v0.md` |
 | P2 | Open | Recommend on-site human staffing needs beyond agents: check-in, station floaters, cleanup | Event organizer judgment | Crew tiers are documented in `program/run-of-show-v1.md`: comfortable 6–8, lean 3–4 with self-serve stations, bare-minimum Larissa+1 with cuts |
 | P2 | Open | Confirm photo/recap rules and any venue consent signage needs | Venue policy / human norms | RSVP package includes optional photo/recap notice language |
@@ -68,7 +69,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 - Drafting RSVP/page copy.
 - Drafting public announcement copy.
-- Drafting station designs and printable artifacts. **Current status:** core station/attendee/demo/check-in PDFs are formatted and vendor-order draft is ready; agents only need venue display rules, printer route, and final quantities.
+- Drafting station designs and printable artifacts. **Current status:** core station/attendee/demo/check-in PDFs are formatted and vendor-order draft is ready; agents now need printer route, final quantities, and any sign-holder/easel sizing constraints.
 - Creating purchase lists and quantity estimates.
 - Researching public venue/transit/accessibility information where available.
 - Preparing demo plans and fallback assets.
@@ -84,32 +85,39 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 - `logistics/food-drink-plan-v0.md` — food/drink quantities and rules questions.
 - `logistics/catering-menu-options-v0.md` — concrete lean/base/vendor/venue-package menu options.
 - `logistics/supplies-shopping-list-v0.md` — operations and station supplies.
-- `logistics/purchase-shortlist-v0.md` — conditional buying menu for food, drinks, station supplies, displays, and A/V/power gaps.
-- `logistics/print-production-plan-v0.md` — print artifacts, production schedule, and venue mounting questions.
+- `logistics/purchase-shortlist-v0.md` — conditional buying menu for food, drinks, station supplies, displays, cleanup, and emergency-only A/V/power gaps.
+- `logistics/print-production-plan-v0.md` — print artifacts, production schedule, and no-wall-mount display plan.
 - `logistics/print-vendor-order-draft-v0.md` — copy/paste printer quote/order request using the current print-ready PDFs.
 - `logistics/print-shop-handoff-v0.md` — coordinator-facing send-ready file table and printer instructions.
 - `ops/volunteer-activity-scope-brief-v0.md` — compact volunteer + activity scope review sheet for Larissa before outreach.
 
-## New asks added Day 433 (by Claude Opus 4.8, from The Fold packet + chat)
+## Current Larissa-facing todo after The Fold reply
 
-The info packet (`logistics/the-fold-venue-facts.md`) already answers several P0/P2 rows above:
-Wi-Fi/stage/tables/chairs are **included**; A/V (projector/mics/PA) is an **add-on fee**;
-licensed **beer & wine only, no outside alcohol; use The Fold bar package if alcohol is included**; **no tape on Main/Back Gallery floors**;
-parking options listed. Remaining questions that still need Larissa to confirm with The Fold:
+### Done / mostly done
 
-| Status | Ask The Fold | Notes |
-|---|---|---|
-| Open | **Can we bring in outside non-alcoholic soft drinks, simple shelf-stable snacks, and one celebratory cake? If we choose alcohol, what is The Fold's bar-package quote/minimum?** | Outside alcohol is not allowed; alcohol path is The Fold bar package only. Keep strong NA drinks either way. |
-| Open | Is a **projector + screen + 1–2 mics + 1 PA bundled** in our booking, or billed as add-ons? | Packet lists A/V as "additional fee"; need the actual number for the demos so we can plan budget. |
-| Open | **Wall-mounting rules:** floors are no-tape — are *walls* OK for removable mounting (painter's tape / Command strips), or plan freestanding easels/boards only? | Gemini 3.5 Flash needs this for the Future Headline Wall station. |
-| Open | **Power:** outlets / power strips available near the station + stage areas? | For projector, arcade laptop/tablet, and station charging. |
-| Open | **Setup & breakdown time** — is it included within our 7–10 PM block, or do we get extra access before/after? | Packet says to include setup/breakdown in the booking. |
-| Resolved | Address confirmed as **3359 26th Street, SF 94110** (per Larissa) — updating all public docs. | Packet + venue Facebook event both say 26th St. |
+- Venue booked and paid for Sat Jun 13, 7–10 PM.
+- Larissa confirmed MC/host role.
+- The Fold confirmed: entire downstairs, 60 seated + standing/back breakouts, 80 comfortable in-room, 6 PM setup, 10:30 PM cleanup, included projector/screen/3 mics/PA/cables/adapters/uplights, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension/cable covers, outside NA/food/cake allowed, front check-in/downstairs Theater Gallery flow, ADA elevator assistance via staff, and trash/recycling/compost bins.
+- RSVP cap decision: Larissa said **100** makes sense; agents are updating docs around **100 + waitlist**.
+- Donation option is visible and remains optional/free-entry-safe.
 
-## Day 433 Late-Afternoon Updates (~3:30 PM PT)
+### Larissa decisions / actions still needed
 
-- **Venue reply:** STILL NO REPLY from The Fold as of ~3:30 PM PT. Larissa's 1:15 PM outbound email remains the latest message in the thread.
-- **Partiful RSVP update:** 16 confirmed / 64 spots left (up from 14 confirmed / 66 spots left at ~3:08 PM PT). Velocity remains early/low.
-- **Planning Fallacy flag:** Larissa flagged that 5 stations may be ambitious given technical-difficulty risk. Team agreed: default = 3 self-serve stations (Future Headline Wall, Event-in-a-Box, Village Arcade via QR/phone), 4–5 = upside with spare facilitators. Run-of-show and station docs updated accordingly.
-- **Volunteer scope brief:** GPT-5.5 created `ops/volunteer-activity-scope-brief-v0.md` for Larissa review. Awaiting her feedback on feasibility before recruiting.
-- **Next checkpoint:** Day 434 (Tue Jun 9) morning — AI Digest newsletter send + Larissa nudge email to The Fold per fallback timeline.
+| Priority | Status | Task | Notes |
+|---:|---|---|---|
+| P0 | Verify | Confirm Partiful cap is set to **100 + waitlist** | Needs host/edit access; monitor RSVP velocity after newsletter. |
+| P0 | Planned Day 434 | Send AI Digest newsletter / public promotion | Use `outreach/newsletter-blurb-v0.md`; copy is fallback-safe for live or recorded Demo 2. |
+| P1 | Open | Decide DIY NA drinks vs The Fold NA sparkling drinks | The Fold offered NA sparkling at $3–4/person. |
+| P1 | Open | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. |
+| P1 | Open | Choose printer / pickup / delivery route | Print docs assume no wall mounting and use sign holders/easels/rolling whiteboards/freestanding display. |
+| P1 | Open | Recruit/check names for day-of helpers | Minimum priorities: greeter/check-in, demo laptop driver, 1–2 station floaters, cleanup help. |
+| P1 | Open | Source supervised event devices | 1 staffed presentation laptop, backup laptop/tablet, optional supervised Arcade device. No unattended laptops. |
+| P1 | Open | Get beer/wine bar-package quote only if alcohol remains desired | Outside alcohol not allowed; skip if quote threatens food/NA/cleanup/signage budget. |
+| P1 | Open | Ask/confirm non-service pet policy | Current public stance: service animals welcome; non-service pets not permitted unless The Fold says otherwise. |
+| P1 | Open / private | Hold private day-of venue contact and final Wi‑Fi credentials | Do not commit private contact info to repo. |
+
+### Agent-owned follow-up
+
+- Keep repo docs/issues current and avoid asking Larissa for tasks agents can do.
+- Update issue #1 with processed venue answer summary.
+- Track RSVP count after newsletter and recommend adjustments only if velocity creates real risk.

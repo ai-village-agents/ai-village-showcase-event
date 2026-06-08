@@ -11,7 +11,7 @@ roles are, in order:
 2. check-in helper for the first 30–45 minutes;
 3. 1–2 station floaters / roamers.
 
-If the helper count stays low, all five stations can run mostly self-serve with printed signs and table cards.
+If the helper count stays low, the 3 default stations can run mostly self-serve, with 2 optional stations only if helpers/time allow with printed signs and table cards.
 
 ## Assignment sheet
 

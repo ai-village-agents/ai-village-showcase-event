@@ -6,28 +6,28 @@
 
 - [ ] Final RSVP count confirmed; waitlist closed or managed; Partiful export copied into `ops/rsvp-backup-tracker-template.csv` if available.
 - [ ] Human crew tier confirmed from `program/run-of-show-v1.md` (comfortable 6–8, lean 3–4 self-serve, or bare-minimum Larissa+1 cuts).
-- [ ] Food/drink order confirmed with delivery/pickup time; outside snacks/drinks/cake approved by The Fold or venue package selected.
+- [ ] Food/drink order confirmed with delivery/pickup time; outside snacks/drinks/cake are approved by The Fold, with cleanup/trash/leftover removal owner assigned.
 - [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR.
 - [ ] Device plan confirmed: staffed primary presentation laptop + charger/adapters, supervised backup laptop/tablet, optional supervised Village Arcade laptop/tablet; no unattended personal laptops; see `logistics/device-and-av-plan-v0.md`.
 - [ ] If Demo 2 Plan A is live, confirm the primary projection laptop is signed into village chat and already showing only the clean room (`#showcase-live`), not `#best` or backstage/private scrollback.
 - [ ] Demo fallback recordings/assets loaded onto the primary and backup local devices (in case venue Wi-Fi fails).
 - [ ] AV contingency bag packed: HDMI adapters, batteries, and only venue-approved power strips/extension cords/cable covers.
 - [ ] Team emergency contact list shared in #best.
-- [ ] Larissa confirms load-in/setup/breakdown window, cleanup deadline, and day-of venue contact with The Fold.
-- [ ] The Fold confirms wall-mounting rules, freestanding board/easel availability, and cable-routing plan; no tape on Main/Back Gallery floors.
+- [x] Setup/breakdown window confirmed: access at 6:00 PM; cleanup/breakdown complete by 10:30 PM. Day-of venue contact still private/pending.
+- [x] Display/power rules confirmed: no wall mounting; easels/rolling whiteboards/sign holders available; stage power strip plus extension cords/cable covers available; cabling typically behind stage, gaff tape only if needed/approved.
 
-## Load-in (Saturday June 13, target 4:00–5:00 PM — confirm with The Fold)
+## Load-in (Saturday June 13, 6:00 PM confirmed access)
 
 - [ ] Arrive at The Fold (3359 26th St).
 - [ ] Test venue Wi-Fi; record network name/password if needed.
-- [ ] Test projector/screen, speakers, and any mics included in the booking or approved add-on bundle.
+- [ ] Test included projector/screen, PA/speakers, 3 microphones, cables/adapters, and colored uplights.
 - [ ] Open `demo-assets/agent-welcome-projection-slide.html` full-screen; verify click/arrow-key advance through all four agent lines.
-- [ ] Arrange tables/chairs for presentation seating, five station/booth areas, check-in, and food/drink.
-- [ ] Place directional signage on freestanding/tabletop surfaces or venue-approved wall surfaces only.
-- [ ] Confirm power paths for demo devices; use venue-approved cable routing/covers and do not tape cords to floors.
+- [ ] Arrange tables/chairs for up to 60 presentation seats plus standing, 3 default self-serve stations, optional upside station cards, check-in, and food/drink.
+- [ ] Place directional signage on freestanding/tabletop/sign-holder/easel/rolling-whiteboard surfaces only; no wall mounting.
+- [ ] Confirm power paths for demo devices; use stage power strip, behind-stage routing, extension cords/cable covers, and only use gaff tape if needed/approved for safety.
 - [ ] Set up check-in table with name tags, pens, QR code, check-in packet, and RSVP backup tracker/export.
 
-## Setup (target 5:00–6:30 PM — depends on confirmed access window)
+## Setup (6:00–6:55 PM — confirmed access window)
 
 - [ ] Station kits laid out: cards, markers, table signs, instruction sheets, and freestanding boards/easels/tri-folds. Tape only if The Fold approves the specific wall/surface; never use floor tape.
 - [ ] Welcome table ready: check-in list or RSVP backup tracker, name tags, prompt cards for early arrivals.
@@ -40,8 +40,8 @@
 
 Use these before preserving the full ambitious plan:
 
-- **If load-in starts late or AV is not stable by 6:15 PM:** default Demo 2 to the rehearsal recording; do not attempt live clean-room projection unless it is already tested.
-- **If fewer than 3 reliable helpers are present by 6:30 PM:** run the lean plan: check-in, welcome, one reliable demo path, and 2–3 self-serve stations.
+- **If load-in starts late or AV is not stable by 6:40 PM:** default Demo 2 to the rehearsal recording; do not attempt live clean-room projection unless it is already tested.
+- **If fewer than 3 reliable helpers are present by 6:45 PM:** run the lean plan: check-in, welcome, one reliable demo path, and 3 default self-serve stations only.
 - **If room setup is slow or display rules are unclear:** skip wall-mounted artifact displays; use tabletop/freestanding signs only.
 - **If station setup is still incomplete at 7:00 PM:** prioritize Event-in-a-Box, Future Headline Wall, and Village Arcade QR/phone mode; cut or fold Prompt Relay/Bug Triage into optional cards.
 - **If food/drink or cleanup is at risk:** reduce station complexity first; protect water/NA drinks, clear trash paths, and a clean venue handoff.
@@ -90,10 +90,10 @@ Use these before preserving the full ambitious plan:
 - [ ] Thank attendees, share how to stay involved.
 - [ ] Remind about any post-event recap or photo share.
 
-## Breakdown (10:00–10:45 PM — confirm final deadline with The Fold)
+## Breakdown (10:00–10:30 PM — confirmed final deadline)
 
 - [ ] Collect all station materials, signs, freestanding boards, easels, and artifacts without damaging venue surfaces.
-- [ ] Pack up AV equipment, presentation/backup/Arcade devices, adapters, cables, power strips, and cable covers.
+- [ ] Pack up AV equipment, presentation/backup/Arcade devices, adapters, cables, power strips, cable covers, easels/boards/sign holders, and return venue items.
 - [ ] Remove leftover food/drinks and event supplies unless Larissa/The Fold directs otherwise.
 - [ ] Sort trash/recycling/compost into the venue-provided bins.
 - [ ] Restore/reconfigure furniture and room layout to how the space was found.

@@ -18,7 +18,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 | **Venue** | [The Fold](https://www.thefoldsf.com/) · 3359 26th St, San Francisco |
 | **Cost** | Free; RSVP required |
 | **RSVP** | Live: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
-| **Capacity** | 80 confirmed + waitlist (pending venue layout confirmation) |
+| **Capacity** | 100 confirmed + waitlist per Larissa; The Fold says 80 fits comfortably in-room and suggested a higher RSVP cap for free-event no-shows |
 | **Budget** | $1,000 attendee experience (venue cost is off-budget; The Fold invoice paid via Larissa) |
 | **Human ally** | Larissa Schiavo — SF event organizer, budget holder, venue liaison |
 
@@ -73,10 +73,10 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`logistics/print-shop-handoff-v0.md`](logistics/print-shop-handoff-v0.md) — Short coordinator-facing print-shop package: send-ready files, still-pending items, and printer instructions.
 - [`logistics/print-vendor-order-draft-v0.md`](logistics/print-vendor-order-draft-v0.md) — Copy/paste vendor quote/order request using the current print-ready PDFs.
 - [`logistics/print-package-validation-v0.md`](logistics/print-package-validation-v0.md) — PDF existence/page-count QA sheet for the print package.
-- [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts: capacity, furniture, Wi-Fi, A/V add-ons, food/drink rules, no-floor-tape constraint.
-- [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Current booked/paid venue status plus remaining questions for The Fold (AV bundle, power, wall mounting, setup, accessibility).
+- [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts, plus notes that current operations should follow the Day 433 venue reply where it supersedes packet assumptions.
+- [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Booked/paid venue status, confirmed Day 433 venue answers, and remaining items: day-of contact, beer/wine quote, pet policy, final Wi‑Fi credentials, cap monitoring.
 - [`logistics/venue-questions-email-v0.md`](logistics/venue-questions-email-v0.md) — Sendable note Larissa can adapt for The Fold covering layout, setup, A/V, Wi-Fi, food/drink, displays, power, accessibility, and cleanup.
-- [`logistics/layout-plan-v0.md`](logistics/layout-plan-v0.md) — Practical The Fold layout request for presentation, five stations, check-in, food/drink, display boards, and no-floor-tape power flow.
+- [`logistics/layout-plan-v0.md`](logistics/layout-plan-v0.md) — Practical The Fold layout for downstairs Theater Gallery flow, 3 default self-serve stations plus optional upside stations, check-in, food/drink, no wall mounting, and venue power/cable support.
 - [`logistics/device-and-av-plan-v0.md`](logistics/device-and-av-plan-v0.md) — Minimal on-site device ask: staffed primary presentation laptop + adapter set, supervised backup device, optional supervised Arcade device; no unattended personal laptops.
 
 ### Outreach & RSVP
@@ -116,8 +116,8 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 |---|---|---|---|
 | Venue rental agreement + invoice | ✅ Signed / paid | Larissa | — |
 | Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
-| Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility, outside snacks/cake policy, and optional beer/wine bar-package quote; device plan asks for 1 staffed primary presentation laptop + adapters, 1 supervised backup device, optional supervised Arcade device; no unattended personal laptops |
-| RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | 14 confirmed as of Day 433 ~3:08 PM PT; 66/80 spots left; link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
+| Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | The Fold confirmed entire downstairs, 60 seated + standing/back tables, 80 comfortable in-room; Partiful cap 100, 6 PM setup, 10:30 PM breakdown, included projector/screen/3 mics/PA/cables/adapters/uplights, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension cords/cable covers, outside NA/food/cake allowed, front check-in/downstairs flow, ADA elevator assistance, and cleanup/trash expectations. Still open: optional beer/wine bar quote, pet policy, day-of contact, final Wi‑Fi credentials |
+| RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | 14 confirmed as of Day 433 ~3:08 PM PT before cap raise; cap now 100 + waitlist; link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
 | AI Digest newsletter / social promotion | ✅ Ready to send | Larissa / AI Digest | Newsletter blurb template pushed (`outreach/newsletter-blurb-v0.md`); Larissa has copy |
 | Food & drink purchase | ⏳ Open | Larissa | Needs venue food/NA/cake rules + final RSVP count; no outside alcohol; beer/wine only via The Fold bar package if quote/minimums are acceptable |

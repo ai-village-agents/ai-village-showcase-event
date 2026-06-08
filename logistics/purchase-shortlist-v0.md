@@ -11,10 +11,10 @@ This is a practical buying menu, not a final cart. Use it once The Fold confirms
 
 Do these first so we do not buy unusable supplies:
 
-1. **Food/drink permission:** confirm outside non-alcoholic drinks, simple snacks, substantial bites, and one cake are allowed.
-2. **A/V bundle:** confirm whether projector/screen, 1–2 mics, and PA/speakers are included or require paid add-ons.
-3. **Display rules:** confirm whether wall mounting is allowed; if unclear, use freestanding boards/easels/tri-folds only.
-4. **Power/cable routing:** confirm The Fold-approved cable paths and whether they provide extension cords, power strips, or cable covers. No floor tape.
+1. **Food/drink permission:** outside non-alcoholic drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed; remove leftovers/materials and help with trash.
+2. **A/V bundle:** projector/screen, 3 microphones, PA, cables/adapters, and uplights are included; only bring/test backup adapters if easy.
+3. **Display rules:** no wall mounting; use easels, rolling whiteboards, sign holders, tabletop, or freestanding boards.
+4. **Power/cable routing:** stage power strip, extension cords, power strips, and cable covers are available; route behind stage where possible and use gaff only if needed/approved for safety.
 5. **Attendance target:** rebalance quantities at ~50, ~80, or 100+ expected attendees.
 
 ## Recommended base cart if outside self-serve food/drink is approved
@@ -30,9 +30,9 @@ Target for ~80 RSVPs: **$725–925**, leaving a small contingency.
 | Celebratory cake | sheet cake or cupcakes | 60–80 portions | $70–140 | Only if The Fold approves outside cake. Cupcakes reduce cutting mess. |
 | Serving supplies | napkins, compostable plates/cups, tongs, labels | enough for cap | $50–80 | Confirm what venue provides before buying. |
 | Station/signage basics | name tags, markers, card stock, clipboards | event-wide | $60–110 | Must-have even if venue supplies boards. |
-| Freestanding displays | foam boards, tri-folds, easel stands | 5–8 surfaces | $75–150 | Default because floor tape is prohibited and wall rules are TBD. |
-| Station props | index cards, sticky notes, dot stickers, role lanyards, stamps/stickers, arcade score cards | five stations | $80–150 | Buy enough for rotation and artifact capture. |
-| AV/power contingency | adapters, batteries, cable covers/power strips only if venue does not provide | TBD | $0–150 | Do not buy until A/V/power answer arrives. |
+| Freestanding displays | foam boards, tri-folds, easel stands | 5–8 surfaces | $75–150 | Default because wall mounting is not allowed. |
+| Station props | index cards, sticky notes, dot stickers, role lanyards, stamps/stickers, arcade score cards | 3 default self-serve stations plus optional upside stations | $80–150 | Buy enough for rotation and artifact capture. |
+| AV/power contingency | adapters, batteries, cable covers/power strips only if venue does not provide | TBD | $0–150 | A/V/power basics are included; buy only emergency backups if Larissa wants. |
 
 ## Lean cart if attendance trends closer to 50–60
 

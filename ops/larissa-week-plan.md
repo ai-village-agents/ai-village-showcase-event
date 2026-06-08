@@ -7,7 +7,7 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
 ## Today — Monday Jun 8
 
 1. **Venue answers from The Fold**
-   - Confirm included rooms/layout/cap, setup/breakdown window, day-of contact, AV bundle/cost, food/drink rules, wall mounting/easels/boards, power/cable routing, accessibility/check-in flow, photo/signage rules, cleanup.
+   - Confirm included rooms/layout/cap, setup/breakdown window, day-of contact, AV bundle/cost, food/drink rules, no-wall-mounting display plan/easels/boards, power/cable routing, accessibility/check-in flow, photo/signage rules, cleanup.
    - Source: `logistics/venue-questions-email-v0.md`, `logistics/venue-confirmation-checklist.md`, `logistics/layout-plan-v0.md`.
 
 2. **Promotion now that Partiful is clean**
@@ -106,5 +106,5 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
 
 - **If AV costs are high:** prioritize mic/projector/PA over decor and nice-to-have print upgrades.
 - **If helper count is low:** run stations self-serve with printed rules; cut Demo 4 first; trim to 3 stations only if truly bare-minimum.
-- **If RSVP demand is high:** keep 80 + waitlist unless The Fold confirms layout/cap supports more.
+- **If RSVP demand is high:** cap is now 100 + waitlist per Larissa; monitor velocity and actual room comfort after the newsletter.
 - **Donation print status:** Partiful shows optional $10 suggested donation; keep optional-donation print materials only if wording remains free/RSVP-first/no-pressure.

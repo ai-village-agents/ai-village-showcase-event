@@ -1,12 +1,12 @@
 # Layout Plan v0 — The Fold
 
-Working event: **AI Village Showcase & Human×AI Field Day**  
-Date/time: **Saturday, June 13, 2026, 7–10 PM**  
-Public RSVP cap: **80 confirmed + waitlist** until The Fold confirms comfort/flow  
-Working room design: **45–60 comfortable active participants** for seated typing/stations; **70–80 only as an outer edge** with mixed seating, standing, and rotation  
+Working event: **AI Village Showcase & Human×AI Field Day**
+Date/time: **Saturday, June 13, 2026, 7–10 PM**
+Public RSVP cap: **100 confirmed + waitlist** per Larissa's Day 433 decision, using The Fold's free-event no-show guidance
+Confirmed venue design: **entire downstairs**, seating for **up to 60**, additional standing space, and breakout/station tables in the back; The Fold says **80 fits comfortably**
 Venue: **The Fold**
 
-This is a practical layout request for Larissa/The Fold, not a final floor plan. It should be adjusted once The Fold confirms which rooms/spaces are included, wall-mounting rules, A/V bundle, power locations, and setup access. If the booking is a choice between **Theater Gallery** and **Main Gallery**, the current operating preference is **Theater Gallery** because its built-in projection/AV and wall/display surfaces reduce the largest execution risks for the demos and Human×AI stations.
+This is a practical layout plan for Larissa/The Fold, updated with the venue reply pasted by Larissa on Day 433. The Fold confirmed the **entire downstairs space**, a **6:00 PM setup access** time, **10:30 PM cleanup/breakdown complete** deadline, and included projector/screen/3 mics/PA/cables/adapters/uplights. Updated answers also confirm no wall mounting, easels/rolling whiteboards/sign holders available, outside food/NA/cake allowed with cleanup/trash/leftover removal, stage power strip plus extension cords/cable covers, and front check-in/downstairs Theater Gallery flow with ADA elevator assistance via staff. Day-of contact remains private/pending.
 
 ## Layout goals
 
@@ -39,7 +39,7 @@ Needs:
 - Screen/projector or main display.
 - Host/MC position with laptop/clicker notes.
 - Audio suitable for ~80 attendees: ideally 1 handheld mic for host + 1 backup/shared mic.
-- 40–60 chairs plus standing space, depending on room feel.
+- Seating for up to 60 plus additional standing space, per The Fold.
 - Clear aisle for late arrivals and station facilitators.
 
 Suggested seating:
@@ -55,12 +55,12 @@ Each station needs an obvious landing point, a small work surface, and one visib
 | Prompt Relay Race | small table cluster, 6–10 active participants | 1 table, cards, markers, tabletop/freestanding sign | Low |
 | Event-in-a-Box | table for cards + sketching, 6–10 active participants | 1 table, cards, poster/tri-fold display | Low |
 | Bug Triage Theater | table or semi-circle for role play, 4–8 active participants | 1 table, role cards/lanyards, verdict board | Low |
-| Future Headline Wall | vertical display + writing space | freestanding board/easel/corkboard/tri-fold; no floor tape | Low |
+| Future Headline Wall | vertical display + writing space | venue easel, rolling whiteboard, sign holder, freestanding board, or tri-fold; no wall mounting | Low |
 | Village Arcade Booth | laptop/tablet/QR demo station, 2–6 active participants | 1 table, laptop/tablet, high-score cards, leaderboard board | High |
 
 Placement recommendations:
 - Put **Village Arcade Booth** closest to reliable power and Wi-Fi; keep it away from food/drink spill risk.
-- Put **Future Headline Wall** where people can gather without blocking a passage; use freestanding boards unless walls are approved.
+- Put **Future Headline Wall** where people can gather without blocking a passage; use easels/rolling whiteboards/sign holders/freestanding boards because walls are not approved for mounting.
 - Keep noisy/performative **Bug Triage Theater** slightly away from the demo audio area if possible.
 - Use tabletop signs or easels so station names remain visible in a standing crowd.
 
@@ -124,7 +124,7 @@ For the planned program, confirm or reserve:
 - PA/speaker appropriate for ~80 attendees.
 - HDMI/USB-C adapters and backup playback device.
 
-If A/V add-ons are expensive or unavailable:
+If the included A/V path fails during load-in:
 - Run a shorter, lower-tech welcome with a large display/laptop if room size allows.
 - Use printed QR/signage for demos and station handoff.
 - Keep recorded/screenshot fallbacks ready.
@@ -143,7 +143,7 @@ If A/V add-ons are expensive or unavailable:
 
 ### If only one gallery space is included
 
-Prefer **Theater Gallery** over Main Gallery if Larissa/The Fold can choose only one, because the event depends on projection, audio, visible demo content, and display surfaces more than raw standing capacity. Use one end for presentation and ring the walls/edges with station tables. Keep food/check-in near the entry and Village Arcade near power. Treat the room as a phased layout: theater-style focus for welcome/demos, then loosen into station rotation rather than assuming every attendee has a seated workstation at once.
+Use the **entire downstairs** as confirmed by The Fold: seating area for up to 60 plus standing, with breakout/station tables in the back. Treat the room as phased: theater-style focus for welcome/demos, then loosen into station rotation rather than assuming every attendee has a seated workstation at once.
 
 ### If a second/back gallery is included
 
@@ -151,7 +151,7 @@ Use the main gallery for presentation + social, and the second/back gallery for 
 
 ### If wall mounting is not allowed
 
-Use foam boards, tri-folds, tabletop signs, easels, corkboards, or rolling boards. Avoid adhesive assumptions entirely.
+Use venue easels, rolling whiteboards, sign holders, foam boards, tri-folds, or tabletop signs. No wall mounting; avoid adhesive assumptions entirely.
 
 ### If setup access is short
 
@@ -164,12 +164,12 @@ Prioritize:
 
 ## Open questions for Larissa / The Fold
 
-1. Which exact spaces/rooms are included for our 7–10 PM event?
-2. If we can choose only Theater Gallery or Main Gallery, can The Fold confirm Theater Gallery is best for projection/AV + stations?
-3. Can The Fold recommend a default arrangement for 45–60 comfortable active participants, with an 80-person public cap/waitlist as the outer edge?
-4. What setup and breakdown access do we have before/after the public time?
-5. Are projectors/screens/mics/PA included in our booking or paid add-ons?
-6. Where are the best outlets for presentation and Village Arcade?
-7. Are cable covers, power strips, extension cords, easels, corkboards, or rolling boards available?
-8. Are walls available for removable mounting? If yes, what products/surfaces are approved?
-9. Where should check-in and food/drink go to avoid blocking doors, stairs, restrooms, or emergency paths?
+1. Confirm any room-specific labels within the “entire downstairs” plan for signage/load-in.
+2. Update/verify Partiful cap at 100 + waitlist and monitor RSVP velocity after newsletter.
+3. Confirm exact setup path for 60 seats + standing + breakout tables in back.
+4. Setup access is confirmed for 6:00 PM; cleanup/breakdown must be complete by 10:30 PM.
+5. Projector/screen, 3 mics, PA, cables/adapters, and colored uplights are included.
+6. Stage power strip, extension cords, and cable covers are available; confirm final Arcade power route at load-in if using a supervised device.
+7. Easels, rolling whiteboards, printed signage, and sign holders are available.
+8. No wall mounting is allowed.
+9. Check-in goes at the front with a greeter directing guests downstairs to the Theater Gallery; food/drink goes in designated areas in the back of the Theater Gallery.

@@ -2,7 +2,7 @@
 
 # Catering / Menu Options v0
 
-Purpose: give Larissa a fast, practical menu decision sheet once The Fold confirms outside food/drink rules. This should stay flexible until RSVP count, venue rules, and A/V add-on costs are known.
+Purpose: give Larissa a fast, practical menu decision sheet now that The Fold has confirmed outside self-serve NA drinks, snacks, substantial bites, and cake/cupcake-style dessert are allowed. This should stay flexible until final RSVP count, budget, and bar/NA decisions are known.
 
 Operating posture:
 - Event remains free / RSVP-first.
@@ -16,11 +16,11 @@ Operating posture:
 1. **If outside food/drinks are allowed:** use Option A or B below.
 2. **If outside food/drinks are limited but preferred vendors are easiest:** use Option C.
 3. **If The Fold strongly prefers venue service:** use Option D and keep station/signage purchases lean.
-4. **If essential A/V add-ons consume a lot of budget:** use Option A lean version and prioritize audio/projection.
+4. **Because A/V is included:** use the savings for water/strong NA drinks, practical low-mess food, cleanup, and labels before optional upgrades.
 
 ## Option A — Lean self-serve grocery / pickup cart
 
-Best if: outside food/drinks are approved, A/V add-ons cost money, or RSVP count is closer to 50–60.
+Best if: outside food/drinks are approved and we want a low-risk menu for a mixed RSVP/no-show outcome.
 
 Target spend: **$550–725** for food/drinks/supplies.
 
@@ -57,7 +57,7 @@ Risks: requires venue approval for outside food, outside NA drinks, leftovers, a
 
 Best if: The Fold is comfortable with preferred vendors or Larissa wants lower day-of burden.
 
-Target spend: **$800–1000**, depending on A/V add-ons and RSVP count.
+Target spend: **$800–1000**, depending on RSVP count, NA drink route, and whether any bar package is added.
 
 Menu shape:
 - One simple preferred-vendor order for substantial bites, ideally vegetarian-forward and easy to eat standing.
@@ -114,5 +114,5 @@ If the bar quote is high, skip alcohol and invest in better food/NA drinks inste
 3. Are glass bottles prohibited or discouraged?
 4. Is ice/refrigeration available, or should everything be shelf-stable / room-temperature safe?
 5. Who handles leftovers and trash/recycling/compost?
-6. Are any A/V add-on costs high enough that we should switch to the lean cart?
+6. Should we use The Fold's NA sparkling drinks at $3–4/person, or buy/bring our own NA drink mix?
 7. Final RSVP count and no-show expectation 24–48 hours before event.

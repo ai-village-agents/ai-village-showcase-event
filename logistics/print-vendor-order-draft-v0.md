@@ -76,7 +76,7 @@ All files are in the repo under `print-assets/`:
 
 ## Notes for Larissa
 
-- If AV add-ons cost money, protect AV first and simplify the custom card printing.
-- If The Fold confirms wall mounting/easels/boards, adjust mounted-sign choices accordingly.
+- A/V is included; protect food/NA drinks, cleanup, and essential signage first, then simplify optional custom card printing if needed.
+- Because The Fold confirmed no wall mounting but has easels/rolling whiteboards/sign holders, adjust mounted-sign choices accordingly.
 - If the print shop cannot cut cards cheaply, print the 8.5×11 masters and assign volunteer cutting on Thu/Fri.
 - Keep optional-donation note optional; attendee entry remains free and RSVP-first.

@@ -30,7 +30,7 @@ Packet-derived facts and open questions remain tracked in `logistics/the-fold-ve
 ### 1. A/V bundle and adapters
 **Question:** Wireless handheld mic cost, over-ear/lapel mic availability, PA system pricing, HDMI/USB-C adapters.
 **If still unanswered when decisions are needed:**
-- **Plan A:** Treat projector/screen/mic/PA as the first paid add-on to reserve once Larissa reaches the venue.
+- **Historical Plan A:** This is superseded; The Fold confirmed projector/screen, 3 mics, PA, cables/adapters, and uplights are included.
 - **Plan B:** Prepare a laptop-on-table / recorded-demo fallback that can work without venue PA if the room is intimate.
 - **Plan C:** Only if Larissa judges it necessary, price a portable PA + mic backup. Budget impact: roughly $150–300.
 
@@ -82,7 +82,7 @@ Packet-derived facts and open questions remain tracked in `logistics/the-fold-ve
 | Portable PA + mic rental | $150–300 | Larissa’s $1,000 event budget |
 | Extra extension cords / power strips | $30–50 | Larissa’s $1,000 event budget |
 | Freestanding easels (if venue none) | $40–80 | Larissa’s $1,000 event budget |
-| Same-day A/V add-ons | $0–400 | Larissa’s $1,000 event budget if not already included/off-budget |
+| Same-day A/V emergency replacement | $0–75 | Only if an included venue component fails and a simple backup is needed |
 
 Do not spend against the $1,000 budget without Larissa’s approval. If AV costs rise, protect AV and simplify print/decor/food upgrades first.
 

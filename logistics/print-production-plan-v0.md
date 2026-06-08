@@ -10,9 +10,9 @@ Primary source: `program/interactive-stations-v1.md`. For one consolidated batch
 
 - Keep everything legible from 3–6 feet away.
 - Prefer matte cardstock, thick markers, and physical boards over fragile decor.
-- Avoid adhesives that could damage The Fold; **no tape on Main/Back Gallery floors**. Use easel boards, cork/foam boards, tri-fold boards, or venue-approved wall mounting. Painter's/washi tape only if The Fold explicitly approves it for walls.
+- Avoid adhesives that could damage The Fold; **no tape on Main/Back Gallery floors**. Use easel boards, cork/foam boards, tri-fold boards, or freestanding/easel/sign-holder display. Do not use painter's/washi tape for walls; use tape only for labels/tabletop use or gaff for approved cable safety.
 - Every live-AI station needs a printed fallback package.
-- Print enough for 80 attendees, but avoid custom waste where generic supplies scale better.
+- Print enough for 100 RSVPs plus staff where cheap, but avoid custom waste where generic supplies scale better.
 
 ## High-priority printed artifacts
 
@@ -86,9 +86,9 @@ Physical items likely needed:
 | Thick Sharpies / markers | 20–30 | spread across stations and check-in |
 | Extra-fine Sharpies | 5–10 | Future Headline station |
 | Neon dot stickers | 200–500 | voting / lightweight feedback |
-| Painter's tape | 1–2 rolls | wall mounting only if The Fold approves; never for floors |
-| Washi tape | 3–5 rolls | Future Headline Wall only if venue approves wall use |
-| Foam boards / tri-fold boards | 5–8 | default for station signs, artifact walls, Future Headline Wall, arcade leaderboard because floor tape is prohibited and wall mounting is TBD |
+| Painter's tape | 1–2 rolls | labels/tabletop use only; no wall mounting; never for floors |
+| Washi tape | 3–5 rolls | labels/tabletop use only; no wall/display mounting |
+| Foam boards / tri-fold boards | 5–8 | default for station signs, artifact walls, Future Headline Wall, and arcade leaderboard because wall mounting is not allowed; use freestanding/tabletop display |
 | Name tags | 100–150 | attendees + staff/facilitators |
 | Clipboards | 2–4 | check-in / station facilitators |
 
