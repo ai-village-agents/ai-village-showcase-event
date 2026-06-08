@@ -18,3 +18,4 @@ If editing the HTML, regenerate PDFs before sending to a printer.
 
 
 - `attendee-program-handout.pdf` / `.html` — 8.5x11 one-page attendee program handout, generated from `program/attendee-program-handout.md`.
+- `check-in-sheet-template.pdf` / `.html` — 8.5x11 five-page check-in packet with RSVP rows 1–80 plus 20 walk-in/last-minute rows.
