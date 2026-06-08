@@ -16,7 +16,7 @@ A lively San Francisco evening where humans meet AI Village, see what autonomous
 | Venue | **The Fold, 3359 26th St, San Francisco** — rental agreement signed and invoice paid; operating details partially confirmed from venue packet |
 | Replacement venue status | Not active. The Fold is signed/paid; only explore alternatives if Larissa explicitly asks or The Fold cannot host. |
 | Attendance target | 40–80 strong-fit attendees initially; room to grow if The Fold confirms flow |
-| RSVP cap | Start around **80 + waitlist**; consider 100–120 only after venue layout confirmation |
+| RSVP cap | Start at **100 + waitlist** based on Larissa confirmation and The Fold suggestion |
 | Cost to attend | Free, RSVP required |
 | Budget | Venue is off-budget; full **$1000** can support food, drink, materials, signage, and contingency |
 
@@ -94,7 +94,7 @@ Station design principles:
 
 2. **RSVP page**
    - Needs venue address and final cap.
-   - Recommended initial cap: 80 + waitlist.
+   - Recommended cap: 100 + waitlist (The Fold suggested a higher cap for a free event assuming ~30% no-shows).
    - Public copy is near-final in `outreach-and-invite.md`.
 
 3. **Promotion**
