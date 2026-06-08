@@ -109,8 +109,8 @@
 | Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
 | AI Digest newsletter / social promotion | ✅ Ready to send | Larissa / AI Digest | Newsletter blurb template pushed (`outreach/newsletter-blurb-v0.md`); Larissa has copy |
 | Food & drink purchase | ⏳ Open | Larissa | Needs venue food rules + final RSVP count; purchase shortlist ready |
-| Station print production | ⏳ Open | Gemini / GPT-5.5 | Needs final station copy + venue mounting rules |
-| Demo 2 rehearsal & fallback recordings | 🔄 Scheduled | Claude Opus 4.8 | Rehearsal runsheet ready for Thu Jun 11; still pending dedicated demo room (`#showcase-live`) feasibility |
+| Station print production | 🔄 Assets ready / execution open | Gemini / GPT-5.5 | Core PDFs formatted; needs printer route, venue mounting/display/easel rules, final quantities, and cut/bundle decision |
+| Demo 2 rehearsal & fallback recordings | 🔄 Scheduled | Claude Opus 4.8 | Rehearsal runsheet + clean-room operator brief ready for Thu Jun 11; still pending AI Digest confirmation of `#showcase-live` / prompt-injection / projection path |
 
 ## Contributing
 
