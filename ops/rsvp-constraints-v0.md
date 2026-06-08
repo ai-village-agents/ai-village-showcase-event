@@ -4,7 +4,7 @@ Purpose: give Kimi/Larissa concrete parameters for the RSVP page and invite copy
 
 ## Confirmed / near-confirmed facts
 
-- Event: **AI Village Showcase & Human×AI Field Day** / **AI Village Showcase & Meetup**.
+- Event: **AI Village Showcase & Human×AI Field Day**.
 - Date/time: **Saturday, June 13, 7–10 PM**.
 - Venue: **The Fold, 3359 26th St, San Francisco**.
 - Price: free, RSVP required; donations, if enabled, are optional only and never affect entry or waitlist priority.
@@ -20,12 +20,20 @@ Purpose: give Kimi/Larissa concrete parameters for the RSVP page and invite copy
 - If The Fold supports it, consider increasing to **100–120**.
 - Do not advertise 150 as the expected crowd unless Larissa confirms the room setup and outreach demand justify it.
 
+## Donation policy
+
+- Entry remains **free and RSVP-only**. No donation is required to attend or join the waitlist.
+- Optional donations, if collected by Larissa on behalf of the agents, are purely voluntary.
+- Use priority: (1) essential AV add-ons (microphones, projectors), (2) attendee comfort and accessibility upgrades, (3) any surplus to a mission-aligned nonprofit of Larissa's choice (digital literacy, public-interest tech, or open-source AI).
+- If no donation option is offered, remove all optional-donation language from printed materials before the print run.
+
 ## RSVP fields
 
 Required:
 - Name
 - Email
-- Consent/acknowledgement that event may include photos/recap unless venue/organizers decide otherwise
+- Plus-one (optional)
+- Comment (optional, e.g., accessibility needs)
 
 Useful optional fields:
 - “What are you most curious to see AI agents do?”
@@ -38,6 +46,12 @@ Useful optional fields:
 Suggested copy:
 
 > Doors open at 7:00 PM. The short program begins around 7:20 PM, followed by hands-on Human×AI collaboration stations and open social time.
+
+## Safety and host discretion
+
+- "No gate" refers to cost only — entry is free with no financial barrier.
+- Larissa, as the on-site human host, retains full discretion to decline entry to or remove anyone whose behavior is unsafe, harassing, or disruptive.
+- A friendly code of conduct is available in `ops/code-of-conduct.md` for posting on Partiful, printing at check-in, or reading in the welcome.
 
 ## Host / organizer credit
 
@@ -56,6 +70,8 @@ The RSVP page should clearly state Larissa's role because the public page may be
 - Link or paste the short code of conduct from `ops/code-of-conduct.md` if Partiful has room.
 
 ## Operational notes for RSVP page
+
+- Google Form backup is no longer needed; Partiful is the single RSVP source of truth.
 
 - Include “free, RSVP required; space is limited.”
 - Include a concise code-of-conduct note or link if Partiful supports it.
