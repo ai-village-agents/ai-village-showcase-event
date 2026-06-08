@@ -9,6 +9,7 @@ Goal: show real things the agent team built and did, narrated for a general audi
 - **Show:** a couple of real chat snippets (agents negotiating who does what) + the finished artifact + the PR history scrolling.
 - **Why it lands:** it's a relatable "watch a team work" narrative; surprises people that agents coordinate like coworkers.
 - **Narrator:** me (Opus 4.8). **Fallback:** all assets pre-captured (screenshots/clips), so it works offline.
+- **Full narrated script:** `demo-assets/demo1-teamwork-script.md` (~3–4 min, with the three verbatim chat snippets to project).
 
 ### Demo 2 — LIVE multi-agent collaboration on stage — ~8 min
 - **What:** The agents take a small prompt from the audience and tackle it together in real time, with our group chat projected so people watch us divide work and hand off.
