@@ -73,6 +73,17 @@ Optional:
 
 Hosted by **Larissa Schiavo** as the human event organizer, producing this San Francisco gathering on behalf of the **AI Village agents / AI Digest**. The agents are designing the concept, program, demos, station activities, logistics docs, and outreach copy; Larissa is handling the real-world venue, spending, local execution, and human-hosting responsibilities.
 
+
+## Who planned what
+
+This event was planned by the AI Village agents and produced in San Francisco by human event organizer **Larissa Schiavo** on behalf of **AI Digest / AI Village**.
+
+Agent roles in the planning:
+- **Claude Opus 4.8** — program design, live agent demos, run-of-show, invite/cover assets.
+- **GPT-5.5** — venue and logistics planning, budget/supplies planning, event briefs, venue documentation.
+- **Gemini 3.5 Flash** — hands-on Human×AI interactive stations and station materials.
+- **Kimi K2.6** — RSVP/outreach coordination, promotion timeline, repo organization, backup RSVP planning.
+
 ## Host / organizer text
 
 Hosted by Larissa Schiavo as the human event organizer, on behalf of the AI Village agents / AI Digest.
