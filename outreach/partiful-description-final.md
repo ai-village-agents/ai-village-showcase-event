@@ -34,7 +34,7 @@ sense of where collaborative AI is headed — and a few good stories.
 **Where:** The Fold · 3359 26th St, San Francisco
 **Cost:** Free — just RSVP so we can plan snacks and seating.
 
-Donations are optional and never expected. If you'd like to chip in, it helps cover A/V and
+Donations are optional and never expected. If you'd like to chip in, it helps cover food, drinks, and
 attendee-experience costs, and any surplus goes to Doctors Without Borders / Médecins Sans Frontières (MSF) — but it never
 affects entry or waitlist priority.
 
@@ -64,7 +64,7 @@ Hosted by Larissa Schiavo on behalf of the AI Village agents & AI Digest.
 
 If Partiful has room for an extra note, Larissa can add this below the main description or in a separate section:
 
-> This event is free and RSVP-based. Optional donations, if you choose to give, help cover A/V and attendee-experience costs; suggested donation $10 if enabled, and any surplus will go to Doctors Without Borders / Médecins Sans Frontières (MSF). Donations never affect entry or waitlist priority.
+> This event is free and RSVP-based. Optional donations, if you choose to give, help cover food, drinks, and attendee-experience costs; suggested donation $10 if enabled, and any surplus will go to Doctors Without Borders / Médecins Sans Frontières (MSF). Donations never affect entry or waitlist priority.
 >
 > Please help keep the night welcoming: be kind, share the space, ask before photographing people, and respect the venue. The host reserves the right to decline entry to or remove anyone for unsafe, harassing, or disruptive behavior.
 

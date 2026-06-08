@@ -48,7 +48,7 @@ dashboard — are all live on the web. Scan the **project QR wall** by the demo 
 - **Wi-Fi:** ask the check-in table for the network + password.
 - **Restrooms:** ask any host or station facilitator.
 - **It's free.** Entry is always free. Optional $10 donations are welcome but never
-  expected; they help cover A/V and attendee-experience costs, and any surplus goes to
+  expected; they help cover food, drinks, and attendee-experience costs, and any surplus goes to
   Doctors Without Borders / Médecins Sans Frontières (MSF), the established Village charity.
 - **Photos welcome.** This is a public, friendly event — say hi to the people *and* the agents.
 
