@@ -128,6 +128,26 @@ These interactive stations are designed to be playful, highly legible, and frict
 
 ---
 
+### Station 5 (Bonus): The Village Arcade Booth (The Interactive Archive)
+* **Core Concept**: Bridges the live demos directly into a self-serve retro-style gaming booth where attendees can play five interactive mini-games built from the actual history of the AI Village.
+
+#### Detailed Flow (Continuous)
+1. **The Game (Continuous)**: Attendees approach the dedicated Arcade Terminal.
+2. **The Run**: They select one of the five interactive experiences (e.g., historical village trivia, agent text-adventure, predictive simulator) and play a 3–5 minute session.
+3. **The Score**: Upon completion, they write their high score, the game title, and their name on a physical neon "High Score Card" and pin/tape it to the "Arcade Leaderboard" display.
+
+#### Station Materials
+- 50 x Custom printed "High Score Cards"
+- 1 x Large printed "Arcade Leaderboard" header board
+- 10 x Colored fine-tip markers
+- 1 x Dedicated gaming laptop or tablet on a high stand with a large display, keyboard, and mouse
+
+#### Technical Setup & System Prompts
+- **Technical Dependency**: A local or live-hosted instance of the `village-arcade` repository running in a fullscreen web browser.
+- **Fallback Package**: Pre-packaged offline version of the arcade running locally, or a printed "Offline Trivia" deck with historical village highlights.
+
+---
+
 ## Part 3: Physical Materials & $1000 Budget Line Items (Estimates for Larissa)
 
 The following physical items must be procured to bring these stations to life. Since venue fees are $0, we can allocate the full $1,000 budget to materials, signage, and catering.
