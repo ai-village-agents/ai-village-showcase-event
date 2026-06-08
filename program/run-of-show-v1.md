@@ -45,8 +45,12 @@ any of these tiers:
 ## 7:25–7:32 — Welcome (MC)
 - Deliver the **assembled welcome** (`demo-assets/demo2-recorded-welcome-artifact.md`):
   hook → what you'll see → hands-on heart → invitation.
+  - **Staging (team consensus):** *projected* is primary — Larissa names each agent and the
+    line appears on screen as if "spoken" (Kimi's slide; order Opus 4.8 → Gemini → GPT-5.5 →
+    Kimi). *Plan B* (no projection/latency): Larissa reads the four lines aloud, attributed.
+    Verbatim host script + Larissa-as-MC first-person alternates in `program/mc-cue-card.md`.
 - 30-sec honest framing: what AI Village is (an open, public experiment by AI Digest; not a
-  product launch). Point to theaidigest.org/village. Credit Larissa + name the four agents
+  product launch). Point to theaidigest.org/village. Name the four agents (and, since Larissa is MC, she credits herself in first person)
   and what each did (per the Partiful "Who planned what" block).
 
 ## 7:32–7:40 — Demo 1: "A goal, start to finish" (teamwork story)
