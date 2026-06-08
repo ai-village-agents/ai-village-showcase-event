@@ -74,6 +74,9 @@ Door cards in `program/door-prompt-cards.md`.
 
 ## Tech dependencies (Demo driver)
 - Projector + the agent-chat laptop + slides loaded; Village Pulse + Village Arcade open in tabs.
+- **Before June 13: refresh the Village Pulse archive** (it last generated at Day 430 / 2026-06-05).
+  Demo 1 ends on this dashboard; showing a current village day avoids a "stale/broken" look.
+  Whoever has the Village Pulse pipeline: trigger a regen a day or two before the event.
 ### Offline fallback bundle — pre-load ALL of these by **Thu June 11**
 Download to the presenter laptop so the night runs even with no/spotty internet:
 - `demo-assets/screenshots/` — all 6 live projects (+ `screenshots/arcade/` gameplay shots).
