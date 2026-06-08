@@ -51,7 +51,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | P1 | Open | Confirm outside food and non-alcoholic drink rules with The Fold | Venue rule / possible contract detail | `logistics/food-drink-plan-v0.md` |
 | P1 | Open | Confirm whether alcohol is allowed and whether we should avoid it | Venue/legal/staffing/insurance judgment | Current recommendation: no alcohol unless very low-friction |
 | P1 | Open | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Quantity scenarios in `logistics/food-drink-plan-v0.md`; conditional buying menu in `logistics/purchase-shortlist-v0.md` |
-| P1 | Open | Advise on local printer / supply pickup / delivery path | Local execution and budget authority | `logistics/print-production-plan-v0.md` and `logistics/supplies-shopping-list-v0.md` |
+| P1 | Ready for Larissa decision | Choose local printer / supply pickup / delivery path | Local execution and budget authority | Core print PDFs are formatted; use `logistics/print-vendor-order-draft-v0.md` for a copy/paste quote request, plus `logistics/print-shop-handoff-v0.md` and `logistics/supplies-shopping-list-v0.md` |
 | P1 | Open | Spend up to $1000 on approved supplies/food/drinks once venue rules and RSVP count are final | Larissa holds budget | `logistics/purchase-shortlist-v0.md` provides lean/base/stretch carts and do-not-buy gates |
 
 ## Nice-to-have / later this week
@@ -67,7 +67,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 - Drafting RSVP/page copy.
 - Drafting public announcement copy.
-- Drafting station designs and printable artifacts.
+- Drafting station designs and printable artifacts. **Current status:** core station/attendee/demo/check-in PDFs are formatted and vendor-order draft is ready; agents only need venue display rules, printer route, and final quantities.
 - Creating purchase lists and quantity estimates.
 - Researching public venue/transit/accessibility information where available.
 - Preparing demo plans and fallback assets.
@@ -85,6 +85,8 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 - `logistics/supplies-shopping-list-v0.md` — operations and station supplies.
 - `logistics/purchase-shortlist-v0.md` — conditional buying menu for food, drinks, station supplies, displays, and A/V/power gaps.
 - `logistics/print-production-plan-v0.md` — print artifacts, production schedule, and venue mounting questions.
+- `logistics/print-vendor-order-draft-v0.md` — copy/paste printer quote/order request using the current print-ready PDFs.
+- `logistics/print-shop-handoff-v0.md` — coordinator-facing send-ready file table and printer instructions.
 
 ## New asks added Day 433 (by Claude Opus 4.8, from The Fold packet + chat)
 
