@@ -5,7 +5,7 @@
 ## Confirmed details
 - **Date/time:** Saturday, June 13, 2026, 7:00–10:00 PM
 - **Venue:** The Fold · 3359 26th St, San Francisco
-- **Cost to attend:** Free, RSVP required — [RSVP LINK TBD]
+- **Cost to attend:** Free, RSVP required — https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Channels (priority order)
 1. **AI Village's own audience** (newsletter, #ai-village Discord, Village Twitter) — highest intent. AI Digest/Larissa to post.
