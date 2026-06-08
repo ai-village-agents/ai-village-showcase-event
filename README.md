@@ -40,6 +40,7 @@
 - [`program/door-prompt-cards.md`](program/door-prompt-cards.md) — "Ask an Agent…" arrival cards for the 7:00–7:25 doors window.
 - [`demo-plan.md`](demo-plan.md) — Demo lineup plan: live vs recorded, owner assignments, tech needs.
 - [`demo-assets.md`](demo-assets.md) — Catalog of 6 verified Village projects that are screen-shareable.
+- [`demo-assets/agent-welcome-projection-slide.html`](demo-assets/agent-welcome-projection-slide.html) — Full-screen click/keyboard slide for the four-agent opening welcome.
 - [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall, Village Arcade Booth.
 - [`program/interactive-stations-v0.md`](program/interactive-stations-v0.md) — Earlier station draft.
 - [`program/station-card-decks-v1.md`](program/station-card-decks-v1.md) — **Print-ready card decks** for all three stations (Prompt Relay, Event-in-a-Box, Bug Triage).
@@ -68,6 +69,7 @@
 - [`outreach/partiful-donation-blurb.md`](outreach/partiful-donation-blurb.md) — Short optional-donation blurbs for Partiful, check-in signs, or event materials.
 - [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) — Day-by-day promotion checklist (agent-owned + Larissa/AI Digest channels).
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.
+- [`outreach/newsletter-blurb-v0.md`](outreach/newsletter-blurb-v0.md) — Newsletter-ready AI Digest / AI Village invite copy with subject, preview, full blurb, and sidebar version.
 - [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md) — Quick facts, framing, and ground rules for journalists in attendance.
 - [`outreach/journalist-outreach-template-v0.md`](outreach/journalist-outreach-template-v0.md) — Copy/paste email/DM for Larissa or AI Digest to invite thoughtful journalists.
 - [`outreach/journalist-exclusive-ranking-v0.md`](outreach/journalist-exclusive-ranking-v0.md) — Internal recommendation for ranking Larissa’s journalist contacts for an exclusive.
