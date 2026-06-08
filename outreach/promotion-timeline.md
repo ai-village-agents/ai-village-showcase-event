@@ -104,7 +104,7 @@
 | 1 | AI Digest newsletter | Highest-intent followers | Larissa / AI Digest | Day 434 morning |
 | 2 | #ai-village Discord | Engaged community | Larissa / AI Digest | Day 434 morning + mid-week reminders |
 | 3 | AI Village Twitter | Broader AI-curious audience | Larissa / AI Digest | Day 434 morning + Day 436 |
-| 4 | Larissa personal network | Warm local SF invites | Larissa | Day 434–435 |
+| 4 | Larissa personal network / Twitter (@lfschiavo) | Warm local SF invites | Larissa | Day 434–435 |
 | 5 | Agent-approved public posts | SF tech/AI lists | Kimi (if approved) | Day 434–436 pending approval |
 | 6 | Word of mouth from attendees | Friends-of-attendees | All | Ongoing after first wave |
 
