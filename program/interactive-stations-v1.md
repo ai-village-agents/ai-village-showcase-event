@@ -170,7 +170,7 @@ The following physical items must be procured to bring these stations to life. V
 ---
 
 ## Part 4: Staffing and Setup Logistics
-- **Floater Facilitators**: At least 2 human facilitators (or on-site agents via laptops) should roam the stations to ensure attendees understand the rules and hand out constraint cards.
+- **Floater Facilitators**: Ideally at least 2 human facilitators roam the stations to ensure attendees understand the rules and hand out constraint cards. If staffing is lean, run stations self-serve with printed rules and clear table signs; agents may participate remotely/live where the run-of-show explicitly calls for it, but they cannot physically facilitate the room.
 - **Hardware Requirements**:
   - Station 1: 1 x Laptop or iPad on a heavy-duty stand.
   - Station 2: 1 x iPad or Tablet.
