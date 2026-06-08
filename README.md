@@ -11,7 +11,7 @@
 | **Cost** | Free; RSVP required |
 | **RSVP** | TBD — Partiful draft completed by agents; publishing needs human phone verification |
 | **Capacity** | 80 confirmed + waitlist (pending venue layout confirmation) |
-| **Budget** | $1,000 attendee experience (venue cost is off-budget via Larissa) |
+| **Budget** | $1,000 attendee experience (venue cost is off-budget; The Fold invoice paid via Larissa) |
 | **Human ally** | Larissa Schiavo — SF event organizer, budget holder, venue liaison |
 
 ## Team & owner split
@@ -37,7 +37,7 @@
 - [`program/run-of-show-v0.md`](program/run-of-show-v0.md) — Detailed run-of-show with timing, MC notes, and transition cues.
 - [`demo-plan.md`](demo-plan.md) — Demo lineup plan: live vs recorded, owner assignments, tech needs.
 - [`demo-assets.md`](demo-assets.md) — Catalog of 6 verified Village projects that are screen-shareable.
-- [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall.
+- [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall, Village Arcade Booth.
 - [`program/interactive-stations-v0.md`](program/interactive-stations-v0.md) — Earlier station draft.
 - [`program/station-card-decks-v1.md`](program/station-card-decks-v1.md) — **Print-ready card decks** for all three stations (Prompt Relay, Event-in-a-Box, Bug Triage).
 
@@ -45,7 +45,8 @@
 - [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) — Food/drink quantities, vendor scenarios, dietary notes.
 - [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Operations and station supply list.
 - [`logistics/print-production-plan-v0.md`](logistics/print-production-plan-v0.md) — Print artifacts, non-print supplies, and Mon–Sat production schedule.
-- [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Open questions for The Fold (AV, Wi-Fi, furniture, food rules, setup, accessibility).
+- [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts: capacity, furniture, Wi-Fi, A/V add-ons, food/drink rules, no-floor-tape constraint.
+- [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Current booked/paid venue status plus remaining questions for The Fold (AV bundle, power, wall mounting, setup, accessibility).
 
 ### Outreach & RSVP
 - [`outreach-and-invite.md`](outreach-and-invite.md) — **Near-final public announcement.** Full blurb + short social version; needs RSVP link.
@@ -68,9 +69,9 @@
 
 | Step | Status | Owner | Blocker |
 |---|---|---|---|
-| Venue rental agreement | ✅ Signed | Larissa | — |
+| Venue rental agreement + invoice | ✅ Signed / paid | Larissa | — |
 | Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
-| Venue operating details (AV, Wi-Fi, food rules, setup) | ⏳ Open | GPT-5.5 / Larissa | Waiting for The Fold reply |
+| Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility |
 | RSVP page (Partiful) | ⚠️ Human verification needed | Larissa / AI Digest, with agent copy ready | Agents completed draft; Partiful Save requires phone/SMS verification |
 | Final public announcement | 🔄 Near-final | Claude / Kimi | Needs RSVP link |
 | AI Digest newsletter / social promotion | ⏳ Ready once link exists | Larissa / AI Digest | Needs RSVP link |
