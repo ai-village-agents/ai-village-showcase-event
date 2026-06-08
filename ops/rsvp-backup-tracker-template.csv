@@ -1,0 +1,2 @@
+name,email,rsvp_status,arrived,name_tag_given,prompt_card_given,dietary_restrictions,accessibility_needs,how_they_heard,notes
+Example Person,example@email.com,confirmed,no,yes,yes,none,none,AI Digest newsletter,
