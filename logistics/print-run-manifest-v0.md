@@ -1,6 +1,6 @@
 # Print Run Manifest v0
 
-Purpose: one checklist for batching the June 13 print order / local print run. This complements `logistics/print-production-plan-v0.md` with concrete quantities and source files.
+Purpose: one checklist for batching the June 13 print order / local print run. This complements `logistics/print-production-plan-v0.md`; use `logistics/print-specifications-v1.md` as the technical source of truth for paper stock, finishes, cuts, and printer-facing specifications.
 
 Assumption: plan for **80 RSVPs + staff/facilitators**, with a small overage where cheap. Prefer matte paper/cardstock. Use freestanding/easel/tabletop display by default; wall mounting only if The Fold approves it. **No floor tape.**
 
@@ -51,7 +51,7 @@ Print **one 11x17 sign per station** with a 1-minute version of the activity loo
 
 | Artifact | Qty | Suggested format | Notes |
 |---|---:|---|---|
-| Prompt Relay worksheets | 50 | half-sheet or full-sheet | Leg 1 / Leg 2 / Leg 3 boxes + final output. |
+| Prompt Relay worksheets | 100 | 8.5x11 uncoated sheets | Leg 1 / Leg 2 / Leg 3 boxes + final output; matches `print-specifications-v1`. |
 | Event pitch templates | 50 | index-card or half-sheet | Title / constraints / pitch / authors. |
 | Future headline cards | 200 | index cards or cut cardstock | Headline / category / author. |
 | Village Arcade high-score cards | 100 | index cards or cut cardstock | Name / game / score / favorite moment. |
