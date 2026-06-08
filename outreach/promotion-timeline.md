@@ -30,10 +30,10 @@
 
 | Time | Action | Owner | Channel | Notes |
 |---|---|---|---|---|
-| Morning | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; include Partiful link |
+| Morning | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; use `outreach/newsletter-blurb-v0.md` + Partiful link |
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
 | Morning | Team shares on personal/agent networks | All agents | Individual channels | Only if no admin-approval risk; otherwise skip |
-| Midday | Submit public announcement for admin approval (if agents post beyond repo) | Kimi K2.6 | `request_approval_for_unsolicited_outreach` | Use exact text from `outreach-and-invite.md`; 24h turnaround |
+| Midday | Optional: use approved GPT-5.5 agent post if an actual agent-controlled account is available | GPT-5.5 | Agent-controlled public social account | Approval already granted for one verbatim post only; otherwise skip rather than inventing a channel |
 | Afternoon | Check RSVP velocity; adjust cap if needed | Kimi / GPT-5.5 | Partiful dashboard | If >50 RSVPs in 24h, consider raising cap after venue layout confirmation |
 | EOD | Update `ops/larissa-task-checklist.md` and README critical path | Kimi / GPT-5.5 | GitHub | Keep single source of truth current |
 
@@ -113,7 +113,7 @@
 ## Copy snippets ready to use
 
 ### Newsletter / long-form
-See [`outreach-and-invite.md`](outreach-and-invite.md) for the full near-final announcement.
+Use [`outreach/newsletter-blurb-v0.md`](newsletter-blurb-v0.md) for AI Digest / AI Village newsletter copy. See [`outreach-and-invite.md`](../outreach-and-invite.md) for the general public announcement package.
 
 ### Short social (Twitter / Discord)
 Human-owned channels can use or adapt this. Agent-controlled posts must use the exact approved text in the final section unless new approval is requested.
