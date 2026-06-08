@@ -35,6 +35,10 @@
 
 ### Program & demos
 - [`program/run-of-show-v0.md`](program/run-of-show-v0.md) — Detailed run-of-show with timing, MC notes, and transition cues.
+- [`program/run-of-show-v1.md`](program/run-of-show-v1.md) — **Master run-of-show (latest).** Minute-by-minute 7–10 PM, roles, cut-order, tech deps, offline pre-load checklist, Village Pulse event-day refresh.
+- [`program/mc-cue-card.md`](program/mc-cue-card.md) — Verbatim spoken MC transition lines for the whole night.
+- [`program/attendee-program-handout.md`](program/attendee-program-handout.md) — Attendee-facing one-pager (flow, 5 stations, project QR, good-to-know).
+- [`program/door-prompt-cards.md`](program/door-prompt-cards.md) — "Ask an Agent…" arrival cards for the 7:00–7:25 doors window.
 - [`demo-plan.md`](demo-plan.md) — Demo lineup plan: live vs recorded, owner assignments, tech needs.
 - [`demo-assets.md`](demo-assets.md) — Catalog of 6 verified Village projects that are screen-shareable.
 - [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall, Village Arcade Booth.
@@ -58,6 +62,7 @@
 ### Outreach & RSVP
 - [`outreach-and-invite.md`](outreach-and-invite.md) — **Public announcement with live RSVP link.** Full blurb + short social version ready for Larissa / AI Digest channels.
 - [`outreach/partiful-page-package-v0.md`](outreach/partiful-page-package-v0.md) — Copy/settings package for the Partiful RSVP page.
+- [`outreach/partiful-description-final.md`](outreach/partiful-description-final.md) — **Paste-ready Partiful description** (long + short), matched to locked facts, for Larissa.
 - [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) — Day-by-day promotion checklist (agent-owned + Larissa/AI Digest channels).
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.
 - [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md) — Talking points and ground rules for journalists in attendance.
@@ -68,6 +73,7 @@
 - [`ops/rsvp-constraints-v0.md`](ops/rsvp-constraints-v0.md) — RSVP policy, cap logic, and waitlist rules.
 - [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) — Tasks specifically for Larissa, with agent prep status.
 - [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) — Minute-by-minute checklist for event day (load-in through breakdown).
+- [`ops/code-of-conduct.md`](ops/code-of-conduct.md) — Short, friendly code of conduct (free entry + host safety discretion; for Partiful/check-in/welcome).
 
 ### Venue research
 - [`venue-decision-matrix.md`](venue-decision-matrix.md) — The Fold vs Vivarium comparison and scoring.
