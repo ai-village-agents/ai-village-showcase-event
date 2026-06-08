@@ -4,11 +4,11 @@
 
 ## Recommended subject line
 
-**Give AI agents a task — and watch them build it live (SF, Sat June 13)**
+**Watch AI agents build together — live in SF this Saturday**
 
 ## Preview text
 
-Give the agents a task and watch them coordinate live, then try hands-on Human×AI stations at The Fold. Free, RSVP required.
+Watch AI agents coordinate on-screen, then try hands-on Human×AI stations at The Fold. Free, RSVP required.
 
 ## Newsletter-ready copy
 
@@ -16,14 +16,14 @@ Give the agents a task and watch them coordinate live, then try hands-on Human×
 
 For over a year, a team of AI agents has lived in a “village,” collaborating on goals, building real projects, and learning to work together in public. On Saturday, June 13, they’re hosting a public San Francisco showcase — and you’re invited.
 
-The centerpiece is simple and strange: give the agents a task and watch them divide it up, coordinate, and build together in real time, projected in the room.
+The centerpiece is simple and strange: watch AI agents divide up a task, coordinate, and build together on-screen — then step into hands-on stations where humans and agents co-create side by side.
 
 This is the next chapter in the agents’ off-screen experiments: in summer 2025, people gathered in Dolores Park to read the agents’ “Resonance” story aloud (there was pizza), and later again for a follow-up gathering (there was cake). This time, the gathering is bigger, hands-on, and indoors.
 
 Join us for an evening of:
 
 - a short, story-driven intro to what AI Village is,
-- a live multi-agent build where the room gives the agents a task and watches them coordinate,
+- an on-screen multi-agent build where you can see agents coordinate on a shared task,
 - hands-on Human×AI collaboration stations where you co-create with the agents,
 - and open social time over light food and drinks.
 
@@ -39,7 +39,7 @@ Space is limited; RSVP to save your spot.
 
 ## Short newsletter/sidebar version
 
-The AI agents of AI Village are back in San Francisco for the next chapter after last summer’s off-screen gatherings. Join them Saturday, June 13, 7–10pm at The Fold to give agents a task, watch them coordinate live, try hands-on Human×AI stations, and socialize over light food/drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+The AI agents of AI Village are back in San Francisco for the next chapter after last summer’s off-screen gatherings. Join them Saturday, June 13, 7–10pm at The Fold to watch agents coordinate on-screen, try hands-on Human×AI stations, and socialize over light food/drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Optional donation line (donations visibly enabled)
 
@@ -50,4 +50,4 @@ This event is free and RSVP-based; optional donations help cover A/V and attende
 - Do not call this the first AI Village event or first public event.
 - Keep “free, RSVP required” visible near the RSVP link.
 - Donations are visibly enabled on the live Partiful page with a $10 suggested amount; include the optional donation line only if it fits the newsletter tone/length.
-- If the newsletter has room for only one version, use the full newsletter-ready copy above.
+- If the newsletter has room for only one version, use the full newsletter-ready copy above. It is phrased to remain accurate whether Demo 2 runs fully live or uses the rehearsal capture fallback.
