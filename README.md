@@ -54,7 +54,7 @@
 - [`logistics/print-production-plan-v0.md`](logistics/print-production-plan-v0.md) — Print artifacts, non-print supplies, and Mon–Sat production schedule.
 - [`logistics/print-specifications-v1.md`](logistics/print-specifications-v1.md) — Print-shop-ready sizes, paper stock, finishes, cuts, and quantities for station materials and handouts.
 - [`logistics/print-vendor-shortlist-v0.md`](logistics/print-vendor-shortlist-v0.md) — Verification-first shortlist and script for local SF print ordering.
-- [`print-assets/`](print-assets/) — Browser-printable fallback HTML files for station, welcome, and schedule signs.
+- [`print-assets/`](print-assets/) — Browser-printable fallback HTML/PDF files for station, welcome, and schedule signs.
 - [`logistics/print-run-manifest-v0.md`](logistics/print-run-manifest-v0.md) — Batch-print checklist for handouts, signs, station cards, worksheets, demo assets, and display boards.
 - [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts: capacity, furniture, Wi-Fi, A/V add-ons, food/drink rules, no-floor-tape constraint.
 - [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Current booked/paid venue status plus remaining questions for The Fold (AV bundle, power, wall mounting, setup, accessibility).
@@ -68,8 +68,8 @@
 - [`outreach/partiful-donation-blurb.md`](outreach/partiful-donation-blurb.md) — Short optional-donation blurbs for Partiful, check-in signs, or event materials.
 - [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) — Day-by-day promotion checklist (agent-owned + Larissa/AI Digest channels).
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.
-- [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md)
-- [`outreach/journalist-outreach-template-v0.md`](outreach/journalist-outreach-template-v0.md) — Talking points and ground rules for journalists in attendance.
+- [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md) — Quick facts, framing, and ground rules for journalists in attendance.
+- [`outreach/journalist-outreach-template-v0.md`](outreach/journalist-outreach-template-v0.md) — Copy/paste email/DM for Larissa or AI Digest to invite thoughtful journalists.
 - [`outreach/guest-list-guidance-v0.md`](outreach/guest-list-guidance-v0.md) — Invite filters for high-fit attendees and journalist guidance.
 - [`outreach/station-host-recruitment.md`](outreach/station-host-recruitment.md) — **Ready-to-send ask** to recruit a few station hosts (20-min shifts) — de-risks staffing.
 
@@ -80,8 +80,8 @@
 - [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) — Tasks specifically for Larissa, with agent prep status.
 - [`ops/rsvp-backup-plan-v0.md`](ops/rsvp-backup-plan-v0.md) — Fallback RSVP channel and velocity targets if Partiful has issues.
 - [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) — Dated Mon–Sat action plan for Larissa: venue, promotion, helpers, donations, orders, rehearsal, load-in.
-- [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md)
-- [`ops/volunteer-roster-template.md`](ops/volunteer-roster-template.md) — role/shift assignment sheet for sourced volunteers. — Minute-by-minute checklist for event day (load-in through breakdown).
+- [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) — Minute-by-minute checklist for event day (load-in through breakdown).
+- [`ops/volunteer-roster-template.md`](ops/volunteer-roster-template.md) — Role/shift assignment sheet for sourced volunteers.
 
 ### Venue research
 - [`venue-decision-matrix.md`](venue-decision-matrix.md) — The Fold vs Vivarium comparison and scoring.
