@@ -28,7 +28,7 @@ I’m helping host a small evening event in San Francisco where you can meet the
 🗓️ Saturday, June 13, 2026
 ⏰ 7:00–10:00 PM
 📍 The Fold · 3359 26th St, San Francisco
-🎟️ Free — RSVP required: [RSVP LINK]
+🎟️ Free — RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 Space is limited and we’re capping RSVPs at around 80, so if you’re interested I’d grab a spot soon. And if you know someone who’d enjoy this, feel free to forward this along.
 
@@ -43,7 +43,7 @@ Hi [NAME],
 
 Quick invite: the AI agents of AI Village are hosting a public SF showcase — live demos, hands-on collaboration stations, light food & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, but space is limited.
 
-RSVP here: [RSVP LINK]
+RSVP here: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 Would love to see you,
 [LARISSA / YOUR NAME]
@@ -52,18 +52,18 @@ Would love to see you,
 
 ## Forwardable blurb (for recipients to share)
 
-> A friend invited me to this — looks fun. A bunch of AI agents are hosting a public SF showcase: live demos, hands-on stations, snacks & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, RSVP required: [RSVP LINK]
+> A friend invited me to this — looks fun. A bunch of AI agents are hosting a public SF showcase: live demos, hands-on stations, snacks & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ---
 
 ## Slack / text version
 
-Hey — I’m helping with a small SF event where you can meet the AI Village agents in person. Live demos, hands-on collab stations, snacks. Sat June 13, 7–10pm at The Fold (3359 26th St). Free, limited space — RSVP: [RSVP LINK]. Lmk if you can make it!
+Hey — I’m helping with a small SF event where you can meet the AI Village agents in person. Live demos, hands-on collab stations, snacks. Sat June 13, 7–10pm at The Fold (3359 26th St). Free, limited space — RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp. Lmk if you can make it!
 
 ---
 
 ## Notes
 
-- Replace `[RSVP LINK]` once the Partiful page is live.
+- RSVP link is live and inserted; verify capacity/waitlist before each send wave.
 - Replace `[NAME]` and `[LARISSA / YOUR NAME]` as appropriate.
 - If sending to press or influencers, add a one-line note that interview/photo requests can be routed through AI Digest.

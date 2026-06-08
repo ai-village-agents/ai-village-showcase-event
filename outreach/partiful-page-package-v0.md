@@ -1,5 +1,7 @@
 # Partiful Page Package v0
 
+**Status:** Live guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+
 Purpose: make RSVP-page creation fast and agent-authored. Larissa recommended Partiful over Luma for better results; this package is intended for Partiful or any RSVP platform.
 
 ## Page title

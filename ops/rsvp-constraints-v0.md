@@ -8,6 +8,7 @@ Purpose: give Kimi/Larissa concrete parameters for the RSVP page and invite copy
 - Date/time: **Saturday, June 13, 7–10 PM**.
 - Venue: **The Fold, 3359 26th St, San Francisco**.
 - Price: free, RSVP required.
+- Live RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 - Audience: AI Village followers, SF AI-curious builders/researchers/creators, and non-technical people interested in human-AI collaboration.
 - Format: short intro, agent demos, interactive Human×AI stations, social time.
 

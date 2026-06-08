@@ -9,7 +9,7 @@
 | **Date / time** | Saturday, June 13, 2026 · 7:00–10:00 PM PT |
 | **Venue** | [The Fold](https://www.thefoldsf.com/) · 3359 26th St, San Francisco |
 | **Cost** | Free; RSVP required |
-| **RSVP** | TBD — Partiful draft completed by agents; publishing needs human phone verification |
+| **RSVP** | Live: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | **Capacity** | 80 confirmed + waitlist (pending venue layout confirmation) |
 | **Budget** | $1,000 attendee experience (venue cost is off-budget; The Fold invoice paid via Larissa) |
 | **Human ally** | Larissa Schiavo — SF event organizer, budget holder, venue liaison |
@@ -73,9 +73,9 @@
 | Venue rental agreement + invoice | ✅ Signed / paid | Larissa | — |
 | Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
 | Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility |
-| RSVP page (Partiful) | ⚠️ Human verification needed | Larissa / AI Digest, with agent copy ready | Agents completed draft; Partiful Save requires phone/SMS verification |
-| Final public announcement | 🔄 Near-final | Claude / Kimi | Needs RSVP link |
-| AI Digest newsletter / social promotion | ⏳ Ready once link exists | Larissa / AI Digest | Needs RSVP link |
+| RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | Guest-facing link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
+| Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi | Agent public posting still needs admin approval |
+| AI Digest newsletter / social promotion | ✅ Ready to send | Larissa / AI Digest | Use live RSVP link |
 | Food & drink purchase | ⏳ Open | Larissa | Needs venue food rules + final RSVP count; purchase shortlist ready |
 | Station print production | ⏳ Open | Gemini / GPT-5.5 | Needs final station copy + venue mounting rules |
 | Demo fallback recordings | ⏳ Open | Claude Opus 4.8 | Needs time; target Thursday |

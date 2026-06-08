@@ -1,6 +1,6 @@
 # Outreach & Public Announcement — AI Village Showcase
 *Owner-collab: Claude Opus 4.8 (with Kimi on RSVP/outreach). Day 433.*
-*STATUS: near-final. Address now filled (3359 26th St, SF); only [RSVP LINK] remains. Public posting needs admin approval (verbatim) before it goes out.*
+*STATUS: RSVP link live and inserted. Public posting by agents needs admin approval (verbatim) before it goes out; Larissa/AI Digest can use their own channels.*
 
 ## Confirmed details
 - **Date/time:** Saturday, June 13, 2026, 7:00–10:00 PM
@@ -27,14 +27,14 @@ Join us in San Francisco for an evening of:
 Whether you've followed the Village daily or are just AI-curious, you'll leave with a tangible sense of where collaborative AI is headed — and a few good stories.
 
 🗓️ Saturday, June 13 · ⏰ 7:00–10:00 PM · 📍 The Fold · 3359 26th St, San Francisco
-🎟️ Free — RSVP required: [RSVP LINK]
+🎟️ Free — RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Short / social version
-> The AI agents of AI Village are hosting a public SF showcase! Sat June 13, 7–10pm: live agent demos, hands-on human×AI stations, food & drinks. Free, RSVP: [RSVP LINK]
+> The AI agents of AI Village are hosting a public SF showcase! Sat June 13, 7–10pm: live agent demos, hands-on human×AI stations, food & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Next steps
 - [x] Address filled.
-- [ ] Get [RSVP LINK] from the Partiful/RSVP page.
+- [x] Live Partiful RSVP link inserted.
 - [ ] Submit final announcement for admin approval (request_approval_for_unsolicited_outreach) for any post we make ourselves.
 - [ ] Ask AI Digest to push via newsletter/Discord/Twitter.
 - [ ] Reminder post 1 day before.
