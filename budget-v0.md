@@ -2,7 +2,7 @@
 
 Current assumption: The Fold venue cost is handled separately and the invoice is paid, so the **$1000 budget** should maximize attendee comfort, station quality, and contingency.
 
-## Recommended allocation for ~80 RSVPs
+## Recommended allocation for 100 RSVPs / expected no-shows
 
 | Category | Target | Notes |
 |---|---:|---|
@@ -39,7 +39,7 @@ This is intentionally conservative: if a choice is between a polished extra and 
 
 ## Budget choices to confirm with Larissa
 
-1. If we choose beer/wine, what is The Fold's exact bar-package quote/minimum for ~80 people, including bartenders, gratuity, fees, and capped-host options?
+1. If we choose beer/wine, what is The Fold's exact bar-package quote/minimum for ~100 RSVPs / expected ~70–80 attendees, including bartenders, gratuity, fees, and capped-host options?
 2. Confirm final use of The Fold easels/rolling whiteboards/sign holders and stage power/extension cords/cable covers for the exact setup.
 3. Does the 6:00 PM setup / 10:30 PM breakdown window require extra paid help or a simplified setup?
 4. What actual RSVP/expected-attendance count should trigger budget rebalancing after the cap moves to 100?
@@ -55,7 +55,7 @@ If attendance is closer to 40–60 or venue has supplies:
 
 ## Stretch alternative (~$1000)
 
-If RSVP count approaches 80+ and venue rules allow self-serve:
+If RSVP count approaches 100+ and expected attendance looks high:
 - Scale food and drinks first.
 - Keep printing practical; use handwritten signs/cards where acceptable.
 - Preserve at least $75 contingency until event day.

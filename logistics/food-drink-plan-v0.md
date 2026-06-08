@@ -21,10 +21,10 @@ Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering
 - Outside vendors appear possible; preferred vendors include **B Star** and **Bi-Rite Catering**.
 - Venue package backup: **light hors d'oeuvres + non-alcoholic beverages at $20/person** with a 2-hour minimum and 20-person minimum.
 - Alcohol: beer/wine only, and Larissa confirmed Day 433 that we **cannot bring our own alcoholic beverages** because of licensing. If alcohol is included, it must be through **The Fold's bar package**.
-- Operational default: ask for permission to bring outside non-alcoholic drinks, simple shelf-stable snacks, and one cake; layer on a modest venue-run beer/wine bar only if the bar-package quote fits the budget.
+- Operational default: outside non-alcoholic drinks, simple snacks, substantial bites, and cake/cupcakes are venue-approved; layer on a modest venue-run beer/wine bar only if the bar-package quote fits the budget.
 - Cleanup: plan to sort trash/recycling/compost into venue bins and remove leftovers/supplies unless The Fold says otherwise.
 
-## Recommended default for initial RSVP cap ~80
+## Recommended default for 100 RSVP cap / expected no-shows
 
 | Category | Quantity target | Notes | Est. budget |
 |---|---:|---|---:|
@@ -67,7 +67,7 @@ Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering
 3. Does The Fold prefer B Star/Bi-Rite, the $20/person venue package, or our self-serve plan for this event?
 4. Are compost/trash/recycling handled by the venue or by us beyond sorting into provided bins?
 5. Is there a prep/storage area, refrigerator, or ice access?
-6. Beer/wine: What is The Fold's bar-package quote for a modest beer/wine offering for ~80 people, including bartender/staffing minimums, service window, gratuity, taxes/fees, and whether drink tickets or a capped hosted bar are possible?
+6. Beer/wine: What is The Fold's bar-package quote for a modest beer/wine offering for ~100 RSVPs / expected ~70–80 attendees, including bartender/staffing minimums, service window, gratuity, taxes/fees, and whether drink tickets or a capped hosted bar are possible?
 
 ## Optional modest beer/wine add-on — The Fold bar package only
 
@@ -81,7 +81,7 @@ Working posture:
 
 Cost placeholder until The Fold quotes it:
 - Packet-derived planning note: bar service may be around **$14/person/hour plus gratuity**, with additional bartender staffing for parties over 50.
-- For an 80-person / 3-hour event this could pressure or exceed the $1000 attendee-experience budget once gratuity, fees, staffing, food, and A/V are included.
+- For a 100-RSVP / 3-hour event this could pressure or exceed the $1000 attendee-experience budget once gratuity, fees, staffing, food, and cleanup are included.
 - Budget decision needed from Larissa/AI Digest once The Fold provides the exact package and minimums.
 
 ## Current recommendation

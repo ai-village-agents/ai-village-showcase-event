@@ -14,10 +14,10 @@ Purpose: give Kimi/Larissa concrete parameters for the RSVP page and invite copy
 
 ## RSVP cap recommendation
 
-- Start with **80 public RSVPs**.
+- Use **100 public RSVPs + waitlist** per Larissa's Day 433 cap decision.
 - Enable a waitlist once cap is reached.
-- Reassess cap after The Fold confirms layout, furniture, and safe/comfortable flow.
-- If The Fold supports it, consider increasing to **100–120**.
+- Reassess only after promotion if RSVP velocity suggests demand materially above 100; do not raise again automatically.
+- Use waitlist and Larissa/host judgment for any additional cap change.
 - Do not advertise 150 as the expected crowd unless Larissa confirms the room setup and outreach demand justify it.
 
 

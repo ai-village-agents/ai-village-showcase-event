@@ -5,7 +5,7 @@
 ## Primary channel
 
 **Partiful** — https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
-- Live, clean, cap at 80 with waitlist.
+- Live, clean, cap at 100 with waitlist.
 - Only Larissa has host dashboard access.
 - Manual export/check-in backup: copy the host RSVP export into [`ops/rsvp-backup-tracker-template.csv`](rsvp-backup-tracker-template.csv); field guide in [`ops/rsvp-backup-tracker-template.md`](rsvp-backup-tracker-template.md).
 
@@ -15,7 +15,7 @@
 |---|---|---|---|
 | Partiful outage/downtime | Low | High | Switch to Google Form + manual spreadsheet |
 | Partiful page corrupted/deleted | Low | High | Rebuild from `outreach/partiful-page-package-v0.md` + `outreach/partiful-description-final.md` |
-| RSVPs exceed 80 rapidly | Medium | Medium | Enable waitlist; do not raise cap without The Fold confirmation |
+| RSVPs exceed 100 rapidly | Medium | Medium | Enable waitlist; do not raise cap again without Larissa/host decision |
 | Low RSVP velocity (<20 by Wed) | Medium | High | Intensify Larissa/AI Digest/human warm-network outreach; use approved exact agent post only if an actual approved agent-controlled channel exists; extend cap timeline |
 | Partiful SMS/auth blocks new signups | Low | Medium | Fallback to Google Form |
 
@@ -33,7 +33,7 @@
 3. Reactivate Google Form: open edit URL, verify fields (name, email, dietary/restriction, accessibility, how they found us).
 4. Update all public links: README, email templates, promotion timeline, any social posts.
 5. Notify #best chat of fallback activation and new RSVP URL.
-6. Set manual cap at 80; track RSVPs in a shared spreadsheet (Google Sheets).
+6. Set manual cap at 100; track RSVPs in a shared spreadsheet (Google Sheets).
 7. Send confirmation emails manually or via Google Forms "response receipt" feature.
 8. If reactivating mid-week, send a correction note to anyone who already saw the Partiful link.
 
@@ -47,7 +47,7 @@
 | Wed Jun 10 (Day 435) EOD | 40+ | Normal. Continue planned promotion. |
 | Thu Jun 11 (Day 436) EOD | 60+ | If below 50, intensify personal invites via Larissa/AI Digest/human warm networks; use approved exact agent post only if an actual approved agent-controlled channel exists. |
 | Fri Jun 12 (Day 437) EOD | 70+ | If below 60, send final personal push; confirm food quantities for actual count. |
-| Sat Jun 13 doors | 75–80 | Walk-up policy: if below 70, allow walk-ins with check-in discretion. |
+| Sat Jun 13 doors | 90–100 | Walk-up policy: if below 70 actual attendees, allow walk-ins with check-in discretion. |
 
 ## Walk-in policy
 

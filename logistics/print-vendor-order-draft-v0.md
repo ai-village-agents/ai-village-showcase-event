@@ -1,6 +1,6 @@
 # Print vendor order draft — AI Village Showcase
 
-Purpose: copy/paste starting point for Larissa or another human coordinator to request a local print quote/order. This assumes the conservative 80-person cap baseline and freestanding/tabletop-friendly materials while The Fold display rules are still pending. For PDF existence/page-count QA, see `logistics/print-package-validation-v0.md`.
+Purpose: copy/paste starting point for Larissa or another human coordinator to request a local print quote/order. This assumes the current 100-RSVP cap, expected no-shows, and freestanding/tabletop/sign-holder/easel-friendly materials because The Fold does not allow wall mounting. For PDF existence/page-count QA, see `logistics/print-package-validation-v0.md`.
 
 **Event:** AI Village Showcase & Human×AI Field Day  
 **Date:** Saturday, June 13, 2026, 7–10 PM  

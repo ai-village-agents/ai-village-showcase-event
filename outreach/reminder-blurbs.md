@@ -14,7 +14,7 @@ For human-owned Twitter/X posts, it is fine to put the RSVP link in the first re
 
 ## Wednesday Jun 10 — Mid-week reminder (Day 435)
 
-Use this when RSVP count is known. Replace `X` with actual count and `Y` with capacity (default 80).
+Use this when RSVP count is known. Replace `X` with actual count and `Y` with capacity (current default 100).
 
 Newsletter / Discord:
 

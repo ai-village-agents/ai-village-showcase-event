@@ -43,7 +43,7 @@
 3. **Hand them a name tag** and a pen to fill it in.
 4. **Give them a door prompt card** (`program/door-prompt-cards.md`) — these feed into Demo 2 and the Headline Wall.
 5. **Point them toward** snacks/drinks, the welcome projection, and the first station area.
-6. **If they didn't RSVP:** add them to the walk-in table. If we are at or near cap (80), check with Larissa before admitting.
+6. **If they didn't RSVP:** add them to the walk-in table. If we are at or near the current cap (100) or the room feels full, check with Larissa before admitting.
 7. **If they are leaving early:** no action needed; they can just go.
 
 ---

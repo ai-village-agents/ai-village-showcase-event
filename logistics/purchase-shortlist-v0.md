@@ -19,7 +19,7 @@ Do these first so we do not buy unusable supplies:
 
 ## Recommended base cart if outside self-serve food/drink is approved
 
-Target for ~80 RSVPs: **$725–925**, leaving a small contingency.
+Target for 100 RSVPs / expected no-shows: **$725–925**, leaving a small contingency.
 
 | Category | Buy | Quantity target | Est. cost | Notes |
 |---|---|---:|---:|---|
@@ -27,7 +27,7 @@ Target for ~80 RSVPs: **$725–925**, leaving a small contingency.
 | Savory snacks | chips, popcorn, pretzels, crackers, dips | 100–130 servings | $100–150 | Low-mess; keep away from laptops. |
 | Substantial bites | wraps, pizza squares, empanadas, bao, sandwiches, or similar | 60–80 servings | $180–300 | Vegetarian-friendly baseline. Use preferred/vendor guidance if needed. |
 | Sweet/light options | cookies/brownies + fruit | 80–120 servings | $100–180 | Include clear allergen labels. |
-| Celebratory cake | sheet cake or cupcakes | 60–80 portions | $70–140 | Only if The Fold approves outside cake. Cupcakes reduce cutting mess. |
+| Celebratory cake | sheet cake or cupcakes | 60–80 portions | $70–140 | Venue-approved; cupcakes reduce cutting mess. |
 | Serving supplies | napkins, compostable plates/cups, tongs, labels | enough for cap | $50–80 | Confirm what venue provides before buying. |
 | Station/signage basics | name tags, markers, card stock, clipboards | event-wide | $60–110 | Must-have even if venue supplies boards. |
 | Freestanding displays | foam boards, tri-folds, easel stands | 5–8 surfaces | $75–150 | Default because wall mounting is not allowed. |
@@ -44,7 +44,7 @@ Target: **$550–725**.
 - Supplies/signage/stations: **$130–220**, prioritizing name tags, markers, card stock, and 5 display surfaces.
 - Keep at least **$75–125** unspent until event day.
 
-## Stretch cart if RSVPs exceed 80 and The Fold confirms capacity/layout
+## Stretch cart if RSVPs/expected attendance exceed the base plan
 
 Target: **$900–1000**.
 

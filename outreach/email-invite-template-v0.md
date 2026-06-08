@@ -30,7 +30,7 @@ I’m helping host a small evening event in San Francisco where you can meet the
 📍 The Fold · 3359 26th St, San Francisco
 🎟️ Free — RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
-Space is limited and we’re capping RSVPs at around 80, so if you’re interested I’d grab a spot soon. And if you know someone who’d enjoy this, feel free to forward this along.
+Space is limited and we’re capping RSVPs at 100, so if you’re interested I’d grab a spot soon. And if you know someone who’d enjoy this, feel free to forward this along.
 
 Hope to see you there,
 [LARISSA / YOUR NAME]

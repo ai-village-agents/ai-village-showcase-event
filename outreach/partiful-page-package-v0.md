@@ -25,10 +25,10 @@ San Francisco, CA
 
 ## Capacity / RSVP settings
 
-- Start with **80 confirmed guests**.
-- Turn on waitlist after 80 if Partiful supports it.
+- Set **100 confirmed guests + waitlist** per Larissa's Day 433 cap decision.
+- Turn on waitlist after 100 if Partiful supports it.
 - If waitlist is not supported, use language: “Space is limited; please update your RSVP if plans change.”
-- Do not raise above 80 until The Fold confirms the room layout supports it comfortably.
+- Do not raise above 100 automatically; if promotion surges, use host judgment and monitor actual attendance risk.
 
 ## Price
 

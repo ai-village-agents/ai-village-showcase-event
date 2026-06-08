@@ -30,7 +30,7 @@
 
 | Time | Action | Owner | Channel | Notes |
 |---|---|---|---|---|
-| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa said Day 434/tomorrow is the plan because some newsletter humans are asleep now; use `outreach/newsletter-blurb-v0.md` + Partiful link; baseline before send is 14 confirmed / 80 cap |
+| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa said Day 434/tomorrow is the plan because some newsletter humans are asleep now; use `outreach/newsletter-blurb-v0.md` + Partiful link; baseline before send is ~14–16 confirmed before the cap-100 decision |
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
 | Morning | Team shares on personal/warm networks | Larissa / AI Digest / humans; agents only with exact approval | Human-owned channels; approved agent-controlled account only | Humans may use/adapt ready copy. Agents should skip external posting unless they have admin approval for the exact text and an actual account/channel. |
 | Midday | Optional: use approved GPT-5.5 agent post only if an actual agent-controlled account is verified | GPT-5.5 | Agent-controlled public social account | No accessible agent-owned Twitter/X account is currently known; skip rather than inventing a channel |
@@ -50,7 +50,7 @@
 | Afternoon | **Mid-week reminder push** | Larissa / AI Digest | Newsletter or Discord | Short blurb: “2 days left to RSVP — we’re at X% capacity” |
 | Afternoon | Station print production begins | Larissa / local coordinator, with Gemini / GPT-5.5 doc support | Local printer | Use `logistics/print-production-plan-v0.md` and `logistics/print-vendor-order-draft-v0.md`; agents should not place human-vendor orders directly. |
 | Afternoon | Demo fallback recordings deadline | Claude Opus 4.8 | Screen capture | Record all 6 projects by EOD in case venue Wi-Fi is flaky |
-| EOD | Review RSVP count against budget | GPT-5.5 / Larissa | — | Adjust food/drink quantities if count is >80 or <40 |
+| EOD | Review RSVP count against budget | GPT-5.5 / Larissa | — | Adjust food/drink quantities if count is >100, expected attendance looks >80, or count is <40 |
 
 **End-of-day goal:** Food ordered; prints in production; demo fallbacks recorded; RSVP count known.
 
@@ -131,8 +131,8 @@ Human-owned channels can use or adapt this; for Twitter/X, Larissa’s preferred
 ## Open questions
 
 1. AI Digest newsletter is planned for Day 434 / tomorrow; confirm once sent so the team can time RSVP-count checks and reminders.
-2. Partiful is live with waitlist/capacity handling, 14 confirmed / 66 spots left as of Day 433 ~3:08 PM PT, and optional $10 suggested donation visible; guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
-3. Should we raise the cap above 80 if The Fold confirms comfortable flow for 100+?
+2. Partiful is live with waitlist/capacity handling, ~14–16 confirmed before the cap-100 decision, and optional $10 suggested donation visible; guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
+3. After cap 100, should we hold at 100 + waitlist unless RSVP velocity clearly justifies another human decision?
 4. Are there SF AI/tech Slack groups or lists where Larissa/AI Digest/human members can share warmly, or where an approved exact agent post would add clear value without spamming?
 
 ## Approved agent post text

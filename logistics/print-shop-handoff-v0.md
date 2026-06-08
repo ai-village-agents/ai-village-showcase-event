@@ -15,7 +15,7 @@ These can be printed immediately if the team needs a fast, good-enough package:
 | `print-assets/station-signs.pdf` | 11x17 color, one-sided, matte; foam board optional | 1 set (5 pages) | One title/rules sign per station. |
 | `print-assets/welcome-schedule-signs.pdf` | 18x24 color posters/boards if possible; 11x17 acceptable fallback | 1 set (2 pages) | Welcome + public schedule. |
 | `print-assets/attendee-program-handout.pdf` | 8.5x11 handout, B/W or color, single/double-sided | 100 | Print-ready PDF rendered from `program/attendee-program-handout.md`; optional donation language is OK because Partiful shows the $10 suggested amount. |
-| `print-assets/check-in-sheet-template.pdf` | 8.5x11 check-in packet, B/W, single-sided | 1 working copy + 1 backup | Five pages: RSVP rows 1–80 plus 20 walk-in/last-minute rows; fill RSVP names from Partiful export before event day if available. |
+| `print-assets/check-in-sheet-template.pdf` | 8.5x11 check-in packet, B/W, single-sided | 1 working copy + 1 backup | Five pages currently include RSVP rows 1–80 plus 20 walk-in/last-minute rows; if Partiful export exceeds 80, print/add an overflow sheet or regenerate before event day. |
 | `print-assets/project-qr-wall-print.pdf` | 17x11 color landscape poster, matte; foam board optional | 1–2 | Project gallery QR wall print rendered from `demo-assets/projects-qr-slide.png`. |
 | `print-assets/door-prompt-cards.pdf` | 3x5 cards, cut from 8.5x11 cardstock; B/W or color | Print 15 copies of 3-page master (~150 cards) | Ten prompt cards plus two blank guest-prompt cards per master; batch with station decks if the printer can cut. |
 | `print-assets/station-card-decks.pdf` | 4x5-ish cards, cut from 8.5x11 cardstock; B/W or color | 1 master set (37 pages / 145 cards + 3 blanks) | Reusable Prompt Relay, Event-in-a-Box, and Bug Triage decks rendered from `program/station-card-decks-v1.md`; ask printer to cut and bundle by deck if possible. |
@@ -38,7 +38,7 @@ Please print on matte stock where possible. Avoid glossy finishes. Cut card deck
 
 ## Decisions to confirm before final order
 
-1. Whether The Fold allows wall mounting, or whether all signs need to be freestanding/tabletop.
-2. Final RSVP count before scaling consumables above the 80-person baseline.
+1. Final sign-holder/easel/rolling-whiteboard sizing constraints from The Fold/Larissa; no wall mounting is allowed.
+2. Final RSVP count before scaling consumables above the 100-RSVP planning baseline or above ~80 expected attendees.
 3. Whether a print shop can cut/bundle the card decks, or whether volunteers need to cut/assemble them Thursday/Friday.
 4. Pickup/delivery deadline: aim for pickup by Friday June 12; Thursday is better if card cutting is required.
