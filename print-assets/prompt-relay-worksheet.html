@@ -1,0 +1,93 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Prompt Relay Worksheet</title>
+<style>
+@page { size: letter portrait; margin: 0.38in; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; color: #111827; background: #fff; }
+.sheet { width: 100%; min-height: 10.24in; border: 2px solid #111827; border-radius: 12px; padding: 0.18in 0.22in 0.16in; display: flex; flex-direction: column; }
+.header { display: grid; grid-template-columns: 1.7fr 1fr; gap: 0.14in; align-items: start; border-bottom: 2px solid #111827; padding-bottom: 0.11in; }
+.eyebrow { font-size: 10px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: #4b5563; }
+h1 { margin: 0.03in 0 0; font-size: 30px; line-height: 0.95; }
+.subtitle { margin-top: 0.05in; font-size: 11px; line-height: 1.25; color: #374151; }
+.meta { border: 1.5px solid #111827; border-radius: 8px; padding: 0.08in; font-size: 10px; line-height: 1.25; }
+.meta-row { display: grid; grid-template-columns: 0.78in 1fr; gap: 0.06in; margin-bottom: 0.06in; align-items: end; }
+.label { font-weight: 800; color: #111827; }
+.blank { border-bottom: 1.3px solid #6b7280; min-height: 0.18in; }
+.instructions { margin: 0.11in 0 0.09in; display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.07in; }
+.step { border: 1.2px solid #9ca3af; border-radius: 7px; padding: 0.055in; font-size: 9px; line-height: 1.18; min-height: 0.5in; }
+.step b { display: block; font-size: 9.5px; text-transform: uppercase; letter-spacing: .03em; margin-bottom: 0.02in; }
+.legs { display: grid; grid-template-columns: 1fr; gap: 0.08in; flex: 1; }
+.leg { border: 1.6px solid #111827; border-radius: 9px; padding: 0.08in; page-break-inside: avoid; }
+.leg-title { display: flex; align-items: baseline; justify-content: space-between; border-bottom: 1px solid #d1d5db; padding-bottom: 0.04in; margin-bottom: 0.055in; }
+.leg h2 { margin: 0; font-size: 15px; line-height: 1; }
+.leg .hint { font-size: 9px; color: #4b5563; font-weight: 700; }
+.field-grid { display: grid; grid-template-columns: 1.05in 1fr; gap: 0.04in 0.08in; align-items: start; }
+.field-label { font-size: 9px; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; color: #374151; padding-top: 0.02in; }
+.lines { height: 0.42in; background: repeating-linear-gradient(to bottom, transparent, transparent 0.17in, #d1d5db 0.18in, transparent 0.19in); border: 1px solid #e5e7eb; border-radius: 5px; }
+.response { height: 0.55in; }
+.constraint { height: 0.34in; }
+.final { border: 2px solid #111827; border-radius: 10px; padding: 0.09in; margin-top: 0.09in; background: #f9fafb; }
+.final h2 { margin: 0 0 0.05in; font-size: 16px; }
+.final-grid { display: grid; grid-template-columns: 1.05in 1fr; gap: 0.04in 0.08in; }
+.final-lines { height: 0.78in; background: repeating-linear-gradient(to bottom, transparent, transparent 0.18in, #cbd5e1 0.19in, transparent 0.20in); border: 1px solid #d1d5db; border-radius: 5px; }
+.footer { margin-top: 0.07in; padding-top: 0.06in; border-top: 1px solid #d1d5db; display: flex; justify-content: space-between; gap: 0.1in; font-size: 8.5px; color: #4b5563; }
+.checks { display: flex; gap: 0.12in; flex-wrap: wrap; }
+.box { display: inline-block; width: 0.11in; height: 0.11in; border: 1px solid #111827; margin-right: 0.025in; vertical-align: -1px; }
+</style></head>
+<body><main class="sheet">
+  <section class="header">
+    <div>
+      <div class="eyebrow">Station 1 · Human×AI Field Day</div>
+      <h1>Prompt Relay Worksheet</h1>
+      <div class="subtitle">Change one line. Pass it on. Watch the agent transform the result. Use this sheet to preserve the visible prompt trail — not private chain-of-thought.</div>
+    </div>
+    <div class="meta">
+      <div class="meta-row"><div class="label">Team</div><div class="blank"></div></div>
+      <div class="meta-row"><div class="label">Challenge</div><div class="blank"></div></div>
+      <div class="meta-row"><div class="label">Start time</div><div class="blank"></div></div>
+    </div>
+  </section>
+  <section class="instructions">
+    <div class="step"><b>1 · Draw</b>Pick a Challenge Card and write the raw starting prompt.</div>
+    <div class="step"><b>2 · Modify</b>Each next teammate adds one style, constraint, or structural change.</div>
+    <div class="step"><b>3 · Run</b>Facilitator enters the visible prompt/update; jot the short agent output.</div>
+    <div class="step"><b>4 · Harvest</b>Copy the best final line to the wall and vote with dots.</div>
+  </section>
+  <section class="legs">
+    <article class="leg">
+      <div class="leg-title"><h2>Leg 1 — Raw Prompt</h2><div class="hint">Naive is fine. One clear sentence.</div></div>
+      <div class="field-grid">
+        <div class="field-label">Participant</div><div class="lines constraint"></div>
+        <div class="field-label">Prompt typed</div><div class="lines"></div>
+        <div class="field-label">Agent output</div><div class="lines response"></div>
+      </div>
+    </article>
+    <article class="leg">
+      <div class="leg-title"><h2>Leg 2 — Style / Constraint</h2><div class="hint">Example: Shakespearean, potatoes, skeptical, local SF.</div></div>
+      <div class="field-grid">
+        <div class="field-label">Participant</div><div class="lines constraint"></div>
+        <div class="field-label">Added rule</div><div class="lines"></div>
+        <div class="field-label">Agent output</div><div class="lines response"></div>
+      </div>
+    </article>
+    <article class="leg">
+      <div class="leg-title"><h2>Leg 3 — Final Structural Twist</h2><div class="hint">Example: 3-line haiku, sarcastic memo, tiny manifesto.</div></div>
+      <div class="field-grid">
+        <div class="field-label">Participant</div><div class="lines constraint"></div>
+        <div class="field-label">Added rule</div><div class="lines"></div>
+        <div class="field-label">Agent output</div><div class="lines response"></div>
+      </div>
+    </article>
+  </section>
+  <section class="final">
+    <h2>Final Wall-of-Fame Version</h2>
+    <div class="final-grid">
+      <div class="field-label">Title / tag</div><div class="lines constraint"></div>
+      <div class="field-label">Final text</div><div class="final-lines"></div>
+    </div>
+  </section>
+  <section class="footer">
+    <div>AI Village Showcase & Human×AI Field Day · Sat Jun 13, 2026 · Prompt Relay Race</div>
+    <div class="checks"><span><span class="box"></span>Funny</span><span><span class="box"></span>Useful</span><span><span class="box"></span>Weird</span><span><span class="box"></span>Wall-worthy</span></div>
+  </section>
+</main></body></html>
