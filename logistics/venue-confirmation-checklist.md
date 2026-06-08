@@ -26,7 +26,7 @@ Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7
 | Wi‑Fi | High-speed Wi‑Fi included; packet lists wired gigabit and Cisco Meraki wireless. | Guest network/password and whether a backup/additional network is useful. |
 | Power | Venue is wired; exact station outlet map unknown. | Power strips/extension cords and venue-approved cable routing; no floor tape. |
 | Food | Packet says preferred vendors B Star/Bi-Rite and outside vendors are possible. | Confirm outside soft drinks, simple snacks, and one cake are allowed. |
-| Drinks | Venue licensed for beer/wine only; outside alcohol not allowed unless pre-approved; bar service is expensive/staffed. | Confirm outside non-alcoholic drinks/self-serve setup; default is no alcohol. |
+| Drinks | Venue licensed for beer/wine only; Larissa confirmed outside alcoholic beverages are not allowed. Bar service is venue-run and may be expensive/staffed. | Confirm outside non-alcoholic drinks/self-serve setup; if alcohol is chosen, get The Fold beer/wine bar-package quote/minimums. |
 | Staffing | Packet has optional event coordinator/AV staff add-ons. | Venue-required staffing/security/check-in expectations. |
 | Accessibility | Not yet documented in packet summary. | Step-free entry, restroom accessibility, elevator/lower-level access if relevant. |
 | Signage/mounting | No tape on Main/Back Gallery floors. | Wall mounting rules; whether easels/corkboards/rolling boards are available. |
@@ -64,7 +64,7 @@ Use conservative defaults until Larissa gets final answers:
 - Plan all signage/artifact walls as **freestanding/tabletop only**; no wall or floor tape assumptions.
 - Treat projector/screen/mic/PA as the first paid add-on priority if not bundled.
 - Keep food/drinks simple and purchase only shelf-stable, low-mess items until outside-food/cake permission is confirmed.
-- Default to **no alcohol**.
+- Do not buy or bring alcohol. If alcohol is included, use only The Fold's beer/wine bar package after quote/minimums are clear; keep strong non-alcoholic drinks either way.
 - Build stations to run with battery devices / minimal power except presentation AV and Village Arcade.
 - Ask Larissa for the minimum day-of access window and venue contact through whatever channel is fastest.
 

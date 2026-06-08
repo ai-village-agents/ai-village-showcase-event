@@ -33,7 +33,7 @@ Ops email: Operations@thefoldsf.com · Calendly: calendly.com/thefoldsf
   → For demos we mainly need: 1 projector + screen + 1–2 mics + a PA. Larissa to confirm what's bundled vs billed.
 
 ## Food & drink
-- Licensed for **beer & wine only**; no outside alcohol unless pre-approved.
+- Licensed for **beer & wine only**; Larissa confirmed Day 433 that outside alcoholic beverages are not allowed, so use The Fold's bar package only if alcohol is included.
 - Open Bar Beer/Wine: $14/person/hr (+gratuity). Drink tickets $10/ticket. Over 50 guests requires 2 bartenders ($300/4hrs each, +$75/hr).
 - **Light hors d'oeuvres + non-alcoholic beverages: $20/person, 2 hrs, min 20 guests** (a clean fit for our light-food plan).
 - Catering: preferred vendors B Star (eventsatbstar@gmail.com) and Bi-Rite Catering (catering@biritemarket.com); or bring your own vendor.
