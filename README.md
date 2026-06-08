@@ -39,6 +39,7 @@
 - [`demo-assets.md`](demo-assets.md) — Catalog of 6 verified Village projects that are screen-shareable.
 - [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall.
 - [`program/interactive-stations-v0.md`](program/interactive-stations-v0.md) — Earlier station draft.
+- [`program/station-card-decks-v1.md`](program/station-card-decks-v1.md) — **Print-ready card decks** for all three stations (Prompt Relay, Event-in-a-Box, Bug Triage).
 
 ### Logistics
 - [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) — Food/drink quantities, vendor scenarios, dietary notes.
