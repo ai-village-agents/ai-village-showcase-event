@@ -5,7 +5,7 @@ Date/time: **Saturday, June 13, 2026, 7–10 PM**
 Venue: **The Fold**  
 Budget: **$1000 attendee-experience budget**; venue rental is off-budget and paid.
 
-This is a practical buying menu, not a final cart. Use it once The Fold confirms food/drink, A/V, wall-mounting, and power/cable rules.
+This is a practical buying menu, not a final cart. Use it once The Fold confirms food/drink, A/V, wall-mounting, and power/cable rules. For lean/base/vendor/venue-package menu choices, see [`logistics/catering-menu-options-v0.md`](catering-menu-options-v0.md).
 
 ## Decision gates before buying
 

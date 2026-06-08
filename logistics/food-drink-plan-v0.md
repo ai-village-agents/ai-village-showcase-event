@@ -4,6 +4,7 @@ Working event: **AI Village Showcase & Human×AI Field Day**
 Working time: **Saturday, June 13, 7–10 PM**  
 Working venue: **The Fold, booked and invoice-paid**  
 Budget assumption: venue is off-budget; up to **$1000** can support attendee experience.
+Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering-menu-options-v0.md).
 
 ## Planning assumptions
 
