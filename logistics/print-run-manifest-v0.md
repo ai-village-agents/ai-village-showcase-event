@@ -8,9 +8,10 @@ Assumption: plan for **80 RSVPs + staff/facilitators**, with a small overage whe
 
 | Artifact | Qty | Suggested format | Source / copy | Notes |
 |---|---:|---|---|---|
-| Attendee program handout | 100 | 8.5x11, B/W or color, single/double-sided | `program/attendee-program-handout.md` | Includes flow, five stations, project QR pointer, good-to-know. Donation line already uses optional/free guardrails. |
-| Welcome sign | 1 | 18x24 poster or foam board | Event title/date/venue | Freestanding/tabletop/easel. |
-| Schedule sign | 2 | 11x17 or 18x24 | Public run-of-show from `program/attendee-program-handout.md` | One near check-in, one near demo/station area. |
+| Attendee program handout | 100 | 8.5x11, B/W or color, single-sided | `print-assets/attendee-program-handout.pdf` | Includes flow, five stations, project QR pointer, good-to-know. Donation line already uses optional/free guardrails. |
+| Welcome sign | 1 | 11x17 from sign PDF, or 18x24 enlargement/foam board | `print-assets/welcome-schedule-signs.pdf` | Freestanding/tabletop/easel. |
+| Schedule sign | 2 | 11x17 from sign PDF, or 18x24 enlargement/foam board | `print-assets/welcome-schedule-signs.pdf` | One near check-in, one near demo/station area. |
+| Check-in packet | 1 packet | 8.5x11 B/W, single-sided | `print-assets/check-in-sheet-template.pdf` | RSVP rows 1–80, walk-in rows 1–20, helper quick guide; fill names from Partiful export if available. |
 | Direction signs | 4–6 | 8.5x11 or 11x17 | Check-in, Demos, Stations, Food/Drinks, Restrooms if useful | Use tabletop/freestanding unless venue approves walls. |
 | Photo/recap notice | 1–2 | 8.5x11 | Use only if Larissa / venue wants explicit notice | Keep friendly and non-invasive. |
 | Optional donation note | 0–1 | tabletop half-sheet | Only if donation option is enabled | Must say event is free, donation optional, surplus to nonprofit. |
@@ -19,14 +20,14 @@ Assumption: plan for **80 RSVPs + staff/facilitators**, with a small overage whe
 
 | Artifact | Qty | Suggested format | Source / copy | Notes |
 |---|---:|---|---|---|
-| Project QR wall print | 1–2 | 11x17 or 18x24 color | `demo-assets/projects-qr-slide.png` | Place by demo screen / project QR wall. |
+| Project QR wall print | 1–2 | 17x11 landscape color; foam board optional | `print-assets/project-qr-wall-print.pdf` | Place by demo screen / project QR wall. |
 | Found poem slide print | 1 | 11x17 color | `demo-assets/poem-slide.png` | Fallback / display asset. |
 | Village project QR cards | optional 6–12 | small cards or 8.5x11 sheets | `demo-assets/qr/` | Only if useful beyond the QR wall; otherwise skip. |
-| Demo fallback screenshots | 1 set | 8.5x11 color | `demo-assets/screenshots/` | Keep in MC/demo packet, not necessarily public display. |
+| Demo fallback screenshot packet | 1 | 8.5x11 color, single-sided or duplex | `print-assets/demo-fallback-screenshot-packet.pdf` | Keep in MC/demo packet; not a public handout. |
 
 ## Batch C — station title/rules signs
 
-Print **one 11x17 sign per station** with a 1-minute version of the activity loop. Foam board is nice but not required if easels/table stands exist. Copy source: `program/station-sign-copy-v0.md`.
+Print **one 11x17 sign per station** with a 1-minute version of the activity loop. Foam board is nice but not required if easels/table stands exist. Print-ready source: `print-assets/station-signs.pdf` (copy source: `program/station-sign-copy-v0.md`).
 
 1. Prompt Relay Race — "Change one line, pass it on, compare outputs."
 2. Event-in-a-Box — "Draw constraints, co-design a tiny event, post the pitch."
@@ -36,16 +37,11 @@ Print **one 11x17 sign per station** with a 1-minute version of the activity loo
 
 ## Batch D — reusable station card decks
 
-| Station | Deck | Qty | Suggested format | Source |
-|---|---|---:|---|---|
-| Prompt Relay Race | Challenge cards | 20 | heavy cardstock, cut cards | `program/station-card-decks-v1.md` |
-| Prompt Relay Race | Style/constraint cards | 20 | heavy cardstock, cut cards | `program/station-card-decks-v1.md` |
-| Event-in-a-Box | Target audience cards | 30 | heavy cardstock, cut cards | `program/station-card-decks-v1.md` |
-| Event-in-a-Box | SF venue cards | 30 | heavy cardstock, cut cards | `program/station-card-decks-v1.md` |
-| Event-in-a-Box | Weird twist cards | 30 | heavy cardstock, cut cards | `program/station-card-decks-v1.md` |
-| Bug Triage Theater | Incident cards | 15 | large cardstock cards | `program/station-card-decks-v1.md` |
-| Bug Triage Theater | Role badges | 4 | laminated/thick cards or badge inserts | `program/interactive-stations-v1.md` |
-| Door prompts | Ask-an-Agent arrival cards | 10 | cardstock cards | `program/door-prompt-cards.md` |
+| Artifact | Qty | Suggested format | Source | Notes |
+|---|---:|---|---|---|
+| Station card decks | 1 master set | 37 pages, 4-up cards, heavy cardstock, cut and bundle by deck | `print-assets/station-card-decks.pdf` | Covers Prompt Relay challenge/style decks, Event-in-a-Box audience/venue/twist decks, and Bug Triage incident cards. |
+| Door prompt cards | Print 15 copies of 3-page master (~150 cards) | 3x5-ish cards, cardstock, cut | `print-assets/door-prompt-cards.pdf` | Ten arrival prompt cards plus two blanks per master. |
+| Bug Triage role badges | 4 | laminated/thick cards or badge inserts | `program/interactive-stations-v1.md` | Still DIY unless Gemini/team formats them elsewhere. |
 
 ## Batch E — consumable station worksheets/cards
 
@@ -53,8 +49,8 @@ Print **one 11x17 sign per station** with a 1-minute version of the activity loo
 |---|---:|---|---|
 | Prompt Relay worksheets | 100 | 8.5x11 uncoated sheets | Leg 1 / Leg 2 / Leg 3 boxes + final output; matches `print-specifications-v1`. |
 | Event pitch templates | 50 | index-card or half-sheet | Title / constraints / pitch / authors. |
-| Future headline cards | 200 | index cards or cut cardstock | Headline / category / author. |
-| Village Arcade high-score cards | 100 | index cards or cut cardstock | Name / game / score / favorite moment. |
+| Future headline cards | 192–208 | cut 3.5x5 cards from 12–13 copies of 4-page master | `print-assets/future-headline-cards.pdf`; one page/category. |
+| Village Arcade high-score cards | 100 | cut 3.5x5 cards from 25 copies of 1-page master | `print-assets/arcade-high-score-cards.pdf`. |
 | Dot stickers | 200–500 | purchase, not print | For voting/favorite moments. |
 
 ## Batch F — station fallback packets
@@ -79,7 +75,7 @@ Print **one 11x17 sign per station** with a 1-minute version of the activity loo
 
 ## Open decisions before sending to printer
 
-1. Format `program/station-sign-copy-v0.md` into five final 11x17 sign files, or use it as handwritten/tabletop sign source.
+1. Prompt Relay worksheets and Event pitch templates are still pending print-ready PDF formatting; Gemini is working this lane.
 2. Local printer vs. home/office print-and-cut route.
 3. The Fold mounting/display rules and whether they provide easels/corkboards/rolling boards.
 4. Whether optional donation signage is enabled; if not, skip donation note entirely.
