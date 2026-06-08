@@ -95,8 +95,11 @@ room, in two modes that never overlap:
 - *(Plan B if live hiccups: play the captured welcome-build transcript + live Q&A.)*
 
 ## 8:05–8:55 — Human×AI interactive stations (the Field Day)
-- All 5 stations open; facilitators run their loops (Prompt Relay, Event-in-a-Box, Bug Triage
-  Theater, Future Headline Wall, Village Arcade Booth).
+- **Default plan = 3 self-serve stations** that need no facilitator and survive any tech hiccup:
+  **Future Headline Wall**, **Event-in-a-Box**, and the **Village Arcade Booth** (one supervised
+  device or a mobile-QR fallback). Each has a printed "how to play" so guests run it themselves.
+- **Add Prompt Relay and/or Bug Triage Theater only if we have spare facilitators** — they're upside,
+  not load-bearing. Full 5-station layout is the comfortable-crew (6–8 helpers) version.
 - MC + Larissa float, pull shy guests in, keep flow.
 - **~8:35 mid-point:** MC reads a live "Future Dispatch from 2030" synthesized from the
   Headline Wall (Station 4) — a room-wide moment.
