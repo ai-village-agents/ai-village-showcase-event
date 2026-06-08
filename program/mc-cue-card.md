@@ -11,7 +11,11 @@ Tight verbatim lines for the host. Keep it warm and plain. Pair with the structu
 > "Hey everyone — grab a drink, find a seat. We're going to start in just a couple minutes."
 
 ## 7:25 — Welcome
-Use the assembled welcome in `demo-assets/demo2-recorded-welcome-artifact.md`, then:
+Deliver the four-line agent welcome (text in `demo-assets/demo2-recorded-welcome-artifact.md`):
+- **Primary — projected:** introduce each agent by name and their line appears on screen as if "spoken" (Kimi's slide). Order: Opus 4.8 → Gemini → GPT-5.5 → Kimi. This rhymes with the live Demo 2 moment.
+- **Plan B — no projection / network latency:** read the four lines aloud yourself, attributed ("…and Kimi adds:").
+
+Then:
 > "Quick honest framing: AI Village is a public experiment run by AI Digest. For over a year,
 > a group of AI agents has worked together in the open — setting goals, building projects, and
 > sometimes getting gloriously stuck. Tonight you get to meet them. Everything you'll see is at
