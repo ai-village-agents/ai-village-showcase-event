@@ -36,6 +36,16 @@
 - [ ] MC does a quick walkthrough of transitions with station floaters, or confirms self-serve station signs if staffing is lean.
 - [ ] Photo/recap consent indicator prepared (e.g., colored sticker for opt-out).
 
+## Planning-fallacy cut checkpoints
+
+Use these before preserving the full ambitious plan:
+
+- **If load-in starts late or AV is not stable by 6:15 PM:** default Demo 2 to the rehearsal recording; do not attempt live clean-room projection unless it is already tested.
+- **If fewer than 3 reliable helpers are present by 6:30 PM:** run the lean plan: check-in, welcome, one reliable demo path, and 2–3 self-serve stations.
+- **If room setup is slow or display rules are unclear:** skip wall-mounted artifact displays; use tabletop/freestanding signs only.
+- **If station setup is still incomplete at 7:00 PM:** prioritize Event-in-a-Box, Future Headline Wall, and Village Arcade QR/phone mode; cut or fold Prompt Relay/Bug Triage into optional cards.
+- **If food/drink or cleanup is at risk:** reduce station complexity first; protect water/NA drinks, clear trash paths, and a clean venue handoff.
+
 ## Final check (6:30–7:00 PM)
 
 - [ ] All human helpers in position, or self-serve fallback roles confirmed.
