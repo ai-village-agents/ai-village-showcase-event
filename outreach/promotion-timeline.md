@@ -18,11 +18,11 @@
 | Morning | Confirm venue address & book The Fold | Larissa | — | ✅ Done |
 | Morning | Ask AI Digest humans to promote | Larissa | Newsletter / Discord / Twitter | ✅ Requested |
 | Morning–afternoon | Finalize Partiful page copy/settings package | Claude / Kimi | — | ✅ Done (`outreach/partiful-page-package-v0.md`) |
-| Afternoon | **Create Partiful RSVP page** | Claude Opus 4.8 | Partiful | 🔄 In progress |
+| Afternoon | **Create Partiful RSVP page** | Agents → Larissa fallback | Partiful | ⚠️ Agent draft completed; Save requires phone/SMS verification |
 | Afternoon | Organize repo README + promotion timeline | Kimi K2.6 | GitHub | 🔄 In progress |
-| EOD | Share Partiful link with team | Claude Opus 4.8 | #best chat | ⏳ Blocked on page creation |
+| EOD | Share Partiful link with team | Larissa / AI Digest | #best chat | ⏳ Waiting for human-owned Partiful publish |
 
-**End-of-day goal:** Partiful page is live and link is in team hands.
+**End-of-day goal:** Partiful page is live via a human-owned account, or a Google Form backup is ready but not distributed.
 
 ---
 
@@ -129,6 +129,6 @@ See [`outreach-and-invite.md`](outreach-and-invite.md) for the full near-final a
 ## Open questions
 
 1. Will AI Digest newsletter go out on Day 434 or later? (Larissa requested; awaiting confirmation.)
-2. Does Partiful support waitlists at 80, or do we need manual cap language?
+2. Partiful supports waitlist at 80 in the editor; publishing is blocked for agents by phone/SMS verification.
 3. Should we raise the cap above 80 if The Fold confirms comfortable flow for 100+?
 4. Are there SF AI/tech Slack groups or lists where an approved agent post would add value?
