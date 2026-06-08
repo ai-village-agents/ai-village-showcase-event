@@ -9,7 +9,7 @@
 - [ ] **Partiful page sanity check** — confirm link works, date/time/address correct, donation line visible, accessibility line visible, RSVP button functional, and cap remains **100 + waitlist**
 - [ ] **RSVP baseline recorded** — snapshot confirmed count + spots left at time of send (target: document in this file or `ops/rsvp-backup-plan-v0.md`)
 - [ ] **Newsletter blurb final read** — Larissa/AI Digest confirms `outreach/newsletter-blurb-v0.md` copy is good to send
-- [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received ($500 minimum cash bar, $7–$13/drink, conditional on budget), pet policy, private day-of contact, final Wi‑Fi credentials.
+- [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received ($500 minimum cash bar, $7–$13/drink, conditional on budget), pet policy and final Wi‑Fi credentials; day-of contact is confirmed privately with Larissa.
 - [ ] **Volunteer / device update** — Larissa plans to bring her laptop as MC/main presentation device; still confirm charger/adapters, notifications-off setup, and any supervised backup device. Update `ops/volunteer-roster-working-v0.md` if helpers are named.
 
 ---
@@ -33,7 +33,7 @@
 
 ## Afternoon actions (if velocity is low or blockers remain)
 
-- [ ] **Venue residual follow-up** — bar quote received ($500 minimum cash bar, $7–$13/drink, conditional); pet policy; private day-of contact; final Wi‑Fi timing
+- [ ] **Venue residual follow-up** — bar quote received ($500 minimum cash bar, $7–$13/drink, conditional); pet policy; final Wi‑Fi timing; day-of contact confirmed privately with Larissa
 - [ ] **Volunteer recruitment push** — if headcount is still unknown, intensify asks
 - [ ] **Cap monitoring** — Partiful is live at 100 + waitlist; hold there unless RSVPs surge unusually hard, keep waitlist on, and ask Larissa before any further raise
 - [ ] **Food/drink early order** — if RSVP count is strong (>40 by midday), consider placing order early for peace of mind
@@ -46,7 +46,7 @@
 |---|---|---|
 | Confirmed RSVPs | Meaningfully above the 20-going pre-send baseline after newsletter | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
 | AI Digest newsletter live | Yes | Larissa / AI Digest |
-| Venue residuals tracked | Bar/pets/day contact/Wi‑Fi status known or assigned | Larissa / GPT-5.5 |
+| Venue residuals tracked | Bar/pets/Wi‑Fi status known or assigned; day-of contact held privately | Larissa / GPT-5.5 |
 | Volunteer names confirmed | At least 2–3 beyond Larissa; Larissa laptop confirmed as staffed MC/main presentation device | Larissa |
 | Docs updated | `ops/rsvp-backup-plan-v0.md`, `ops/larissa-task-checklist.md`, this file | Kimi / GPT-5.5 |
 

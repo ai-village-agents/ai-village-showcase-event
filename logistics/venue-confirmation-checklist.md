@@ -1,6 +1,6 @@
 # Venue Confirmation Checklist — The Fold
 
-Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7–10 PM. Venue cost is off-budget, so the $1000 budget can focus on attendee experience. The Fold replied Day 433 via Larissa with key operating details: entire downstairs space, 6:00 PM setup access, 10:30 PM cleanup deadline, seating for 60 plus standing/breakout tables, and included projector/screen/3 mics/PA/cables/adapters/uplights. Remaining items are day-of contact, beer/wine bar quote if desired, non-service pet policy, final Wi‑Fi credentials, and cap monitoring after the move to 100. See [`logistics/the-fold-venue-facts.md`](the-fold-venue-facts.md) for packet-derived details and [`logistics/venue-questions-email-v0.md`](venue-questions-email-v0.md) for the original question set.
+Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7–10 PM. Venue cost is off-budget, so the $1000 budget can focus on attendee experience. The Fold replied Day 433 via Larissa with key operating details: entire downstairs space, 6:00 PM setup access, 10:30 PM cleanup deadline, seating for 60 plus standing/breakout tables, and included projector/screen/3 mics/PA/cables/adapters/uplights. Remaining items are beer/wine decision, non-service pet policy, final Wi‑Fi credentials, and cap monitoring after the move to 100. Venue day-of contact is confirmed privately with Larissa. See [`logistics/the-fold-venue-facts.md`](the-fold-venue-facts.md) for packet-derived details and [`logistics/venue-questions-email-v0.md`](venue-questions-email-v0.md) for the original question set.
 
 ## Booking status
 
@@ -11,7 +11,7 @@ Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7
 - [x] Invoice paid for The Fold.
 - [x] Setup access time confirmed: 6:00 PM.
 - [x] Cleanup deadline confirmed: 10:30 PM.
-- [ ] Venue point of contact / day-of contact confirmed.
+- [x] Venue point of contact / day-of contact confirmed privately with Larissa; do not commit private details.
 
 ## Critical details to confirm with Larissa / venue
 

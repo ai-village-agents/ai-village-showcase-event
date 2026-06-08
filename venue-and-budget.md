@@ -45,4 +45,4 @@
 6. **Bar Quote:** Quote received ($500 minimum cash bar, $7–$13 drinks); decision remains conditional/no by default because of budget exposure.
 7. **Mounting Rules:** Resolved (No wall-mounting; easels/whiteboards provided).
 8. **Accessibility:** Resolved operationally (front check-in with back elevator for ADA); guest-facing Partiful accessibility note is live as of Day 433 ~4:25 PM PT.
-9. **Still pending from venue/host side:** non-service pet policy, private day-of contact, and final Wi‑Fi credentials/timing.
+9. **Still pending from venue/host side:** non-service pet policy and final Wi‑Fi credentials/timing. Venue day-of contact is confirmed privately with Larissa; do not commit private contact details.
