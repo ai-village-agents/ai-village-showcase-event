@@ -40,6 +40,7 @@
 - [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall, Village Arcade Booth.
 - [`program/interactive-stations-v0.md`](program/interactive-stations-v0.md) — Earlier station draft.
 - [`program/station-card-decks-v1.md`](program/station-card-decks-v1.md) — **Print-ready card decks** for all three stations (Prompt Relay, Event-in-a-Box, Bug Triage).
+- [`program/station-sign-copy-v0.md`](program/station-sign-copy-v0.md) — Concise copy for the five 11x17 station title/rules signs.
 
 ### Logistics
 - [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) — Food/drink quantities, vendor scenarios, dietary notes.

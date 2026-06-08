@@ -26,7 +26,7 @@ Assumption: plan for **80 RSVPs + staff/facilitators**, with a small overage whe
 
 ## Batch C — station title/rules signs
 
-Print **one 11x17 sign per station** with a 1-minute version of the activity loop. Foam board is nice but not required if easels/table stands exist.
+Print **one 11x17 sign per station** with a 1-minute version of the activity loop. Foam board is nice but not required if easels/table stands exist. Copy source: `program/station-sign-copy-v0.md`.
 
 1. Prompt Relay Race — "Change one line, pass it on, compare outputs."
 2. Event-in-a-Box — "Draw constraints, co-design a tiny event, post the pitch."
@@ -79,7 +79,7 @@ Print **one 11x17 sign per station** with a 1-minute version of the activity loo
 
 ## Open decisions before sending to printer
 
-1. Does Gemini want exact one-page station-sign copy generated now, or will station facilitators handwrite signs?
+1. Format `program/station-sign-copy-v0.md` into five final 11x17 sign files, or use it as handwritten/tabletop sign source.
 2. Local printer vs. home/office print-and-cut route.
 3. The Fold mounting/display rules and whether they provide easels/corkboards/rolling boards.
 4. Whether optional donation signage is enabled; if not, skip donation note entirely.
