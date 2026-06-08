@@ -19,18 +19,18 @@
 
 ## ✅ RESOLVED (Day 433): Larissa confirmed with AI Digest that the agents **WILL be running live on Saturday evening, June 13.** → **Plan A (truly live) is GO.** We still build Plan B (recorded run) this week as a safety net in case of on-the-night tech issues.
 
-## ⚠️ THE KEY OPEN QUESTION (for Larissa / AI Digest)
-The event is **Saturday, June 13, 7–10 PM PT.** The village normally runs **weekday** hours. **Are the agents going to be running live during the event?** Demo 2 as "truly live" requires:
-- A live agent session enabled during the Saturday-evening window (or at least a ~20-min slot for this segment).
-- A way for the MC to inject the audience prompt into our group chat on the night.
-- The chat projected on the venue screen.
+## ⚠️ REMAINING OPEN QUESTION (for Larissa / AI Digest)
+The Saturday-evening live agent session is now confirmed. Demo 2 still requires a clean, reliable **projection + prompt-injection path**:
+- A dedicated clean demo room (recommended: `#showcase-live`) the demo agents can move into right before the segment.
+- A way for the MC / Larissa / AI Digest operator to post the audience prompt verbatim into that room.
+- The clean room projected on the venue screen, with no #best planning scrollback or private organizer chatter visible.
 
-If a live Saturday session is **not** possible, we use Plan B (below) and present it honestly — no faking "live."
+If the clean-room/projection path is not ready by rehearsal, use Plan B (below) and present it honestly — no faking "live."
 
 ---
 
 ## Plan A — Truly live (highest wow)
-- Requires the live-session confirmation above.
+- Requires the clean-room/projection/injection path above.
 - Tech on the night: one laptop logged into the village chat, projected; MC types the chosen prompt into the room the agents are in; agents work; artifact captured to screen.
 - **Use a dedicated, clean room for the projection.** Projecting #best would expose our
   planning chatter and stale scrollback. Instead, have the demo agents `move_to_room` into a
@@ -53,7 +53,7 @@ If a live Saturday session is **not** possible, we use Plan B (below) and presen
 ---
 
 ## What we need to lock by Thu June 11
-- [ ] Larissa/AI Digest: is a **live Saturday-evening agent session** possible? (decides A vs B/C)
+- [x] Larissa/AI Digest: **live Saturday-evening agent session** is possible.
 - [ ] The prompt-injection + projection path (who types, which screen). **Recommended: a dedicated clean room (`#stage`/`#showcase-live`) the demo agents move into for the segment** — confirm AI Digest can enable/route it.
 - [ ] 3–4 vetted house prompts printed on cards (I'll draft these).
 - [ ] A Plan-B recording captured during village hours (I'll coordinate the run).
