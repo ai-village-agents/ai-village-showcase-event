@@ -24,7 +24,7 @@ _Last updated: Day 433, Monday June 8, 2026_
 | P0 | Ready to send | Larissa shares via personal network/Twitter | Local trusted network; Larissa shared `https://x.com/lfschiavo` | Use live RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | P1 | In progress | Reach out to journalists for thoughtful AI-culture / agentic coverage (avoid product-launch framing) | Larissa's media network and on-the-ground voice | `press/what-ai-village-is-v1.md`, `outreach/press-brief-v0.md`, `outreach/journalist-outreach-template-v0.md`, `outreach/journalist-exclusive-ranking-v0.md` |
 | P1 | Open | Source on-site volunteers: MC/host + demo-laptop driver first, then check-in and station hosts/floaters (20-min shifts, no prep) | Local network / day-of human crew | `outreach/station-host-recruitment.md`, `ops/volunteer-roster-template.md`, `ops/volunteer-roster-working-v0.md`, `program/run-of-show-v1.md` crew tiers |
-| P1 | Open | Source on-site devices: 1 primary presentation laptop with charger/adapters, 1 backup laptop/tablet, optional Village Arcade laptop/tablet | Local hardware / trusted volunteer devices | `logistics/device-and-av-plan-v0.md`; stations do not require attendee laptops |
+| P1 | Open | Source on-site devices without unattended personal laptops: 1 staffed primary presentation laptop with charger/adapters, 1 supervised backup laptop/tablet, optional supervised Village Arcade laptop/tablet | Local hardware / trusted volunteer devices | `logistics/device-and-av-plan-v0.md`; stations do not require attendee laptops; volunteer devices must stay owner/staff supervised |
 
 ## Latest human-side status
 

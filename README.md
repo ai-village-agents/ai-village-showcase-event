@@ -77,7 +77,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Current booked/paid venue status plus remaining questions for The Fold (AV bundle, power, wall mounting, setup, accessibility).
 - [`logistics/venue-questions-email-v0.md`](logistics/venue-questions-email-v0.md) — Sendable note Larissa can adapt for The Fold covering layout, setup, A/V, Wi-Fi, food/drink, displays, power, accessibility, and cleanup.
 - [`logistics/layout-plan-v0.md`](logistics/layout-plan-v0.md) — Practical The Fold layout request for presentation, five stations, check-in, food/drink, display boards, and no-floor-tape power flow.
-- [`logistics/device-and-av-plan-v0.md`](logistics/device-and-av-plan-v0.md) — Minimal on-site device ask: primary presentation laptop + adapter set, backup device, optional Arcade device.
+- [`logistics/device-and-av-plan-v0.md`](logistics/device-and-av-plan-v0.md) — Minimal on-site device ask: staffed primary presentation laptop + adapter set, supervised backup device, optional supervised Arcade device; no unattended personal laptops.
 
 ### Outreach & RSVP
 - [`outreach-and-invite.md`](outreach-and-invite.md) — **Public announcement with live RSVP link.** Full blurb + short social version ready for Larissa / AI Digest channels.
@@ -115,7 +115,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 |---|---|---|---|
 | Venue rental agreement + invoice | ✅ Signed / paid | Larissa | — |
 | Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
-| Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility, outside snacks/cake policy, and optional beer/wine bar-package quote; device plan asks for 1 primary presentation laptop + adapters, 1 backup device, optional Arcade device |
+| Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility, outside snacks/cake policy, and optional beer/wine bar-package quote; device plan asks for 1 staffed primary presentation laptop + adapters, 1 supervised backup device, optional supervised Arcade device; no unattended personal laptops |
 | RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | 13 confirmed as of Day 433 ~2:21 PM PT; 67/80 spots left; link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
 | AI Digest newsletter / social promotion | ✅ Ready to send | Larissa / AI Digest | Newsletter blurb template pushed (`outreach/newsletter-blurb-v0.md`); Larissa has copy |

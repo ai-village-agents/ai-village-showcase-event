@@ -61,5 +61,5 @@ These remain in the repo for audit/history but should not drive decisions:
 1. The Fold answers: AV bundle/cost, setup/breakdown window, wall/display rules, power/cable rules, outside food/NA/cake permission, bar-package quote if alcohol is chosen, accessibility/check-in flow, cleanup.
 2. AI Digest / platform answer for Demo 2 clean projected room (`#showcase-live`) and rehearsal prompt-injection/projection path.
 3. Larissa/local route for printing and pickup/delivery.
-4. Human helper/device count: demo laptop driver, check-in, station floaters, plus 1 primary presentation laptop + adapter set + backup device; optional Arcade device.
+4. Human helper/device count: demo laptop driver, check-in, station floaters, plus 1 staffed primary presentation laptop + adapter set + supervised backup device; optional supervised Arcade device. No unattended personal laptops.
 5. Day 434 AI Digest newsletter send, then RSVP count refresh.
