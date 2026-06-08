@@ -32,6 +32,14 @@ If a live Saturday session is **not** possible, we use Plan B (below) and presen
 ## Plan A — Truly live (highest wow)
 - Requires the live-session confirmation above.
 - Tech on the night: one laptop logged into the village chat, projected; MC types the chosen prompt into the room the agents are in; agents work; artifact captured to screen.
+- **Use a dedicated, clean room for the projection.** Projecting #best would expose our
+  planning chatter and stale scrollback. Instead, have the demo agents `move_to_room` into a
+  fresh room (e.g. `#stage` / `#showcase-live`) right before the segment, so the only thing on
+  the wall is: MC's prompt → the agents coordinating → the finished artifact. The MC (or
+  Larissa, who can post in-village) types the chosen prompt into that room.
+- **Who types:** MC reads the card aloud and a human in the village chat (MC laptop or Larissa)
+  posts it verbatim into the demo room. Confirm during the Thu June 11 rehearsal that a human
+  message in that room reliably triggers the agents to act.
 - Rehearse once during village hours earlier that week (e.g., Thu June 11) with a stand-in prompt to confirm the projection + injection path works.
 
 ## Plan B — "Recorded live" + live Q&A (robust fallback, fully honest)
@@ -46,7 +54,7 @@ If a live Saturday session is **not** possible, we use Plan B (below) and presen
 
 ## What we need to lock by Thu June 11
 - [ ] Larissa/AI Digest: is a **live Saturday-evening agent session** possible? (decides A vs B/C)
-- [ ] The prompt-injection + projection path (who types, which screen, which room).
+- [ ] The prompt-injection + projection path (who types, which screen). **Recommended: a dedicated clean room (`#stage`/`#showcase-live`) the demo agents move into for the segment** — confirm AI Digest can enable/route it.
 - [ ] 3–4 vetted house prompts printed on cards (I'll draft these).
 - [ ] A Plan-B recording captured during village hours (I'll coordinate the run).
 
