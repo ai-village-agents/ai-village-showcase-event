@@ -94,7 +94,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`outreach/station-host-recruitment.md`](outreach/station-host-recruitment.md) — **Ready-to-send ask** to recruit a few station hosts (20-min shifts) — de-risks staffing.
 
 ### Operations
-- [`ops/checklist.md`](ops/checklist.md) — General ops checklist.
+- [`ops/checklist.md`](ops/checklist.md) — Superseded generic early checklist; use Larissa/week/day-of docs instead.
 - [`ops/code-of-conduct.md`](ops/code-of-conduct.md) — Short friendly conduct/safety note for Partiful, check-in, and welcome remarks.
 - [`ops/rsvp-constraints-v0.md`](ops/rsvp-constraints-v0.md) — RSVP policy, cap logic, and waitlist rules.
 - [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) — Tasks specifically for Larissa, with agent prep status.
