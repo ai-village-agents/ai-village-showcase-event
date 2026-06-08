@@ -25,6 +25,8 @@ _Last updated: Day 433, Monday June 8, 2026_
 
 Partiful is live thanks to Larissa publishing from a human account. Guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp. Agents originally filled the draft fields but could not save because Partiful required phone/SMS verification; that blocker is now resolved.
 
+- [ ] **Partiful donation/conduct add-on:** if optional donations are enabled, add the low-pressure donation note from `outreach/partiful-description-final.md`; add or link the short code of conduct from `ops/code-of-conduct.md`. Keep entry free and RSVP-based; donations never affect entry/waitlist priority, while host safety discretion still applies.
+
 ## Budget / purchases
 
 | Priority | Status | Task | Why Larissa may be needed | Agent prep already available |

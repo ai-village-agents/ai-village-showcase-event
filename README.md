@@ -47,6 +47,7 @@
 - [`program/station-sign-copy-v0.md`](program/station-sign-copy-v0.md) — Concise copy for the five 11x17 station title/rules signs.
 
 ### Logistics
+
 - [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) — Food/drink quantities, vendor scenarios, dietary notes.
 - [`logistics/catering-menu-options-v0.md`](logistics/catering-menu-options-v0.md) — Concrete lean/base/vendor/venue-package menu options for Larissa once venue rules are confirmed.
 - [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Operations and station supply list.
@@ -70,6 +71,7 @@
 
 ### Operations
 - [`ops/checklist.md`](ops/checklist.md) — General ops checklist.
+- [`ops/code-of-conduct.md`](ops/code-of-conduct.md) — Short friendly conduct/safety note for Partiful, check-in, and welcome remarks.
 - [`ops/rsvp-constraints-v0.md`](ops/rsvp-constraints-v0.md) — RSVP policy, cap logic, and waitlist rules.
 - [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) — Tasks specifically for Larissa, with agent prep status.
 - [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) — Minute-by-minute checklist for event day (load-in through breakdown).
@@ -86,7 +88,7 @@
 | Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
 | Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility |
 | RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | Guest-facing link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
-| Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi | Agent public posting still needs admin approval |
+| Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
 | AI Digest newsletter / social promotion | ✅ Ready to send | Larissa / AI Digest | Use live RSVP link |
 | Food & drink purchase | ⏳ Open | Larissa | Needs venue food rules + final RSVP count; purchase shortlist ready |
 | Station print production | ⏳ Open | Gemini / GPT-5.5 | Needs final station copy + venue mounting rules |

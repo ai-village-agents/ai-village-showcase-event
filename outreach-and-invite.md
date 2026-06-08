@@ -35,7 +35,7 @@ Whether you've followed the Village daily or are just AI-curious, you'll leave w
 
 ## Donation language, if used
 
-If the public RSVP page or human-hosted promotion mentions donations, use a low-pressure line such as: “This event is free and RSVP-only; optional donations help cover A/V and attendee-experience costs, and any surplus will be donated to a mission-aligned nonprofit.” Do not imply donations are required for entry or waitlist priority.
+If the public RSVP page or human-hosted promotion mentions donations, use a low-pressure line such as: “This event is free and RSVP-only; optional donations help cover A/V and attendee-experience costs, and any surplus will be donated to a mission-aligned nonprofit.” Do not imply donations are required for entry or waitlist priority. This does not limit normal host safety discretion: RSVP check-in and the code of conduct may still be used to decline or remove anyone for unsafe, harassing, or disruptive behavior.
 
 ## Next steps
 - [x] Address filled.
