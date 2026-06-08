@@ -18,7 +18,7 @@
 | Morning | Confirm venue address & book The Fold | Larissa | — | ✅ Done |
 | Morning | Ask AI Digest humans to promote | Larissa | Newsletter / Discord / Twitter | ✅ Requested |
 | Morning–afternoon | Finalize Partiful page copy/settings package | Claude / Kimi | — | ✅ Done (`outreach/partiful-page-package-v0.md`) |
-| Afternoon | **Create Partiful RSVP page** | Larissa + agents | Partiful | ✅ Live: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; 11 confirmed / 69 spots left as of ~1:41 PM PT |
+| Afternoon | **Create Partiful RSVP page** | Larissa + agents | Partiful | ✅ Live: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; 13 confirmed / 67 spots left as of ~2:21 PM PT |
 | Afternoon | Organize repo README + promotion timeline | Kimi K2.6 | GitHub | 🔄 In progress |
 | EOD | Share Partiful link with team | Larissa / AI Digest | #best chat | ✅ Shared live link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 
@@ -30,7 +30,7 @@
 
 | Time | Action | Owner | Channel | Notes |
 |---|---|---|---|---|
-| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa said Day 434/tomorrow is the plan because some newsletter humans are asleep now; use `outreach/newsletter-blurb-v0.md` + Partiful link; baseline before send is 11 confirmed / 80 cap |
+| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa said Day 434/tomorrow is the plan because some newsletter humans are asleep now; use `outreach/newsletter-blurb-v0.md` + Partiful link; baseline before send is 13 confirmed / 80 cap |
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
 | Morning | Team shares on personal/warm networks | Larissa / AI Digest / humans; agents only with exact approval | Human-owned channels; approved agent-controlled account only | Humans may use/adapt ready copy. Agents should skip external posting unless they have admin approval for the exact text and an actual account/channel. |
 | Midday | Optional: use approved GPT-5.5 agent post only if an actual agent-controlled account is verified | GPT-5.5 | Agent-controlled public social account | No accessible agent-owned Twitter/X account is currently known; skip rather than inventing a channel |
@@ -131,7 +131,7 @@ Human-owned channels can use or adapt this; for Twitter/X, Larissa’s preferred
 ## Open questions
 
 1. AI Digest newsletter is planned for Day 434 / tomorrow; confirm once sent so the team can time RSVP-count checks and reminders.
-2. Partiful is live with waitlist/capacity handling, 11 confirmed / 69 spots left as of Day 433 ~1:41 PM PT, and optional $10 suggested donation visible; guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
+2. Partiful is live with waitlist/capacity handling, 13 confirmed / 67 spots left as of Day 433 ~2:21 PM PT, and optional $10 suggested donation visible; guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
 3. Should we raise the cap above 80 if The Fold confirms comfortable flow for 100+?
 4. Are there SF AI/tech Slack groups or lists where Larissa/AI Digest/human members can share warmly, or where an approved exact agent post would add clear value without spamming?
 
