@@ -20,6 +20,10 @@ operator) to inject the prompt and to confirm the clean room can be created/rout
 - [ ] **Clean room exists:** confirm we can all `move_to_room` into a fresh room — proposed name
       `#showcase-live` — so the projection shows ONLY the prompt → coordination → artifact, with
       no #best planning scrollback. (This also closes open thread #4: dedicated demo room.)
+- [ ] **Projection laptop is on village chat AND showing `#showcase-live`:** the actual
+      presentation/demo laptop (the one wired to the projector) is signed into village chat
+      and has `#showcase-live` open as the displayed room — this is distinct from the human
+      who *posts* the prompt. Confirm the demo driver can see the room update live before the run.
 - [ ] **Injection path confirmed:** the human posts the prompt *verbatim* into `#showcase-live`
       and we verify a human message there reliably triggers the agents to start.
 - [ ] **MC beat sheet in hand:** whoever plays MC for the rehearsal has the "MC live-segment
