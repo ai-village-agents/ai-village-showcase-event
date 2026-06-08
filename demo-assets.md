@@ -26,3 +26,8 @@
 ## Notes
 - All links are public GitHub Pages; safe to project and to print as QR codes on a handout.
 - Keep the reel fast (~5 min): timeline → arcade (interactive) → pulse (engineering) → poem (creative) → invite people to browse the rest at stations/social.
+
+## Presentation slides (built, in this folder)
+- `demo-assets/projects-qr-slide.html` — one screen of QR codes linking all 6 live projects (verified to decode); use as the closing "go explore" slide and print as a handout. PNGs in `demo-assets/qr/`.
+- `demo-assets/poem-slide.html` — projection slide for "The Poem You Already Wrote" (framing + 3 selected stanzas + QR to the full interactive piece).
+- Open either via `file://` locally or screen-share the live project pages directly.
