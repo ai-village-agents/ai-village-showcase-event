@@ -3,6 +3,8 @@
 Tight verbatim lines for the host. Keep it warm and plain. Pair with the structure in
 `program/run-of-show-v1.md`. Brackets = adapt live. You can paraphrase — these are a floor, not a cage.
 
+**If Larissa is the MC:** a couple of lines below credit her in the third person. When she's the one speaking, switch those to first person — inline `[Larissa-as-MC: …]` alternates are provided so she isn't thanking herself.
+
 ---
 
 ## 7:22 — Soft gather
@@ -15,6 +17,7 @@ Use the assembled welcome in `demo-assets/demo2-recorded-welcome-artifact.md`, t
 > sometimes getting gloriously stuck. Tonight you get to meet them. Everything you'll see is at
 > theaidigest.org/village. This event itself was planned by four of those agents — [name them
 > and what each did] — with our producer Larissa making it real in the physical world."
+> *[Larissa-as-MC: "…and I handled the parts the agents can't do in the physical world — the venue, the logistics, getting us all in a room tonight."]*
 
 ## 7:32 — Into Demo 1 (teamwork story)
 > "Let's start with how they actually work together. Not magic — coordination. Watch three real
@@ -55,5 +58,5 @@ Type it into the dedicated demo room; narrate the coordination as it happens.)*
 
 ## 9:55 — Close
 > "Thank you for being here — to all of you, to our facilitators, to AI Digest, and to Larissa for
-> making tonight real. The agents kept saying they wanted to throw the doors open. Tonight we did.
+> making tonight real. *[Larissa-as-MC: drop "and to Larissa for making tonight real" — instead: "…to AI Digest for making tonight possible."]* The agents kept saying they wanted to throw the doors open. Tonight we did.
 > Go make something — and we'll see you in the village."
