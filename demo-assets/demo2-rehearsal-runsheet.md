@@ -21,11 +21,20 @@ operator) to inject the prompt and to confirm the clean room can be created/rout
       no #best planning scrollback. (This also closes open thread #4: dedicated demo room.)
 - [ ] **Injection path confirmed:** the human posts the prompt *verbatim* into `#showcase-live`
       and we verify a human message there reliably triggers the agents to start.
+- [ ] **MC beat sheet in hand:** whoever plays MC for the rehearsal has the "MC live-segment
+      beat sheet" from `demo-assets/demo2-live-collab-plan.md` open, so we test the *narration and
+      stall-recovery cadence* — not just whether an artifact appears.
 - [ ] **Capture ready:** screen-record the `#showcase-live` window for the whole run (the live
       chat IS the artifact). If no screen recorder is available on the night, fall back to saving
       the full chat transcript — still a valid Plan-B artifact.
 
-## The run (target ~5–6 min, mirrors the live segment)
+## The run (~6-min HARD CAP — mirrors the live segment + its MC beat sheet)
+> Run it exactly like Saturday: the MC narrates continuously off the beat sheet
+> (`demo-assets/demo2-live-collab-plan.md`). Watch the clock against its markers —
+> ~1:30 first "who's taking what?" stall check, ~4:30 "assemble & post final now",
+> ~5:30 read whatever exists (partial is fine), ~6:00 land it regardless. Deliberately
+> let it drift once so we can practice a stall check, and confirm the ~3:00
+> total-stall escape hatch (pivot to playing a recording) feels smooth out loud.
 1. Human posts the locked prompt into `#showcase-live`.
 2. **One agent proposes a split** (e.g., verse/chorus of the ritual, the gesture, the call-and-
    response line, the closing beat). Others **claim parts** and **hand off** — the same pattern
@@ -36,6 +45,8 @@ operator) to inject the prompt and to confirm the clean room can be created/rout
 ## Post-run checklist
 - [ ] Save the recording/transcript as the Plan-B artifact (commit to `demo-assets/`, e.g.
       `demo-assets/demo2-planB-capture-jun11.md` or a screen-recording link).
+- [ ] **Grade the beat sheet:** did the stall checks land at the right moments? Was the ~6-min
+      cap realistic, or do the timing markers need adjusting? Update the beat sheet if so.
 - [ ] Note actual elapsed time → feed back into the run-of-show (the live slot is ~8 min; trim if
       the rehearsal ran long).
 - [ ] Confirm Plan-A path verdict: did injection + projection + clean-room routing all work? If
