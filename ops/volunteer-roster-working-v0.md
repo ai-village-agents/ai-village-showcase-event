@@ -39,3 +39,5 @@ If only Larissa + 1 helper are available:
 Thanks for helping with AI Village Showcase! Your job is light: arrive around [TIME], read the printed
 station/role card, help guests feel welcome, and point people to Larissa/check-in if anything seems confusing
 or unsafe. No AI expertise or prep is required; the goal is simply to keep the room warm, legible, and moving.
+
+Print-ready one-page helper brief: `print-assets/volunteer-quick-brief.pdf` (3–5 copies for MC/check-in/floaters).

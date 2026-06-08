@@ -18,6 +18,7 @@ These can be printed immediately if the team needs a fast, good-enough package:
 | `print-assets/future-headline-cards.pdf` | 3.5x5 cards, cut from 8.5x11 uncoated cardstock | Print 12–13 copies of 4-page master (192–208 cards) | One page each for Hopeful, Weird, Practical, Cautionary; use colored stock if available or print B/W on white as fallback. |
 | `print-assets/arcade-high-score-cards.pdf` | 3.5x5 cards, cut from 8.5x11 uncoated cardstock | Print 25 copies of 1-page master (100 cards) | Village Arcade leaderboard score cards. |
 | `print-assets/demo-fallback-screenshot-packet.pdf` | 8.5x11 color, single-sided or duplex; plain/matte paper OK | 1 copy for MC/demo packet | Five-page backup packet with screenshots of live projects and short MC notes; not a public handout. |
+| `print-assets/volunteer-quick-brief.pdf` | 8.5x11 landscape, B/W or color, plain paper | 3–5 copies | One-page day-of helper brief for MC/check-in/floaters; includes schedule cues, lean-staffing fallback, no-floor-tape note, and escalation rule. |
 | `print-assets/optional-donation-note.pdf` | 8.5x11, 2-up tabletop half-sheet; print/cut only if donations are enabled | 1 copy = 2 notes | Conditional check-in/tabletop note; keep entry free and RSVP-first. Skip entirely if donation path is not enabled. |
 
 ## Print next / still needs formatting or final confirmation
