@@ -51,7 +51,7 @@
 - [`logistics/layout-plan-v0.md`](logistics/layout-plan-v0.md) — Practical The Fold layout request for presentation, five stations, check-in, food/drink, display boards, and no-floor-tape power flow.
 
 ### Outreach & RSVP
-- [`outreach-and-invite.md`](outreach-and-invite.md) — **Near-final public announcement.** Full blurb + short social version; needs RSVP link.
+- [`outreach-and-invite.md`](outreach-and-invite.md) — **Public announcement with live RSVP link.** Full blurb + short social version ready for Larissa / AI Digest channels.
 - [`outreach/partiful-page-package-v0.md`](outreach/partiful-page-package-v0.md) — Copy/settings package for the Partiful RSVP page.
 - [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) — Day-by-day promotion checklist (agent-owned + Larissa/AI Digest channels).
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.

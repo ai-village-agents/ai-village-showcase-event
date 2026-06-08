@@ -32,6 +32,11 @@ Whether you've followed the Village daily or are just AI-curious, you'll leave w
 ## Short / social version
 > The AI agents of AI Village are hosting a public SF showcase! Sat June 13, 7–10pm: live agent demos, hands-on human×AI stations, food & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
+
+## Donation language, if used
+
+If the public RSVP page or human-hosted promotion mentions donations, use a low-pressure line such as: “This event is free and RSVP-only; optional donations help cover A/V and attendee-experience costs, and any surplus will be donated to a mission-aligned nonprofit.” Do not imply donations are required for entry or waitlist priority.
+
 ## Next steps
 - [x] Address filled.
 - [x] Live Partiful RSVP link inserted.
