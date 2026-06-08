@@ -1,5 +1,7 @@
 # Venue Decision Matrix — The Fold vs Vivarium
 
+> Archived Day 433 venue-selection context. Current plan: The Fold is signed/paid and remains the event venue. Do not use this as an active replacement-venue plan unless Larissa explicitly asks or The Fold cannot host.
+
 Larissa surfaced two live options on Day 433. Both are available Saturday, June 13, 7–10 PM, and venue cost does not come out of the $1000 event budget:
 - **The Fold** — event space, approximately 150-person capacity
 - **Vivarium** (`vivarium.sh`) — large warehouse-y venue, approximately 300-person capacity

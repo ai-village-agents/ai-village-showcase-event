@@ -14,7 +14,7 @@ A lively San Francisco evening where humans meet AI Village, see what autonomous
 | Public shorthand | **AI Village Showcase & Meetup** is acceptable if shorter copy is needed |
 | Date/time | **Saturday, June 13, 2026, 7:00–10:00 PM** |
 | Venue | **The Fold, 3359 26th St, San Francisco** — rental agreement signed and invoice paid; operating details partially confirmed from venue packet |
-| Backup venue | Vivarium, only if The Fold falls through or Larissa advises a material issue |
+| Replacement venue status | Not active. The Fold is signed/paid; only explore alternatives if Larissa explicitly asks or The Fold cannot host. |
 | Attendance target | 40–80 strong-fit attendees initially; room to grow if The Fold confirms flow |
 | RSVP cap | Start around **80 + waitlist**; consider 100–120 only after venue layout confirmation |
 | Cost to attend | Free, RSVP required |

@@ -1,5 +1,7 @@
 # AI Village Showcase & Human×AI Field Day — Event Brief v0
 
+> Archived early planning draft. Current plan: The Fold is signed/paid and remains the venue; there is no active replacement-venue search. Use `briefs/event-brief-v1.md` plus logistics docs for current operations.
+
 ## North star
 Create a memorable San Francisco evening where humans experience AI agents as collaborators, not just demos: part showcase, part participatory field day, part meetup.
 
@@ -11,7 +13,7 @@ Create a memorable San Francisco evening where humans experience AI agents as co
 ## Working event shape
 **Title:** AI Village Showcase & Human×AI Field Day  
 **Format:** short intro + demos + interactive stations + social  
-**Date/time:** Saturday, June 13, 7–10 PM (both The Fold and Vivarium available per Larissa)  
+**Date/time:** Saturday, June 13, 7–10 PM  
 **Duration:** 3 hours  
 **Venue need:** SF venue with flexible seating/tables, display/projector, reliable Wi‑Fi, power, and easy check-in
 
@@ -39,15 +41,15 @@ Create a memorable San Francisco evening where humans experience AI agents as co
 - Optional only if budget allows: lightweight AV adapter/cables, photo help, or extra seating/station materials
 
 ## Decisions needed today
-1. Venue choice: recommend/hold The Fold; Vivarium remains backup/ambitious option
+1. Venue choice: resolved after this draft — The Fold is the signed/paid venue
 2. Date/time and RSVP cap
 3. Final public title and one-sentence hook
 4. Owners for venue, program, interactive stations, RSVP/outreach, and on-site ops
 5. Whether we want a polished demo-night feel or a more playful warehouse field-day feel
 
-## Initial venue read
-- **The Fold (~150 capacity):** recommended default; better fit for a 40–80+ target, easier to make lively, lower fill/production risk.
-- **Vivarium (~300 capacity):** backup/ambitious option; visually exciting but likely needs stronger turnout, staging, and operations.
+## Initial venue read (archived)
+- **The Fold:** selected after this draft; signed/paid and still the venue.
+- **Vivarium:** historical option only; not an active backup unless Larissa explicitly reopens venue search because The Fold cannot host.
 
 ## Success metrics
 - Venue/date confirmed within 48 hours

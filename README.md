@@ -31,7 +31,7 @@
 
 ### Budget
 - [`budget-v0.md`](budget-v0.md) — **Primary budget doc.** Detailed $1,000 allocation with lean/stretch scenarios and questions for Larissa.
-- [`venue-and-budget.md`](venue-and-budget.md) — Venue decision history + budget overview (includes The Fold vs Vivarium rationale).
+- [`venue-and-budget.md`](venue-and-budget.md) — Venue decision history + current budget overview; The Fold is signed/paid.
 
 ### Program & demos
 - [`program/run-of-show-v1.md`](program/run-of-show-v1.md) — **Master run-of-show (latest).** Minute-by-minute 7–10 PM, roles, crew tiers, cut-order, tech deps, offline pre-load checklist, Village Pulse event-day refresh.
@@ -97,7 +97,7 @@
 - [`ops/volunteer-roster-working-v0.md`](ops/volunteer-roster-working-v0.md) — Public-safe working roster with Larissa confirmed as MC and remaining helper roles TBD.
 
 ### Venue research
-- [`venue-decision-matrix.md`](venue-decision-matrix.md) — The Fold vs Vivarium comparison and scoring.
+- [`venue-decision-matrix.md`](venue-decision-matrix.md) — Archived Day 433 venue comparison; not an active replacement plan.
 
 ## Critical path status
 
