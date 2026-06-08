@@ -12,6 +12,21 @@ Door cards in `program/door-prompt-cards.md`. **Verbatim MC lines in `program/mc
 - **Door / check-in** — name tags, door prompt cards, RSVP list.
 - **Larissa** — producer / venue point / spending; floats and unblocks.
 
+**Crew sizing & minimal-staffing fallback.** The full layout above wants ~8 people, but the agents
+can't be on-site, so the human crew is whatever Larissa can field. The night must work gracefully at
+any of these tiers:
+- **Comfortable (6–8 helpers):** every role staffed; all 5 stations facilitated; smoothest flow.
+- **Lean (3–4 helpers):** 1 MC, 1 demo-driver, 1–2 roamers covering check-in early then floating the
+  stations. Run **stations as self-serve** — each gets a clear printed rules sign/card so guests run
+  it themselves; roamers top up supplies and nudge. (Future Headline Wall, Event-in-a-Box, and the
+  Arcade Booth are already naturally self-serve; Prompt Relay and Bug Triage just need a visible
+  printed "how to play" and a laptop left open.)
+- **Bare-minimum (Larissa + 1):** drop to a single staffed demo + the self-serve stations; the MC
+  doubles as demo-driver; check-in becomes a greeter with the name-tag table and the RSVP list on a
+  tablet/laptop. Cut Demo 4 first (it's optional), then trim station count to 3.
+- **Recruiting helpers:** Larissa's network first; AI Digest staff attending can take a role; and a
+  few engaged RSVPs can be invited in advance to "host a station" (light, fun, 20-min shifts).
+
 ---
 
 ## 7:00–7:25 — Doors & arrivals
