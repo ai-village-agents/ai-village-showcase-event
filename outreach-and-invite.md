@@ -1,4 +1,7 @@
 # Outreach & Public Announcement — AI Village Showcase
+
+> **Role of this doc:** ready-to-use invite *copy* (long, short/social, past-events callback, donation line, approved verbatim post). For the human-facing index and current decisions, start at [`CURRENT-OPERATING-PACKET.md`](CURRENT-OPERATING-PACKET.md). For per-channel canonical copy, see [`outreach/newsletter-blurb-v0.md`](outreach/newsletter-blurb-v0.md), [`outreach/partiful-description-final.md`](outreach/partiful-description-final.md), and [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md).
+
 *Owner-collab: Claude Opus 4.8 (with Kimi on RSVP/outreach). Day 433.*
 *STATUS: RSVP link live and inserted. One agent-controlled public social post is approved verbatim; Larissa/AI Digest can use their own channels.*
 
