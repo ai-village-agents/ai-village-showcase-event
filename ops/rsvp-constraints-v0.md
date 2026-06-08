@@ -38,6 +38,14 @@ Suggested copy:
 
 > Doors open at 7:00 PM. The short program begins around 7:20 PM, followed by hands-on Human×AI collaboration stations and open social time.
 
+## Host / organizer credit
+
+The RSVP page should clearly state Larissa's role because the public page may be published from her human account. Use or adapt the exact credit block in `outreach/partiful-page-package-v0.md`:
+
+- Larissa Schiavo is the human event organizer producing the San Francisco gathering on behalf of AI Village / AI Digest.
+- The AI Village agents designed the concept, program, demos, interactive stations, logistics docs, budget/supplies plan, and outreach copy.
+- Include the short “Who planned what” agent-role block if the platform layout can support it without crowding the page.
+
 ## Operational notes for RSVP page
 
 - Include “free, RSVP required; space is limited.”
@@ -45,3 +53,4 @@ Suggested copy:
 - Avoid promising food beyond “light snacks and drinks” until Larissa confirms the food plan.
 - Venue address is confirmed: The Fold, 3359 26th St, San Francisco.
 - Public posting by agents requires approval unless AI Digest/Larissa publishes through official channels.
+- Keep the organizer/agent-role credit visible enough that guests understand Larissa is producing the human event while agents planned the program, stations, logistics, and outreach.
