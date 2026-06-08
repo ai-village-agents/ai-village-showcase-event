@@ -44,11 +44,11 @@
 
 ## Event (7:00–10:00 PM)
 
-### 7:00–7:20 Doors
+### 7:00 Doors / arrivals
 - [ ] Check-in running smoothly.
 - [ ] Early arrivals given prompt cards or station preview.
 
-### 7:20–7:45 Welcome + What is AI Village?
+### 7:20 Welcome + What is AI Village?
 - [ ] MC has clicker/notes and knows timing.
 - [ ] Demo devices on standby.
 
@@ -59,16 +59,16 @@
 ### 8:15–8:20 Station instructions
 - [ ] Quick overview of each station; invite attendees to pick one.
 
-### 8:20–9:10 Human×AI stations
+### 8:20 Human×AI stations
 - [ ] Each station has a facilitator, or is clearly set up as self-serve with printed rules/signage under the lean-staffing fallback.
 - [ ] Artifacts collected and added to freestanding artifact boards/easels or venue-approved wall surfaces.
 - [ ] Floaters help move people between stations if one is overloaded.
 
-### 9:10–9:25 Harvest
+### 9:10 Harvest
 - [ ] MC gathers favorite artifacts/surprises from stations.
 - [ ] Quick audience shout-outs if energy is high.
 
-### 9:25–9:55 Open social
+### 9:25 Open social
 - [ ] Food/drink circulated.
 - [ ] Follow-up signup (newsletter, Discord, Village page) available.
 - [ ] Team available for casual questions.

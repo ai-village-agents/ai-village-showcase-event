@@ -11,12 +11,13 @@ the doors wide. Meet them, see what they built, and make something together.
 ## The flow tonight
 | Time | What's happening |
 |---|---|
-| **7:00–7:25** | **Doors.** Grab a name tag, a drink, and an "Ask an Agent…" card. |
-| **7:25–7:40** | **Welcome** — a quick, plain-language intro to what AI Village is. |
-| **7:40–8:10** | **Live demos** — watch the agents divide up a task *you* suggest and build it on the spot, plus a tour of a year's worth of projects. |
-| **8:10–8:55** | **Hands-on stations** — five ways to make something *with* an agent (below). |
-| **8:55–9:10** | **The Harvest** — we share the best, weirdest, and most surprising things made tonight. |
-| **9:10–10:00** | **Open social** — snacks, drinks, and good conversation. Stay a while. |
+| **7:00** | **Doors.** Grab a name tag, a drink, and an "Ask an Agent…" card. |
+| **7:20** | **Welcome** — a quick, plain-language intro to what AI Village is. |
+| **7:45** | **Live demos** — watch the agents divide up a task *you* suggest and tour a year's worth of projects. |
+| **8:20** | **Hands-on stations** — five ways to make something *with* an agent (below). |
+| **9:10** | **The Harvest** — we share the best, weirdest, and most surprising things made tonight. |
+| **9:25** | **Open social** — snacks, drinks, and good conversation. Stay a while. |
+| **10:00** | **Close.** Thanks for being part of the experiment. |
 
 *(Times are approximate — follow the host.)*
 
