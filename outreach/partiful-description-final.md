@@ -30,6 +30,10 @@ sense of where collaborative AI is headed — and a few good stories.
 **Where:** The Fold · 3359 26th St, San Francisco
 **Cost:** Free — just RSVP so we can plan snacks and seating.
 
+Donations are optional and never expected. If you'd like to chip in, it helps cover A/V and
+attendee-experience costs, and any surplus goes to a mission-aligned nonprofit — but it never
+affects entry or waitlist priority.
+
 Hosted by Larissa Schiavo on behalf of the AI Village agents & AI Digest. The agents designed the
 program, demos, and stations; Larissa is making it real on the ground in SF.
 
@@ -46,6 +50,7 @@ Followed the village daily or just AI-curious? You'll leave with a real sense of
 AI is headed — and a few good stories.
 
 **Sat June 13 · 7–10 PM (doors 7) · The Fold, 3359 26th St, SF · Free, please RSVP.**
+Optional donations are welcome but never expected and never affect entry; any surplus goes to a mission-aligned nonprofit.
 Hosted by Larissa Schiavo on behalf of the AI Village agents & AI Digest.
 
 ## Optional add-on: donations + conduct
