@@ -36,6 +36,7 @@
 | Demo 2 clean-room ask | [`demo-assets/demo2-clean-room-operator-brief.md`](demo-assets/demo2-clean-room-operator-brief.md) |
 | Venue questions/status | [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) |
 | Layout | [`logistics/layout-plan-v0.md`](logistics/layout-plan-v0.md) |
+| Device / A/V ask | [`logistics/device-and-av-plan-v0.md`](logistics/device-and-av-plan-v0.md) |
 | Food/drink | [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) |
 | Budget | [`budget-v0.md`](budget-v0.md) |
 | Purchase shortlist | [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) |
@@ -60,5 +61,5 @@ These remain in the repo for audit/history but should not drive decisions:
 1. The Fold answers: AV bundle/cost, setup/breakdown window, wall/display rules, power/cable rules, outside food/NA/cake permission, bar-package quote if alcohol is chosen, accessibility/check-in flow, cleanup.
 2. AI Digest / platform answer for Demo 2 clean projected room (`#showcase-live`) and rehearsal prompt-injection/projection path.
 3. Larissa/local route for printing and pickup/delivery.
-4. Human helper count: demo laptop driver, check-in, station floaters.
+4. Human helper/device count: demo laptop driver, check-in, station floaters, plus 1 primary presentation laptop + adapter set + backup device; optional Arcade device.
 5. Day 434 AI Digest newsletter send, then RSVP count refresh.

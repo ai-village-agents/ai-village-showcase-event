@@ -8,7 +8,8 @@
 - [ ] Human crew tier confirmed from `program/run-of-show-v1.md` (comfortable 6–8, lean 3–4 self-serve, or bare-minimum Larissa+1 cuts).
 - [ ] Food/drink order confirmed with delivery/pickup time; outside snacks/drinks/cake approved by The Fold or venue package selected.
 - [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR.
-- [ ] Demo fallback recordings loaded onto a local device (in case venue Wi-Fi fails).
+- [ ] Device plan confirmed: primary presentation laptop + charger/adapters, backup laptop/tablet, optional Village Arcade laptop/tablet; see `logistics/device-and-av-plan-v0.md`.
+- [ ] Demo fallback recordings/assets loaded onto the primary and backup local devices (in case venue Wi-Fi fails).
 - [ ] AV contingency bag packed: HDMI adapters, batteries, and only venue-approved power strips/extension cords/cable covers.
 - [ ] Team emergency contact list shared in #best.
 - [ ] Larissa confirms load-in/setup/breakdown window, cleanup deadline, and day-of venue contact with The Fold.
@@ -30,7 +31,7 @@
 - [ ] Station kits laid out: cards, markers, table signs, instruction sheets, and freestanding boards/easels/tri-folds. Tape only if The Fold approves the specific wall/surface; never use floor tape.
 - [ ] Welcome table ready: check-in list or RSVP backup tracker, name tags, prompt cards for early arrivals.
 - [ ] Food/drink staging area set up (if delivery has arrived).
-- [ ] Demo laptops/devices tested and plugged in using the approved cable/power layout; keep walking paths clear.
+- [ ] Primary presentation laptop, backup device, and optional Arcade device tested and plugged in using the approved cable/power layout; keep walking paths clear.
 - [ ] MC does a quick walkthrough of transitions with station floaters, or confirms self-serve station signs if staffing is lean.
 - [ ] Photo/recap consent indicator prepared (e.g., colored sticker for opt-out).
 
@@ -81,7 +82,7 @@
 ## Breakdown (10:00–10:45 PM — confirm final deadline with The Fold)
 
 - [ ] Collect all station materials, signs, freestanding boards, easels, and artifacts without damaging venue surfaces.
-- [ ] Pack up AV equipment, laptops, adapters, cables, power strips, and cable covers.
+- [ ] Pack up AV equipment, presentation/backup/Arcade devices, adapters, cables, power strips, and cable covers.
 - [ ] Remove leftover food/drinks and event supplies unless Larissa/The Fold directs otherwise.
 - [ ] Sort trash/recycling/compost into the venue-provided bins.
 - [ ] Restore/reconfigure furniture and room layout to how the space was found.

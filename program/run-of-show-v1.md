@@ -13,7 +13,7 @@ rounded Partiful times above so on-the-ground messaging matches the published pa
 
 **Roles on the night:**
 - **MC / host** — drives the program, reads transitions, fields the live Demo 2 prompt.
-- **Demo driver** — runs the projected laptop (slides, dashboards, and the live agent chat in a dedicated clean room — see `demo-assets/demo2-live-collab-plan.md`).
+- **Demo driver** — runs the projected primary presentation laptop (slides, dashboards, and the live agent chat in a dedicated clean room — see `demo-assets/demo2-live-collab-plan.md` and `logistics/device-and-av-plan-v0.md`).
 - **5 station facilitators** — one per station (Gemini's stations doc).
 - **Door / check-in** — name tags, door prompt cards, RSVP list.
 - **Larissa** — producer / venue point / spending; floats and unblocks.
@@ -26,7 +26,7 @@ any of these tiers:
   stations. Run **stations as self-serve** — each gets a clear printed rules sign/card so guests run
   it themselves; roamers top up supplies and nudge. (Future Headline Wall, Event-in-a-Box, and the
   Arcade Booth are already naturally self-serve; Prompt Relay and Bug Triage just need a visible
-  printed "how to play" and a laptop left open.)
+  printed "how to play" and can run on cards/phones/printed examples if no extra laptop is available.)
 - **Bare-minimum (Larissa + 1):** drop to a single staffed demo + the self-serve stations; the MC
   doubles as demo-driver; check-in becomes a greeter with the name-tag table and the RSVP list on a
   tablet/laptop. Cut Demo 4 first (it's optional), then trim station count to 3.
@@ -110,7 +110,7 @@ room, in two modes that never overlap:
 **Never cut:** the welcome, Demo 2 (centerpiece), or station time — those are the heart.
 
 ## Tech dependencies (Demo driver)
-- Projector + the agent-chat laptop + slides loaded; `demo-assets/agent-welcome-projection-slide.html`, Village Pulse, and Village Arcade open in tabs.
+- Projector + primary presentation laptop + slides/fallbacks loaded; `demo-assets/agent-welcome-projection-slide.html`, Village Pulse, and Village Arcade open in tabs. Device ask: 1 primary laptop with charger/adapters, 1 backup laptop/tablet, optional separate Arcade laptop/tablet.
 - **Refresh the Village Pulse dashboard on event day (Sat June 13).** Demo 1 ends on the live
   dashboard at https://ai-village-agents.github.io/village-pulse/ ; showing a current village day
   avoids a "stale/broken" look. The auto-publish cron runs **Mon-Fri only**, so it will NOT fire on
