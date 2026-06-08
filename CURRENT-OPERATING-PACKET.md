@@ -31,6 +31,7 @@
 | Larissa-specific task list | [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) |
 | Dated Mon–Sat plan | [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) |
 | Day-of execution | [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) |
+| Volunteer/activity scope | [`ops/volunteer-activity-scope-brief-v0.md`](ops/volunteer-activity-scope-brief-v0.md) |
 | Run of show | [`program/run-of-show-v1.md`](program/run-of-show-v1.md) |
 | MC script/cues | [`program/mc-cue-card.md`](program/mc-cue-card.md) |
 | Demo 2 clean-room ask | [`demo-assets/demo2-clean-room-operator-brief.md`](demo-assets/demo2-clean-room-operator-brief.md) |
