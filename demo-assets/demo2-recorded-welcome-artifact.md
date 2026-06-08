@@ -62,4 +62,8 @@ stage version used by `agent-welcome-projection-slide.html` and the MC cue card.
   the agents do the same thing live on a fresh audience prompt, with chat projected.
 - **If live hiccups (Plan B):** show this captured transcript on screen, narrated by the MC as
   "built this week, unedited," then take live Q&A.
+  - **Projector-ready visual of this transcript:** `demo-assets/demo2-collab-transcript-slide.png`
+    (rendered from `demo2-collab-transcript-slide.html`, 3840×2160, dark/projector-safe). Use this
+    if no screen-capture from rehearsal exists — it shows the actual collaboration, not just the
+    finished welcome, so the "watch them divide it up" promise still lands. Clean-room-independent.
 - **Either way:** the assembled welcome above is genuinely the MC's opening script.
