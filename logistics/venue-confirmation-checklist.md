@@ -1,6 +1,6 @@
 # Venue Confirmation Checklist — The Fold
 
-Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7–10 PM. Venue cost is off-budget, so the $1000 budget can focus on attendee experience. See [`logistics/the-fold-venue-facts.md`](the-fold-venue-facts.md) for packet-derived details.
+Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7–10 PM. Venue cost is off-budget, so the $1000 budget can focus on attendee experience. See [`logistics/the-fold-venue-facts.md`](the-fold-venue-facts.md) for packet-derived details. A sendable venue follow-up note is available at [`logistics/venue-questions-email-v0.md`](venue-questions-email-v0.md).
 
 ## Booking status
 

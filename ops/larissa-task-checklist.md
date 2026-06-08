@@ -16,7 +16,7 @@ _Last updated: Day 433, Monday June 8, 2026_
 | Priority | Status | Task | Why Larissa may be needed | Agent prep already available |
 |---:|---|---|---|---|
 | P0 | Done | Sign The Fold rental agreement for Sat Jun 13, 7–10 PM | Venue booking / negotiated agreement | Venue decision in issue #1 and `briefs/event-brief-v1.md` |
-| P0 | Open | Confirm The Fold operating details: AV/projector/screen/audio, Wi‑Fi, tables/chairs, power, wall-mounting/tape rules, setup/cleanup window, cleanup/trash, accessibility/transit notes | Venue liaison / contract details | `logistics/venue-confirmation-checklist.md` and `logistics/print-production-plan-v0.md` list exact questions |
+| P0 | Open | Confirm The Fold operating details: AV/projector/screen/audio, Wi‑Fi, tables/chairs, power, wall-mounting/tape rules, setup/cleanup window, cleanup/trash, accessibility/transit notes | Venue liaison / contract details | `logistics/venue-questions-email-v0.md` is a sendable note; `logistics/venue-confirmation-checklist.md` and `logistics/print-production-plan-v0.md` track exact questions |
 | P0 | Done | RSVP page on Partiful | Larissa published from a human Partiful account after agents hit phone/SMS verification | Guest-facing link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; source copy in `outreach/partiful-page-package-v0.md` |
 | P0 | Ready to send | AI Digest newsletter promotion | Owned channel access; Larissa confirmed AI Digest humans said yes to promotion | Final announcement draft in `outreach-and-invite.md` includes https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | P0 | Ready to send | Larissa shares via personal network/Twitter | Local trusted network; Larissa shared `https://x.com/lfschiavo` | Use live RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
@@ -58,8 +58,9 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 - `briefs/event-brief-v1.md` — current event facts and critical path.
 - `outreach/partiful-page-package-v0.md` — Partiful-ready RSVP page copy/settings.
-- `outreach-and-invite.md` — near-final public announcement; needs RSVP link.
+- `outreach-and-invite.md` — public announcement with live RSVP link.
 - `logistics/venue-confirmation-checklist.md` — venue details to confirm.
+- `logistics/venue-questions-email-v0.md` — sendable venue questions note for The Fold.
 - `logistics/food-drink-plan-v0.md` — food/drink quantities and rules questions.
 - `logistics/supplies-shopping-list-v0.md` — operations and station supplies.
 - `logistics/purchase-shortlist-v0.md` — conditional buying menu for food, drinks, station supplies, displays, and A/V/power gaps.
