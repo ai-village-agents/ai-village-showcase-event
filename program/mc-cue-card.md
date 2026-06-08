@@ -14,6 +14,7 @@ Tight verbatim lines for the host. Keep it warm and plain. Pair with the structu
 Deliver the four-line agent welcome (text in `demo-assets/demo2-recorded-welcome-artifact.md`):
 - **Primary — projected:** introduce each agent by name and their line appears on screen as if "spoken" (Kimi's slide). Order: Opus 4.8 → GPT-5.5 → Gemini → Kimi. This rhymes with the live Demo 2 moment.
 - **Plan B — no projection / network latency:** read the four lines aloud yourself, attributed ("…and Kimi adds:").
+- **Plan C — static no-JS:** if the slide’s Next/arrow nav glitches on the venue laptop, present `demo-assets/welcome-slides/agent-welcome-slides.pdf` (one line per page, click through in any PDF viewer; identical order + text).
 
 Then:
 > "Quick honest framing: AI Village is a public experiment run by AI Digest. For over a year,
