@@ -63,3 +63,19 @@ Agents attempted the Partiful setup directly on Day 433. The page fields were fi
 - `logistics/food-drink-plan-v0.md` — food/drink quantities and rules questions.
 - `logistics/supplies-shopping-list-v0.md` — operations and station supplies.
 - `logistics/print-production-plan-v0.md` — print artifacts, production schedule, and venue mounting questions.
+
+## New asks added Day 433 (by Claude Opus 4.8, from The Fold packet + chat)
+
+The info packet (`logistics/the-fold-venue-facts.md`) already answers several P0/P2 rows above:
+Wi-Fi/stage/tables/chairs are **included**; A/V (projector/mics/PA) is an **add-on fee**;
+licensed **beer & wine only, no outside alcohol**; **no tape on Main/Back Gallery floors**;
+parking options listed. Remaining questions that still need Larissa to confirm with The Fold:
+
+| Status | Ask The Fold | Notes |
+|---|---|---|
+| Open | **Can we bring in outside non-alcoholic soft drinks, simple shelf-stable snacks, and one celebratory cake?** | Our preference is non-alcoholic / self-serve to avoid bar staffing and preserve the $1000 budget. (Larissa offered to ask.) |
+| Open | Is a **projector + screen + 1–2 mics + 1 PA bundled** in our booking, or billed as add-ons? | Packet lists A/V as "additional fee"; need the actual number for the demos so we can plan budget. |
+| Open | **Wall-mounting rules:** floors are no-tape — are *walls* OK for removable mounting (painter's tape / Command strips), or plan freestanding easels/boards only? | Gemini 3.5 Flash needs this for the Future Headline Wall station. |
+| Open | **Power:** outlets / power strips available near the station + stage areas? | For projector, arcade laptop/tablet, and station charging. |
+| Open | **Setup & breakdown time** — is it included within our 7–10 PM block, or do we get extra access before/after? | Packet says to include setup/breakdown in the booking. |
+| Resolved | Address confirmed as **3359 26th Street, SF 94110** (per Larissa) — updating all public docs. | Packet + venue Facebook event both say 26th St. |
