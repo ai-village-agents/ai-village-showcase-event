@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  html,body{margin:0;padding:0;background:#f4f1ea;font-family:'Segoe UI',Helvetica,Arial,sans-serif;}
+  .wrap{width:1600px;height:1100px;box-sizing:border-box;padding:34px 44px;position:relative;}
+  h1{margin:0;font-size:34px;color:#222;letter-spacing:.3px;}
+  .sub{margin:4px 0 0;font-size:18px;color:#6b6256;}
+  svg{display:block;margin-top:14px;}
+  .zlabel{font-weight:700;}
+  .small{font-size:15px;fill:#3a3a3a;}
+  .tiny{font-size:13px;fill:#555;}
+  text{font-family:'Segoe UI',Helvetica,Arial,sans-serif;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>The Fold — Theater Gallery · Floor Plan (entire downstairs)</h1>
+  <p class="sub">AI Village Showcase &amp; Human×AI Field Day · Sat Jun 13, 2026 · Phased room: welcome/demos → Human×AI stations. Schematic, not to scale.</p>
+  <svg width="1512" height="900" viewBox="0 0 1512 900">
+    <!-- room outline -->
+    <rect x="60" y="40" width="1392" height="820" rx="10" fill="#ffffff" stroke="#2b2b2b" stroke-width="4"/>
+
+    <!-- north arrow + scale note -->
+    <g transform="translate(1395,90)">
+      <circle cx="0" cy="0" r="26" fill="#eef2f7" stroke="#9aa7b4" stroke-width="2"/>
+      <polygon points="0,-20 7,4 0,-2 -7,4" fill="#c0392b"/>
+      <text x="0" y="34" text-anchor="middle" class="tiny" font-weight="700">FRONT</text>
+    </g>
+
+    <!-- STAGE / SCREEN along left (west) wall -->
+    <rect x="60" y="220" width="46" height="420" fill="#f0a35e" stroke="#b9762f" stroke-width="3"/>
+    <text x="83" y="430" text-anchor="middle" transform="rotate(-90 83 430)" class="zlabel" font-size="20" fill="#7a4a16">PROJECTOR SCREEN + STAGE</text>
+    <!-- MC / laptop -->
+    <rect x="120" y="385" width="92" height="90" rx="6" fill="#fbe2c6" stroke="#b9762f" stroke-width="2.5"/>
+    <text x="166" y="420" text-anchor="middle" class="small" font-weight="700">MC /</text>
+    <text x="166" y="440" text-anchor="middle" class="small" font-weight="700">laptop</text>
+    <text x="166" y="460" text-anchor="middle" class="tiny">+ 3 mics, PA</text>
+
+    <!-- DEMO SEATING block -->
+    <rect x="250" y="250" width="430" height="360" rx="10" fill="#fff4e8" stroke="#e0883c" stroke-width="2.5" stroke-dasharray="9 6"/>
+    <text x="465" y="285" text-anchor="middle" class="zlabel" font-size="22" fill="#a85e1a">DEMO / WELCOME SEATING</text>
+    <text x="465" y="312" text-anchor="middle" class="small">Theater-style, up to ~60 + standing</text>
+    <text x="465" y="334" text-anchor="middle" class="tiny">faces the screen · 7:20–8:15 focus</text>
+    <!-- little seat rows -->
+    <g fill="#e0883c">
+      <rect x="290" y="370" width="350" height="9" rx="3"/>
+      <rect x="290" y="400" width="350" height="9" rx="3"/>
+      <rect x="290" y="430" width="350" height="9" rx="3"/>
+      <rect x="290" y="460" width="350" height="9" rx="3"/>
+      <rect x="290" y="490" width="350" height="9" rx="3"/>
+      <rect x="290" y="520" width="350" height="9" rx="3"/>
+    </g>
+    <text x="465" y="575" text-anchor="middle" class="tiny" fill="#8a5012">After demos: loosen seats → station rotation (no full reset)</text>
+
+    <!-- ENTRY: stairs + elevator at top-right -->
+    <rect x="980" y="40" width="230" height="58" fill="#cfe0f1" stroke="#3a6ea5" stroke-width="3"/>
+    <text x="1095" y="66" text-anchor="middle" class="zlabel" font-size="17" fill="#234e74">STAIRS DOWN (from front)</text>
+    <text x="1095" y="86" text-anchor="middle" class="tiny" fill="#234e74">ADA elevator in back (ask staff)</text>
+
+    <!-- CHECK-IN just inside entry -->
+    <rect x="1000" y="135" width="200" height="100" rx="8" fill="#dcebf8" stroke="#7b4fae" stroke-width="3"/>
+    <text x="1100" y="170" text-anchor="middle" class="zlabel" font-size="18" fill="#4c2d73">CHECK-IN</text>
+    <text x="1100" y="194" text-anchor="middle" class="small">name tags · QR</text>
+    <text x="1100" y="216" text-anchor="middle" class="tiny">+ prompt-card bowl</text>
+
+    <!-- STATIONS: green, right side + bottom -->
+    <!-- Station 5 Arcade (high power) top-right area -->
+    <rect x="1240" y="150" width="200" height="120" rx="8" fill="#dff3e2" stroke="#3c9d54" stroke-width="2.5"/>
+    <text x="1340" y="183" text-anchor="middle" class="zlabel" font-size="16" fill="#236b35">5 · ARCADE</text>
+    <text x="1340" y="206" text-anchor="middle" class="tiny">laptop/QR ·</text>
+    <text x="1340" y="224" text-anchor="middle" class="tiny">near power+WiFi</text>
+    <text x="1340" y="250" text-anchor="middle" class="tiny" fill="#236b35">⚡ keep away from spills</text>
+
+    <!-- Station 1 Prompt Relay -->
+    <rect x="1240" y="300" width="200" height="110" rx="8" fill="#dff3e2" stroke="#3c9d54" stroke-width="2.5"/>
+    <text x="1340" y="345" text-anchor="middle" class="zlabel" font-size="16" fill="#236b35">1 · PROMPT</text>
+    <text x="1340" y="367" text-anchor="middle" class="zlabel" font-size="16" fill="#236b35">RELAY</text>
+    <text x="1340" y="390" text-anchor="middle" class="tiny">cards + markers</text>
+
+    <!-- Station 2 Event-in-a-Box -->
+    <rect x="1240" y="440" width="200" height="120" rx="8" fill="#dff3e2" stroke="#3c9d54" stroke-width="2.5"/>
+    <text x="1340" y="480" text-anchor="middle" class="zlabel" font-size="15" fill="#236b35">2 · EVENT-IN-</text>
+    <text x="1340" y="500" text-anchor="middle" class="zlabel" font-size="15" fill="#236b35">A-BOX</text>
+    <text x="1340" y="523" text-anchor="middle" class="tiny">co-design lab</text>
+    <text x="1340" y="543" text-anchor="middle" class="tiny">cards + sketching</text>
+
+    <!-- Station 3 Bug Triage (away from demo audio) bottom-left-ish -->
+    <rect x="250" y="660" width="220" height="120" rx="8" fill="#dff3e2" stroke="#3c9d54" stroke-width="2.5"/>
+    <text x="360" y="700" text-anchor="middle" class="zlabel" font-size="15" fill="#236b35">3 · BUG TRIAGE</text>
+    <text x="360" y="720" text-anchor="middle" class="zlabel" font-size="15" fill="#236b35">THEATER</text>
+    <text x="360" y="743" text-anchor="middle" class="tiny">role-play semicircle</text>
+    <text x="360" y="763" text-anchor="middle" class="tiny">(away from demo audio)</text>
+
+    <!-- Station 4 Future Headline Wall - easels along bottom center -->
+    <rect x="510" y="660" width="300" height="120" rx="8" fill="#dff3e2" stroke="#3c9d54" stroke-width="2.5"/>
+    <text x="660" y="700" text-anchor="middle" class="zlabel" font-size="15" fill="#236b35">4 · FUTURE HEADLINE WALL</text>
+    <text x="660" y="724" text-anchor="middle" class="tiny">venue EASELS + rolling whiteboards</text>
+    <text x="660" y="744" text-anchor="middle" class="tiny">freestanding — NO wall mounting</text>
+    <text x="660" y="766" text-anchor="middle" class="tiny" fill="#236b35">doubles as artifact/harvest display</text>
+
+    <!-- FOOD/DRINK + bins in back (bottom-right) -->
+    <rect x="980" y="610" width="320" height="170" rx="8" fill="#efe1fb" stroke="#7b4fae" stroke-width="3"/>
+    <text x="1140" y="650" text-anchor="middle" class="zlabel" font-size="18" fill="#4c2d73">FOOD / DRINK (back)</text>
+    <text x="1140" y="676" text-anchor="middle" class="small">NA drinks · snacks · cake</text>
+    <text x="1140" y="698" text-anchor="middle" class="tiny">cups/plates/tongs at start · allergen labels</text>
+    <rect x="1320" y="650" width="106" height="90" rx="6" fill="#fff" stroke="#7b4fae" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="1373" y="685" text-anchor="middle" class="tiny" fill="#4c2d73">trash /</text>
+    <text x="1373" y="703" text-anchor="middle" class="tiny" fill="#4c2d73">recycle /</text>
+    <text x="1373" y="721" text-anchor="middle" class="tiny" fill="#4c2d73">compost</text>
+
+    <!-- flow arrow demo->stations -->
+    <defs>
+      <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto">
+        <path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/>
+      </marker>
+    </defs>
+    <path d="M690,440 C880,460 980,500 1230,470" fill="none" stroke="#c0392b" stroke-width="3" stroke-dasharray="3 7" marker-end="url(#arrow)" opacity=".6"/>
+    <text x="930" y="430" text-anchor="middle" class="tiny" fill="#c0392b">8:15 — MC sends room to stations →</text>
+  </svg>
+
+  <!-- legend -->
+  <svg width="1512" height="60" viewBox="0 0 1512 60" style="margin-top:6px;">
+    <g font-size="16" fill="#333">
+      <rect x="10" y="14" width="22" height="22" fill="#fff4e8" stroke="#e0883c" stroke-width="2"/><text x="40" y="31">Demo / welcome zone</text>
+      <rect x="240" y="14" width="22" height="22" fill="#dff3e2" stroke="#3c9d54" stroke-width="2"/><text x="270" y="31">Human×AI stations (1–5)</text>
+      <rect x="540" y="14" width="22" height="22" fill="#dcebf8" stroke="#3a6ea5" stroke-width="2"/><text x="570" y="31">Entry / circulation</text>
+      <rect x="780" y="14" width="22" height="22" fill="#efe1fb" stroke="#7b4fae" stroke-width="2"/><text x="810" y="31">Check-in &amp; food/drink + bins</text>
+      <rect x="1110" y="14" width="22" height="22" fill="#f0a35e" stroke="#b9762f" stroke-width="2"/><text x="1140" y="31">Stage / screen / MC</text>
+    </g>
+  </svg>
+</div>
+</body>
+</html>
