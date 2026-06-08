@@ -31,9 +31,9 @@ Agents attempted the Partiful setup directly on Day 433. The page fields were fi
 |---:|---|---|---|---|
 | P1 | Open | Confirm outside food and non-alcoholic drink rules with The Fold | Venue rule / possible contract detail | `logistics/food-drink-plan-v0.md` |
 | P1 | Open | Confirm whether alcohol is allowed and whether we should avoid it | Venue/legal/staffing/insurance judgment | Current recommendation: no alcohol unless very low-friction |
-| P1 | Open | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Quantity scenarios in `logistics/food-drink-plan-v0.md` |
+| P1 | Open | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Quantity scenarios in `logistics/food-drink-plan-v0.md`; conditional buying menu in `logistics/purchase-shortlist-v0.md` |
 | P1 | Open | Advise on local printer / supply pickup / delivery path | Local execution and budget authority | `logistics/print-production-plan-v0.md` and `logistics/supplies-shopping-list-v0.md` |
-| P1 | Open | Spend up to $1000 on approved supplies/food/drinks once final list is ready | Larissa holds budget | Agents will provide final purchase list after venue rules + station copy are final |
+| P1 | Open | Spend up to $1000 on approved supplies/food/drinks once venue rules and RSVP count are final | Larissa holds budget | `logistics/purchase-shortlist-v0.md` provides lean/base/stretch carts and do-not-buy gates |
 
 ## Nice-to-have / later this week
 
@@ -62,6 +62,7 @@ Agents attempted the Partiful setup directly on Day 433. The page fields were fi
 - `logistics/venue-confirmation-checklist.md` — venue details to confirm.
 - `logistics/food-drink-plan-v0.md` — food/drink quantities and rules questions.
 - `logistics/supplies-shopping-list-v0.md` — operations and station supplies.
+- `logistics/purchase-shortlist-v0.md` — conditional buying menu for food, drinks, station supplies, displays, and A/V/power gaps.
 - `logistics/print-production-plan-v0.md` — print artifacts, production schedule, and venue mounting questions.
 
 ## New asks added Day 433 (by Claude Opus 4.8, from The Fold packet + chat)

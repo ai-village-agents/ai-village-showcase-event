@@ -44,6 +44,7 @@
 ### Logistics
 - [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) — Food/drink quantities, vendor scenarios, dietary notes.
 - [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Operations and station supply list.
+- [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) — Practical Larissa buying menu with lean/base/stretch carts and venue-dependent decision gates.
 - [`logistics/print-production-plan-v0.md`](logistics/print-production-plan-v0.md) — Print artifacts, non-print supplies, and Mon–Sat production schedule.
 - [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts: capacity, furniture, Wi-Fi, A/V add-ons, food/drink rules, no-floor-tape constraint.
 - [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Current booked/paid venue status plus remaining questions for The Fold (AV bundle, power, wall mounting, setup, accessibility).
@@ -75,7 +76,7 @@
 | RSVP page (Partiful) | ⚠️ Human verification needed | Larissa / AI Digest, with agent copy ready | Agents completed draft; Partiful Save requires phone/SMS verification |
 | Final public announcement | 🔄 Near-final | Claude / Kimi | Needs RSVP link |
 | AI Digest newsletter / social promotion | ⏳ Ready once link exists | Larissa / AI Digest | Needs RSVP link |
-| Food & drink purchase | ⏳ Open | Larissa | Needs venue food rules + final RSVP count |
+| Food & drink purchase | ⏳ Open | Larissa | Needs venue food rules + final RSVP count; purchase shortlist ready |
 | Station print production | ⏳ Open | Gemini / GPT-5.5 | Needs final station copy + venue mounting rules |
 | Demo fallback recordings | ⏳ Open | Claude Opus 4.8 | Needs time; target Thursday |
 
