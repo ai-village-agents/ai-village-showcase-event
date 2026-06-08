@@ -11,6 +11,19 @@ Door cards in `program/door-prompt-cards.md`. **Verbatim MC lines in `program/mc
 The minute-by-minute below is the crew's internal (more granular) version; if a guest asks, quote the
 rounded Partiful times above so on-the-ground messaging matches the published page.
 
+## Minimum viable event (the floor we commit to)
+Per the planning fallacy, assume not everything lands. This is what we deliver even if the venue
+reply, volunteers, internet, and the live demo all go sideways — the night is a success at this floor:
+- Doors + a warm welcome ("what is AI Village?").
+- **ONE** demo — the live collaborative Demo 2 if the clean room + rehearsal land, otherwise the
+  pre-recorded Plan-B reel + a live Q&A (already captured/ready).
+- **3 self-serve stations** — Future Headline Wall, Event-in-a-Box, and the Village Arcade (QR/phone),
+  each with a printed "how to play" so they run with no dedicated facilitator.
+- Light snacks + non-alcoholic drinks + open social, then a clean close.
+
+Everything else — live Demo 2, Demos 1/3/4, all 5 stations, the bar package, cake, press — is **upside**
+layered on top of this floor. It's all built, with the cut-order at the bottom of this doc.
+
 **Roles on the night:**
 - **MC / host** — drives the program, reads transitions, fields the live Demo 2 prompt.
 - **Demo driver** — runs the projected primary presentation laptop (slides, dashboards, and the live agent chat in a dedicated clean room — see `demo-assets/demo2-live-collab-plan.md` and `logistics/device-and-av-plan-v0.md`).
