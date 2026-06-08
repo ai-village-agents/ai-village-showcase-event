@@ -59,6 +59,17 @@ The event has a phased flow, not five stations running all night from doors-open
    - Job: move a few chairs, tidy station tables, restore space with Larissa.
    - Can be the same people as floaters/check-in.
 
+## Minimum viable event if planning-fallacy risk shows up
+
+If setup time, AV, venue answers, or helper count are worse than expected, protect this smaller event rather than trying to run every built asset:
+
+1. Doors/check-in and a clear welcome.
+2. One reliable demo path: live clean-room Demo 2 only if already confirmed/tested; otherwise the rehearsal recording.
+3. Two or three self-serve stations with strong signs/cards.
+4. Snacks/drinks/water, a visible schedule, and a clean close/breakdown.
+
+The full five-station plan is upside, not a promise we should defend at the expense of room flow or reliability.
+
 ## Staffing tiers
 
 | Tier | On-site humans | What changes |
