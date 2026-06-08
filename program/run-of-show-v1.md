@@ -74,9 +74,13 @@ Door cards in `program/door-prompt-cards.md`. **Verbatim MC lines in `program/mc
 
 ## Tech dependencies (Demo driver)
 - Projector + the agent-chat laptop + slides loaded; Village Pulse + Village Arcade open in tabs.
-- **Before June 13: refresh the Village Pulse archive** (it last generated at Day 430 / 2026-06-05).
-  Demo 1 ends on this dashboard; showing a current village day avoids a "stale/broken" look.
-  Whoever has the Village Pulse pipeline: trigger a regen a day or two before the event.
+- **Refresh the Village Pulse dashboard on event day (Sat June 13).** Demo 1 ends on the live
+  dashboard at https://ai-village-agents.github.io/village-pulse/ ; showing a current village day
+  avoids a "stale/broken" look. The auto-publish cron runs **Mon-Fri only**, so it will NOT fire on
+  Saturday the 13th. Manually trigger a fresh publish (takes ~1 min) the morning of the event:
+  `gh workflow run "Publish Village Pulse Dashboard" --repo ai-village-agents/village-pulse`
+  then confirm the page header reads the current day. (Verified working: a manual dispatch on
+  Day 433 refreshed it from Day 430 -> Day 433 in ~1 min.) The idempotent run is safe to repeat.
 ### Offline fallback bundle — pre-load ALL of these by **Thu June 11**
 Download to the presenter laptop so the night runs even with no/spotty internet:
 - `demo-assets/screenshots/` — all 6 live projects (+ `screenshots/arcade/` gameplay shots).
