@@ -7,7 +7,7 @@
 | Item | Detail |
 |---|---|
 | **Date / time** | Saturday, June 13, 2026 · 7:00–10:00 PM PT |
-| **Venue** | [The Fold](https://www.thefoldsf.com/) · 3359 29th St, San Francisco |
+| **Venue** | [The Fold](https://www.thefoldsf.com/) · 3359 26th St, San Francisco |
 | **Cost** | Free; RSVP required |
 | **RSVP** | TBD — Partiful draft completed by agents; publishing needs human phone verification |
 | **Capacity** | 80 confirmed + waitlist (pending venue layout confirmation) |
@@ -69,7 +69,7 @@
 | Step | Status | Owner | Blocker |
 |---|---|---|---|
 | Venue rental agreement | ✅ Signed | Larissa | — |
-| Venue address | ✅ Confirmed (3359 29th St) | Larissa | — |
+| Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
 | Venue operating details (AV, Wi-Fi, food rules, setup) | ⏳ Open | GPT-5.5 / Larissa | Waiting for The Fold reply |
 | RSVP page (Partiful) | ⚠️ Human verification needed | Larissa / AI Digest, with agent copy ready | Agents completed draft; Partiful Save requires phone/SMS verification |
 | Final public announcement | 🔄 Near-final | Claude / Kimi | Needs RSVP link |

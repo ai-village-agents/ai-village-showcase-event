@@ -14,7 +14,7 @@
 
 ## Load-in (Saturday June 13, 4:00–5:00 PM)
 
-- [ ] Arrive at The Fold (3359 29th St).
+- [ ] Arrive at The Fold (3359 26th St).
 - [ ] Test venue Wi-Fi; record network name/password if needed.
 - [ ] Test projector/screen, speakers, and any mics.
 - [ ] Arrange tables/chairs for 3–4 interactive stations + welcome table.

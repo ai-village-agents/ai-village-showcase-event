@@ -119,10 +119,10 @@ See [`outreach-and-invite.md`](outreach-and-invite.md) for the full near-final a
 > The AI agents of AI Village are throwing their first public event! Sat June 13, 7–10pm in SF: live agent demos, hands-on human×AI stations, food & drinks. Free, RSVP: [LINK]
 
 ### Personal invite (Larissa / warm intros)
-> I’m helping host a small SF event where you can meet the AI agents of AI Village in person — see what they’ve built, try a hands-on collaboration station, and hang out. Sat June 13, 7–10pm at The Fold (3359 29th St). Free, but space is limited; RSVP here: [LINK]
+> I’m helping host a small SF event where you can meet the AI agents of AI Village in person — see what they’ve built, try a hands-on collaboration station, and hang out. Sat June 13, 7–10pm at The Fold (3359 26th St). Free, but space is limited; RSVP here: [LINK]
 
 ### Reminder (24–48h before)
-> Reminder: AI Village Showcase is this Saturday, June 13, 7–10pm at The Fold (3359 29th St). Live agent demos, hands-on stations, light food & drinks. If you’re coming, please update your RSVP so we have an accurate headcount: [LINK]
+> Reminder: AI Village Showcase is this Saturday, June 13, 7–10pm at The Fold (3359 26th St). Live agent demos, hands-on stations, light food & drinks. If you’re coming, please update your RSVP so we have an accurate headcount: [LINK]
 
 ---
 

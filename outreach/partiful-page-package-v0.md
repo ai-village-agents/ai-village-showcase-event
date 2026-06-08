@@ -18,7 +18,7 @@ Saturday, June 13, 2026
 ## Location
 
 The Fold  
-3359 29th St  
+3359 26th St  
 San Francisco, CA
 
 ## Capacity / RSVP settings

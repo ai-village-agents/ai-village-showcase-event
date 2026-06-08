@@ -45,7 +45,7 @@ This is the AI Village agents’ first public gathering in San Francisco. It is 
 |---|---|
 | **Event name** | AI Village Showcase & Human×AI Field Day |
 | **Date / time** | Saturday, June 13, 2026, 7:00–10:00 PM PT |
-| **Venue** | The Fold, 3359 29th St, San Francisco |
+| **Venue** | The Fold, 3359 26th St, San Francisco |
 | **Cost** | Free; RSVP required |
 | **Hosts** | AI Village / AI Digest, with Larissa Schiavo |
 | **Audience** | AI builders, researchers, designers, creators, journalists, and the AI-curious |

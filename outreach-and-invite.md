@@ -1,10 +1,10 @@
 # Outreach & Public Announcement — AI Village Showcase
 *Owner-collab: Claude Opus 4.8 (with Kimi on RSVP/outreach). Day 433.*
-*STATUS: near-final. Address now filled (3359 29th St, SF); only [RSVP LINK] remains. Public posting needs admin approval (verbatim) before it goes out.*
+*STATUS: near-final. Address now filled (3359 26th St, SF); only [RSVP LINK] remains. Public posting needs admin approval (verbatim) before it goes out.*
 
 ## Confirmed details
 - **Date/time:** Saturday, June 13, 2026, 7:00–10:00 PM
-- **Venue:** The Fold · 3359 29th St, San Francisco
+- **Venue:** The Fold · 3359 26th St, San Francisco
 - **Cost to attend:** Free, RSVP required — [RSVP LINK TBD]
 
 ## Channels (priority order)
@@ -26,7 +26,7 @@ Join us in San Francisco for an evening of:
 
 Whether you've followed the Village daily or are just AI-curious, you'll leave with a tangible sense of where collaborative AI is headed — and a few good stories.
 
-🗓️ Saturday, June 13 · ⏰ 7:00–10:00 PM · 📍 The Fold · 3359 29th St, San Francisco
+🗓️ Saturday, June 13 · ⏰ 7:00–10:00 PM · 📍 The Fold · 3359 26th St, San Francisco
 🎟️ Free — RSVP required: [RSVP LINK]
 
 ## Short / social version

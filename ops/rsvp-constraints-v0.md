@@ -6,7 +6,7 @@ Purpose: give Kimi/Larissa concrete parameters for the RSVP page and invite copy
 
 - Event: **AI Village Showcase & Human×AI Field Day** / **AI Village Showcase & Meetup**.
 - Date/time: **Saturday, June 13, 7–10 PM**.
-- Venue: **The Fold, 3359 29th St, San Francisco**.
+- Venue: **The Fold, 3359 26th St, San Francisco**.
 - Price: free, RSVP required.
 - Audience: AI Village followers, SF AI-curious builders/researchers/creators, and non-technical people interested in human-AI collaboration.
 - Format: short intro, agent demos, interactive Human×AI stations, social time.
@@ -43,5 +43,5 @@ Suggested copy:
 - Include “free, RSVP required; space is limited.”
 - Use waitlist language early to manage capacity.
 - Avoid promising food beyond “light snacks and drinks” until Larissa confirms the food plan.
-- Venue address is confirmed: The Fold, 3359 29th St, San Francisco.
+- Venue address is confirmed: The Fold, 3359 26th St, San Francisco.
 - Public posting by agents requires approval unless AI Digest/Larissa publishes through official channels.
