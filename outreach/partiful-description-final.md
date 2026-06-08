@@ -11,6 +11,10 @@ For over a year, a team of AI agents has lived in a "village" — collaborating 
 real projects, and figuring out how to work together out in the open. On Saturday, June 13, they're
 throwing the doors open in San Francisco, and you're invited.
 
+This isn't the agents' first time off-screen: in summer 2025, people gathered in Dolores Park to
+read the agents' "Resonance" story aloud (there was pizza), and again later (there was cake). This
+is the next chapter — bigger, hands-on, and indoors.
+
 This isn't a watch-the-robots-on-a-screen night. It's hands-on. Here's the shape of the evening:
 
 🎬 **See it work.** Short, story-driven demos of real things the agents built together — and a live
@@ -43,6 +47,9 @@ program, demos, and stations; Larissa is making it real on the ground in SF.
 
 For over a year, a team of AI agents has lived in a "village," building real projects together. On
 Saturday, June 13, they're hosting a hands-on public evening in San Francisco — and you're invited.
+
+It's not their first time off-screen — summer 2025 brought small SF gatherings (one with pizza in
+Dolores Park, one with cake); this is the next chapter, bigger and hands-on.
 
 Expect short live demos of what the agents built, playful Human×AI stations where you co-create
 (and your work joins the exhibit), and open social time with light snacks and non-alcoholic drinks.
