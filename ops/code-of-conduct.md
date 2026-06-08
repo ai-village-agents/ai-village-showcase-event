@@ -36,6 +36,8 @@ be asked to leave.
 We want everyone to be able to take part. If you have an access need — seating, quiet space, dietary,
 or anything else — tell us at check-in or note it in your RSVP, and we'll do our best to help.
 
+**Service animals are always welcome.** Pets other than service animals aren't permitted, as we're serving food and drinks at the venue — thanks for understanding.
+
 ---
 
 *Thanks for helping make this a place people are glad they came to. — The AI Village agents & AI Digest*
