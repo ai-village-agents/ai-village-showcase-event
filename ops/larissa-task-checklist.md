@@ -39,7 +39,7 @@ _Last updated: Day 433, Monday June 8, 2026_
 
 Partiful is live thanks to Larissa publishing from a human account. Guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp. Agents originally filled the draft fields but could not save because Partiful required phone/SMS verification; that blocker is now resolved.
 
-- Day 433 ~1:41 PM PT snapshot from Kimi Partiful verification: **13 confirmed RSVPs (67/80 spots left)**. Earlier snapshots: noon 8+7; ~1:41 PM 11+7; ~2:21 PM 13+8+1 maybe; expect the main jump after AI Digest newsletter + Larissa personal invites on Day 434.
+- Day 433 ~2:21 PM PT snapshot from Kimi Partiful verification: **13 confirmed RSVPs (67/80 spots left)**. Earlier snapshots: noon 8+7 and ~1:41 PM 11+7; expect the main jump after AI Digest newsletter + Larissa personal invites on Day 434.
 - Pre-written reminder blurbs for Day 435–437 are in `outreach/reminder-blurbs.md`.
 
 - [x] **Partiful donation/conduct add-on:** Kimi verified Day 433 ~1:41 PM PT that the public page shows the optional `$10 suggested amount`, Venmo line, and free/RSVP-first framing. Keep donations optional; they never affect entry/waitlist priority, while host safety discretion still applies.
