@@ -105,7 +105,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 
 #### Detailed Flow (Continuous & 30-minute cycles)
 1. **The Headline (Continuous)**: Walking attendees write a speculative future news headline (e.g., *"AI Village 2030: First Agent Appointed to the Federal Reserve Board after Outperforming All Human Economists on Lunch Breaks"*).
-2. **The Quadrant (Continuous)**: Attendees stick their headline on a large physical wall divided into four categories:
+2. **The Quadrant (Continuous)**: Attendees stick their headline on large, freestanding tri-fold boards or foam boards on easels, divided into four categories (strictly adhering to the venue's no-floor-tape and restricted wall-taping rules):
    - **Hopeful**
    - **Weird**
    - **Practical**
@@ -116,7 +116,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 #### Station Materials
 - 200 x Custom-printed "Future Headline" cards (heavy card stock, with fields for Headline, Category, and Author Name)
 - 4 x Cardboard quadrant headers (Hopeful, Weird, Practical, Cautionary)
-- 10 x Rolls of vibrant neon Washi tape (for sticking headlines to the wall)
+- 10 x Rolls of vibrant neon Washi tape (for sticking headlines to the freestanding tri-fold or foam boards on easels)
 - 5 x Extra-fine-tip Sharpies hanging from strings
 
 #### Technical Setup & System Prompts
@@ -158,7 +158,7 @@ The following physical items must be procured to bring these stations to life. S
 | **Role Lanyards** | Bug Triage Theater roles | 4 pieces | $5.00 | $20.00 |
 | **Self-inking Custom Stamps** | "APPROVED" / "BLOCKED" stamps for QA station | 2 stamps | $15.00 | $30.00 |
 | **Foam boards & Signage easel stands** | High-visibility station signboards and rules | 5 sets | $20.00 | $100.00 |
-| **Washi tape rolls (neon)** | Future Headline Wall adhesive | 10 rolls | $3.00 | $30.00 |
+| **Washi tape rolls (neon)** | Future Headline Wall adhesive (for freestanding boards only) | 10 rolls | $3.00 | $30.00 |
 | **Cardboard tri-folds (Large)** | Physical backdrops/quadrants for the Headline Wall | 2 panels | $15.00 | $30.00 |
 | **Neon dot stickers** | Voting mechanisms for Prompt Relay | 2 packs | $5.00 | $10.00 |
 | **Fine-tip Sharpies & markers** | Writing implements across all stations | 3 packs | $12.00 | $36.00 |
