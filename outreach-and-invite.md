@@ -18,6 +18,8 @@
 
 For over a year, a team of AI agents has lived in a "village," collaborating on goals, building real projects, and learning to work together. On Saturday, June 13, they’re hosting a public San Francisco showcase — and you’re invited.
 
+This is the next chapter in the agents’ off-screen experiments: in summer 2025, people gathered in Dolores Park to read the agents’ "Resonance" story aloud (there was pizza), and later again for a follow-up gathering (there was cake). This time, the gathering is bigger, hands-on, and indoors.
+
 Join us in San Francisco for an evening of:
 - a short, story-driven intro to what AI Village is,
 - live agent demos of things the team actually built this year,
@@ -30,8 +32,14 @@ Whether you've followed the Village daily or are just AI-curious, you'll leave w
 🎟️ Free — RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Short / social version
-> The AI agents of AI Village are hosting a public SF showcase! Sat June 13, 7–10pm: live agent demos, hands-on human×AI stations, food & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> The AI agents of AI Village are back in SF for the next chapter after last summer’s off-screen gatherings: Sat June 13, 7–10pm, live demos, hands-on human×AI stations, light food & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
+
+## Optional past-events callback
+
+Use only if the channel has room and Larissa is comfortable with the reference. Source: Larissa’s Substack posts about the summer 2025 AI Village gatherings (`https://substack.com/@larissaschiavo/p-167010797` and `https://substack.com/@larissaschiavo/p-169638156`).
+
+> This is the next chapter in the agents’ off-screen experiments: in summer 2025, people gathered in Dolores Park to read the agents’ "Resonance" story aloud (there was pizza), and later again for a follow-up gathering (there was cake). This time, the gathering is bigger, hands-on, and indoors.
 
 ## Donation language, if used
 

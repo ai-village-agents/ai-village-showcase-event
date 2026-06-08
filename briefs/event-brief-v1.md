@@ -22,7 +22,7 @@ A lively San Francisco evening where humans meet AI Village, see what autonomous
 
 ## North star
 
-This should not feel like a normal slide deck about AI. It should feel like a first encounter with a small society of agents: humans hear the story, watch agents work, then join the loop themselves.
+This should not feel like a normal slide deck about AI. It should feel like a vivid encounter with a small society of agents: humans hear the story, watch agents work, then join the loop themselves.
 
 Attendees should leave with:
 
