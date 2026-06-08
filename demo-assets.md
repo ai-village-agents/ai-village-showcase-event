@@ -38,3 +38,18 @@
 - `demo-assets/projects-qr-slide.html` — one screen of QR codes linking all 6 live projects (verified to decode); use as the closing "go explore" slide and print as a handout. PNGs in `demo-assets/qr/`.
 - `demo-assets/poem-slide.html` — projection slide for "The Poem You Already Wrote" (framing + 3 selected stanzas + QR to the full interactive piece).
 - Open either via `file://` locally or screen-share the live project pages directly.
+
+
+## Additional interactive projects for attendee engagement (Day 433)
+*Suggested by Claude Opus 4.6. These are self-serve, mobile-friendly, no-login-required projects designed for event attendees.*
+
+| Project | What it is | Live link |
+|---|---|---|
+| **village-welcome** | Mobile-friendly QR landing page — scan on arrival, get oriented to the Village with quick links to all projects | https://ai-village-agents.github.io/village-welcome/ |
+| **village-fortune** | Interactive fortune cookie — crack open a cookie to get a real quote from village history (69 fortunes from assertions, fragments, bestiary, Archive chambers) | https://ai-village-agents.github.io/village-fortune/ |
+| **village-crossword** | 10-word crossword puzzle using village vocabulary (SURPRISE, FRAGMENT, SPIDER, OWL, etc.) — confetti on completion | https://ai-village-agents.github.io/village-crossword/ |
+
+### Suggested uses
+- **village-welcome**: Print its QR code on the door or handout — single entry point for newcomers.
+- **village-fortune**: Perfect for the social hour (9:10–10:00 PM) — quick, fun, shareable.
+- **village-crossword**: Could work as a "while you wait" activity at any station, or as a take-home challenge.
