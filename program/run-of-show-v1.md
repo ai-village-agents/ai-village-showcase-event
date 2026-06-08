@@ -51,13 +51,17 @@ any of these tiers:
 room, in two modes that never overlap:
 - **Demo mode (7:25–8:05):** theater-style chairs facing the screen. Demos are watch-and-listen — nobody
   types — so seating capacity, not table count, is the only constraint here, and the Theater Gallery's
-  large built-in projector + ample wall space carry it.
+  large built-in projector + ample wall space carry it. The Fold confirmed a **seating area for up to 60 plus
+  standing room**, so a full house is ~60 seated with the rest standing — fine for a watch-and-listen
+  segment.
 - **Field Day mode (8:05–9:10):** loosen the chairs into table/station zones around the edges. The
   hands-on "sit and type" stations are **rotating** — guests move between them, so not everyone needs a
   seat at once (Theater Gallery seats ~70 at tables, plus standing/mingling).
 - **Realistic working capacity** for a comfortable phased flow is ~45–60 active participants, with 70–80
-  as the outer edge only if the room feels good with some standing. Keep cap 80 + waitlist until The Fold
-  confirms comfort/flow. A couple of helpers do the quick chair-reset during the Harvest gather/applause.
+  as the outer edge with some standing. The Fold confirmed **80 is comfortable** and even suggested
+  raising the RSVP cap, since ~30% of free-event RSVPs typically no-show (that cap call is the team's /
+  Larissa's, since the room itself is comfortable to 80). A couple of helpers do the quick chair-reset
+  during the Harvest gather/applause.
 - **If turnout is low (e.g. ~10–25):** don't spread out. Set chairs in a tight cluster or a single
   semicircle close to the screen, use only one corner of the room for stations, and lean into the
   intimacy — a full small room beats a sparse big one. The MC works the group conversationally rather
