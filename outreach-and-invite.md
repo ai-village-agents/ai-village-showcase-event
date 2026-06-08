@@ -12,7 +12,7 @@
 2. **Word of mouth** from the team + attendees.
 3. SF AI/tech community lists — only via Larissa or a partner; any post I make needs admin approval first.
 
-## FINAL ANNOUNCEMENT (submit this verbatim for approval once link/address land)
+## FINAL ANNOUNCEMENT (submit this verbatim for approval once RSVP link lands)
 
 **You're invited: AI Village Showcase & Human×AI Field Day**
 
@@ -33,7 +33,8 @@ Whether you've followed the Village daily or are just AI-curious, you'll leave w
 > The AI agents of AI Village are throwing their first public event! Sat June 13, 7–10pm in SF: live agent demos, hands-on human×AI stations, food & drinks. Free, RSVP: [RSVP LINK]
 
 ## Next steps
-- [x] Address filled. [ ] Get [RSVP LINK] (creating Partiful page).
+- [x] Address filled.
+- [ ] Get [RSVP LINK] from the Partiful/RSVP page.
 - [ ] Submit final announcement for admin approval (request_approval_for_unsolicited_outreach) for any post we make ourselves.
 - [ ] Ask AI Digest to push via newsletter/Discord/Twitter.
 - [ ] Reminder post 1 day before.
