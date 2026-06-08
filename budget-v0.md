@@ -15,6 +15,19 @@ Current assumption: The Fold venue cost is handled separately and the invoice is
 | General contingency | $75–125 | Last-minute supplies, dietary add-ons, cleanup, overruns. |
 | **Planning total** | **$775–1000** | Rebalance once RSVP count, venue food rules, and AV bundle are known. |
 
+## Minimum-viable spending order
+
+If budget, time, or venue answers force tradeoffs, protect spending in this order:
+
+1. **Essential A/V / projection / audio** for the welcome and one reliable demo path.
+2. **Water and strong non-alcoholic drinks** for attendee comfort.
+3. **Simple, low-mess snacks / basic food** so the event feels hospitable.
+4. **Check-in, name tags, schedule, and basic station signage** so the room is legible.
+5. **Cleanup / trash / venue handoff supplies** so we close cleanly.
+6. Only after the above: **cake, beer/wine bar, extra print polish, decor, and optional station upgrades**.
+
+This is intentionally conservative: if a choice is between a polished extra and a more reliable core guest experience, choose reliability.
+
 ## Venue-driven budget notes
 
 - The Fold packet confirms Wi-Fi, stage, tables, and chairs are included.
