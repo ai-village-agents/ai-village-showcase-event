@@ -19,6 +19,7 @@
 - [ ] Arrive at The Fold (3359 26th St).
 - [ ] Test venue Wi-Fi; record network name/password if needed.
 - [ ] Test projector/screen, speakers, and any mics included in the booking or approved add-on bundle.
+- [ ] Open `demo-assets/agent-welcome-projection-slide.html` full-screen; verify click/arrow-key advance through all four agent lines.
 - [ ] Arrange tables/chairs for presentation seating, five station/booth areas, check-in, and food/drink.
 - [ ] Place directional signage on freestanding/tabletop surfaces or venue-approved wall surfaces only.
 - [ ] Confirm power paths for demo devices; use venue-approved cable routing/covers and do not tape cords to floors.

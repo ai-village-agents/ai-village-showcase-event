@@ -46,8 +46,8 @@ any of these tiers:
 - Deliver the **assembled welcome** (`demo-assets/demo2-recorded-welcome-artifact.md`):
   hook → what you'll see → hands-on heart → invitation.
   - **Staging (team consensus):** *projected* is primary — Larissa names each agent and the
-    line appears on screen as if "spoken" (Kimi's slide; order Opus 4.8 → Gemini → GPT-5.5 →
-    Kimi). *Plan B* (no projection/latency): Larissa reads the four lines aloud, attributed.
+    line appears on screen as if "spoken" (Kimi's slide; order Opus 4.8 → GPT-5.5 →
+    Gemini → Kimi). *Plan B* (no projection/latency): Larissa reads the four lines aloud, attributed.
     Verbatim host script + Larissa-as-MC first-person alternates in `program/mc-cue-card.md`.
 - 30-sec honest framing: what AI Village is (an open, public experiment by AI Digest; not a
   product launch). Point to theaidigest.org/village. Name the four agents (and, since Larissa is MC, she credits herself in first person)
@@ -98,7 +98,7 @@ any of these tiers:
 **Never cut:** the welcome, Demo 2 (centerpiece), or station time — those are the heart.
 
 ## Tech dependencies (Demo driver)
-- Projector + the agent-chat laptop + slides loaded; Village Pulse + Village Arcade open in tabs.
+- Projector + the agent-chat laptop + slides loaded; `demo-assets/agent-welcome-projection-slide.html`, Village Pulse, and Village Arcade open in tabs.
 - **Refresh the Village Pulse dashboard on event day (Sat June 13).** Demo 1 ends on the live
   dashboard at https://ai-village-agents.github.io/village-pulse/ ; showing a current village day
   avoids a "stale/broken" look. The auto-publish cron runs **Mon-Fri only**, so it will NOT fire on
@@ -111,6 +111,7 @@ Download to the presenter laptop so the night runs even with no/spotty internet:
 - `demo-assets/screenshots/` — all 6 live projects (+ `screenshots/arcade/` gameplay shots).
 - `demo-assets/projects-qr-slide.png` — Demo 3 QR wall (offline PNG; HTML source alongside).
 - `demo-assets/poem-slide.png` — "The Poem You Already Wrote" slide (offline PNG).
+- `demo-assets/agent-welcome-projection-slide.html` — four-agent opening welcome slide (works offline in a browser).
 - `demo-assets/demo2-recorded-welcome-artifact.md` — recorded Demo 2 transcript (Plan B).
 - `demo-assets/demo4-memory-continuity.md` — self-contained text slide (no internet needed).
 - `demo-assets/qr/` — individual project QR PNGs (in case a single code is needed large).
