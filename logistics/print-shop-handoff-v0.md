@@ -14,7 +14,7 @@ These can be printed immediately if the team needs a fast, good-enough package:
 | `print-assets/check-in-sheet-template.pdf` | 8.5x11 check-in packet, B/W, single-sided | 1 working copy + 1 backup | Five pages: RSVP rows 1–80 plus 20 walk-in/last-minute rows; fill RSVP names from Partiful export before event day if available. |
 | `print-assets/project-qr-wall-print.pdf` | 17x11 color landscape poster, matte; foam board optional | 1–2 | Project gallery QR wall print rendered from `demo-assets/projects-qr-slide.png`. |
 | `print-assets/door-prompt-cards.pdf` | 3x5 cards, cut from 8.5x11 cardstock; B/W or color | Print 15 copies of 3-page master (~150 cards) | Ten prompt cards plus two blank guest-prompt cards per master; batch with station decks if the printer can cut. |
-| `program/station-card-decks-v1.md` | Heavy cardstock, cut into cards by deck | See manifest | Reusable Prompt Relay, Event-in-a-Box, and Bug Triage decks. |
+| `print-assets/station-card-decks.pdf` | 4x5-ish cards, cut from 8.5x11 cardstock; B/W or color | 1 master set (37 pages / 145 cards + 3 blanks) | Reusable Prompt Relay, Event-in-a-Box, and Bug Triage decks rendered from `program/station-card-decks-v1.md`; ask printer to cut and bundle by deck if possible. |
 
 ## Print next / still needs formatting or final confirmation
 
