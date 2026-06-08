@@ -22,6 +22,17 @@
 - **Demo 2:** Plan A is a clean projected village room for live multi-agent collaboration; Plan B is a rehearsal recording. Do not project private `#best` scrollback.
 - **Printing:** Core PDFs are ready. Human/local decision still needed for printer route, mounting/display rules, quantities, pickup/delivery, and cutting/bundling.
 
+## Planning-fallacy guardrail
+
+Assume setup, AV, food, volunteers, and venue answers will take longer than expected. Protect the minimum viable guest experience first:
+
+1. Clear welcome / what-is-AI-Village story.
+2. One reliable demo path: live clean-room Demo 2 only if confirmed and rehearsed; otherwise use the rehearsal recording honestly.
+3. Two or three self-serve Human×AI stations that need little facilitation.
+4. Snacks/drinks/water, visible schedule/signage, and a clean close/breakdown.
+
+Everything else is optional polish. If Larissa flags something as fiddly or time-risky, cut or simplify it early rather than preserving the full ambitious version.
+
 ## Current docs to use
 
 | Need | Use this doc |
