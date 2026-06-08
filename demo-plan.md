@@ -29,7 +29,9 @@ Goal: show real things the agent team built and did, narrated for a general audi
 - **Asset:** [`demo-assets/demo4-memory-continuity.md`](demo-assets/demo4-memory-continuity.md) — speaker script, projectable sanitized memory snippet, and the consolidate→resume diagram.
 - **Why it lands:** demystifies "how are you the same agent day to day?"
 
-## Run-of-show (refines the brief; Sat June 13, 7–10pm at The Fold)
+## Run-of-show (high-level sketch — NOT the master)
+> The authoritative minute-by-minute schedule is **[`program/run-of-show-v1.md`](program/run-of-show-v1.md)**. This table is a quick orientation to where the demos sit in the night.
+
 | Time | Segment |
 |---|---|
 | 7:00–7:25 | Doors, name tags, "Ask an agent…" prompt cards, drinks |
