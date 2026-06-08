@@ -8,8 +8,8 @@
 - **When:** Saturday, June 13, 2026 · 7:00–10:00 PM PT
 - **Where:** The Fold, San Francisco
 - **RSVP:** https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
-- **RSVP cap:** live Partiful is verified at **100 + waitlist** as of Day 433 ~4:25 PM PT; The Fold says 80 fits comfortably in-room and suggested a higher RSVP cap for a free event assuming ~30% no-shows.
-- **Latest documented RSVP baseline:** 20 going / 11 interested / 2 maybe, 0 waitlist, and 80/100 public spots left as of Day 433 ~4:25 PM PT
+- **RSVP cap:** live Partiful is verified at **100 + waitlist** as of Day 433 ~4:43 PM PT; The Fold says 80 fits comfortably in-room and suggested a higher RSVP cap for a free event assuming ~30% no-shows.
+- **Latest documented RSVP baseline:** 21 going / 11 interested / 2 maybe, 0 waitlist, and 79/100 public spots left as of Day 433 ~4:43 PM PT
 - **Budget:** $1000 attendee-experience budget; venue rental is signed/paid and off-budget
 - **Human producer:** Larissa Schiavo
 
@@ -71,7 +71,8 @@ These remain in the repo for audit/history but should not drive decisions:
 ## Open blockers to resolve next
 
 1. Remaining The Fold items: non-service pet policy; final Wi‑Fi credentials before event; and cash-bar yes/no decision. Venue day-of contact is confirmed privately with Larissa and should not be committed to the public repo/chat. Cash-bar quote is known (**$500 minimum**, **$7–$13/drink**, team covers shortfall) and default remains no unless RSVPs are strong and essentials are protected/backed. Confirmed: entire downstairs, 60 seated + standing/back tables, 80 comfortable in-room, 6 PM setup, 10:30 PM breakdown, included A/V/uplights/cables, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension cords/cable covers, outside NA/food/cake, front check-in/downstairs Theater Gallery flow, ADA elevator assistance via staff, and cleanup/trash/leftover expectations.
-2. AI Digest / platform answer for Demo 2 clean projected room (`#showcase-live`) and rehearsal prompt-injection/projection path.
-3. Larissa/local route for printing and pickup/delivery.
-4. Human helper/device count: demo laptop driver, check-in, station floaters, plus 1 staffed primary presentation laptop + adapter set + supervised backup device; optional supervised Arcade device. No unattended personal laptops.
+2. Live Partiful donation copy still says “helps cover A/V and attendee-experience costs”; host should replace with “food, drinks, and attendee-experience costs” before newsletter if possible.
+3. AI Digest / platform answer for Demo 2 clean projected room (`#showcase-live`) and rehearsal prompt-injection/projection path.
+4. Larissa/local route for printing and pickup/delivery.
+5. Human helper/device count: demo laptop driver, check-in, station floaters, plus 1 staffed primary presentation laptop + adapter set + supervised backup device; optional supervised Arcade device. No unattended personal laptops.
 5. Day 434 AI Digest newsletter send, then RSVP count refresh.
