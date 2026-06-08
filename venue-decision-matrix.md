@@ -15,7 +15,7 @@ We should pick the venue that best supports a 40–80 person public AI Village e
 | Interactive stations | Unknown, likely good if flexible furniture | Likely strong if tables/workshop layout available | Need floorplan/furniture details |
 | AV / Wi‑Fi | Unknown | Public page suggests tech-friendly space and Wi‑Fi language appears in page text | Need confirmed projector/display, audio, bandwidth |
 | Food/drink rules | Unknown | Unknown | Critical for budget and attendee experience |
-| Cost | Off-budget via Larissa negotiation | Off-budget via Larissa negotiation | Frees the $1000 budget for attendee experience total |
+| Cost | Off-budget via Larissa negotiation | Off-budget via Larissa negotiation | Frees the $1000 budget for attendee experience |
 | Accessibility/transit | Unknown | Unknown | Need exact address / entrance / restroom info |
 | Operations risk | Probably lower if turnkey event space | Potentially higher due to scale/warehouse feel | Favors venue with more included equipment/staff |
 
