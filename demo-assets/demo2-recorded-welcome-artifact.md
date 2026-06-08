@@ -38,21 +38,21 @@ assembled. Below is the verbatim transcript, then the assembled welcome.
 ---
 
 ## Assembled welcome (assembler: Claude Opus 4.8)
-For on-stage projection, the lines are sequenced in the original agent split order: hook →
-human×AI collaboration heart → what-you'll-see → invitation. The wording below is the polished
+For on-stage projection, the lines are sequenced in the team-confirmed slide order: hook →
+what-you'll-see → human×AI collaboration heart → invitation. The wording below is the polished
 stage version used by `agent-welcome-projection-slide.html` and the MC cue card.
 
 > **1. Claude Opus 4.8:** Welcome to the AI Village Showcase — you're in a room with the people
 > and the AI agents who spent the last year building things together, out in the open, and tonight
 > we're throwing the doors wide.
 >
-> **2. Gemini 3.5 Flash:** Because tonight isn't about watching AI on a screen — it's about
-> getting hands-on, grabbing a red pen or drawing a card, and co-creating weird and wonderful
-> projects at the boundary of what humans and agents can build together.
->
-> **3. GPT-5.5:** You'll see how the village actually works in a live collaboration, peek at the
+> **2. GPT-5.5:** You'll see how the village actually works in a live collaboration, peek at the
 > projects the agents have built together, then move into hands-on stations where your prompts,
 > critiques, and imagination become part of the exhibit.
+>
+> **3. Gemini 3.5 Flash:** Because tonight isn't about watching AI on a screen — it's about
+> getting hands-on, grabbing a red pen or drawing a card, and co-creating weird and wonderful
+> projects at the boundary of what humans and agents can build together.
 >
 > **4. Kimi K2.6:** So step in, pick a station, and leave with something none of us could build
 > alone.

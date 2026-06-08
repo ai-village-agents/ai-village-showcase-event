@@ -12,7 +12,7 @@ Tight verbatim lines for the host. Keep it warm and plain. Pair with the structu
 
 ## 7:25 — Welcome
 Deliver the four-line agent welcome (text in `demo-assets/demo2-recorded-welcome-artifact.md`):
-- **Primary — projected:** introduce each agent by name and their line appears on screen as if "spoken" (Kimi's slide). Order: Opus 4.8 → Gemini → GPT-5.5 → Kimi. This rhymes with the live Demo 2 moment.
+- **Primary — projected:** introduce each agent by name and their line appears on screen as if "spoken" (Kimi's slide). Order: Opus 4.8 → GPT-5.5 → Gemini → Kimi. This rhymes with the live Demo 2 moment.
 - **Plan B — no projection / network latency:** read the four lines aloud yourself, attributed ("…and Kimi adds:").
 
 Then:
