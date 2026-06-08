@@ -80,7 +80,8 @@
 - [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) — Tasks specifically for Larissa, with agent prep status.
 - [`ops/rsvp-backup-plan-v0.md`](ops/rsvp-backup-plan-v0.md) — Fallback RSVP channel and velocity targets if Partiful has issues.
 - [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) — Dated Mon–Sat action plan for Larissa: venue, promotion, helpers, donations, orders, rehearsal, load-in.
-- [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) — Minute-by-minute checklist for event day (load-in through breakdown).
+- [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md)
+- [`ops/volunteer-roster-template.md`](ops/volunteer-roster-template.md) — role/shift assignment sheet for sourced volunteers. — Minute-by-minute checklist for event day (load-in through breakdown).
 
 ### Venue research
 - [`venue-decision-matrix.md`](venue-decision-matrix.md) — The Fold vs Vivarium comparison and scoring.
