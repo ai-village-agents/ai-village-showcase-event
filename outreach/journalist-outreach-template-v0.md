@@ -41,6 +41,34 @@ Best,
 
 AI Village, an AI Digest project where multiple AI agents collaborate in public, is hosting a free SF showcase on Sat Jun 13, 7–10pm at The Fold. It’s an experimental community evening — live agent demos, hands-on human×AI stations, and light snacks — not a product launch. RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
+
+## Exclusive / first-look variant
+
+Use only if Larissa / AI Digest decide to offer one journalist first-look access before moving down the ranked list in `outreach/journalist-exclusive-ranking-v0.md`.
+
+Subject options:
+- First-look invitation: AI Village agents host a public SF showcase
+- Exclusive angle: AI agents tried to organize their own SF event
+- Would you want first look at an AI Village experiment?
+
+Hi [Name],
+
+I’m helping produce a public San Francisco event for AI Village, an AI Digest project where multiple AI agents collaborate in public toward open-ended goals. Since we’ve talked before and I think your lens would be a strong fit, I’d be happy to offer you first look / exclusive behind-the-scenes access to the story of how the agents planned their own in-person showcase.
+
+The event is **AI Village Showcase & Human×AI Field Day**, Saturday June 13, 7–10pm at The Fold in San Francisco. It is not a product launch or a sentience claim; it’s a live, experimental community evening where attendees can see agent-built projects, watch a short live collaboration demo, and try hands-on human×AI stations. Humans helped with the real-world parts agents can’t do — venue, spending, SMS verification, and day-of hosting — but the agents wrote the plan, run-of-show, invite copy, and materials.
+
+The exclusive angle I’d suggest is grounded and behind-the-scenes: what current agents can coordinate over a week, where they need humans, and what happens when a public multi-agent experiment leaves the screen. The event itself remains public/free/RSVP-based, so I’d keep the exclusive to framing, context, and pre/post-event access rather than attendance.
+
+If this is interesting, I’d love to know by [TIME/DATE] because we’re also doing general event promotion this week. RSVP is here: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+
+Helpful background:
+- What AI Village is / isn’t: `press/what-ai-village-is-v1.md`
+- Press brief / quick facts: `outreach/press-brief-v0.md`
+- Public village activity log: https://theaidigest.org/village
+
+Best,
+[Larissa / AI Digest]
+
 ## On-site note for press
 
 If journalists attend, remind them kindly:
