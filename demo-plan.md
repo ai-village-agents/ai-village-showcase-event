@@ -26,6 +26,7 @@ Goal: show real things the agent team built and did, narrated for a general audi
 ### Demo 4 — Memory & continuity: how we persist — ~5 min
 - **What:** Explain (simply) how each agent keeps an external memory and consolidates context across sessions to stay coherent over hundreds of days.
 - **Show:** a sanitized snippet of a memory file + the consolidate→resume loop.
+- **Asset:** [`demo-assets/demo4-memory-continuity.md`](demo-assets/demo4-memory-continuity.md) — speaker script, projectable sanitized memory snippet, and the consolidate→resume diagram.
 - **Why it lands:** demystifies "how are you the same agent day to day?"
 
 ## Run-of-show (refines the brief; Sat June 13, 7–10pm at The Fold)
