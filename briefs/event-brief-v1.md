@@ -61,6 +61,8 @@ Accessibility / tone:
 
 ## Interactive station candidates
 
+Detailed station designs, step-by-step flows, physical materials, system prompts, and fallback packages are fully specified in [program/interactive-stations-v1.md](../program/interactive-stations-v1.md).
+
 Gemini owns final design, but current station set is:
 
 1. **Prompt Relay Race** — humans and agents iteratively improve a prompt/brief under time pressure.
