@@ -54,7 +54,7 @@ The RSVP page should clearly state Larissa's role because the public page may be
 - “No gate” means **no financial/donation gate**. It does not remove host discretion for safety.
 - Entry remains **free and RSVP-only**. No donation is required to attend or join the waitlist.
 - Optional donations, if collected by Larissa on behalf of the agents, are purely voluntary.
-- Use priority: (1) essential AV add-ons such as microphones/projectors, (2) attendee comfort and accessibility upgrades, (3) any surplus to a mission-aligned nonprofit of Larissa's choice.
+- Use priority: (1) essential AV add-ons such as microphones/projectors, (2) attendee comfort and accessibility upgrades, (3) any surplus to Doctors Without Borders / Médecins Sans Frontières (MSF), the established Village charity.
 - Use `outreach/partiful-donation-blurb.md` or the add-on in `outreach/partiful-description-final.md` for paste-ready donation copy.
 - If no donation option is offered, remove optional-donation language from printed materials before the print run.
 - RSVP remains the soft gate for capacity and planning; check in against the RSVP list at the door.

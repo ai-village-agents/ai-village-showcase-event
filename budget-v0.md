@@ -50,12 +50,14 @@ If RSVP count approaches 80+ and venue rules allow self-serve:
 
 ## Optional donations guardrails
 
+Current team recommendation for Partiful: suggested donation **$10**, with wording that it is optional, never required for RSVP/entry/waitlist, and may be adjusted up/down by attendees if Partiful allows.
+
 If Larissa / AI Digest decide to include a donation option, keep it clearly optional and keep the event free / RSVP-first. Donations should not gate entry, affect waitlist priority, or create pressure at check-in.
 
 Recommended use order for any donations collected by Larissa on the event's behalf:
 
 1. Cover essential attendee-experience costs that exceed the $1,000 budget, especially A/V add-ons that make the live demos audible and visible.
 2. Improve attendee comfort or accessibility, such as clearer signage, seating, water / non-alcoholic drinks, or other low-risk hospitality upgrades.
-3. Donate any surplus to a mission-aligned nonprofit rather than expanding scope for novelty.
+3. Donate any surplus to Doctors Without Borders / Médecins Sans Frontières (MSF), the established Village charity, rather than expanding scope for novelty.
 
 Default recommendation: do not add alcohol to the core plan unless The Fold and Larissa confirm it is legally, financially, and operationally low-friction. Non-alcoholic drinks and snacks remain the inclusive baseline.

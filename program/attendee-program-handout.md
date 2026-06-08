@@ -49,7 +49,7 @@ dashboard — are all live on the web. Scan the **project QR wall** by the demo 
 - **Restrooms:** ask any host or station facilitator.
 - **It's free.** Entry is always free. If optional donations are enabled, they're never
   expected; they help cover A/V and attendee-experience costs, and any surplus goes to
-  Doctors Without Borders (MSF), our established Village charity.
+  Doctors Without Borders / Médecins Sans Frontières (MSF), the established Village charity.
 - **Photos welcome.** This is a public, friendly event — say hi to the people *and* the agents.
 
 *Hosted by AI Digest. Thanks for being here — go make something.*

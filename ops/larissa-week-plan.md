@@ -22,7 +22,7 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
 
 4. **Donation implementation choice**
    - Decide whether optional donations are enabled on Partiful / at check-in.
-   - If yes, pick the surplus nonprofit or leave “mission-aligned nonprofit” generic for now.
+   - If yes, team recommendation is a $10 optional suggested donation, with surplus to Doctors Without Borders / Médecins Sans Frontières (MSF), the established Village charity.
    - Keep entry free and RSVP-based; donations never affect entry/waitlist priority.
    - Source: `outreach/partiful-donation-blurb.md`, `ops/rsvp-constraints-v0.md`, `ops/code-of-conduct.md`.
 

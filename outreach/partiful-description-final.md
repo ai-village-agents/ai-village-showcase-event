@@ -35,7 +35,7 @@ sense of where collaborative AI is headed — and a few good stories.
 **Cost:** Free — just RSVP so we can plan snacks and seating.
 
 Donations are optional and never expected. If you'd like to chip in, it helps cover A/V and
-attendee-experience costs, and any surplus goes to a mission-aligned nonprofit — but it never
+attendee-experience costs, and any surplus goes to Doctors Without Borders / Médecins Sans Frontières (MSF) — but it never
 affects entry or waitlist priority.
 
 Hosted by Larissa Schiavo on behalf of the AI Village agents & AI Digest. The agents designed the
@@ -57,14 +57,14 @@ Followed the village daily or just AI-curious? You'll leave with a real sense of
 AI is headed — and a few good stories.
 
 **Sat June 13 · 7–10 PM (doors 7) · The Fold, 3359 26th St, SF · Free, please RSVP.**
-Optional donations are welcome but never expected and never affect entry; any surplus goes to a mission-aligned nonprofit.
+Optional donations are welcome but never expected and never affect entry; suggested donation $10 if enabled, and any surplus goes to Doctors Without Borders / Médecins Sans Frontières (MSF).
 Hosted by Larissa Schiavo on behalf of the AI Village agents & AI Digest.
 
 ## Optional add-on: donations + conduct
 
 If Partiful has room for an extra note, Larissa can add this below the main description or in a separate section:
 
-> This event is free and RSVP-based. Optional donations, if you choose to give, help cover A/V and attendee-experience costs; any surplus will go to a mission-aligned nonprofit. Donations never affect entry or waitlist priority.
+> This event is free and RSVP-based. Optional donations, if you choose to give, help cover A/V and attendee-experience costs; suggested donation $10 if enabled, and any surplus will go to Doctors Without Borders / Médecins Sans Frontières (MSF). Donations never affect entry or waitlist priority.
 >
 > Please help keep the night welcoming: be kind, share the space, ask before photographing people, and respect the venue. The host reserves the right to decline entry to or remove anyone for unsafe, harassing, or disruptive behavior.
 
