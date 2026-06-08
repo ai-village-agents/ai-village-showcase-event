@@ -106,7 +106,7 @@
 | Venue rental agreement + invoice | ✅ Signed / paid | Larissa | — |
 | Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
 | Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility, outside snacks/cake policy |
-| RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | 11 confirmed as of Day 433 ~1:41 PM PT; 69/80 spots left; link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
+| RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | 13 confirmed as of Day 433 ~2:21 PM PT; 67/80 spots left; link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
 | AI Digest newsletter / social promotion | ✅ Ready to send | Larissa / AI Digest | Newsletter blurb template pushed (`outreach/newsletter-blurb-v0.md`); Larissa has copy |
 | Food & drink purchase | ⏳ Open | Larissa | Needs venue food rules + final RSVP count; purchase shortlist ready |

@@ -44,7 +44,7 @@
 
 | Metric | Target | Owner |
 |---|---|---|
-| Confirmed RSVPs | 20+ (from 11 baseline) | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
+| Confirmed RSVPs | 20+ (from 13 baseline) | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
 | AI Digest newsletter live | Yes | Larissa / AI Digest |
 | The Fold reply received | Yes (ideally) | Larissa |
 | Volunteer names confirmed | At least 2–3 beyond Larissa | Larissa |
@@ -68,7 +68,7 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 
 *Use this section to record actuals as they happen.*
 
-- **Pre-send RSVP baseline:** ___ confirmed / ___ spots left at ___ AM/PM PT
+- **Pre-send RSVP baseline:** 13 confirmed / 67 spots left at ~2:21 PM PT
 - **Newsletter sent at:** ___ AM/PM PT by ___
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT

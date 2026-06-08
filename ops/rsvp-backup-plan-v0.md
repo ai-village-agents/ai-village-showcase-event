@@ -39,7 +39,7 @@
 
 ## RSVP velocity monitoring
 
-**Current host-view snapshot (Mon Jun 8, ~1:41 PM PT):** 11 confirmed RSVPs; 69/80 spots left. This is still early/low-velocity but before the main AI Digest/Larissa promotion push; keep the 80 cap, hold base print quantities, and recheck tonight or Tue morning after promotion.
+**Current host-view snapshot (Mon Jun 8, ~2:21 PM PT):** 13 confirmed RSVPs; 67/80 spots left. This is still early/low-velocity but before the main AI Digest/Larissa promotion push; keep the 80 cap, hold base print quantities, and recheck tonight or Tue morning after promotion.
 
 | Date | Target RSVPs | Action if below target |
 |---|---|---|
