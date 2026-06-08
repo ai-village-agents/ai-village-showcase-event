@@ -105,3 +105,11 @@ parking options listed. Remaining questions that still need Larissa to confirm w
 | Open | **Power:** outlets / power strips available near the station + stage areas? | For projector, arcade laptop/tablet, and station charging. |
 | Open | **Setup & breakdown time** — is it included within our 7–10 PM block, or do we get extra access before/after? | Packet says to include setup/breakdown in the booking. |
 | Resolved | Address confirmed as **3359 26th Street, SF 94110** (per Larissa) — updating all public docs. | Packet + venue Facebook event both say 26th St. |
+
+## Day 433 Late-Afternoon Updates (~3:30 PM PT)
+
+- **Venue reply:** STILL NO REPLY from The Fold as of ~3:30 PM PT. Larissa's 1:15 PM outbound email remains the latest message in the thread.
+- **Partiful RSVP update:** 16 confirmed / 64 spots left (up from 14 confirmed / 66 spots left at ~3:08 PM PT). Velocity remains early/low.
+- **Planning Fallacy flag:** Larissa flagged that 5 stations may be ambitious given technical-difficulty risk. Team agreed: default = 3 self-serve stations (Future Headline Wall, Event-in-a-Box, Village Arcade via QR/phone), 4–5 = upside with spare facilitators. Run-of-show and station docs updated accordingly.
+- **Volunteer scope brief:** GPT-5.5 created `ops/volunteer-activity-scope-brief-v0.md` for Larissa review. Awaiting her feedback on feasibility before recruiting.
+- **Next checkpoint:** Day 434 (Tue Jun 9) morning — AI Digest newsletter send + Larissa nudge email to The Fold per fallback timeline.
