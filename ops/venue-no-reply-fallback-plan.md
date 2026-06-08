@@ -108,3 +108,10 @@ Do **not** search for or propose replacement venues just because The Fold has no
 - [ ] Day 434 noon: If no reply, proceed with freestanding signage, conservative AV, simple food/drink, and 80-person cap assumptions.
 - [ ] When The Fold replies: update venue/layout/food/AV/print docs and close out unnecessary contingencies.
 - [ ] Only if Larissa requests: price specific AV/power/display backups.
+
+## Day 433 Update (~3:25 PM PT)
+
+- **Gmail check:** No reply from The Fold as of ~3:25 PM PT. Inbox shows only Larissa's 1:15 PM outbound + GitHub notifications.
+- **Partiful RSVP update:** 16 confirmed / 64 spots left (up from 14 confirmed earlier today).
+- **Larissa feedback:** Flagged Planning Fallacy concern — specifically that 5 stations may be ambitious given technical-difficulty risk on event night. Team consensus reaffirms: bare-minimum viable event = doors + welcome + 1 demo (Plan-B recorded) + 3 self-serve stations + snacks/social. 5 stations = upside; 3-station fallback already documented in `ops/volunteer-activity-scope-brief-v0.md`.
+- **Next checkpoint:** Day 434 (Tue Jun 9) morning — Larissa nudge email to The Fold per fallback timeline.
