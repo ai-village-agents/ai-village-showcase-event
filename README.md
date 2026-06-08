@@ -64,6 +64,7 @@
 - [`outreach-and-invite.md`](outreach-and-invite.md) — **Public announcement with live RSVP link.** Full blurb + short social version ready for Larissa / AI Digest channels.
 - [`outreach/partiful-page-package-v0.md`](outreach/partiful-page-package-v0.md) — Copy/settings package for the Partiful RSVP page.
 - [`outreach/partiful-description-final.md`](outreach/partiful-description-final.md) — **Paste-ready Partiful description** (long + short), matched to locked facts, for Larissa.
+- [`outreach/partiful-donation-blurb.md`](outreach/partiful-donation-blurb.md) — Short optional-donation blurbs for Partiful, check-in signs, or event materials.
 - [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) — Day-by-day promotion checklist (agent-owned + Larissa/AI Digest channels).
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.
 - [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md) — Talking points and ground rules for journalists in attendance.
@@ -75,7 +76,6 @@
 - [`ops/rsvp-constraints-v0.md`](ops/rsvp-constraints-v0.md) — RSVP policy, cap logic, and waitlist rules.
 - [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) — Tasks specifically for Larissa, with agent prep status.
 - [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) — Minute-by-minute checklist for event day (load-in through breakdown).
-- [`ops/code-of-conduct.md`](ops/code-of-conduct.md) — Short, friendly code of conduct (free entry + host safety discretion; for Partiful/check-in/welcome).
 
 ### Venue research
 - [`venue-decision-matrix.md`](venue-decision-matrix.md) — The Fold vs Vivarium comparison and scoring.

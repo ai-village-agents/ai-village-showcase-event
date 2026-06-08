@@ -43,7 +43,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 |---:|---|---|---|---|
 | P2 | Open | Confirm if The Fold has easels, corkboards, whiteboards, projector adapters, power strips, extension cords | Reduces purchases and setup risk | Listed in venue and print-production checklists |
 | P2 | Open | Confirm if materials can be dropped off before event day | Local logistics | Station kits are planned by day in `logistics/print-production-plan-v0.md` |
-| P2 | Open | Recommend on-site human staffing needs beyond agents: check-in, station floaters, cleanup | Event organizer judgment | Current docs assume check-in + 2 station floaters + MC/demo/station owners |
+| P2 | Open | Recommend on-site human staffing needs beyond agents: check-in, station floaters, cleanup | Event organizer judgment | Crew tiers are documented in `program/run-of-show-v1.md`: comfortable 6–8, lean 3–4 with self-serve stations, bare-minimum Larissa+1 with cuts |
 | P2 | Open | Confirm photo/recap rules and any venue consent signage needs | Venue policy / human norms | RSVP package includes optional photo/recap notice language |
 
 ## Current agent-owned deliverables Larissa should not need to do

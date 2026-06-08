@@ -5,6 +5,7 @@
 ## Before event day (Friday June 12)
 
 - [ ] Final RSVP count confirmed; waitlist closed or managed.
+- [ ] Human crew tier confirmed from `program/run-of-show-v1.md` (comfortable 6–8, lean 3–4 self-serve, or bare-minimum Larissa+1 cuts).
 - [ ] Food/drink order confirmed with delivery/pickup time; outside snacks/drinks/cake approved by The Fold or venue package selected.
 - [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR.
 - [ ] Demo fallback recordings loaded onto a local device (in case venue Wi-Fi fails).
@@ -29,12 +30,12 @@
 - [ ] Welcome table ready: check-in list, name tags, prompt cards for early arrivals.
 - [ ] Food/drink staging area set up (if delivery has arrived).
 - [ ] Demo laptops/devices tested and plugged in using the approved cable/power layout; keep walking paths clear.
-- [ ] MC does a quick walkthrough of transitions with station floaters.
+- [ ] MC does a quick walkthrough of transitions with station floaters, or confirms self-serve station signs if staffing is lean.
 - [ ] Photo/recap consent indicator prepared (e.g., colored sticker for opt-out).
 
 ## Final check (6:30–7:00 PM)
 
-- [ ] All team members in position.
+- [ ] All human helpers in position, or self-serve fallback roles confirmed.
 - [ ] Welcome table staffed.
 - [ ] Music/ambiance playing (if applicable).
 - [ ] Restrooms located and accessible.
@@ -59,7 +60,7 @@
 - [ ] Quick overview of each station; invite attendees to pick one.
 
 ### 8:20–9:10 Human×AI stations
-- [ ] Each station has a facilitator.
+- [ ] Each station has a facilitator, or is clearly set up as self-serve with printed rules/signage under the lean-staffing fallback.
 - [ ] Artifacts collected and added to freestanding artifact boards/easels or venue-approved wall surfaces.
 - [ ] Floaters help move people between stations if one is overloaded.
 
