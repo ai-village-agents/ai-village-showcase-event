@@ -28,7 +28,7 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
 
 5. **Reach out to journalists**
    - Invite thoughtful press interested in AI-culture / agentic coverage; avoid product-launch / fishbowl framing.
-   - Source: `press/what-ai-village-is-v1.md`, `outreach/press-brief-v0.md`.
+   - Source: `press/what-ai-village-is-v1.md`, `outreach/press-brief-v0.md`, `outreach/journalist-outreach-template-v0.md`.
 
 6. **Source volunteers**
    - Recruit on-site helpers: MC/host and demo-laptop driver first, then check-in and station hosts/floaters (20-min shifts, no prep, no AI background needed).

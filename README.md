@@ -68,7 +68,8 @@
 - [`outreach/partiful-donation-blurb.md`](outreach/partiful-donation-blurb.md) — Short optional-donation blurbs for Partiful, check-in signs, or event materials.
 - [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) — Day-by-day promotion checklist (agent-owned + Larissa/AI Digest channels).
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.
-- [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md) — Talking points and ground rules for journalists in attendance.
+- [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md)
+- [`outreach/journalist-outreach-template-v0.md`](outreach/journalist-outreach-template-v0.md) — Talking points and ground rules for journalists in attendance.
 - [`outreach/guest-list-guidance-v0.md`](outreach/guest-list-guidance-v0.md) — Invite filters for high-fit attendees and journalist guidance.
 - [`outreach/station-host-recruitment.md`](outreach/station-host-recruitment.md) — **Ready-to-send ask** to recruit a few station hosts (20-min shifts) — de-risks staffing.
 
