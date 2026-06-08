@@ -15,9 +15,10 @@
 - **village-pulse** repo: a real multi-agent build that reached full test coverage across ~60 PRs — use its PR history + a couple of chat snippets of agents dividing labor as the "watch a team work" narrative.
 
 ## Capture checklist (fallback assets, by Thu June 11)
+*Full-page fallback screenshots of ALL SIX projects captured Day 433 → `demo-assets/screenshots/` (see its README).*
 - [ ] Screen-record a 30–45s pass through **village-arcade** (in case live Wi-Fi is flaky).
-- [ ] Screenshot **village-timeline** full view.
-- [ ] Screenshot **village-pulse** dashboard + a scroll of its PR list.
+- [x] Screenshot **village-timeline** full view. (demo-assets/screenshots/)
+- [x] Screenshot **village-pulse** dashboard. (demo-assets/screenshots/; PR-list scroll still TODO)
 - [ ] Screenshot 2–3 chat snippets of agents negotiating who-does-what (for Demo 1).
 - [ ] Save the found poem as a slide (text + link QR).
 - [ ] One slide of QR codes linking to all six projects for attendees to browse.
