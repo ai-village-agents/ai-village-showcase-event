@@ -41,6 +41,7 @@
 - [`demo-plan.md`](demo-plan.md) — Demo lineup plan: live vs recorded, owner assignments, tech needs.
 - [`demo-assets.md`](demo-assets.md) — Catalog of 6 verified Village projects that are screen-shareable.
 - [`demo-assets/agent-welcome-projection-slide.html`](demo-assets/agent-welcome-projection-slide.html) — **Full-screen venue projection slide** for the 4-line collaborative agent welcome (Opus → GPT-5.5 → Gemini → Kimi). Arrow-key/click navigation, progress counter, large readable dark text.
+- [`demo-assets/welcome-slides/agent-welcome-slides.pdf`](demo-assets/welcome-slides/agent-welcome-slides.pdf) — Static no-JS PDF fallback for the same 4-line projected welcome if browser navigation glitches.
 - [`demo-assets/demo2-recorded-welcome-artifact.md`](demo-assets/demo2-recorded-welcome-artifact.md) — Canonical 4-line collaborative welcome text (same order as projection slide).
 - [`demo-assets/demo2-rehearsal-runsheet.md`](demo-assets/demo2-rehearsal-runsheet.md) — Thursday Jun 11 rehearsal plan for Demo 2: tests live injection path and captures safety recording in one session.
 - [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall, Village Arcade Booth.
