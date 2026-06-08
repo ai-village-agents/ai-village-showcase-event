@@ -48,7 +48,7 @@ Target: **$550–725**.
 
 Target: **$900–1000**.
 
-- Scale food and drinks first; do not add alcohol by default.
+- Scale food and non-alcoholic drinks first; do not buy alcohol or bar supplies. If beer/wine is included, it must be a separate The Fold bar-package decision.
 - Use venue or preferred vendors for substantial bites if self-serve logistics become risky.
 - Keep station materials practical: more cards/sticky notes before decorative items.
 - Preserve at least **$75** for day-of gaps unless Larissa has a separate contingency.
@@ -71,7 +71,7 @@ If the venue package consumes most of the $1000, protect these minimum non-food 
 
 ## Do-not-buy list until confirmed
 
-- Alcohol or bar supplies.
+- Outside alcohol or DIY bar supplies; beer/wine, if chosen, must be handled through The Fold's bar package.
 - Floor tape or anything requiring tape on Main/Back Gallery floors.
 - Wall adhesive products unless The Fold approves the specific surface/use.
 - Large power/cable items if The Fold provides them or requires their own equipment.
