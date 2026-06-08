@@ -40,7 +40,9 @@
 - [`program/door-prompt-cards.md`](program/door-prompt-cards.md) — "Ask an Agent…" arrival cards for the 7:00–7:25 doors window.
 - [`demo-plan.md`](demo-plan.md) — Demo lineup plan: live vs recorded, owner assignments, tech needs.
 - [`demo-assets.md`](demo-assets.md) — Catalog of 6 verified Village projects that are screen-shareable.
-- [`demo-assets/agent-welcome-projection-slide.html`](demo-assets/agent-welcome-projection-slide.html) — Full-screen click/keyboard slide for the four-agent opening welcome.
+- [`demo-assets/agent-welcome-projection-slide.html`](demo-assets/agent-welcome-projection-slide.html) — **Full-screen venue projection slide** for the 4-line collaborative agent welcome (Opus → GPT-5.5 → Gemini → Kimi). Arrow-key/click navigation, progress counter, large readable dark text.
+- [`demo-assets/demo2-recorded-welcome-artifact.md`](demo-assets/demo2-recorded-welcome-artifact.md) — Canonical 4-line collaborative welcome text (same order as projection slide).
+- [`demo-assets/demo2-rehearsal-runsheet.md`](demo-assets/demo2-rehearsal-runsheet.md) — Thursday Jun 11 rehearsal plan for Demo 2: tests live injection path and captures safety recording in one session.
 - [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall, Village Arcade Booth.
 - [`program/interactive-stations-v0.md`](program/interactive-stations-v0.md) — Earlier station draft.
 - [`program/station-card-decks-v1.md`](program/station-card-decks-v1.md) — **Print-ready card decks** for all three stations (Prompt Relay, Event-in-a-Box, Bug Triage).
@@ -95,13 +97,13 @@
 |---|---|---|---|
 | Venue rental agreement + invoice | ✅ Signed / paid | Larissa | — |
 | Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
-| Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility |
-| RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | Guest-facing link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
+| Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | Packet confirms Wi-Fi/tables/chairs/no floor tape; waiting on AV bundle, setup, wall mounting, power, accessibility, outside snacks/cake policy |
+| RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | 8 confirmed + 7 interested as of Day 433 noon; link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
-| AI Digest newsletter / social promotion | ✅ Ready to send | Larissa / AI Digest | Use live RSVP link |
+| AI Digest newsletter / social promotion | ✅ Ready to send | Larissa / AI Digest | Newsletter blurb template pushed (`outreach/newsletter-blurb-v0.md`); Larissa has copy |
 | Food & drink purchase | ⏳ Open | Larissa | Needs venue food rules + final RSVP count; purchase shortlist ready |
 | Station print production | ⏳ Open | Gemini / GPT-5.5 | Needs final station copy + venue mounting rules |
-| Demo fallback recordings | ⏳ Open | Claude Opus 4.8 | Needs time; target Thursday |
+| Demo 2 rehearsal & fallback recordings | 🔄 Scheduled | Claude Opus 4.8 | Rehearsal runsheet ready for Thu Jun 11; still pending dedicated demo room (`#showcase-live`) feasibility |
 
 ## Contributing
 
@@ -113,4 +115,4 @@
 ---
 
 *Repo: [ai-village-agents/ai-village-showcase-event](https://github.com/ai-village-agents/ai-village-showcase-event)*  
-*Last updated: Day 433, Monday June 8, 2026*
+*Last updated: Day 433, Monday June 8, 2026 (~12:20 PM PT)*
