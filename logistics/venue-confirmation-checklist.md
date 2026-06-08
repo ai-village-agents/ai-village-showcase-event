@@ -18,8 +18,8 @@ Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7
 | Area | Current answer | Still needed |
 |---|---|---|
 | Address | Confirmed: 3359 26th Street, San Francisco. | Arrival/check-in instructions. |
-| Capacity | Packet supports well above our 80-person cap depending on rooms; full venue up to ~200. | Which spaces are included in our booking and final comfortable cap for our layout. |
-| Layout | Packet lists multiple gallery spaces, stage, tables/chairs, and ample room for presentation + stations. | Preferred layout for 1 presentation zone + 5 station/booth areas + food/check-in. |
+| Capacity | Packet supports well above our 80-person cap depending on rooms; full venue up to ~200, but this format needs seating, typing surfaces, projection sightlines, and station circulation. | Which single space is included/selected and final comfortable cap for our layout; plan for 45–60 comfortable active participants, with 70–80 only as outer edge if flow works. |
+| Layout | Packet lists multiple gallery spaces, stage, tables/chairs, and ample room for presentation + stations. If the choice is Theater Gallery vs Main Gallery, agents currently prefer Theater Gallery for built-in projection/AV and display surfaces. | Confirm whether Theater Gallery or Main Gallery is available/preferred; layout for 1 presentation zone + 5 station/booth areas + food/check-in. |
 | Furniture | Included: assorted 4/6 ft tables, rectangular wood tables, 6 high-tops with linens, couches, 50 black chairs, 30 folding chairs, 7 rolling office chairs. | Which pieces can be reserved/placed for our setup. |
 | AV | Projectors/screens, mics, PA, and lights are available as add-ons in the packet. | Whether projector + screen + 1–2 mics + PA are included in our booking or paid add-ons. |
 | Audio | Handheld/lapel mics and JBL PA systems available as add-ons. | Minimum audio package needed for 80-person room; avoid AV staff unless essential. |
@@ -37,7 +37,7 @@ Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7
 
 See also: [`logistics/layout-plan-v0.md`](layout-plan-v0.md) for a more detailed room-zone and furniture/power request.
 
-- **Front/presentation zone:** screen/display, host position, 40–60 chairs or mixed standing/seated.
+- **Front/presentation zone:** screen/display, host position, 40–60 chairs or mixed standing/seated; Theater Gallery preferred if choosing one room.
 - **Station zone A:** Prompt Relay Race table with cards, timer, laptop/fallback printouts.
 - **Station zone B:** Event-in-a-Box table with constraint cards and display board.
 - **Station zone C:** Bug Triage Theater table with role/bug cards.
@@ -52,9 +52,9 @@ Setup constraints:
 
 ## RSVP cap recommendation
 
-- Keep initial **80 RSVP cap + waitlist**.
-- Raise only if Larissa confirms our included spaces/layout can hold the presentation, five stations, food, and social flow comfortably.
-- If we want an intimate showcase, cap at **75–90** and emphasize waitlist.
+- Keep initial **80 RSVP cap + waitlist**; do not interpret standing capacity as active demo/station capacity.
+- Treat **45–60** as the comfortable active seated/typing/station target; **70–80** is an outer edge only if Theater Gallery flow, seating, and station rotation feel workable.
+- Raise above 80 only if Larissa confirms our included space/layout can hold the presentation, five stations, food, and social flow comfortably.
 
 ## If The Fold has not replied by Tuesday noon
 

@@ -8,14 +8,14 @@
 - **When:** Saturday, June 13, 2026 · 7:00–10:00 PM PT
 - **Where:** The Fold, San Francisco
 - **RSVP:** https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
-- **Current cap:** 80 confirmed + waitlist until The Fold confirms more
+- **Current cap:** 80 confirmed + waitlist until The Fold confirms more; practical active-room design is 45–60 comfortable participants, with 70–80 as outer edge if flow works
 - **Latest documented RSVP baseline:** 13 confirmed / 67 spots left as of Day 433 ~2:21 PM PT
 - **Budget:** $1000 attendee-experience budget; venue rental is signed/paid and off-budget
 - **Human producer:** Larissa Schiavo
 
 ## Decisions that are current
 
-- **Venue:** The Fold is the venue. No active replacement search.
+- **Venue:** The Fold is the venue. No active replacement search. If choosing only one room, current operating preference is **Theater Gallery** over Main Gallery because demos need projection/AV and display surfaces.
 - **Alcohol:** Outside alcohol is not allowed. If alcohol is included, use **The Fold's beer/wine bar package only** after quote/minimums; keep strong non-alcoholic drinks either way.
 - **Food:** Plan for light snacks/substantial bites/cake if venue rules allow; venue package is backup if outside food/drinks are restricted.
 - **Promotion:** Human channels (Larissa / AI Digest / warm networks) drive promotion. Agents do not cold-contact humans or post externally except with exact approval.

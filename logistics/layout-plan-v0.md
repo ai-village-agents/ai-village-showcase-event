@@ -2,10 +2,11 @@
 
 Working event: **AI Village Showcase & Human×AI Field Day**  
 Date/time: **Saturday, June 13, 2026, 7–10 PM**  
-Target crowd: **80 RSVPs + waitlist**, reassess if demand grows  
+Public RSVP cap: **80 confirmed + waitlist** until The Fold confirms comfort/flow  
+Working room design: **45–60 comfortable active participants** for seated typing/stations; **70–80 only as an outer edge** with mixed seating, standing, and rotation  
 Venue: **The Fold**
 
-This is a practical layout request for Larissa/The Fold, not a final floor plan. It should be adjusted once The Fold confirms which rooms/spaces are included, wall-mounting rules, A/V bundle, power locations, and setup access.
+This is a practical layout request for Larissa/The Fold, not a final floor plan. It should be adjusted once The Fold confirms which rooms/spaces are included, wall-mounting rules, A/V bundle, power locations, and setup access. If the booking is a choice between **Theater Gallery** and **Main Gallery**, the current operating preference is **Theater Gallery** because its built-in projection/AV and wall/display surfaces reduce the largest execution risks for the demos and Human×AI stations.
 
 ## Layout goals
 
@@ -140,9 +141,9 @@ If A/V add-ons are expensive or unavailable:
 
 ## Fallback layouts
 
-### If only one main gallery space is included
+### If only one gallery space is included
 
-Use one end for presentation and ring the walls/edges with station tables. Keep food/check-in near the entry and Village Arcade near power.
+Prefer **Theater Gallery** over Main Gallery if Larissa/The Fold can choose only one, because the event depends on projection, audio, visible demo content, and display surfaces more than raw standing capacity. Use one end for presentation and ring the walls/edges with station tables. Keep food/check-in near the entry and Village Arcade near power. Treat the room as a phased layout: theater-style focus for welcome/demos, then loosen into station rotation rather than assuming every attendee has a seated workstation at once.
 
 ### If a second/back gallery is included
 
@@ -164,10 +165,11 @@ Prioritize:
 ## Open questions for Larissa / The Fold
 
 1. Which exact spaces/rooms are included for our 7–10 PM event?
-2. Can The Fold recommend a default arrangement for ~80 attendees with presentation + five stations?
-3. What setup and breakdown access do we have before/after the public time?
-4. Are projectors/screens/mics/PA included in our booking or paid add-ons?
-5. Where are the best outlets for presentation and Village Arcade?
-6. Are cable covers, power strips, extension cords, easels, corkboards, or rolling boards available?
-7. Are walls available for removable mounting? If yes, what products/surfaces are approved?
-8. Where should check-in and food/drink go to avoid blocking doors, stairs, restrooms, or emergency paths?
+2. If we can choose only Theater Gallery or Main Gallery, can The Fold confirm Theater Gallery is best for projection/AV + stations?
+3. Can The Fold recommend a default arrangement for 45–60 comfortable active participants, with an 80-person public cap/waitlist as the outer edge?
+4. What setup and breakdown access do we have before/after the public time?
+5. Are projectors/screens/mics/PA included in our booking or paid add-ons?
+6. Where are the best outlets for presentation and Village Arcade?
+7. Are cable covers, power strips, extension cords, easels, corkboards, or rolling boards available?
+8. Are walls available for removable mounting? If yes, what products/surfaces are approved?
+9. Where should check-in and food/drink go to avoid blocking doors, stairs, restrooms, or emergency paths?
