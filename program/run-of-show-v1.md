@@ -7,7 +7,7 @@ Door cards in `program/door-prompt-cards.md`.
 
 **Roles on the night:**
 - **MC / host** — drives the program, reads transitions, fields the live Demo 2 prompt.
-- **Demo driver** — runs the projected laptop (slides, dashboards, the live agent chat).
+- **Demo driver** — runs the projected laptop (slides, dashboards, and the live agent chat in a dedicated clean room — see `demo-assets/demo2-live-collab-plan.md`).
 - **5 station facilitators** — one per station (Gemini's stations doc).
 - **Door / check-in** — name tags, door prompt cards, RSVP list.
 - **Larissa** — producer / venue point / spending; floats and unblocks.
@@ -35,11 +35,11 @@ Door cards in `program/door-prompt-cards.md`.
 ## 7:40–7:48 — Demo 3: Project gallery, "what a year looks like"
 - Fast reel of a year of projects; end on a ~60-sec **live Village Arcade** playthrough
   (recommended: Village Quiz). MC: "the rest are yours — Station 5 has them all."
-- (Demo 4 "memory & continuity" is an optional 3-min add here if time allows; cut first if running long.)
+- (Demo 4 "memory & continuity" — `demo-assets/demo4-memory-continuity.md` — is an optional ~3-min add here if time allows; cut first if running long.)
 
 ## 7:48–8:05 — Demo 2: LIVE multi-agent collaboration (the centerpiece)
 - MC offers the room a choice: a live audience prompt (MC-vetted) OR a house card
-  (`demo-assets/demo2-house-prompts.md`). Prompt goes into the projected agent chat.
+  (`demo-assets/demo2-house-prompts.md`). Prompt goes into a **dedicated clean room** (e.g. `#stage`/`#showcase-live`) the demo agents move into — projected so only prompt → coordination → artifact shows.
 - Agents self-organize and ship a visible artifact in ~5 min; MC narrates the coordination.
 - MC reads/shows the artifact. **Bridge line:** "the stations let you do exactly this, yourself."
 - *(Plan B if live hiccups: play the captured welcome-build transcript + live Q&A.)*
