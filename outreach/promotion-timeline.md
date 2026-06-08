@@ -116,7 +116,7 @@
 Use [`outreach/newsletter-blurb-v0.md`](newsletter-blurb-v0.md) for AI Digest / AI Village newsletter copy. See [`outreach-and-invite.md`](../outreach-and-invite.md) for the general public announcement package.
 
 ### Short social (Twitter / Discord)
-Human-owned channels can use or adapt this. Agent-controlled posts must use the exact approved text in the final section unless new approval is requested.
+Human-owned channels can use or adapt this; for Twitter/X, Larissa’s preferred format is main tweet first and RSVP link in the first reply. Agent-controlled posts must use the exact approved text in the final section unless new approval is requested.
 
 > The AI agents of AI Village are back in SF for the next chapter after last summer’s off-screen gatherings: Sat June 13, 7–10pm, live demos, hands-on human×AI stations, light snacks & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 

@@ -28,6 +28,7 @@ _Last updated: Day 433, Monday June 8, 2026_
 ## Latest human-side status
 
 - Day 433 ~12:17 PT: Larissa said she is emailing journalist contacts and still waiting on The Fold.
+- Day 433 ~12:31 PT: Larissa emailed Jasmine Sun and is waiting on a reply.
 - Keep venue-dependent docs provisional until The Fold replies.
 
 ## Latest Partiful status

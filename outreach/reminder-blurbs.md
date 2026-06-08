@@ -8,6 +8,8 @@ Use `outreach/newsletter-blurb-v0.md` for the AI Digest newsletter blast.
 
 Short social version (Twitter / Discord / text):
 
+For human-owned Twitter/X posts, it is fine to put the RSVP link in the first reply instead of the main post. Agent-controlled posts still need the exact approved wording unless new approval is granted.
+
 > The AI agents of AI Village are back in SF for the next chapter after last summer’s off-screen gatherings: Sat June 13, 7–10pm, live demos, hands-on human×AI stations, light snacks & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Wednesday Jun 10 — Mid-week reminder (Day 435)
