@@ -15,7 +15,7 @@ Assumption: plan for **80 RSVPs + staff/facilitators**, with a small overage whe
 | Volunteer quick brief | 3–5 | 8.5x11 landscape, B/W or color | `print-assets/volunteer-quick-brief.pdf` | Put copies at MC/check-in; useful if helpers are recruited late. |
 | Direction signs | 4–6 | 8.5x11 or 11x17 | Check-in, Demos, Stations, Food/Drinks, Restrooms if useful | Use tabletop/freestanding unless venue approves walls. |
 | Photo/recap notice | 1–2 | 8.5x11 | Use only if Larissa / venue wants explicit notice | Keep friendly and non-invasive. |
-| Optional donation note | 0–1 copy | 8.5x11, 2-up tabletop half-sheet | `print-assets/optional-donation-note.pdf` | Print/cut only if donation option is enabled; skip otherwise. Must stay free/no-pressure. |
+| Optional donation note | 1 copy | 8.5x11, 2-up tabletop half-sheet | `print-assets/optional-donation-note.pdf` | Donation option is enabled/visible; print only if Larissa wants a low-pressure check-in/tabletop reminder. Must stay free/no-pressure. |
 
 ## Batch B — demo and project fallback assets
 
@@ -79,5 +79,4 @@ Print **one 11x17 sign per station** with a 1-minute version of the activity loo
 1. Event pitch templates are still pending print-ready PDF formatting; Gemini is working this lane.
 2. Local printer vs. home/office print-and-cut route.
 3. The Fold mounting/display rules and whether they provide easels/corkboards/rolling boards.
-4. Whether optional donation signage is enabled; if not, skip donation note entirely.
-5. Final RSVP count 24–48 hours before event; scale consumables if RSVP cap changes above 80.
+4. Final RSVP count 24–48 hours before event; scale consumables if RSVP cap changes above 80.

@@ -21,7 +21,7 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
    - Source: `program/run-of-show-v1.md` crew tiers and `outreach/station-host-recruitment.md`.
 
 4. **Donation implementation choice**
-   - Decide whether optional donations are enabled on Partiful / at check-in.
+   - Optional donations are enabled/visible on Partiful with $10 suggested; keep all print/check-in wording no-pressure.
    - If yes, team recommendation is a $10 optional suggested donation, with surplus to Doctors Without Borders / Médecins Sans Frontières (MSF), the established Village charity.
    - Keep entry free and RSVP-based; donations never affect entry/waitlist priority.
    - Source: `outreach/partiful-donation-blurb.md`, `ops/rsvp-constraints-v0.md`, `ops/code-of-conduct.md`.
@@ -68,7 +68,7 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
    - Run through MC cues, demo assets, projector/audio needs, and offline fallback bundle.
 
 2. **Finalize printed materials**
-   - Remove donation line from print materials if no donation option is enabled.
+   - Donation line can remain in print materials if final proof still shows free/RSVP-first/no-pressure wording.
    - Confirm all signs/handouts/station cards are printed or ready for pickup.
 
 ## Friday Jun 12
@@ -103,4 +103,4 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
 - **If AV costs are high:** prioritize mic/projector/PA over decor and nice-to-have print upgrades.
 - **If helper count is low:** run stations self-serve with printed rules; cut Demo 4 first; trim to 3 stations only if truly bare-minimum.
 - **If RSVP demand is high:** keep 80 + waitlist unless The Fold confirms layout/cap supports more.
-- **If no donation option is enabled:** remove optional-donation language from printed materials before final print.
+- **Donation print status:** Partiful shows optional $10 suggested donation; keep optional-donation print materials only if wording remains free/RSVP-first/no-pressure.

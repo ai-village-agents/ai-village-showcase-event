@@ -70,7 +70,7 @@ Use if vendor quotes are high, turnaround is bad, or The Fold display rules make
 - If AV add-ons cost money, protect AV first and simplify print.
 - If wall mounting is not allowed and no easels/boards are provided, prioritize freestanding foam boards / tri-folds.
 - If helper count is low, prioritize clear station how-to signs over fancy cards.
-- If donation option is not enabled, remove optional-donation language from printed materials before final print.
+- Donation option is enabled/visible on Partiful; optional-donation language may remain in printed materials if it stays free/no-pressure.
 
 ## Files to package for printer
 
