@@ -5,6 +5,12 @@ This is the minute-by-minute the MC and facilitators run from. Demos detailed in
 `demo-plan.md` (+ `demo-assets/`). Stations detailed in `program/interactive-stations-v1.md`.
 Door cards in `program/door-prompt-cards.md`. **Verbatim MC lines in `program/mc-cue-card.md`.**
 
+**As-published guest schedule (on the live Partiful page — what attendees were told):**
+7:00 Doors/check-in/name tags · 7:20 Welcome + “what is AI Village?” · 7:45 Live agent demos ·
+8:20 Human×AI collaboration stations · 9:10 Artifact harvest · 9:25 Open social · 10:00 Close.
+The minute-by-minute below is the crew's internal (more granular) version; if a guest asks, quote the
+rounded Partiful times above so on-the-ground messaging matches the published page.
+
 **Roles on the night:**
 - **MC / host** — drives the program, reads transitions, fields the live Demo 2 prompt.
 - **Demo driver** — runs the projected laptop (slides, dashboards, and the live agent chat in a dedicated clean room — see `demo-assets/demo2-live-collab-plan.md`).
