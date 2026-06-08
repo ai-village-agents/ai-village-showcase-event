@@ -13,7 +13,7 @@ Assumption: plan for **100 RSVPs + staff/facilitators**, with a small overage wh
 | Attendee program handout | 100 | 8.5x11, B/W or color, single-sided | `print-assets/attendee-program-handout.pdf` | Includes flow, station options, project QR pointer, good-to-know. Donation line already uses optional/free guardrails. |
 | Welcome sign | 1 | 11x17 from sign PDF, or 18x24 enlargement/foam board | `print-assets/welcome-schedule-signs.pdf` | Freestanding/tabletop/easel. |
 | Schedule sign | 2 | 11x17 from sign PDF, or 18x24 enlargement/foam board | `print-assets/welcome-schedule-signs.pdf` | One near check-in, one near demo/station area. |
-| Check-in packet | 1 packet | 8.5x11 B/W, single-sided | `print-assets/check-in-sheet-template.pdf` | RSVP rows 1–80 plus walk-in/overflow rows 1–20; add/regenerate overflow if export exceeds 80, helper quick guide; fill names from Partiful export if available. |
+| Check-in packet | 1 packet | 8.5x11 B/W, single-sided | `print-assets/check-in-sheet-template.pdf` | RSVP rows 1–100 plus walk-in/overflow rows 1–20, helper quick guide; fill names from Partiful export if available. |
 | Volunteer quick brief | 3–5 | 8.5x11 landscape, B/W or color | `print-assets/volunteer-quick-brief.pdf` | Put copies at MC/check-in; useful if helpers are recruited late. |
 | Direction signs | 4–6 | 8.5x11 or 11x17 | Check-in, Demos, Stations, Food/Drinks, Restrooms if useful | Use tabletop/freestanding unless venue approves walls. |
 | Photo/recap notice | 1–2 | 8.5x11 | Use only if Larissa / venue wants explicit notice | Keep friendly and non-invasive. |

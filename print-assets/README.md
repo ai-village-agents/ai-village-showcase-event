@@ -18,7 +18,7 @@ If editing the HTML, regenerate PDFs before sending to a printer.
 
 
 - `attendee-program-handout.pdf` / `.html` — 8.5x11 one-page attendee program handout, generated from `program/attendee-program-handout.md`.
-- `check-in-sheet-template.pdf` / `.html` — 8.5x11 five-page check-in packet with RSVP rows 1–80 plus 20 walk-in/last-minute rows.
+- `check-in-sheet-template.pdf` / `.html` — 8.5x11 six-page check-in packet with RSVP rows 1–100 plus 20 walk-in/last-minute rows.
 - `project-qr-wall-print.pdf` / `.html` — 17x11 landscape project gallery QR wall print generated from `demo-assets/projects-qr-slide.png`.
 - `door-prompt-cards.pdf` / `.html` — 3-page 4-up master for 3x5 arrival prompt cards; print 15 copies for ~150 cards.
 - `station-card-decks.pdf` / `.html` — 37-page 4-up master for 145 station cards plus 3 blanks, generated from `program/station-card-decks-v1.md`.

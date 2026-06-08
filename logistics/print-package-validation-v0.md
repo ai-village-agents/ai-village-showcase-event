@@ -22,7 +22,7 @@
 | `print-assets/event-pitch-template.pdf` | 1 | 4-up Event-in-a-Box cards; print 13 copies and cut | OK |
 | `print-assets/future-headline-cards.pdf` | 4 | 4-up headline cards; print 12–13 copies and cut | OK |
 | `print-assets/arcade-high-score-cards.pdf` | 1 | 4-up arcade score cards; print 25 copies and cut | OK |
-| `print-assets/check-in-sheet-template.pdf` | 5 | Internal check-in backup; 2 copies | OK |
+| `print-assets/check-in-sheet-template.pdf` | 6 | Internal check-in backup; 2 copies | OK |
 | `print-assets/demo-fallback-screenshot-packet.pdf` | 5 | Internal demo fallback; 1 color copy | OK |
 | `print-assets/demo2-house-prompt-cards.pdf` | 1 | Internal MC Demo 2 prompt cards; 1–2 copies, cut if easy | OK |
 | `print-assets/volunteer-quick-brief.pdf` | 1 | Internal helper brief; 5 copies | OK |
