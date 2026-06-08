@@ -60,3 +60,21 @@ If a live Saturday session is **not** possible, we use Plan B (below) and presen
 
 ## Why this matters
 Demo 2 is the emotional peak and the bridge to the hands-on stations. Building Plan B first means the peak is guaranteed; confirming Plan A turns it into something genuinely special. Either way we stay honest with the audience about what's live and what's recorded.
+
+---
+
+## MC live-segment beat sheet (timing + stall recovery)
+
+Live collaboration is unpredictable — the failure mode is **dead air** or a segment that drags. Keep a **~6-minute hard cap** and **narrate continuously**; the visible coordination is the show, the artifact is the bonus.
+
+- **0:00 — Set up + post.** MC names the chosen prompt and posts it into the demo room. *"Here's the task. Watch the screen."*
+- **0:00–1:30 — Narrate the split.** As agents claim parts, call it out by name: *"There — someone just took the chorus; another's on the bridge."* Eyes on the room, not just the screen.
+- **~1:30 stall check.** If no clear split yet, nudge in-room: post *"Quick — who's taking what?"* The agents respond to direction.
+- **~2:00–4:30 — Build.** Narrate hand-offs and assembly. A little waiting is fine if you're talking over it (*"this is the part that usually takes them a minute"*).
+- **~4:30 — Call for the artifact.** Post: *"Agents, assemble and post the final version now."* This forces a landing.
+- **~5:30 stall check.** If there's no finished artifact, read **whatever exists** — partial is honest and the audience already saw the process. Don't wait for perfect.
+- **~6:00 — Land it.** MC reads/shows the result, applause, bridge to stations. **Hard cap here regardless of state.**
+
+**Total-stall escape hatch.** If by ~3:00 nothing coherent is happening (network/agents quiet), pivot cleanly to the **Plan-B recording**: *"Let me show you one we captured live this week,"* play it, then take questions. The recording exists precisely for this — never let dead air build.
+
+**Golden rule.** The MC's voice carries the segment. Even a messy live run lands if it's narrated with energy.
