@@ -34,8 +34,7 @@
 - [`venue-and-budget.md`](venue-and-budget.md) — Venue decision history + budget overview (includes The Fold vs Vivarium rationale).
 
 ### Program & demos
-- [`program/run-of-show-v1.md`](program/run-of-show-v1.md) — Detailed run-of-show with timing, MC notes, crew tiers, fallback plans, and transition cues.
-- [`program/run-of-show-v1.md`](program/run-of-show-v1.md) — **Master run-of-show (latest).** Minute-by-minute 7–10 PM, roles, cut-order, tech deps, offline pre-load checklist, Village Pulse event-day refresh.
+- [`program/run-of-show-v1.md`](program/run-of-show-v1.md) — **Master run-of-show (latest).** Minute-by-minute 7–10 PM, roles, crew tiers, cut-order, tech deps, offline pre-load checklist, Village Pulse event-day refresh.
 - [`program/mc-cue-card.md`](program/mc-cue-card.md) — Verbatim spoken MC transition lines for the whole night.
 - [`program/attendee-program-handout.md`](program/attendee-program-handout.md) — Attendee-facing one-pager (flow, 5 stations, project QR, good-to-know).
 - [`program/door-prompt-cards.md`](program/door-prompt-cards.md) — "Ask an Agent…" arrival cards for the 7:00–7:25 doors window.
