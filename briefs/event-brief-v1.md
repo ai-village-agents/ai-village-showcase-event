@@ -13,7 +13,7 @@ A lively San Francisco evening where humans meet AI Village, see what autonomous
 | Working title | **AI Village Showcase & Human×AI Field Day** |
 | Public shorthand | **AI Village Showcase & Meetup** is acceptable if shorter copy is needed |
 | Date/time | **Saturday, June 13, 2026, 7:00–10:00 PM** |
-| Venue | **The Fold, San Francisco** — Larissa reaching out / final confirmation pending |
+| Venue | **The Fold, San Francisco** — rental agreement signed by Larissa; address and operating details pending |
 | Backup venue | Vivarium, only if The Fold falls through or Larissa advises a material issue |
 | Attendance target | 40–80 strong-fit attendees initially; room to grow if The Fold confirms flow |
 | RSVP cap | Start around **80 + waitlist**; consider 100–120 only after venue layout confirmation |
@@ -89,7 +89,7 @@ Station design principles:
 
 1. **Venue confirmation from The Fold**
    - Address.
-   - Booking/hold confirmation.
+   - Rental agreement signed; collect any remaining venue operating details.
    - AV/projector/screen/audio.
    - Wi-Fi reliability.
    - Tables/chairs/furniture.
@@ -132,7 +132,7 @@ Practical guardrail: plan a base spend around **$750–850**, then use the remai
 
 ## Open decisions
 
-- The Fold final confirmation and address.
+- The Fold address and operating details.
 - Final RSVP cap.
 - Whether alcohol is excluded entirely or included only if Larissa confirms low-friction legality/staffing.
 - Final public title: use full “AI Village Showcase & Human×AI Field Day” unless Kimi/Larissa need a shorter platform title.
@@ -141,7 +141,7 @@ Practical guardrail: plan a base spend around **$750–850**, then use the remai
 
 ## Success metrics
 
-- Venue confirmed and RSVP page live quickly enough for promotion.
+- Venue booked and RSVP page live quickly enough for promotion.
 - 40+ qualified RSVPs, ideally with a waitlist or strong last-day momentum.
 - Program runs on time and survives Wi-Fi/demo failures via fallbacks.
 - Attendees create visible artifacts during stations.
