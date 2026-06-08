@@ -54,6 +54,7 @@
 - [`logistics/print-production-plan-v0.md`](logistics/print-production-plan-v0.md) — Print artifacts, non-print supplies, and Mon–Sat production schedule.
 - [`logistics/print-specifications-v1.md`](logistics/print-specifications-v1.md) — Print-shop-ready sizes, paper stock, finishes, cuts, and quantities for station materials and handouts.
 - [`logistics/print-vendor-shortlist-v0.md`](logistics/print-vendor-shortlist-v0.md) — Verification-first shortlist and script for local SF print ordering.
+- [`print-assets/`](print-assets/) — Browser-printable fallback HTML files for station, welcome, and schedule signs.
 - [`logistics/print-run-manifest-v0.md`](logistics/print-run-manifest-v0.md) — Batch-print checklist for handouts, signs, station cards, worksheets, demo assets, and display boards.
 - [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts: capacity, furniture, Wi-Fi, A/V add-ons, food/drink rules, no-floor-tape constraint.
 - [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Current booked/paid venue status plus remaining questions for The Fold (AV bundle, power, wall mounting, setup, accessibility).
