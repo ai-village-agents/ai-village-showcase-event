@@ -4,10 +4,10 @@ Purpose: give Larissa a fast, practical menu decision sheet once The Fold confir
 
 Operating posture:
 - Event remains free / RSVP-first.
-- Default is **non-alcoholic self-serve** with substantial snacks, not a dinner.
+- Baseline is **non-alcoholic self-serve** with substantial snacks, not a dinner; optional beer/wine must be venue-run.
 - Keep food low-mess and away from laptops/station boards.
 - Avoid glass-heavy drink orders unless The Fold explicitly allows them.
-- Do not add alcohol unless The Fold + Larissa confirm it is legally, financially, and operationally low-friction.
+- Do not add alcohol except through The Fold's bar package, and only if the quote/minimums are worth the budget tradeoff.
 
 ## Decision tree
 
@@ -87,15 +87,15 @@ Risks: budget pressure; less control over menu/quantities.
 
 ## Alcohol recommendation
 
-Default: **skip alcohol**.
+Conditional default after Larissa's Day 433 licensing note: if alcohol is included for Saturday-night hospitality, use **The Fold's beer/wine bar package only**. Do not bring outside alcoholic beverages.
 
-Only consider beer/wine if all are true:
-1. The Fold confirms the legal/service path in writing.
-2. Bartender/staffing costs are clear and do not cannibalize essential A/V or basic food.
-3. The event still feels inclusive for non-drinkers.
+Proceed only if all are true:
+1. The Fold gives a clear package quote/minimum, including bartenders, service window, gratuity, fees, and whether a capped hosted bar or drink tickets are possible.
+2. The cost does not cannibalize essential A/V, basic food, water/NA drinks, or safety/cleanup needs.
+3. The event still feels inclusive for non-drinkers, with abundant non-alcoholic drinks visible.
 4. Donation language, if used, does not imply donations fund alcohol unless humans explicitly decide that and are comfortable with the optics.
 
-If alcohol is added, keep non-alcoholic drinks abundant and visible.
+If the bar quote is high, skip alcohol and invest in better food/NA drinks instead.
 
 ## Suggested final order timing
 
@@ -108,8 +108,9 @@ If alcohol is added, keep non-alcoholic drinks abundant and visible.
 ## Open questions
 
 1. Are outside NA drinks, snacks, substantial bites, and cupcakes/cake allowed?
-2. Are glass bottles prohibited or discouraged?
-3. Is ice/refrigeration available, or should everything be shelf-stable / room-temperature safe?
-4. Who handles leftovers and trash/recycling/compost?
-5. Are any A/V add-on costs high enough that we should switch to the lean cart?
-6. Final RSVP count and no-show expectation 24–48 hours before event.
+2. What is the beer/wine bar-package quote/minimum if we choose alcohol, and can it be capped?
+3. Are glass bottles prohibited or discouraged?
+4. Is ice/refrigeration available, or should everything be shelf-stable / room-temperature safe?
+5. Who handles leftovers and trash/recycling/compost?
+6. Are any A/V add-on costs high enough that we should switch to the lean cart?
+7. Final RSVP count and no-show expectation 24–48 hours before event.

@@ -11,7 +11,7 @@ Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering
 - Evening event, not a dinner, but 7–10 PM means attendees will appreciate substantial snacks.
 - Keep service simple: self-serve snack/drink table, no cooking or complex catering onsite.
 - Avoid messy foods near laptops/station materials.
-- Default to non-alcoholic / self-serve; light beer/wine optional if venue makes it easy and Larissa prefers Saturday-night vibe.
+- Baseline remains strong non-alcoholic drinks; if alcohol is included for Saturday-night hospitality, use **The Fold's bar package only** and keep it modest.
 - Prioritize vegetarian-friendly and common allergen labeling.
 - Confirm with The Fold that outside soft drinks, simple snacks, and one celebratory cake are allowed before purchasing.
 
@@ -20,8 +20,8 @@ Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering
 
 - Outside vendors appear possible; preferred vendors include **B Star** and **Bi-Rite Catering**.
 - Venue package backup: **light hors d'oeuvres + non-alcoholic beverages at $20/person** with a 2-hour minimum and 20-person minimum.
-- Alcohol: beer/wine only; no outside alcohol unless pre-approved. Bar service is relatively expensive and parties over 50 require extra bartender staffing.
-- Operational default: avoid alcohol and ask for permission to bring outside non-alcoholic drinks, simple shelf-stable snacks, and one cake.
+- Alcohol: beer/wine only, and Larissa confirmed Day 433 that we **cannot bring our own alcoholic beverages** because of licensing. If alcohol is included, it must be through **The Fold's bar package**.
+- Operational default: ask for permission to bring outside non-alcoholic drinks, simple shelf-stable snacks, and one cake; layer on a modest venue-run beer/wine bar only if the bar-package quote fits the budget.
 - Cleanup: plan to sort trash/recycling/compost into venue bins and remove leftovers/supplies unless The Fold says otherwise.
 
 ## Recommended default for initial RSVP cap ~80
@@ -67,25 +67,23 @@ Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering
 3. Does The Fold prefer B Star/Bi-Rite, the $20/person venue package, or our self-serve plan for this event?
 4. Are compost/trash/recycling handled by the venue or by us beyond sorting into provided bins?
 5. Is there a prep/storage area, refrigerator, or ice access?
-6. Beer/wine: The Fold bar-service cost vs. outside licensed beer/wine rules; if self-serve is allowed, any insurance/permit requirements?
+6. Beer/wine: What is The Fold's bar-package quote for a modest beer/wine offering for ~80 people, including bartender/staffing minimums, service window, gratuity, taxes/fees, and whether drink tickets or a capped hosted bar are possible?
 
-## Optional light beer/wine add-on
+## Optional modest beer/wine add-on — The Fold bar package only
 
-If Larissa/venue confirms beer/wine is desired for Saturday-night vibe:
+Larissa's Day 433 licensing note: **we cannot bring our own alcoholic beverages**. If the group decides Saturday-night expectations make alcohol important, the compliant path is The Fold's beer/wine bar package.
 
-| Category | Quantity target | Notes | Est. budget |
-|---|---|---|---:|
-| Beer (cans or bottles) | 48–72 units | 2–3 per 30–40 drinkers; easy self-serve | $80–150 |
-| Wine (red + white) | 12–18 bottles | ~3 glasses per bottle; label clearly | $120–200 |
-| Cups/wine cups | 100 | sturdy plastic or compostable | $15–25 |
-| Bottle opener, ice, chill tub | 1 each | self-serve station | $20–40 |
+Working posture:
+- Keep abundant non-alcoholic drinks visible and appealing regardless.
+- Prefer a short, modest hosted window or capped drink-ticket approach if The Fold supports it.
+- Do not let alcohol displace essential A/V, basic food, water/NA drinks, or accessibility/safety needs.
+- Keep public framing as a hands-on showcase with light hospitality, not an alcohol-centered party.
 
-**Beer/wine subtotal:** ~$235–415 for 60–80 servings.
-
-- If using The Fold bar service: ~$14/person/hour + gratuity; 80 people × 3h = ~$336 base + tip + 2 bartenders if >50.
-- Self-serve (if venue permits outside licensed beer/wine, or if Larissa sources through preferred vendor) is cheaper but requires checking venue rules and potentially a one-day event insurance rider.
-- **Simplest safe path:** skip self-serve bar logistics; add beer/wine only if The Fold offers an easy flat-rate package or Larissa can handle sourcing and compliance off-budget.
+Cost placeholder until The Fold quotes it:
+- Packet-derived planning note: bar service may be around **$14/person/hour plus gratuity**, with additional bartender staffing for parties over 50.
+- For an 80-person / 3-hour event this could pressure or exceed the $1000 attendee-experience budget once gratuity, fees, staffing, food, and A/V are included.
+- Budget decision needed from Larissa/AI Digest once The Fold provides the exact package and minimums.
 
 ## Current recommendation
 
-Launch RSVP with an initial cap around **80** and plan for a self-serve non-alcoholic snack/drink table plus simple substantial bites and cake if approved. Use The Fold's $20/person light hors d'oeuvres + non-alcoholic package only if outside food/drink is not allowed or Larissa judges it operationally safer. Revisit quantities 48–72 hours before the event based on RSVP count and waitlist size.
+Launch RSVP with an initial cap around **80** and plan for a self-serve non-alcoholic snack/drink table plus simple substantial bites and cake if approved. Use The Fold's $20/person light hors d'oeuvres + non-alcoholic package only if outside food/drink is not allowed or Larissa judges it operationally safer. If alcohol is included, use only The Fold's bar package and decide after seeing the quote/minimums. Revisit quantities 48–72 hours before the event based on RSVP count and waitlist size.

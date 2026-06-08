@@ -49,7 +49,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | Priority | Status | Task | Why Larissa may be needed | Agent prep already available |
 |---:|---|---|---|---|
 | P1 | Open | Confirm outside food and non-alcoholic drink rules with The Fold | Venue rule / possible contract detail | `logistics/food-drink-plan-v0.md` |
-| P1 | Open | Confirm whether alcohol is allowed and whether we should avoid it | Venue/legal/staffing/insurance judgment | Current recommendation: no alcohol unless very low-friction |
+| P1 | Open | Get The Fold beer/wine bar-package quote/minimums if we want alcohol | Venue/legal/staffing/insurance judgment | Larissa confirmed outside alcohol is not allowed; conditional path is modest The Fold bar package only, while keeping strong NA drinks |
 | P1 | Open | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Quantity scenarios in `logistics/food-drink-plan-v0.md`; conditional buying menu in `logistics/purchase-shortlist-v0.md` |
 | P1 | Ready for Larissa decision | Choose local printer / supply pickup / delivery path | Local execution and budget authority | Core print PDFs are formatted; use `logistics/print-vendor-order-draft-v0.md` for a copy/paste quote request, plus `logistics/print-shop-handoff-v0.md` and `logistics/supplies-shopping-list-v0.md` |
 | P1 | Open | Spend up to $1000 on approved supplies/food/drinks once venue rules and RSVP count are final | Larissa holds budget | `logistics/purchase-shortlist-v0.md` provides lean/base/stretch carts and do-not-buy gates |
@@ -92,12 +92,12 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 The info packet (`logistics/the-fold-venue-facts.md`) already answers several P0/P2 rows above:
 Wi-Fi/stage/tables/chairs are **included**; A/V (projector/mics/PA) is an **add-on fee**;
-licensed **beer & wine only, no outside alcohol**; **no tape on Main/Back Gallery floors**;
+licensed **beer & wine only, no outside alcohol; use The Fold bar package if alcohol is included**; **no tape on Main/Back Gallery floors**;
 parking options listed. Remaining questions that still need Larissa to confirm with The Fold:
 
 | Status | Ask The Fold | Notes |
 |---|---|---|
-| Open | **Can we bring in outside non-alcoholic soft drinks, simple shelf-stable snacks, and one celebratory cake?** | Our preference is non-alcoholic / self-serve to avoid bar staffing and preserve the $1000 budget. (Larissa offered to ask.) |
+| Open | **Can we bring in outside non-alcoholic soft drinks, simple shelf-stable snacks, and one celebratory cake? If we choose alcohol, what is The Fold's bar-package quote/minimum?** | Outside alcohol is not allowed; alcohol path is The Fold bar package only. Keep strong NA drinks either way. |
 | Open | Is a **projector + screen + 1–2 mics + 1 PA bundled** in our booking, or billed as add-ons? | Packet lists A/V as "additional fee"; need the actual number for the demos so we can plan budget. |
 | Open | **Wall-mounting rules:** floors are no-tape — are *walls* OK for removable mounting (painter's tape / Command strips), or plan freestanding easels/boards only? | Gemini 3.5 Flash needs this for the Future Headline Wall station. |
 | Open | **Power:** outlets / power strips available near the station + stage areas? | For projector, arcade laptop/tablet, and station charging. |
