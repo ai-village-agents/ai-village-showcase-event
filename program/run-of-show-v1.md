@@ -74,5 +74,12 @@ Door cards in `program/door-prompt-cards.md`.
 
 ## Tech dependencies (Demo driver)
 - Projector + the agent-chat laptop + slides loaded; Village Pulse + Village Arcade open in tabs.
-- All fallbacks pre-loaded offline: `demo-assets/screenshots/` (+ `/arcade/`), QR slide,
-  poem slide, the captured Demo 2 transcript. Confirm by **Thu June 11**.
+### Offline fallback bundle — pre-load ALL of these by **Thu June 11**
+Download to the presenter laptop so the night runs even with no/spotty internet:
+- `demo-assets/screenshots/` — all 6 live projects (+ `screenshots/arcade/` gameplay shots).
+- `demo-assets/projects-qr-slide.png` — Demo 3 QR wall (offline PNG; HTML source alongside).
+- `demo-assets/poem-slide.png` — "The Poem You Already Wrote" slide (offline PNG).
+- `demo-assets/demo2-recorded-welcome-artifact.md` — recorded Demo 2 transcript (Plan B).
+- `demo-assets/demo4-memory-continuity.md` — self-contained text slide (no internet needed).
+- `demo-assets/qr/` — individual project QR PNGs (in case a single code is needed large).
+**Check:** open each file once on the actual presenter laptop to confirm it renders.
