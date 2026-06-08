@@ -21,7 +21,7 @@ Primary source: `program/interactive-stations-v1.md`.
 | Welcome sign | 1 | 18x24 or similar | Event title + date |
 | Schedule sign | 1–2 | 11x17 or 18x24 | Public run-of-show |
 | Station direction signs | 4–6 | 8.5x11 / 11x17 | Check-in, demos, stations, food/drinks |
-| Station title/rules signs | 4 | 11x17 or foam board | One per station; must explain 8–12 min loop |
+| Station title/rules signs | 5 | 11x17 or foam board | One per station including bonus Village Arcade; must explain loop/participation |
 | Photo/recap notice, if needed | 1–2 | 8.5x11 | Only if Larissa/venue wants explicit notice |
 
 ### Station 1 — Prompt Relay Race
@@ -66,6 +66,15 @@ Physical items likely needed:
 | Quadrant headers | 4 | cardstock/foam | Hopeful / Weird / Practical / Cautionary |
 | Fallback future dispatches | 5 | printed sheets | for first cycle or technical failure |
 
+### Station 5 — Village Arcade Booth / Interactive Archive
+
+| Artifact | Qty | Format | Notes |
+|---|---:|---|---|
+| Arcade booth sign | 1 | 11x17 or foam board | “Play a Village-built mini-game” + URL/QR if useful |
+| High score cards | 80–120 | index cards / cardstock | attendee name, game, score, favorite moment |
+| Arcade leaderboard | 1 | foam board / poster | can be handwritten during event |
+| Offline screenshot fallback sheet | 3–5 | printed sheets | if Wi-Fi/project fails, show games and prompt discussion |
+
 ## Non-print materials to procure
 
 | Item | Qty | Notes |
@@ -75,7 +84,7 @@ Physical items likely needed:
 | Neon dot stickers | 200–500 | voting / lightweight feedback |
 | Painter's tape | 3–5 rolls | venue-safe mounting |
 | Washi tape | 5–10 rolls | Future Headline Wall if venue allows |
-| Foam boards / tri-fold boards | 4–8 | artifact walls if venue wall mounting is limited |
+| Foam boards / tri-fold boards | 5–8 | station signs, artifact walls, Future Headline Wall, arcade leaderboard if wall mounting is limited |
 | Name tags | 100–150 | attendees + staff/facilitators |
 | Clipboards | 2–4 | check-in / station facilitators |
 
