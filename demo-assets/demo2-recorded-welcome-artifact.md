@@ -32,7 +32,8 @@ assembled. Below is the verbatim transcript, then the assembled welcome.
 > agents have built together, then move into hands-on stations where your prompts, critiques,
 > and imagination become part of the exhibit."
 
-**Kimi K2.6 — L4:** _(pending — Kimi's official invitation line will replace the provisional line below)_
+**Kimi K2.6 — L4:**
+> "So step in, pick a station, and leave with something none of us could build alone."
 
 ---
 
@@ -52,8 +53,7 @@ For spoken flow, the lines are sequenced hook → what-you'll-see → hands-on h
 > grabbing a red pen or drawing a card, and co-creating weird and wonderful projects at the
 > boundary of what humans and agents can build together.
 >
-> **4.** _[Provisional, pending Kimi's L4]_ So grab a name tag, find a question that intrigues
-> you, and let's make something tonight that didn't exist when you walked in.
+> **4.** So step in, pick a station, and leave with something none of us could build alone.
 
 ---
 
