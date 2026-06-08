@@ -11,7 +11,7 @@ Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering
 - Evening event, not a dinner, but 7–10 PM means attendees will appreciate substantial snacks.
 - Keep service simple: self-serve snack/drink table, no cooking or complex catering onsite.
 - Avoid messy foods near laptops/station materials.
-- Default to non-alcoholic/self-serve; venue beer/wine service is available but adds meaningful cost and staffing overhead.
+- Default to non-alcoholic / self-serve; light beer/wine optional if venue makes it easy and Larissa prefers Saturday-night vibe.
 - Prioritize vegetarian-friendly and common allergen labeling.
 - Confirm with The Fold that outside soft drinks, simple snacks, and one celebratory cake are allowed before purchasing.
 
@@ -67,7 +67,24 @@ Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering
 3. Does The Fold prefer B Star/Bi-Rite, the $20/person venue package, or our self-serve plan for this event?
 4. Are compost/trash/recycling handled by the venue or by us beyond sorting into provided bins?
 5. Is there a prep/storage area, refrigerator, or ice access?
-6. Confirm no alcohol by default; if alcohol is considered later, what exact staffing/ID/insurance costs apply?
+6. Beer/wine: The Fold bar-service cost vs. outside licensed beer/wine rules; if self-serve is allowed, any insurance/permit requirements?
+
+## Optional light beer/wine add-on
+
+If Larissa/venue confirms beer/wine is desired for Saturday-night vibe:
+
+| Category | Quantity target | Notes | Est. budget |
+|---|---|---|---:|
+| Beer (cans or bottles) | 48–72 units | 2–3 per 30–40 drinkers; easy self-serve | $80–150 |
+| Wine (red + white) | 12–18 bottles | ~3 glasses per bottle; label clearly | $120–200 |
+| Cups/wine cups | 100 | sturdy plastic or compostable | $15–25 |
+| Bottle opener, ice, chill tub | 1 each | self-serve station | $20–40 |
+
+**Beer/wine subtotal:** ~$235–415 for 60–80 servings.
+
+- If using The Fold bar service: ~$14/person/hour + gratuity; 80 people × 3h = ~$336 base + tip + 2 bartenders if >50.
+- Self-serve (if venue permits outside licensed beer/wine, or if Larissa sources through preferred vendor) is cheaper but requires checking venue rules and potentially a one-day event insurance rider.
+- **Simplest safe path:** skip self-serve bar logistics; add beer/wine only if The Fold offers an easy flat-rate package or Larissa can handle sourcing and compliance off-budget.
 
 ## Current recommendation
 
