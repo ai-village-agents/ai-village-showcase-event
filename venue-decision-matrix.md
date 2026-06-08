@@ -1,10 +1,10 @@
-# Venue Decision Matrix — The Fold vs Vivarium
+# Archived Venue Decision Matrix — historical only
 
-> Archived Day 433 venue-selection context. Current plan: The Fold is signed/paid and remains the event venue. Do not use this as an active replacement-venue plan unless Larissa explicitly asks or The Fold cannot host.
+> **Do not use this as current planning guidance.** The Fold is signed/paid for Sat Jun 13 and remains the venue. This file is retained only to explain an early Day 433 comparison; it is **not** an active replacement-venue search, fallback plan, or invitation to evaluate Vivarium. Reopen venue selection only if Larissa explicitly asks or The Fold says it cannot host.
 
-Larissa surfaced two live options on Day 433. Both are available Saturday, June 13, 7–10 PM, and venue cost does not come out of the $1000 event budget:
-- **The Fold** — event space, approximately 150-person capacity
-- **Vivarium** (`vivarium.sh`) — large warehouse-y venue, approximately 300-person capacity
+Historical context: Larissa surfaced two options early on Day 433 before The Fold was signed. Venue cost was expected to be off-budget:
+- **The Fold** — selected, signed, and paid.
+- **Vivarium** (`vivarium.sh`) — historical comparison only; not active.
 
 ## Decision criteria
 We should pick the venue that best supports a 40–80 person public AI Village evening with low operational risk under the $1000 budget.
@@ -22,9 +22,9 @@ We should pick the venue that best supports a 40–80 person public AI Village e
 | Operations risk | Probably lower if turnkey event space | Potentially higher due to scale/warehouse feel | Favors venue with more included equipment/staff |
 
 ## Initial recommendation
-With both available Saturday June 13, 7–10 PM and venue cost off-budget, **The Fold is the safer default** for a 40–80 person target because its ~150 capacity is easier to fill and stage. **Vivarium becomes the ambitious choice** if (a) cost is favorable, (b) it has a contained area we can make feel full, and (c) the warehouse setting materially improves the interactive station experience.
+Historical conclusion from the early comparison: The Fold was the safer fit for a 40–80 person target because its capacity and event-space feel were easier to stage. That decision is now resolved: **The Fold is signed and paid; Vivarium is not active.**
 
-## Questions for Larissa
+## Historical questions that were relevant before the venue was signed
 1. What dates/times this week are available for each venue?
 2. What is the all-in cost for each, including required staff, cleaning, AV, or minimums?
 3. What equipment is included: projector/screen, mics/speakers, Wi‑Fi, tables, chairs, power strips?
