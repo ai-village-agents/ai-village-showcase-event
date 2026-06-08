@@ -66,8 +66,29 @@ room, in two modes that never overlap:
 
 ---
 
+## 6:00–7:00 — Load-in & setup (crew only)
+The Fold confirmed **setup access from 6:00 PM** (one hour before doors) and **breakdown complete by
+10:30 PM** — that's the hard window, so load in tight and tested by 6:45. The event lives **downstairs
+in the Theater Gallery**; check-in happens upstairs at the front (see below).
+- **A/V is all in-house** (no add-on): projector + screen, 3 mics, PA, cables/adapters, and colored
+  uplights. Plug the demo laptop into the house projector early and confirm the picture; test a mic.
+- **Power:** a power strip lives at the stage; venue provides extension cords. Run cable behind the
+  stage (no floor tape allowed; bring gaff tape only if you must secure a run).
+- **Wi-Fi:** the venue provides event Wi-Fi details on the day — get them from staff at load-in.
+- **Displays: no wall-mounting is allowed.** The venue provides **easels and rolling whiteboards** —
+  use those for the Future Headline Wall and any station boards (all freestanding). Signage goes in
+  sign holders, not taped to walls.
+- **Food/drink table goes in the back of the Theater Gallery** (venue's designated spot); keep it
+  clear of the stairs, restrooms, and exits. Venue sets out trash/recycle/compost bins.
+- Set the demo→station layout (chairs facing the screen for the demo block), load all tabs/fallbacks,
+  and refresh the Village Pulse dashboard (see Tech dependencies).
+
 ## 7:00–7:25 — Doors & arrivals
 - Check-in: name tags; hand each guest an **"Ask an Agent…" door card** (`program/door-prompt-cards.md`).
+- **Flow (venue):** guests **check in at the front entrance upstairs**, then a **greeter directs them
+  downstairs to the Theater Gallery**. Staff the front so no one wanders. **ADA access is via the
+  elevator in the back — ask a Fold staff member to assist.** Mention the elevator on the door card / to
+  anyone who needs it.
 - Drinks + light food open (self-serve, non-alcoholic default per logistics).
 - Project gallery looping silently on the big screen (the Demo 3 reel on auto-play).
 - Stations visibly set up but "soft open" — facilitators invite early browsers.
@@ -121,7 +142,7 @@ room, in two modes that never overlap:
 ## 9:55–10:00 — Close (MC)
 - Thank-yous (guests, Larissa, AI Digest, facilitators). One closing line. Where to follow next.
 - Begin breakdown per `ops/day-of-checklist-v0.md` (restore furniture, sort trash/recycle/compost,
-  no floor tape to remove, collect freestanding boards + artifacts).
+  no floor tape to remove, collect freestanding boards + artifacts). **Breakdown must be complete by 10:30 PM (venue hard out)** — and we take the trash out to the bins.
 
 ---
 
