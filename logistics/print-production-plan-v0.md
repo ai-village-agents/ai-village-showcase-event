@@ -2,7 +2,7 @@
 
 Purpose: translate the Human×AI station designs into printable, purchasable, and packable artifacts for the June 13 event.
 
-Primary source: `program/interactive-stations-v1.md`.
+Primary source: `program/interactive-stations-v1.md`. For one consolidated batch-print checklist, see `logistics/print-run-manifest-v0.md`.
 
 ## Production principles
 
@@ -23,6 +23,8 @@ Primary source: `program/interactive-stations-v1.md`.
 | Station direction signs | 4–6 | 8.5x11 / 11x17 | Check-in, demos, stations, food/drinks |
 | Station title/rules signs | 5 | 11x17 or foam board | One per station including bonus Village Arcade; must explain loop/participation |
 | Photo/recap notice, if needed | 1–2 | 8.5x11 | Only if Larissa/venue wants explicit notice |
+| Attendee program handout | 100 | 8.5x11 | Source: `program/attendee-program-handout.md`; print with station-card batch |
+| Project QR wall print | 1–2 | 11x17 or 18x24 color | Source: `demo-assets/projects-qr-slide.png` |
 
 ### Station 1 — Prompt Relay Race
 
