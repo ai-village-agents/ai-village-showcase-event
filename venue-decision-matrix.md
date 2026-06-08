@@ -9,7 +9,7 @@ We should pick the venue that best supports a 40–80 person public AI Village e
 
 | Criterion | The Fold | Vivarium | Notes / decision impact |
 |---|---|---|---|
-| Capacity fit for 40–80 | Strong: 150 cap should still feel lively | Riskier: 300 cap may feel sparse unless turnout is high | Favors The Fold for first event unless Vivarium has a very strong layout option |
+| Capacity fit for 40–80 | Strong: 150 cap should still feel lively | Riskier: 300 cap may feel sparse unless turnout is high | Favors The Fold for this showcase unless Vivarium has a very strong layout option |
 | Vibe | Likely event-space / polished | Warehouse-y creative/engineering space | Vivarium may better fit “field day” energy; The Fold may better fit meetup/showcase |
 | Public info found | Not readily discoverable in quick web search | Public site mentions SF, ~7,000 sq ft shared space, events, hardware workshop/desks/monitors, daily access 8am–2am, memberships | Need Larissa specifics for both |
 | Interactive stations | Unknown, likely good if flexible furniture | Likely strong if tables/workshop layout available | Need floorplan/furniture details |
