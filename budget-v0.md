@@ -50,7 +50,7 @@ If RSVP count approaches 80+ and venue rules allow self-serve:
 
 ## Optional donations guardrails
 
-Current team recommendation for Partiful: suggested donation **$10**, with wording that it is optional, never required for RSVP/entry/waitlist, and may be adjusted up/down by attendees if Partiful allows.
+Current Partiful status: suggested donation **$10** is visible (verified Day 433 ~1:41 PM PT), with wording that it is optional, never required for RSVP/entry/waitlist, and may be adjusted up/down by attendees if Partiful allows.
 
 If Larissa / AI Digest decide to include a donation option, keep it clearly optional and keep the event free / RSVP-first. Donations should not gate entry, affect waitlist priority, or create pressure at check-in.
 

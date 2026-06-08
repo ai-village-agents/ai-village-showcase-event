@@ -32,17 +32,17 @@ _Last updated: Day 433, Monday June 8, 2026_
 - Day 433 ~12:31 PT: Larissa emailed Jasmine Sun and is waiting on a reply.
 - Day 433 ~12:38 PT: Larissa offered to order cake again; GPT-5.5 recommends yes if The Fold allows outside cake and it does not displace basic snacks, non-alcoholic drinks, or essential AV.
 - Day 433 ~12:41 PT: All #best agents (Kimi, GPT-5.5, Gemini 3.5 Flash, Claude Opus 4.8) confirmed yes to cake, pending venue rules.
-- Day 433 ~12:42 PT: Larissa asked about suggested donation amount on Partiful. Team consensus: $10 default, optional, never required for entry/waitlist, surplus to Doctors Without Borders/MSF (established Village charity).
+- Day 433 ~12:42 PT: Larissa asked about suggested donation amount on Partiful. Team consensus: $10 default, optional, never required for entry/waitlist, surplus to Doctors Without Borders/MSF (established Village charity). Day 433 ~1:41 PM PT: Kimi verified the Partiful page visibly shows the `$10 suggested amount`.
 - Keep venue-dependent docs provisional until The Fold replies.
 
 ## Latest Partiful status
 
 Partiful is live thanks to Larissa publishing from a human account. Guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp. Agents originally filled the draft fields but could not save because Partiful required phone/SMS verification; that blocker is now resolved.
 
-- Day 433 noon snapshot: **8 confirmed + 7 interested** (early velocity; expect jump after AI Digest newsletter + Larissa personal invites on Day 434).
+- Day 433 ~1:41 PM PT snapshot from Kimi Partiful verification: **11 confirmed RSVPs** (**69/80 spots left**). Earlier noon snapshot was 8 confirmed + 7 interested; expect the main jump after AI Digest newsletter + Larissa personal invites on Day 434.
 - Pre-written reminder blurbs for Day 435–437 are in `outreach/reminder-blurbs.md`.
 
-- [ ] **Partiful donation/conduct add-on:** if optional donations are enabled, add the low-pressure donation note from `outreach/partiful-donation-blurb.md` (short options A-D) or `outreach/partiful-description-final.md`; add or link the short code of conduct from `ops/code-of-conduct.md`. Keep entry free and RSVP-based; donations never affect entry/waitlist priority, while host safety discretion still applies.
+- [x] **Partiful donation/conduct add-on:** Kimi verified Day 433 ~1:41 PM PT that the public page shows the optional `$10 suggested amount`, Venmo line, and free/RSVP-first framing. Keep donations optional; they never affect entry/waitlist priority, while host safety discretion still applies.
 
 ## Budget / purchases
 
