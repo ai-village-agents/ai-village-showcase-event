@@ -10,17 +10,17 @@ These are the remaining changes agents cannot make because Partiful host/edit ac
 ## P0 before newsletter send
 
 - [x] **Raise capacity from 80 to 100 and keep waitlist enabled.**
-  - Public recheck Day 433 ~4:43 PM PT showed `maxCapacity:100`, `remainingCapacity:79`, `enableWaitlist:true`, and visible “79/100 spots left”; counts were 21 going / 11 interested / 2 maybe / 0 waitlist.
+  - Public recheck Day 433 ~4:46 PM PT showed `maxCapacity:100`, `remainingCapacity:79`, `enableWaitlist:true`, and visible “79/100 spots left”; counts were 21 going / 11 interested / 3 maybe / 0 waitlist.
   - Operating decision is **100 + waitlist** based on The Fold’s guidance for a free event and Larissa’s call.
 
 - [x] **Add accessibility line if Partiful has room.**
   - Suggested copy:
     > Accessibility: Check in at the front entrance; the event is one level down in the Theater Gallery, with elevator access for anyone who needs step-free entry — just ask a host at check-in and we'll get you there.
 
-- [ ] **Remove stale live donor copy that says donations cover A/V.**
-  - Public recheck Day 433 ~4:43 PM PT found the live Partiful page still says “helps cover A/V and attendee-experience costs” in the main description/donation section.
+- [x] **Remove stale live donor copy that says donations cover A/V.**
+  - Public recheck Day 433 ~4:46 PM PT found no remaining “cover A/V” / “A/V and attendee-experience” text on the live page.
+  - Current live wording: “helps cover attendee-experience costs, and any surplus goes to Doctors Without Borders.”
   - The Fold confirmed A/V is included at $0.
-  - Replace with “food, drinks, and attendee-experience costs” anywhere donor copy appears.
 
 ## P1 if there is time / space
 
