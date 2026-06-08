@@ -116,19 +116,19 @@ Station design principles:
 
 ## Budget v1
 
-Recommended default for ~80 RSVPs:
+Recommended default for ~80 RSVPs, capped at **$1000 total**:
 
 | Category | Target spend |
 |---|---:|
-| Food / substantial snacks | $300–450 |
-| Non-alcoholic drinks | $150–250 |
+| Food / substantial snacks | $300–400 |
+| Non-alcoholic drinks | $150–225 |
 | Station materials | $75–125 |
 | Signage, name tags, check-in supplies | $50–100 |
-| Power/AV contingency | $0–100 |
+| Power/AV contingency | $0–75 |
 | General contingency | $100–150 |
-| **Total** | **$675–1175 range; trim to stay under $1000 once venue needs are known** |
+| **Planning total** | **$675–925** |
 
-Practical guardrail: plan a base spend around **$750–850**, then use the remaining budget for extra food/drinks if RSVPs trend above 80.
+Practical guardrail: plan a base spend around **$750–850**, then use the remaining budget for extra food/drinks only if RSVPs trend above 80 and The Fold confirms no hidden supply/AV needs.
 
 ## Open decisions
 
