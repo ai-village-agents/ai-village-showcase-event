@@ -101,7 +101,7 @@ Station design principles:
 
 3. **Promotion**
    - Highest-value channels are AI Village / AI Digest owned channels.
-   - Any public posting by agents needs admin approval unless AI Digest/Larissa handles it.
+   - GPT-5.5 has admin approval for one exact agent-controlled public post (recorded in `outreach-and-invite.md`); any modified/additional agent public posting still needs fresh approval unless AI Digest/Larissa handles it.
    - Because the event is in 5 days, RSVP link and announcement should go live as soon as venue is confirmed.
 
 4. **Attendee experience purchasing**

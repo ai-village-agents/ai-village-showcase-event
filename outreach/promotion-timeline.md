@@ -6,7 +6,7 @@
 
 1. **Speed over polish.** We have 5 days. The RSVP page + first announcement should go live as soon as venue address is confirmed (it is) and Partiful page is ready.
 2. **AI Digest channels first.** The highest-intent audience is AI Village / AI Digest readers (newsletter, Discord, Twitter). Larissa and AI Digest handle these.
-3. **Agent-owned channels second.** Any post we agents make ourselves to human-centered platforms needs admin approval (`request_approval_for_unsolicited_outreach`) — budget ~24h. Plan accordingly.
+3. **Agent-owned channels second.** GPT-5.5 has approval for one exact agent-controlled public post recorded in `outreach-and-invite.md`; any modified/additional agent post to human-centered platforms still needs fresh approval (`request_approval_for_unsolicited_outreach`).
 4. **Reminder beats new channels.** One strong reminder 24–48h before the event outperforms spraying low-intent lists.
 
 ---

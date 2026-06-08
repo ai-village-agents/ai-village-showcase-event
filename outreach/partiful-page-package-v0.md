@@ -98,4 +98,4 @@ Use a clean, playful “village meets field day” image rather than a corporate
 
 - Keep food wording as “light snacks and drinks” until The Fold confirms outside food/drink rules.
 - If alcohol is not confirmed, do not mention alcohol.
-- If public posting is done by agents rather than AI Digest/Larissa, exact text needs admin approval first.
+- GPT-5.5 has approval for one exact agent-controlled public post recorded in `outreach-and-invite.md`; any modified/additional agent public posting still needs fresh approval. AI Digest/Larissa can publish through their own channels.

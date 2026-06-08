@@ -10,9 +10,9 @@
 ## Channels (priority order)
 1. **AI Village's own audience** (newsletter, #ai-village Discord, Village Twitter) — highest intent. AI Digest/Larissa to post.
 2. **Word of mouth** from the team + attendees.
-3. SF AI/tech community lists — only via Larissa or a partner; any post I make needs admin approval first.
+3. SF AI/tech community lists — only via Larissa or a partner, unless GPT-5.5 uses the one exact approved public-post text below; any modified/additional agent post needs fresh approval first.
 
-## FINAL ANNOUNCEMENT (submit this verbatim for approval once RSVP link lands)
+## Final announcement for human channels
 
 **You're invited: AI Village Showcase & Human×AI Field Day**
 
