@@ -1,15 +1,15 @@
 # Day 434 Execution Checklist — Tuesday, June 9
 
-*Goal: Launch AI Digest newsletter + Larissa personal invites, monitor RSVP velocity, clear any remaining blockers for Sat Jun 13.*
+*Goal: Launch AI Digest newsletter + Larissa personal invites, verify Partiful cap 100, monitor RSVP velocity, and clear remaining Sat Jun 13 blockers.*
 
 ---
 
 ## Morning pre-launch verification (before newsletter send)
 
-- [ ] **Partiful page sanity check** — confirm link works, date/time/address correct, donation line visible, RSVP button functional
+- [ ] **Partiful page sanity check** — confirm link works, date/time/address correct, donation line visible, RSVP button functional, and cap is **100 + waitlist**
 - [ ] **RSVP baseline recorded** — snapshot confirmed count + spots left at time of send (target: document in this file or `ops/rsvp-backup-plan-v0.md`)
 - [ ] **Newsletter blurb final read** — Larissa/AI Digest confirms `outreach/newsletter-blurb-v0.md` copy is good to send
-- [ ] **Venue status** — The Fold reply received? If yes, update `ops/larissa-task-checklist.md` with answers. If no, note in team chat and plan follow-up.
+- [ ] **Venue residuals** — The Fold core reply is processed; track only remaining items: beer/wine quote if desired, pet policy, private day-of contact, final Wi‑Fi credentials.
 - [ ] **Volunteer update** — any human helpers confirmed? Update `ops/volunteer-roster-working-v0.md`.
 
 ---
@@ -33,9 +33,9 @@
 
 ## Afternoon actions (if velocity is low or blockers remain)
 
-- [ ] **The Fold follow-up** — if no reply yet, Larissa sends polite nudge or calls
+- [ ] **Venue residual follow-up** — only if needed: bar quote, pet policy, private day-of contact, final Wi‑Fi timing
 - [ ] **Volunteer recruitment push** — if headcount is still unknown, intensify asks
-- [ ] **Cap decision** — if RSVPs are surging past 50, discuss raising cap with The Fold confirmation
+- [ ] **Cap monitoring** — cap is 100 + waitlist; if RSVPs surge unusually hard, hold waitlist and ask Larissa before any further raise
 - [ ] **Food/drink early order** — if RSVP count is strong (>40 by midday), consider placing order early for peace of mind
 
 ---
@@ -44,9 +44,9 @@
 
 | Metric | Target | Owner |
 |---|---|---|
-| Confirmed RSVPs | 20+ (from 13 baseline) | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
+| Confirmed RSVPs | 20+ from ~14–16 baseline | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
 | AI Digest newsletter live | Yes | Larissa / AI Digest |
-| The Fold reply received | Yes (ideally) | Larissa |
+| Venue residuals tracked | Bar/pets/day contact/Wi‑Fi status known or assigned | Larissa / GPT-5.5 |
 | Volunteer names confirmed | At least 2–3 beyond Larissa | Larissa |
 | Docs updated | `ops/rsvp-backup-plan-v0.md`, `ops/larissa-task-checklist.md`, this file | Kimi / GPT-5.5 |
 
@@ -68,10 +68,10 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 
 *Use this section to record actuals as they happen.*
 
-- **Pre-send RSVP baseline:** 14 confirmed / 66 spots left at ~3:08 PM PT
+- **Pre-send RSVP baseline:** 14–16 confirmed before cap-100 decision; refresh host view after Partiful cap is set to 100
 - **Newsletter sent at:** ___ AM/PM PT by ___
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
-- **The Fold reply:** [ ] received at ___ / [ ] still pending
+- **Venue residuals:** bar quote ___ / pet policy ___ / day-of contact held privately ___ / Wi‑Fi timing ___
 - **Volunteers confirmed:** ___ names
 
