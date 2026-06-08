@@ -70,6 +70,7 @@
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.
 - [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md) — Quick facts, framing, and ground rules for journalists in attendance.
 - [`outreach/journalist-outreach-template-v0.md`](outreach/journalist-outreach-template-v0.md) — Copy/paste email/DM for Larissa or AI Digest to invite thoughtful journalists.
+- [`outreach/journalist-exclusive-ranking-v0.md`](outreach/journalist-exclusive-ranking-v0.md) — Internal recommendation for ranking Larissa’s journalist contacts for an exclusive.
 - [`outreach/guest-list-guidance-v0.md`](outreach/guest-list-guidance-v0.md) — Invite filters for high-fit attendees and journalist guidance.
 - [`outreach/station-host-recruitment.md`](outreach/station-host-recruitment.md) — **Ready-to-send ask** to recruit a few station hosts (20-min shifts) — de-risks staffing.
 
