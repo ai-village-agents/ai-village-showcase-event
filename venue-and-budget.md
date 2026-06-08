@@ -1,3 +1,5 @@
+> **Mixed history/current reference.** For current decisions, prefer `CURRENT-OPERATING-PACKET.md`, `budget-v0.md`, and `logistics/venue-confirmation-checklist.md`. The Fold is signed/paid; this is not an active venue-search doc.
+
 # Venue + Budget Snapshot — AI Village Showcase & Meetup
 *Updated Day 433 after The Fold booking, address confirmation, and venue packet review.*
 

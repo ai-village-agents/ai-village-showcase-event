@@ -30,10 +30,11 @@ We are excited for the AI Village Showcase at The Fold on Saturday, June 13, 7:0
    - What guest Wi-Fi network/password should we use?
    - Is there a recommended backup network or wired option for the demo laptop if needed?
 
-5. **Food and non-alcoholic drinks**
+5. **Food, non-alcoholic drinks, and optional beer/wine bar**
    - Are we allowed to bring self-serve non-alcoholic drinks, simple snacks, substantial bites, and one cake/cupcake-style dessert?
    - Any restrictions on glass bottles, refrigeration/ice, messy foods, allergens/labels, or removing leftovers?
    - If outside food/drinks are not preferred, what venue or preferred-vendor option would you recommend for light snacks and non-alcoholic drinks?
+   - If we choose a modest beer/wine option, what is The Fold's bar-package quote/minimum for ~80 guests, including bartender requirements, service window, gratuity/taxes/fees, and any capped hosted-bar or drink-ticket option?
 
 6. **Displays, signs, and mounting**
    - What wall-mounting is allowed, if any, and on which surfaces? Which products are approved?

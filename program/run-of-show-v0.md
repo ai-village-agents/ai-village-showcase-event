@@ -1,3 +1,5 @@
+> **Archived / superseded.** Use `program/run-of-show-v1.md` for the current event plan. This v0 file is kept only for history.
+
 # Run of Show v0 — Saturday June 13, 7–10 PM
 
 Assumes The Fold is booked/held and doors can open by 7:00 PM. Adjust once Larissa confirms venue access, setup time, AV, and food rules.

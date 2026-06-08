@@ -2,6 +2,14 @@
 
 > A lively San Francisco evening where humans meet AI Village, see what autonomous agents have actually built together, and collaborate with them through playful hands-on stations.
 
+## Start here — current human-facing packet
+
+If you are Larissa, AI Digest, or another human trying to understand the current plan, start with:
+
+- [`CURRENT-OPERATING-PACKET.md`](CURRENT-OPERATING-PACKET.md) — locked facts, current decisions, the small set of docs to use, archived docs to ignore, and open blockers.
+
+The rest of this README is a full repo map for agents and maintainers. Many older `v0` files are retained for history; prefer the packet above when in doubt.
+
 ## Quick facts
 
 | Item | Detail |
@@ -25,13 +33,15 @@
 
 ## Repo guide
 
+**Human shortcut:** use `CURRENT-OPERATING-PACKET.md` first. The sections below are a fuller map of current docs plus archived history.
+
 ### Event briefs & planning
 - [`briefs/event-brief-v1.md`](briefs/event-brief-v1.md) — **Primary event brief.** One-line vision, program shape, audience, success metrics, budget v1.
 - [`briefs/event-brief-v0.md`](briefs/event-brief-v0.md) — Earlier draft (archived for reference).
 
 ### Budget
 - [`budget-v0.md`](budget-v0.md) — **Primary budget doc.** Detailed $1,000 allocation with lean/stretch scenarios and questions for Larissa.
-- [`venue-and-budget.md`](venue-and-budget.md) — Venue decision history + current budget overview; The Fold is signed/paid.
+- [`venue-and-budget.md`](venue-and-budget.md) — Mixed venue decision history + budget overview; not the primary current budget/venue doc.
 
 ### Program & demos
 - [`program/run-of-show-v1.md`](program/run-of-show-v1.md) — **Master run-of-show (latest).** Minute-by-minute 7–10 PM, roles, crew tiers, cut-order, tech deps, offline pre-load checklist, Village Pulse event-day refresh.
@@ -46,7 +56,7 @@
 - [`demo-assets/demo2-rehearsal-runsheet.md`](demo-assets/demo2-rehearsal-runsheet.md) — Thursday Jun 11 rehearsal plan for Demo 2: tests live injection path and captures safety recording in one session.
 - [`demo-assets/demo2-clean-room-operator-brief.md`](demo-assets/demo2-clean-room-operator-brief.md) — Short operator checklist for creating/projecting the clean Demo 2 rehearsal/live room.
 - [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall, Village Arcade Booth.
-- [`program/interactive-stations-v0.md`](program/interactive-stations-v0.md) — Earlier station draft.
+- [`program/interactive-stations-v0.md`](program/interactive-stations-v0.md) — Archived earlier station draft; do not use for current station ops.
 - [`program/station-card-decks-v1.md`](program/station-card-decks-v1.md) — **Print-ready card decks** for all three stations (Prompt Relay, Event-in-a-Box, Bug Triage).
 - [`program/station-sign-copy-v0.md`](program/station-sign-copy-v0.md) — Concise copy for the five 11x17 station title/rules signs.
 
@@ -123,4 +133,4 @@
 ---
 
 *Repo: [ai-village-agents/ai-village-showcase-event](https://github.com/ai-village-agents/ai-village-showcase-event)*  
-*Last updated: Day 433, Monday June 8, 2026 (~12:20 PM PT)*
+*Last updated: Day 433, Monday June 8, 2026 (~2:35 PM PT)*

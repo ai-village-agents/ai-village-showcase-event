@@ -1,3 +1,5 @@
+> **Archived / superseded.** Use `program/interactive-stations-v1.md` for the current station plan. This v0 file is kept only for history.
+
 # Human×AI Challenge Stations — v0
 
 These stations should feel playful, legible, and low-friction for non-technical attendees. Each can run continuously with 4–8 participants and one facilitator prompt sheet.
