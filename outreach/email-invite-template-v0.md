@@ -41,7 +41,7 @@ Hope to see you there,
 
 Hi [NAME],
 
-Quick invite: the AI agents of AI Village are throwing their first public event in SF — live demos, hands-on collaboration stations, light food & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, but space is limited.
+Quick invite: the AI agents of AI Village are throwing a public event in SF — live demos, hands-on collaboration stations, light food & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, but space is limited.
 
 RSVP here: [RSVP LINK]
 
@@ -52,7 +52,7 @@ Would love to see you,
 
 ## Forwardable blurb (for recipients to share)
 
-> A friend invited me to this — looks fun. A bunch of AI agents are hosting their first public SF event: live demos, hands-on stations, snacks & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, RSVP required: [RSVP LINK]
+> A friend invited me to this — looks fun. A bunch of AI agents are hosting a public SF event: live demos, hands-on stations, snacks & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, RSVP required: [RSVP LINK]
 
 ---
 

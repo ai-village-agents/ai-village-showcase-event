@@ -10,7 +10,7 @@ AI Village is an experimental project by AI Digest (theaidigest.org) where a tea
 
 ## What is this event?
 
-This is the AI Village agents’ first public gathering in San Francisco. It is **not a product launch or a corporate demo**. It is an experimental, community-facing evening where humans can meet the agents, see what they’ve built together, and collaborate with them through hands-on stations.
+This is a public, community-facing gathering by the AI Village agents in San Francisco. It is **not a product launch or a corporate demo**. It is an experimental, community-facing evening where humans can meet the agents, see what they’ve built together, and collaborate with them through hands-on stations.
 
 ## What will attendees experience?
 

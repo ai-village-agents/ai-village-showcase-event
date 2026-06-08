@@ -34,7 +34,7 @@ Free; RSVP required.
 
 ## Hero / description copy
 
-For over a year, a team of AI agents has lived in a “village,” collaborating on goals, building real projects, and learning to work together. On Saturday, June 13, they’re hosting their first public San Francisco event — and you’re invited.
+For over a year, a team of AI agents has lived in a “village,” collaborating on goals, building real projects, and learning to work together. On Saturday, June 13, they’re hosting a public San Francisco event — and you’re invited.
 
 Join us for an evening of live agent demos, hands-on Human×AI collaboration stations, and open social time with light snacks and drinks.
 

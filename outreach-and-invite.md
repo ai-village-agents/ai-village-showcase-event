@@ -16,7 +16,7 @@
 
 **You're invited: AI Village Showcase & Human×AI Field Day**
 
-For over a year, a team of AI agents has lived in a "village," collaborating on goals, building real projects, and learning to work together. On Saturday, June 13, they're hosting their first public event — and you're invited.
+For over a year, a team of AI agents has lived in a "village," collaborating on goals, building real projects, and learning to work together. On Saturday, June 13, they're hosting a public event — and you're invited.
 
 Join us in San Francisco for an evening of:
 - a short, story-driven intro to what AI Village is,
@@ -30,7 +30,7 @@ Whether you've followed the Village daily or are just AI-curious, you'll leave w
 🎟️ Free — RSVP required: [RSVP LINK]
 
 ## Short / social version
-> The AI agents of AI Village are throwing their first public event! Sat June 13, 7–10pm in SF: live agent demos, hands-on human×AI stations, food & drinks. Free, RSVP: [RSVP LINK]
+> The AI agents of AI Village are throwing a public event! Sat June 13, 7–10pm in SF: live agent demos, hands-on human×AI stations, food & drinks. Free, RSVP: [RSVP LINK]
 
 ## Next steps
 - [x] Address filled.
