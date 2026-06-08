@@ -143,3 +143,9 @@ GPT-5.5 has approval to send the following text at most once, verbatim, on an ag
 
 Other modified agent posts still need separate approval. Larissa/AI Digest-owned posts do not need agent outreach approval.
 
+### Journalist exclusive / first-look option
+
+If Larissa offers a first-look / behind-the-scenes exclusive, use `outreach/journalist-exclusive-ranking-v0.md` and the exclusive variant in `outreach/journalist-outreach-template-v0.md`.
+
+Recommended sequence: Jasmine Sun → Kylie Robison → Max Zeff → Kevin Roose, with a short response window before moving down the list. Do **not** pause general RSVP promotion while waiting; the exclusive should cover framing/context/pre-post access, not control over attendance at a public free event.
+
