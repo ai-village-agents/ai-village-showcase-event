@@ -1,36 +1,25 @@
-# SF Venue Shortlist & Budget Draft — AI Village Showcase & Meetup
-*Drafted by Claude Opus 4.8, Day 433. For Larissa + team to react to / refine.*
+# Budget Plan ($1000) — AI Village Showcase & Meetup
+*Claude Opus 4.8. UPDATED Day 433 with Larissa's confirmations.*
 
-## Event snapshot (working assumptions — confirm)
-- **Format:** Intro to AI Village (~20m) → live/recorded agent demos (~30m) → human×AI interactive challenge stations (~45m) → open social.
-- **Audience:** Public — people who follow the Village + SF AI/tech-curious community. **Target 40–80.**
-- **When:** A weekday **evening this week** (~6–9pm). Date TBD by venue availability + lead time.
-- **Budget:** $1000 total (Larissa holds/spends). Venue + AV + light food/drink + materials.
+## Confirmed facts (from Larissa, Day 433)
+- **Date/time: Saturday, June 13, 2026, 7:00–10:00 PM.**
+- **Two venue options, both free to us** (Larissa negotiated rates; venue cost does NOT come from our $1000): **The Fold (~150 cap)** and **Vivarium (~300 cap)**.
+- Team recommendation: **The Fold** — right-sized for a 40–80 target, lively/full feel, low production risk on a 5-day timeline.
+- **Implication: the full $1000 funds attendee experience**, not venue.
 
-## Venue options (capacity ~40–80, evening, modest cost)
-| Venue | Vibe / fit | Capacity | Est. cost | Notes |
-|---|---|---|---|---|
-| **Noisebridge (Mission)** | Hackerspace; deeply aligned w/ AI/maker community; tables for stations | ~40–60 | Free / donation | Community-run; needs a member sponsor + their consensus. Great for interactive stations. |
-| **Frontier Tower / AGI House-adjacent spaces (Mid-Market)** | Frontier-AI community hub; hosts AI demo nights | 50–100 | Free–$$ if partnered | Best thematic fit; depends on Larissa's contacts / a host partner. |
-| **Manny's (Mission, 16th & Valencia)** | Civic events café; A/V + food/drink on-site; very public-friendly | 80–100 | ~$300–700 evening | Turnkey, polished, central. Strong default if we want low-hassle. |
-| **SHACK15 (Ferry Building)** | Founder/tech community space, great views | 80+ | $$ (membership/partner) | Premium; likely over budget unless sponsored. |
-| **SF Public Library meeting room** | Free civic space | 40–100 | Free | No alcohol, limited evening hrs, books in advance — fallback. |
-| **A co-working event space (Covo / Werqwise / The Vault)** | Flexible rooms, projector | 40–80 | $200–600 evening | Reliable mid-tier option. |
+## $1000 budget allocation (venue = $0 to us)
+| Line item | Est. | Notes |
+|---|---|---|
+| Food (light apps / finger food, dietary-inclusive) | $400–500 | Scaled to RSVP count; order ~3–4 days out |
+| Drinks (NA + some beer/wine, ice, cups) | $150–250 | Confirm The Fold's alcohol/food rules first |
+| Materials (name tags, printed station cards, signage, markers) | $100–150 | Reusable where possible |
+| Interactive-station supplies | $75–125 | Depends on final station designs (Gemini) |
+| Contingency / misc (adapters, extension cords) | $100 | Buffer |
+| **Total** | **~$825–1000** | Comfortably within cap |
 
-## Budget scenarios ($1000 cap)
-**Scenario A — Free/community venue (e.g., Noisebridge / library / partnered space)**
-- Venue: $0 → Food & drink (light apps + NA + some beer/wine): ~$500–650
-- Materials (printouts, name tags, station supplies, signage): ~$150
-- AV/misc (adapters, extension cords, contingency): ~$100
-- **Total ≈ $750–900**, leaves buffer.
-
-**Scenario B — Paid turnkey venue (e.g., Manny's / co-working)**
-- Venue + AV: ~$400–600 → Food & drink: ~$250–350
-- Materials: ~$100
-- **Total ≈ $750–1000.**
-
-## Open questions for Larissa
-1. Do you have **direct contacts** at any of these (esp. Frontier Tower / Manny's / a hackerspace) who could host us **this week**?
-2. What **lead time** do you realistically need to lock a venue + order food?
-3. Any **hard date constraints** on your side this week (which evenings work)?
-4. Preference between **free-community vibe (A)** vs **turnkey paid (B)**?
+## Open items for Larissa (parallel to booking)
+1. Confirm **hold on The Fold** for June 13, 7–10pm.
+2. The Fold's **food/drink rules** (outside catering? alcohol? cleanup/insurance?).
+3. Included **AV** (projector/screen, mic/speakers), **Wi-Fi** bandwidth, **tables/chairs/power**.
+4. **Address / accessibility / transit** for the public invite.
+5. Larissa's preferred **caterer / ordering path** so spend stays within $1000.
