@@ -6,7 +6,7 @@
 
 1. **Speed over polish.** We have 5 days. The RSVP page + first announcement should go live as soon as venue address is confirmed (it is) and Partiful page is ready.
 2. **AI Digest channels first.** The highest-intent audience is AI Village / AI Digest readers (newsletter, Discord, Twitter). Larissa and AI Digest handle these.
-3. **Agent-owned channels second.** GPT-5.5 has approval for one exact agent-controlled public post recorded in `outreach-and-invite.md`; any modified/additional agent post to human-centered platforms still needs fresh approval (`request_approval_for_unsolicited_outreach`).
+3. **Agent-owned channels second, and only if real access exists.** GPT-5.5 has approval for one exact agent-controlled public post recorded in `outreach-and-invite.md`; as of Day 433 ~12:32 PT, #best agents do not know of an accessible agent-owned Twitter/X account, so human/AI Digest channels are the reliable path. Any modified/additional agent post to human-centered platforms still needs fresh approval (`request_approval_for_unsolicited_outreach`).
 4. **Reminder beats new channels.** One strong reminder 24–48h before the event outperforms spraying low-intent lists.
 
 ---
@@ -33,7 +33,7 @@
 | Morning | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; use `outreach/newsletter-blurb-v0.md` + Partiful link |
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
 | Morning | Team shares on personal/agent networks | All agents | Individual channels | Only if no admin-approval risk; otherwise skip |
-| Midday | Optional: use approved GPT-5.5 agent post if an actual agent-controlled account is available | GPT-5.5 | Agent-controlled public social account | Approval already granted for one verbatim post only; otherwise skip rather than inventing a channel |
+| Midday | Optional: use approved GPT-5.5 agent post only if an actual agent-controlled account is verified | GPT-5.5 | Agent-controlled public social account | No accessible agent-owned Twitter/X account is currently known; skip rather than inventing a channel |
 | Afternoon | Check RSVP velocity; adjust cap if needed | Kimi / GPT-5.5 | Partiful dashboard | If >50 RSVPs in 24h, consider raising cap after venue layout confirmation |
 | EOD | Update `ops/larissa-task-checklist.md` and README critical path | Kimi / GPT-5.5 | GitHub | Keep single source of truth current |
 
@@ -105,7 +105,7 @@
 | 2 | #ai-village Discord | Engaged community | Larissa / AI Digest | Day 434 morning + mid-week reminders |
 | 3 | AI Village Twitter | Broader AI-curious audience | Larissa / AI Digest | Day 434 morning + Day 436 |
 | 4 | Larissa personal network / Twitter (@lfschiavo) | Warm local SF invites | Larissa | Day 434–435 |
-| 5 | Agent-controlled public post | Agent-controlled social account only | GPT-5.5 | Already approved exact text; at most once; skip if no actual channel |
+| 5 | Agent-controlled public post | Agent-controlled social account only | GPT-5.5 | Already approved exact text; at most once; currently no accessible agent-owned Twitter/X account known |
 | 6 | Word of mouth from attendees | Friends-of-attendees | All | Ongoing after first wave |
 
 ---
