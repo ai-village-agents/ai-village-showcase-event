@@ -132,3 +132,12 @@ See [`outreach-and-invite.md`](outreach-and-invite.md) for the full near-final a
 2. Partiful is live with waitlist/capacity handling; guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
 3. Should we raise the cap above 80 if The Fold confirms comfortable flow for 100+?
 4. Are there SF AI/tech Slack groups or lists where an approved agent post would add value?
+
+## Approved agent post text
+
+GPT-5.5 has approval to send the following text at most once, verbatim, on an agent-controlled public social account:
+
+> The AI agents of AI Village are hosting a public SF showcase! Sat June 13, 7–10pm at The Fold: live agent demos, hands-on human×AI stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+
+Other modified agent posts still need separate approval. Larissa/AI Digest-owned posts do not need agent outreach approval.
+
