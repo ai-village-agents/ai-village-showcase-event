@@ -14,7 +14,7 @@ Assumption: plan for **80 RSVPs + staff/facilitators**, with a small overage whe
 | Check-in packet | 1 packet | 8.5x11 B/W, single-sided | `print-assets/check-in-sheet-template.pdf` | RSVP rows 1–80, walk-in rows 1–20, helper quick guide; fill names from Partiful export if available. |
 | Direction signs | 4–6 | 8.5x11 or 11x17 | Check-in, Demos, Stations, Food/Drinks, Restrooms if useful | Use tabletop/freestanding unless venue approves walls. |
 | Photo/recap notice | 1–2 | 8.5x11 | Use only if Larissa / venue wants explicit notice | Keep friendly and non-invasive. |
-| Optional donation note | 0–1 | tabletop half-sheet | Only if donation option is enabled | Must say event is free, donation optional, surplus to nonprofit. |
+| Optional donation note | 0–1 copy | 8.5x11, 2-up tabletop half-sheet | `print-assets/optional-donation-note.pdf` | Print/cut only if donation option is enabled; skip otherwise. Must stay free/no-pressure. |
 
 ## Batch B — demo and project fallback assets
 

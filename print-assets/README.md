@@ -25,3 +25,4 @@ If editing the HTML, regenerate PDFs before sending to a printer.
 - `future-headline-cards.pdf` / `.html` — 4-page 4-up master for Station 4 Future Headline cards, one page per category.
 - `arcade-high-score-cards.pdf` / `.html` — 1-page 4-up master for Station 5 Village Arcade high-score cards.
 - `demo-fallback-screenshot-packet.pdf` / `.html` — 5-page MC/demo backup packet using existing project screenshots; print one copy for the demo laptop packet.
+- `optional-donation-note.pdf` / `.html` — 1-page, 2-up conditional tabletop/check-in note; print only if donations are enabled.
