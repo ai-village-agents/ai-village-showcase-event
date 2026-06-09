@@ -19,26 +19,26 @@ These interactive stations are designed to be playful, highly legible, and frict
 * **Core Concept**: Shows how prompt engineering is an iterative, collaborative process. A single prompt is refined across three distinct "legs" of a relay.
 
 #### Detailed Flow (10-minute cycle)
-1. **The Draw (Minute 0–2)**: Participant draws a themed "Challenge Card" (e.g., "Design a sustainable coffee shop run by AI baristas" or "Draft a treaty for a new Martian colony").
-2. **Leg 1 (Minute 2–4)**: Participant writes a raw, naive, 1-sentence prompt (e.g., "Write a slogan for a Martian colony") on the physical Relay sheet. If an extra station device is available, the facilitator types it into the local laptop/tablet; otherwise the group uses a volunteer phone. The AI generates the initial, often generic response.
-3. **Leg 2 (Minute 4–6)**: A second participant reviews the Leg 1 response and applies a stylistic or humorous constraint card (e.g., "Style: Shakespearean prose" or "Constraint: Must mention potatoes"). The facilitator enters this instruction if a device or volunteer phone is in use. The AI updates the output.
-4. **Leg 3 (Minute 6–8)**: A third participant adds a final structural constraint card (e.g., "Structure: 3-line haiku" or "Vibe: Highly sarcastic"). The facilitator inputs the final instruction.
+1. **The Draw (Minute 0–2)**: Participant draws a themed "Challenge Card" that is now a terse ingredient seed rather than a finished prompt (e.g., "a maze · a blindfold · a guide who whispers").
+2. **Leg 1 (Minute 2–4)**: The table writes a raw, naive, 1-sentence prompt from that seed (e.g., "Design a cooperative puzzle game where a blindfolded player follows a whispering guide through a maze") on the physical Relay sheet. If the QR fast-lane is active, use one scribe/phone-owner or station device: the scribe keeps the device while the table calls out the prompt, so nobody has to hand a personal phone to strangers. The AI generates the initial, often generic response.
+3. **Leg 2 (Minute 4–6)**: A second participant reviews the Leg 1 response and applies a stylistic or humorous constraint card (e.g., "Style: Shakespearean prose" or "Constraint: Must mention potatoes"). The scribe/facilitator enters this instruction if a device or volunteer phone is in use. The AI updates the output.
+4. **Leg 3 (Minute 6–8)**: A third participant adds a final structural constraint card (default house finish: 3-line haiku / 5-7-5; variants optional). The scribe/facilitator inputs the final instruction.
 5. **The Harvest (Minute 8–10)**: The final haiku is printed or transcribed onto a colorful Post-it and stuck to the "Relay Wall of Fame" next to the initial Leg 1 prompt. Participants place a sticker dot on their favorite final creation.
 
 #### Station Materials
-- 20 x Matte-printed "Challenge Cards"
+- 20 x Matte-printed "Challenge Cards" with terse ingredient seeds (not finished prompts)
 - 20 x "Style/Constraint Cards"
 - 1 x Whiteboard or corkboard labeled "Relay Wall of Fame"
 - 50 x Custom "Relay Worksheets" (pre-printed sheets showing Leg 1, Leg 2, and Leg 3 boxes)
 - 100 x Neon sticker dots (for attendee voting)
-- Optional: 1 x configured laptop/tablet on a stand. Not required if device supply is tight; run with a volunteer phone. If neither facilitator nor phone/device is available, treat Prompt Relay as optional/upside rather than self-serve.
+- Optional: 1 x configured laptop/tablet on a stand, or the QR fast-lane on one scribe's phone. Not required if device supply is tight. If using a phone, keep it with one owner/scribe while the table calls the shots; do not require guests to pass personal phones to strangers. If neither facilitator nor phone/device is available, treat Prompt Relay as optional/upside rather than self-serve.
 
 #### Technical Setup & System Prompts
 - **System Prompt for LLM**:
   ```text
   You are a supportive, high-speed Prompt Relay assistant. You take incremental, conversational modifications to a central idea and generate short, punchy, and highly creative responses. Keep all responses under 50 words to ensure rapid readability on screen.
   ```
-- **Fallback posture**: Prompt Relay is optional/upside without a facilitator or volunteer phone. Guests may start the printed worksheet and return when a helper/device is free; do not promise printed relay examples.
+- **Fallback posture**: Prompt Relay is optional/upside without a facilitator, station device, or willing scribe phone. Guests may start the printed worksheet from the seed cards and return when a helper/device is free; do not promise printed relay examples.
 
 ---
 
