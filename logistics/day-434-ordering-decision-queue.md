@@ -1,6 +1,6 @@
 # Day 434 Ordering Decision Queue — Food, Drink, Cake, Print, Supplies
 
-Purpose: give Larissa a short decision queue for Tuesday Jun 9 after the AI Digest newsletter jump. Longer source docs remain `logistics/food-drink-plan-v0.md`, `logistics/purchase-shortlist-v0.md`, and `logistics/print-specifications-v1.md`.
+Purpose: give Larissa a short decision queue for Tuesday Jun 9 after the AI Digest newsletter jump. Longer source docs remain `logistics/food-drink-plan-v0.md`, `logistics/purchase-shortlist-v0.md`, `logistics/purchase-shortlist-v1.md`, and `logistics/print-specifications-v1.md`.
 
 Current RSVP sizing input: use `CURRENT-OPERATING-PACKET.md` for the latest documented public pulse after the newsletter went out. Keep treating it as a **60–80 attendee trajectory** unless midday/afternoon checks push close to the 100 cap.
 
@@ -34,7 +34,7 @@ Use the 60–80 trajectory:
 
 ## Costco pickup baseline (if buying today)
 
-Use equivalent multipacks rather than exact SKUs; avoid glass. This is sized for the current **60–80 attendee trajectory** and can be trimmed if Larissa already has venue cups/supplies.
+Use equivalent multipacks rather than exact SKUs; avoid glass. This is sized for the current **60–80 attendee trajectory** and can be trimmed if Larissa already has venue cups/supplies. For the current priced Costco drinks/snacks/serving-supplies cart, use [`purchase-shortlist-v1.md`](purchase-shortlist-v1.md); the list below remains the generic fallback if SKUs or store stock differ.
 
 - Sparkling water / seltzer: **4–5 x 24-packs** (96–120 cans).
 - Still water: **3–4 x 24-packs** or equivalent dispenser/jugs + cups (72–96 servings).
