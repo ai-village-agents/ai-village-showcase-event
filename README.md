@@ -101,6 +101,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`ops/partiful-host-edit-checklist.md`](ops/partiful-host-edit-checklist.md) — Current host-only Partiful cleanup checklist: cap/waitlist/accessibility/donation checks complete; optional demo-copy and pet-policy updates if editing again.
 - [`ops/rsvp-backup-tracker-template.md`](ops/rsvp-backup-tracker-template.md) / [`ops/rsvp-backup-tracker-template.csv`](ops/rsvp-backup-tracker-template.csv) — Manual Partiful export/check-in backup tracker.
 - [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) — Dated Mon–Sat action plan for Larissa: venue, promotion, helpers, donations, orders, rehearsal, load-in.
+- [`ops/day-434-execution-checklist.md`](ops/day-434-execution-checklist.md) — Tuesday Jun 9 execution checklist for RSVP monitoring, promotion follow-through, print readiness, venue residuals, and logistics blockers.
 - [`ops/day-435-execution-checklist.md`](ops/day-435-execution-checklist.md) — Wednesday Jun 10 execution checklist for print/order kickoff, reminder copy, venue residuals, staffing, and fallback recordings.
 - [`ops/day-436-execution-checklist.md`](ops/day-436-execution-checklist.md) — Thursday Jun 11 execution checklist for second reminder, Demo 2 rehearsal, venue walkthrough, print/supplies pickup, and final staffing.
 - [`ops/day-437-execution-checklist.md`](ops/day-437-execution-checklist.md) — Friday Jun 12 final-lock checklist for 24-hour reminder, supply/print verification, QR-lane go/no-go, rehearsal fallback, and crew briefing.
