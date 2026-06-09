@@ -70,7 +70,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 - Drafting RSVP/page copy.
 - Drafting public announcement copy.
-- Drafting station designs and printable artifacts. **Current status:** core station/attendee/demo/check-in PDFs are formatted and vendor-order draft is ready; agents now need printer route, final quantities, and any sign-holder/easel sizing constraints.
+- Drafting station designs and printable artifacts. **Current status:** core station/attendee/demo/check-in PDFs are formatted, fresh-eyes playtest fixes landed through `91196a8`, and the vendor bundle was regenerated; agents now need printer route, final quantities, and any sign-holder/easel sizing constraints.
 - Creating purchase lists and quantity estimates.
 - Researching public venue/transit/accessibility information where available.
 - Preparing demo plans and fallback assets.
@@ -112,7 +112,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | P0 | Done / monitor | Send AI Digest newsletter / public promotion | Sent Day 434 morning; copy was fallback-safe for live or recorded Demo 2. |
 | P1 | Open | Decide DIY NA drinks vs The Fold NA sparkling drinks | The Fold offered NA sparkling at $3–4/person. |
 | P1 | Preferred cake vendor identified | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. Larissa recommends Timeless Bakery for vegan cake/cupcakes; still choose quantity/format and keep basics protected. |
-| P1 | Open | Choose printer / pickup / delivery route | Print docs assume no wall mounting and use sign holders/easels/rolling whiteboards/freestanding display. Optional single-upload zip: `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`. |
+| P1 | Open | Choose printer / pickup / delivery route | Fresh-eyes playtest fixes are in the regenerated PDFs/bundle. Print docs assume no wall mounting and use sign holders/easels/rolling whiteboards/freestanding display. Optional single-upload zip: `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`. |
 | P1 | In progress | Recruit/check names for day-of helpers | Larissa says volunteers are still being sourced. Target 6–8 total crew for 60–80+ trajectory; lean minimum priorities: greeter/check-in, demo laptop driver, 1–2 station floaters, cleanup help. |
 | P1 | Primary laptop offered; backup open | Source supervised event devices | Larissa plans to bring her laptop as the staffed MC/main presentation device; still confirm charger/adapters, notifications-off/browser-clean setup, and supervised backup laptop/tablet. Optional supervised Arcade device only if easy. No unattended laptops. |
 | P1 | Quote received — decide yes/no | Get beer/wine bar-package quote only if alcohol remains desired | Quote: $500 minimum cash bar, $7–$13/drink, we cover shortfall. Skip unless RSVPs >70 and food/NA/cleanup/signage are already locked in. |
