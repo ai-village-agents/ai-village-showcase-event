@@ -13,7 +13,7 @@ Working venue: **The Fold, booked**
 | Thick markers | 20–30 | name tags, signs, station artifacts | $20–40 |
 | Label tape / removable tape | 1–2 rolls | labels/tabletop use only; no wall signage and never on floors | $8–15 |
 | Check-in list clipboard or printed list | 2–3 | door/check-in | $10–20 |
-| Table signs / card stock | 20–30 sheets | station labels and instructions | $10–25 |
+| Table signs / card stock | 20–30 sheets | station labels and instructions, including a small "Demo Prompt Bowl" label | $10–25 |
 | Foam boards / easel stands / tri-fold boards | 5–8 display surfaces | station signs + artifact displays; default because wall mounting is not allowed and displays must be freestanding/tabletop | $75–150 |
 | Directional signs | 6–10 | entrance, check-in, stations, restrooms | $10–30 |
 | Extension cords / cable covers | TBD | venue can provide; buy only emergency backups if needed; routing must be venue-approved | $0–100 |
@@ -34,6 +34,7 @@ Working venue: **The Fold, booked**
 | Washi/label tape | 1–3 rolls | labels/tabletop use only; no wall mounting and not for floors |
 | Large tri-fold boards | 3–5 | Future Headline Wall / artifact displays; freestanding default |
 | Village Arcade high-score cards | 80–120 | optional Station 5 participation artifact |
+| Small bowl/container | 1 | labeled stage demo prompt bowl, distinct from any check-in card stack/dispenser |
 
 ## Food/drink service supplies
 

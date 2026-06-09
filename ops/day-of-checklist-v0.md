@@ -30,8 +30,9 @@
 ## Setup (6:00–6:55 PM — confirmed access window)
 
 - [ ] Station kits laid out: cards, markers, table signs, instruction sheets, and freestanding boards/easels/tri-folds. Tape only if The Fold approves the specific wall/surface; never use floor tape.
-- [ ] Welcome table ready: check-in list or RSVP backup tracker, name tags, prompt cards for early arrivals.
+- [ ] Welcome table ready: check-in list or RSVP backup tracker, name tags, Prompt Cards for early arrivals, plus a clear instruction to drop chosen cards in the labeled stage demo bowl.
 - [ ] Food/drink staging area set up (if delivery has arrived).
+- [ ] Labeled **Demo Prompt Bowl** placed by the stage/MC laptop, separate from the check-in prompt-card stack.
 - [ ] Primary presentation laptop, backup device, and optional Arcade device tested, supervised, and plugged in using the approved cable/power layout; keep walking paths clear.
 - [ ] MC does a quick walkthrough of transitions with station floaters, or confirms self-serve station signs if staffing is lean.
 - [ ] Photo/recap consent indicator prepared (e.g., colored sticker for opt-out).
@@ -59,7 +60,7 @@ Use these before preserving the full ambitious plan:
 
 ### 7:00 Doors / arrivals
 - [ ] Check-in running smoothly.
-- [ ] Early arrivals given prompt cards or station preview.
+- [ ] Early arrivals given Prompt Cards and told the labeled bowl by the stage may feed the live demo.
 
 ### 7:25 Welcome + What is AI Village?
 - [ ] MC has clicker/notes and knows timing.

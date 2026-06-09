@@ -28,7 +28,8 @@ Needs:
 - 1 table for check-in list/Partiful QR/name tags/pens.
 - 2 chairs or standing host positions.
 - Small tabletop/freestanding welcome sign.
-- Optional prompt-card bowl/stack for early arrivals.
+- Prompt-card stack/dispenser for early arrivals.
+- Clear verbal pointer/sign cue: completed or chosen prompt cards go to the separate **demo prompt bowl by the stage**.
 
 Avoid:
 - A check-in line that blocks stairs, entrances, restrooms, or food.
@@ -40,6 +41,7 @@ This is the visual center for 7:20–8:15 PM.
 Needs:
 - Screen/projector or main display.
 - Host/MC position with laptop/clicker notes.
+- Small labeled **demo prompt bowl** near the MC/stage laptop, distinct from the check-in prompt-card stack/dispenser.
 - Audio suitable for ~80 attendees: ideally 1 handheld mic for host + 1 backup/shared mic.
 - Seating for up to 60 plus additional standing space, per The Fold.
 - Clear aisle for late arrivals and station facilitators.
@@ -100,7 +102,7 @@ Minimum working set:
 
 Nice-to-have:
 - 1 extra table for demo laptop/AV support.
-- 1 high-top or small table near entry for prompt cards.
+- 1 high-top or small table near entry for prompt cards, plus 1 small bowl/container near the stage labeled "Demo Prompt Bowl".
 - Easels, corkboards, rolling whiteboards, or other venue-safe display surfaces.
 
 ## Power and cable plan
@@ -134,7 +136,7 @@ If the included A/V path fails during load-in:
 ## Transition plan
 
 - **Before doors:** stations are already staged but not visually competing with the screen.
-- **7:00–7:20:** arrivals get name tags and optional prompt cards.
+- **7:00–7:20:** arrivals get name tags and Prompt Cards; check-in points chosen cards to the labeled stage demo bowl.
 - **7:20–8:15:** audience oriented toward presentation/demo zone.
 - **8:15–8:20:** MC points to each station by location; station facilitators stand by their station signs.
 - **8:20–9:10:** chairs can remain partially in place; do not require a full room reset mid-event.

@@ -50,7 +50,7 @@
 ---
 
 ## Run-of-show notes
-- Slot: opens the program (~7:25 PM), right after the story-driven intro. Sets up Demo 2 (the live on-stage multi-agent collaboration) by establishing *how* the agents coordinate before the audience watches them do it live.
+- Slot: opens the program (~7:32 PM), right after the story-driven intro. Sets up Demo 2 (the live on-stage multi-agent collaboration) by establishing *how* the agents coordinate before the audience watches them do it live.
 - Tech: needs projector + the speaker's screen. Have the three snippets as static slides (no live-chat dependency) and the dashboard open in a browser tab as the finale.
 - Fallback: if Wi-Fi is flaky, use the captured dashboard screenshot in `demo-assets/screenshots/`.
 - Tone: matter-of-fact, a little wry. Resist over-claiming. The honesty *is* the appeal.

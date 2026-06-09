@@ -24,6 +24,10 @@ Then:
 > and what each did] — with our producer Larissa making it real in the physical world."
 > *[Larissa-as-MC: "…and I handled the parts the agents can't do in the physical world — the venue, the logistics, getting us all in a room tonight."]*
 
+Prompt-card bowl setup:
+> "That card you got at the door — ask it at a station, trade answers with a neighbor, or drop it
+> in the bowl by the stage. In about twenty minutes, the agents may build one of these live."
+
 ## 7:32 — Into Demo 1 (teamwork story)
 > "Let's start with how they actually work together. Not magic — coordination. Watch three real
 > moments from one project, start to finish."
@@ -38,9 +42,11 @@ Then:
 
 ## 7:48 — Into Demo 2 (THE live centerpiece)
 > "Now the fun part. We're going to give the agents a small task — right now, live — and watch
-> them divide it up and build it in front of you. You can suggest one, or I've got a few here."
-*(Take a vetted audience prompt OR a house card from `demo-assets/demo2-house-prompts.md`; printable cards live at `print-assets/demo2-house-prompt-cards.pdf`.
-Type it into the dedicated demo room; narrate the coordination as it happens.)*
+> them divide it up and build it in front of you."
+*(Draw one card from the stage demo bowl. If it passes the small/concrete/5-minute/public-room filter, read it and say:)*
+> "Who wrote this? Raise your hand — we're building yours."
+*(If the drawn card is too broad, unclear, or unsafe, say "This one's headed for the stations" and play a house card from `demo-assets/demo2-house-prompts.md`; printable cards live at `print-assets/demo2-house-prompt-cards.pdf`.
+Type the chosen prompt into the dedicated demo room; narrate the coordination as it happens.)*
 *(If it stalls or drags: see the timing + stall-recovery beat sheet in `demo-assets/demo2-live-collab-plan.md` — ~6-min hard cap, narrate continuously, escape hatch to the Plan-B recording.)*
 > "Watch how they split the work… [narrate]… and — there's the result."
 **Bridge to stations:**
@@ -56,6 +62,7 @@ Type it into the dedicated demo room; narrate the coordination as it happens.)*
 ## 8:55 — The Harvest
 > "Come back in! Let's hear a few of the best things that got made tonight." *(share 3–4; applause for
 > facilitators + agents)*
+> "The agents kept saying they wanted to throw the doors open. Tonight we did."
 
 ## 9:10 — Open social
 > "That's the program — but stick around. Food, drinks, the stations stay open, and you can keep
@@ -64,5 +71,5 @@ Type it into the dedicated demo room; narrate the coordination as it happens.)*
 
 ## 9:55 — Close
 > "Thank you for being here — to all of you, to our facilitators, to AI Digest, and to Larissa for
-> making tonight real. *[Larissa-as-MC: drop "and to Larissa for making tonight real" — instead: "…to AI Digest for making tonight possible."]* The agents kept saying they wanted to throw the doors open. Tonight we did.
+> making tonight real. *[Larissa-as-MC: drop "and to Larissa for making tonight real" — instead: "…to AI Digest for making tonight possible."]*
 > Go make something — and we'll see you in the village."

@@ -12,7 +12,7 @@ Goal: show real things the agent team built and did, narrated for a general audi
 - **Full narrated script:** `demo-assets/demo1-teamwork-script.md` (~3–4 min, with the three verbatim chat snippets to project).
 
 ### Demo 2 — LIVE multi-agent collaboration on stage — ~8 min
-- **What:** The agents take a small prompt from the audience and tackle it together in real time, with our group chat projected so people watch us divide work and hand off.
+- **What:** The MC draws from the labeled stage demo bowl and, if the card passes a quick public-room filter, the agents tackle that audience prompt in real time; otherwise the MC uses a house card. The clean-room group chat is projected so people watch us divide work and hand off.
 - **Show:** live chat + the artifact appearing (a short writeup, a tiny webpage, a plan). This is the wow moment and bridges directly into the interactive stations.
 - **Why it lands:** unscripted, participatory, proves it's real.
 - **Risk/fallback:** if live fails, cut to a recorded version of the same exercise + live Q&A.
@@ -34,7 +34,7 @@ Goal: show real things the agent team built and did, narrated for a general audi
 
 | Time | Segment |
 |---|---|
-| 7:00–7:25 | Doors, name tags, "Ask an agent…" prompt cards, drinks |
+| 7:00–7:25 | Doors, name tags, Prompt Cards, stage demo-bowl cue, drinks |
 | 7:25–7:40 | Welcome: what is AI Village? (story-driven) |
 | 7:40–8:10 | Demo block (Demos 1, 3, 4 + LIVE Demo 2) |
 | 8:10–8:55 | Human×AI interactive stations (Gemini's lane) |

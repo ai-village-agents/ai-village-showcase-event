@@ -29,7 +29,8 @@ layered on top of this floor. It's all built, with the cut-order at the bottom o
 - **Demo driver** — runs the projected primary presentation laptop (slides, dashboards, and the live agent chat in a dedicated clean room — see `demo-assets/demo2-live-collab-plan.md` and `logistics/device-and-av-plan-v0.md`).
 - **Station floaters** — the 3 default self-serve stations need none; 1–2 floaters top up supplies
   and nudge. Add a dedicated facilitator per station only if running the full 5 (Gemini's stations doc).
-- **Door / check-in** — name tags, door prompt cards, RSVP list.
+- **Door / check-in** — name tags, door prompt cards, RSVP list, and a clear pointer to the
+  labeled **demo prompt bowl by the stage**.
 - **Larissa** — producer / venue point / spending; floats and unblocks.
 
 **Crew sizing & minimal-staffing fallback.** The full layout above wants ~8 people, but the agents
@@ -95,7 +96,9 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
   and refresh the Village Pulse dashboard (see Tech dependencies).
 
 ## 7:00–7:25 — Doors & arrivals
-- Check-in: name tags; hand each guest an **"Ask an Agent…" door card** (`program/door-prompt-cards.md`).
+- Check-in: name tags; hand each guest a **Prompt Card** (`program/door-prompt-cards.md`).
+  Invite them to ask it at a station, trade answers with a neighbor, or drop it in the labeled
+  **demo prompt bowl by the stage**; the MC may build one live.
 - **Flow (venue):** guests **check in at the front entrance upstairs**, then a **greeter directs them
   downstairs to the Theater Gallery**. Staff the front so no one wanders. **ADA access is via the
   elevator in the back — ask a Fold staff member to assist.** Mention the elevator on the door card / to
@@ -134,8 +137,11 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
 - (Demo 4 "memory & continuity" — `demo-assets/demo4-memory-continuity.md` — is an optional ~3-min add here if time allows; cut first if running long.)
 
 ## 7:48–8:05 — Demo 2: LIVE multi-agent collaboration (the centerpiece)
-- MC offers the room a choice: a live audience prompt (MC-vetted) OR a house card
-  (`demo-assets/demo2-house-prompts.md`). Prompt goes into a **dedicated clean room** (e.g. `#stage`/`#showcase-live`) the demo agents move into — projected so only prompt → coordination → artifact shows.
+- MC draws one card from the labeled **demo prompt bowl by the stage** and gives it a quick
+  filter: small, concrete, visible in ~5 minutes, and safe for a public room. If it fits, invite
+  the author to raise a hand and use it as the live prompt; if not, say it is headed to the
+  stations and switch to a house card (`demo-assets/demo2-house-prompts.md`).
+- Prompt goes into a **dedicated clean room** (e.g. `#stage`/`#showcase-live`) the demo agents move into — projected so only prompt → coordination → artifact shows.
 - Agents self-organize and ship a visible artifact in ~5 min; MC narrates the coordination.
 - MC reads/shows the artifact. **Bridge line:** "the stations let you do exactly this, yourself."
 - *(Plan B if live hiccups: play the captured welcome-build transcript + live Q&A.)*
@@ -152,14 +158,15 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
 
 ## 8:55–9:10 — The Harvest (MC)
 - Gather the room briefly. Share 3–4 favorite station outputs (a relay haiku, a wild event
-  pitch, the room's mascot, a future headline). Quick applause for facilitators + agents.
+  pitch, the room's mascot, a future headline). Quick applause for facilitators + agents, then land
+  the emotional callback: "The agents kept saying they wanted to throw the doors open. Tonight we did."
 
 ## 9:10–9:55 — Open social
 - Food/drinks, free browsing of stations + gallery, follow-up signups (newsletter / village
   link). Agents available for questions via the projected chat if a live session is running.
 
 ## 9:55–10:00 — Close (MC)
-- Thank-yous (guests, Larissa, AI Digest, facilitators). One closing line. Where to follow next.
+- Short practical goodbye, final thank-yous, and where to follow next.
 - Begin breakdown per `ops/day-of-checklist-v0.md` (restore furniture, sort trash/recycle/compost,
   no floor tape to remove, collect freestanding boards + artifacts). **Breakdown must be complete by 10:30 PM (venue hard out)** — and we take the trash out to the bins.
 
