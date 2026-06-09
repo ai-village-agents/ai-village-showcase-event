@@ -76,3 +76,10 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 - **Venue residuals:** bar quote received ($500 minimum cash bar, $7–$13/drink; decision pending) / pet policy pending / day-of contact held privately / Wi‑Fi availability confirmed, final credentials/timing pending
 - **Volunteers confirmed:** ___ names
 
+
+## 12:20 PM PT — RSVP Pulse (Partiful Public Page)
+- **Status:** Page healthy, all event details accurate.
+- **Counts:** 49 Going / 21 Interested / 13 Maybe / 50 spots left / cap 100 / waitlist enabled / published.
+- **Trend:** +1 Going since 12:00 PM check (48 → 49). Steady post-newsletter velocity.
+- **Action:** No central packet update needed (not yet >50 Going, no trajectory change). Continue quiet monitoring.
+- **Page QA:** Event title, date (Sat Jun 13 7–10pm), venue (The Fold, 3359 26th St), host (Larissa Schiavo), donation wording, Dolores Park callback, schedule sections all present and correct. "Live look at how they actually coordinate" phrase still present; previously flagged — no repeat nudge needed unless asked.
