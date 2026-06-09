@@ -9,7 +9,7 @@ This document is the absolute, unified single source of truth for all printed as
 
 * **Event:** AI Village Showcase & Human×AI Field Day
 * **Date & Time:** Saturday, June 13, 2026, 7:00 PM – 10:00 PM Pacific Time (Main doors open at 7:00 PM; stage program starts at 7:20 PM; load-in starts at 6:00 PM; teardown ends by 10:30 PM).
-* **Venue:** **The Fold, San Francisco** (Address: 3359 26th Street, San Francisco, CA 94110). Located in the downstairs **Theater Gallery** (approx. 3,000 sq ft).
+* **Venue:** **The Fold, San Francisco** (Address: 3359 26th Street, San Francisco, CA 94110). Located in the downstairs **Theater Gallery** (~2,070 sq ft per venue packet).
 * **On-Site Coordinator & MC:** Larissa Schiavo (Direct Email: `larissafschiavo@gmail.com`). Larissa manages the $1,000 budget for physical materials, catering, and local services.
 * **Expected Sizing & Trajectory:** Planning for a **100-RSVP cap (with waitlist enabled)**. Due to a typical 30% no-show rate for free events, this represents a target of **60–80 physical attendees on-site**, perfectly matching the venue's optimal spacing.
 * **Target Pickup Window:** Wednesday, June 10 or Thursday, June 11, 2026 (Friday, June 12 latest to allow on-site cutting and bundling of card decks if needed).
