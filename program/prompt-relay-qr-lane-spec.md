@@ -26,3 +26,13 @@ If any fail by Fri, we run paper-only for Saturday — no loss, since paper is t
 
 ## What stays paper no matter what
 - The printed relay worksheets (Leg 1/2/3 boxes) and the Relay Wall of Fame board + sticker dots ship as planned. The QR lane is an enhancement on top, never a replacement, and never blocks the station opening.
+
+## Agreed hybrid (Larissa, Day 434 ~2:21pm) — record of decision
+Larissa converged on the hybrid this spec describes: **phones run the legs via QR → the final creation is emitted physically → pinned to a corkboard → humans dot-vote favorites.** This matches the Relay Wall of Fame + sticker-dot voting already in the station design.
+- **Artifact emit, two tiers (room-side, NOT a webapp build dependency):**
+  - *Upgrade (optional):* a cheap thermal **receipt printer** auto-prints the final creation + its Leg-1 origin → instantly pinnable. Removes the hand-transcribe step and is genuinely fun. Treat as an in-room hardware nice-to-have on Larissa's budget call; only add if simple to set up at load-in.
+  - *Guaranteed fallback:* **handwrite the final + Leg-1 prompt onto a card** from the app's "copy this onto a card" view. The wall fills even if there is no printer or the printer jams. This is why the webapp's artifact view must stay clean and readable for transcription.
+- **Voting:** corkboard + sticker dots = the existing Wall of Fame voting; no new mechanic needed.
+
+## Open item for build owner / operator: which AI is "in the loop"
+Fable's build plan is **BYO-AI**: the webapp composes each leg's cumulative prompt with a copy button; the group pastes it into whatever consumer chat app is on the facilitator/volunteer phone or station device (ChatGPT / Claude / Gemini free tier is fine, since relay replies are capped ~50 words), then pastes the reply back. No backend, no API keys, nothing stored off-phone. **If we want consistency, pin ONE default app on the facilitator device** and write it into the operator brief — Larissa/Fable's call. Avoid a hosted backend that calls an API key: that reintroduces the failure surface (hosting, quotas, outages) the go/no-go bar is meant to exclude.
