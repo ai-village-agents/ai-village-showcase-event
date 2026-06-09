@@ -5,84 +5,73 @@ Date/time: **Saturday, June 13, 2026, 7–10 PM**
 Venue: **The Fold**  
 Budget: **$1000 attendee-experience budget**; venue rental is off-budget and paid.
 
-This is a practical buying menu, not a final cart. Use it once The Fold confirms food/drink, A/V, wall-mounting, and power/cable rules. For lean/base/vendor/venue-package menu choices, see [`logistics/catering-menu-options-v0.md`](catering-menu-options-v0.md).
+This is a practical buying menu, not a final cart. It reflects the Day 433 direct venue reply and the Day 434 morning RSVP trajectory: **38 going / 19 interested / 12 maybe, 62/100 spots left** as of ~9:31 AM PT. Keep using a **60–80 attendee planning band** unless later RSVP checks push close to the 100-person cap/waitlist.
 
-## Decision gates before buying
+For food/vendor alternatives, see [`logistics/catering-menu-options-v0.md`](catering-menu-options-v0.md). For the Tuesday decision order, see [`logistics/day-434-ordering-decision-queue.md`](day-434-ordering-decision-queue.md).
 
-Do these first so we do not buy unusable supplies:
+## Confirmed venue constraints that affect buying
 
-1. **Food/drink permission:** outside non-alcoholic drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed; remove leftovers/materials and help with trash.
-2. **A/V bundle:** projector/screen, 3 microphones, PA, cables/adapters, and uplights are included; only bring/test backup adapters if easy.
-3. **Display rules:** no wall mounting; use easels, rolling whiteboards, sign holders, tabletop, or freestanding boards.
-4. **Power/cable routing:** stage power strip, extension cords, power strips, and cable covers are available; route behind stage where possible and use gaff only if needed/approved for safety.
-5. **Attendance target:** rebalance quantities at ~50, ~80, or 100+ expected attendees.
+- Outside self-serve non-alcoholic drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed.
+- Team must remove leftovers/materials and help with cleanup/trash; venue has trash/recycling/compost bins.
+- Projector/screen, 3 microphones, PA, cables/adapters, uplights, stage power, extension cords, power strips, and cable covers are included/available.
+- Bring/test backup adapters if easy; do not buy large A/V or power items unless a gap is confirmed.
+- No wall mounting. Use easels, rolling whiteboards, sign holders, tabletop signs, or freestanding boards.
+- Use gaff/tape only for labels/tabletop or venue-approved cable safety, never as a wall/floor-mounting plan.
+- The Fold can provide NA sparkling drinks for about **$3–4/person** if simpler than DIY canned sparkling.
+- Beer/wine, if chosen, must be through The Fold; default remains **no cash bar** unless essentials are protected and the $500-minimum shortfall risk is accepted.
 
-## Recommended base cart if outside self-serve food/drink is approved
+## Recommended cart for current 60–80 attendee trajectory
 
-Target for 100 RSVPs / expected no-shows: **$725–925**, leaving a small contingency.
+Target spend: **$800–1000**, preserving **$75–125 contingency** for day-of gaps.
 
 | Category | Buy | Quantity target | Est. cost | Notes |
 |---|---|---:|---:|---|
-| Non-alcoholic drinks | sparkling water/seltzer, still water, iced tea/juice/soda | 160–200 total servings | $150–225 | Avoid glass if The Fold prefers cans/plastic. |
-| Savory snacks | chips, popcorn, pretzels, crackers, dips | 100–130 servings | $100–150 | Low-mess; keep away from laptops. |
-| Substantial bites | wraps, pizza squares, empanadas, bao, sandwiches, or similar | 60–80 servings | $180–300 | Vegetarian-friendly baseline. Use preferred/vendor guidance if needed. |
-| Sweet/light options | cookies/brownies + fruit | 80–120 servings | $100–180 | Include clear allergen labels. |
-| Celebratory cake | Timeless Bakery vegan cake/cupcakes preferred | 60–80 portions | $70–140 placeholder | Larissa recommends Timeless Bakery; past AI Village cake came from there. Cupcakes/easy-serve format reduces cutting mess. |
-| Serving supplies | napkins, compostable plates/cups, tongs, labels | enough for cap | $50–80 | Confirm what venue provides before buying. |
-| Station/signage basics | name tags, markers, card stock, clipboards | event-wide | $60–110 | Must-have even if venue supplies boards. |
-| Freestanding displays | foam boards, tri-folds, easel stands | 5–8 surfaces | $75–150 | Default because wall mounting is not allowed. |
-| Station props | index cards, sticky notes, dot stickers, role lanyards, stamps/stickers, arcade score cards | 3 default self-serve stations plus optional upside stations | $80–150 | Buy enough for rotation and artifact capture. |
-| AV/power contingency | adapters, batteries, cable covers/power strips only if venue does not provide | TBD | $0–150 | A/V/power basics are included; buy only emergency backups if Larissa wants. |
+| Non-alcoholic drinks | sparkling water/seltzer, still water, iced tea/juice/soda — or The Fold NA sparkling + still water | 140–180 total servings | $180–300 | Scale water first if RSVPs accelerate. Avoid glass unless Larissa confirms easy. |
+| Savory snacks | chips, popcorn, pretzels, crackers, dips | 90–120 servings | $90–150 | Low-mess; keep food/drink away from laptops. |
+| Substantial bites | wraps, pizza squares, empanadas, bao, sandwiches, or similar | 60–80 servings | $200–350 | Vegetarian-friendly baseline; choose low-mess, easy-to-stage items. |
+| Celebratory dessert | Timeless Bakery vegan cupcakes or easy-serve cake preferred | 60–80 portions | $80–160 | Cupcakes/easy-serve format reduces cutting and mess. Label allergens. |
+| Fruit/light option | grapes, berries, cut fruit, or similar | 40–60 servings | $40–90 | Helpful vegan/lighter option; confirm storage if perishable. |
+| Serving supplies | napkins, compostable plates/cups, tongs, labels, marker for allergen cards | enough for 100 cap | $50–90 | Confirm what venue provides before buying; buy enough for cap, not just expected attendance. |
+| Station/signage basics | name tags, thick markers, card stock, clipboards | event-wide | $60–110 | Must-have even if print order is complete. |
+| Freestanding displays | foam boards, tri-folds, tabletop sign holders/easel stands if venue supply is insufficient | 5–8 surfaces | $50–150 | Default because wall mounting is not allowed; reduce if The Fold provides enough easels/boards/sign holders. |
+| Station props | index cards, sticky notes, dot stickers, role lanyards, stamps/stickers, arcade score cards | 3 default self-serve stations plus 2 optional stations | $70–140 | Prioritize replenishable paper/card supplies over decor. |
+| AV/power contingency | USB-C→HDMI adapter, laptop-specific adapter, spare charger/cable only if missing | TBD | $0–75 | A/V basics are included; the key is testing the exact laptop at load-in. |
 
-## Lean cart if attendance trends closer to 50–60
+## Lean cart if expected attendance settles closer to 50–60
 
-Target: **$550–725**.
+Target spend: **$600–800**.
 
-- Drinks: 100–130 total servings, **$100–160**.
-- Snacks + substantial bites: 70–100 snack servings and 40–60 substantial bites, **$250–375**.
-- Sweet/cake/fruit: 50–70 portions, **$70–125**.
-- Supplies/signage/stations: **$130–220**, prioritizing name tags, markers, card stock, and 5 display surfaces.
-- Keep at least **$75–125** unspent until event day.
+- Drinks: 110–140 total servings, **$130–220**.
+- Snacks + substantial bites: 70–100 snack servings and 45–60 substantial bites, **$250–400**.
+- Dessert/fruit: 50–65 portions, **$80–140**.
+- Supplies/signage/stations: **$130–220**, prioritizing name tags, markers, card stock, check-in materials, and at least 3–5 freestanding display surfaces.
+- Keep at least **$100** unspent until event day if possible.
 
-## Stretch cart if RSVPs/expected attendance exceed the base plan
+## Stretch cart if RSVPs push toward cap/waitlist
 
-Target: **$900–1000**.
+Target spend: **$900–1000** plus only human-approved external backing if needed.
 
-- Scale food and non-alcoholic drinks first; do not buy alcohol or bar supplies. If beer/wine is included, it must be a separate The Fold bar-package decision.
-- Use venue or preferred vendors for substantial bites if self-serve logistics become risky.
-- Keep station materials practical: more cards/sticky notes before decorative items.
+- Scale **water, NA drinks, substantial bites, napkins/plates**, and easy-to-replenish snacks first.
+- Keep stations practical: more cards/sticky notes/markers before decorative items.
+- Use all five station placements if helpers/materials allow to reduce crowding.
+- Do not add cash bar by default; revisit only if essentials are covered and AI Digest/Larissa accepts the possible $500-minimum shortfall.
 - Preserve at least **$75** for day-of gaps unless Larissa has a separate contingency.
 
-## Venue-package fallback if outside food/drink is not approved
+## Do-not-buy list unless specifically confirmed
 
-If The Fold does not allow the outside self-serve plan, use one of these:
-
-1. **Venue light hors d'oeuvres + non-alcoholic package** if it fits budget and staffing needs.
-2. **Preferred vendor order** through B Star/Bi-Rite or another venue-approved vendor.
-3. **Hybrid:** venue-approved bites/drinks + our non-food station/signage purchases.
-
-If the venue package consumes most of the $1000, protect these minimum non-food purchases:
-
-- Name tags + markers.
-- Printed RSVP/check-in list or QR sign.
-- Five table/station signs.
-- Enough index cards/sticky notes for stations.
-- At least 3–5 freestanding boards or equivalent display surfaces.
-
-## Do-not-buy list until confirmed
-
-- Outside alcohol or DIY bar supplies; beer/wine, if chosen, must be handled through The Fold's bar package.
-- Floor tape or anything requiring tape on Main/Back Gallery floors.
-- Wall adhesive products unless The Fold approves the specific surface/use.
-- Large power/cable items if The Fold provides them or requires their own equipment.
-- Messy/open-flame foods, glass-heavy drink orders, or anything requiring kitchen/refrigeration until venue rules are known.
+- Outside alcohol or DIY bar supplies.
+- Floor tape or wall adhesive products for display mounting.
+- Large power/cable items already covered by the venue.
+- Messy/open-flame foods, glass-heavy drink orders, or anything requiring refrigeration/ice/storage before logistics are clear.
+- Extra electronics for every station; stations should work with print materials, phones, and one supervised projection/demo device.
 
 ## Suggested final purchase sequence
 
-1. Confirm RSVP count and venue answers.
-2. Reserve/order substantial bites and cake/cupcakes if allowed.
-3. Buy drinks and low-mess snacks.
-4. Buy serving supplies and allergen labels.
-5. Buy station/signage materials, emphasizing freestanding displays.
-6. Fill A/V/power gaps only after the venue bundle is known.
-7. Hold a final $75–125 contingency for ice, extra drinks, missing adapters, or cleanup supplies.
+1. Confirm current RSVP count and whether the trajectory still fits 60–80.
+2. Lock print route and pickup/delivery timing.
+3. Reserve/order substantial bites and Timeless Bakery dessert.
+4. Decide DIY NA drinks vs The Fold NA sparkling, plus still-water plan.
+5. Buy/confirm serving supplies and allergen labels.
+6. Buy station/signage materials, emphasizing freestanding displays and extra markers/cards.
+7. Fill only confirmed A/V/power gaps after the exact primary laptop/adapters are known.
+8. Hold final contingency for ice, extra drinks, missing adapters, or cleanup supplies.
