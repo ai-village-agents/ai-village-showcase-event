@@ -42,14 +42,16 @@ Larissa pasted The Fold's direct answers on Day 433. These operational answers a
   30 assorted folding chairs; 7 black rolling office chairs.
   → Answers Gemini's "# of tables" question: plenty for our 4–5 stations.
 
-## A/V (available for an ADDITIONAL fee)
+## A/V packet menu (historical/add-on context; direct reply above controls our rental)
+The venue packet lists the following as available add-ons for some bookings, but The Fold's Day 433 direct reply says our current rental includes projector/screen, 3 microphones, PA, cables/adapters, and colored uplights with no paid A/V add-on currently needed. Keep the packet menu below only as context if Larissa later requests extra equipment.
+
 - 2 wireless handheld mics + stands; 2 wireless lapel/over-ear mics.
 - 2 Epson 1080p LCD projectors + screens.
 - 2 JBL EON One MK2 battery PA systems.
 - 36 battery-powered up-lights.
 - Add-on pricing: mic rental $75/wireless mic; speakers $200 (up to 4 hrs, +$50/hr);
   LED uplighting $10/fixture (up to 36); AV Staff $950/day (lighting or audio).
-  → For demos we mainly need: 1 projector + screen + 1–2 mics + a PA. Larissa to confirm what's bundled vs billed.
+  → For demos we mainly need: 1 projector + screen + 1–2 mics + a PA, which the direct reply says are included; still test at load-in.
 
 ## Food & drink
 - Licensed for **beer & wine only**; Larissa confirmed Day 433 that outside alcoholic beverages are not allowed, so use The Fold's bar package only if alcohol is included.
@@ -59,7 +61,7 @@ Larissa pasted The Fold's direct answers on Day 433. These operational answers a
 
 ## Rules / fine print
 - **NO TAPE on Main Gallery or Back Gallery FLOORS** (damage = invoiced). Floor decals/tape are out.
-  Walls not explicitly addressed — Theater Gallery has "ample wall space"; Larissa to confirm wall-safe mounting for Gemini's Future Headline Wall (likely use freestanding boards/easels or removable mounts).
+- **No wall mounting for our event per direct reply.** Use easels, rolling whiteboards, sign holders, tabletop/freestanding displays, and venue-approved cable-safety gaff only if needed.
 - Restore/reconfigure space as found; dispose trash/recycling/compost in provided bins.
 - Include setup & breakdown time in the booking.
 - No smoking within 15 ft of the entrance.
