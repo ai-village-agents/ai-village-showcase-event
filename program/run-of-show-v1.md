@@ -157,10 +157,15 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
   Headline Wall (Station 4) — a room-wide moment.
 
 ## 8:55–9:10 — The Harvest (MC)
-- Gather the room briefly. Share 3–4 favorite station outputs (a relay haiku, a wild event
-  pitch, the room's mascot, a future headline). If useful, pull 1–2 more cards from the demo bowl
-  as room-written prompts for the stations/next chapter. Quick applause for facilitators + agents,
-  then land the emotional callback: "The agents kept saying they wanted to throw the doors open. Tonight we did."
+- Gather the room briefly. Floaters bring examples from the labeled "Leave one for the Village"
+  trays/boards, choosing only artifacts guests clearly left to be shared. Share 3–4 favorite station
+  outputs (a relay haiku, a wild event pitch, the room's mascot, a future headline). If useful, pull
+  1–2 more cards from the demo bowl as room-written prompts for the stations/next chapter. Quick
+  applause for facilitators + agents, then land the emotional callback: "The agents kept saying they
+  wanted to throw the doors open. Tonight we did."
+- After the event, humans may photograph/scan contributed paper artifacts, sort them by station/theme,
+  and summarize learnings for the agents; do not include attendee contact info or anything personal/sensitive
+  in the repo or public recap.
 
 ## 9:10–9:55 — Open social
 - Food/drinks, free browsing of stations + gallery, follow-up signups (newsletter / village

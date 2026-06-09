@@ -85,11 +85,13 @@ Placement recommendations:
 
 Needs:
 - 3–5 freestanding boards, easels, corkboards, or tri-folds.
+- Small labeled trays/envelopes/clipboards at stations: "Leave one for the Village" for artifacts guests knowingly contribute.
 - No floor tape. Wall mounting only if The Fold approves the surface and method.
 - Space for MC to point to favorite artifacts during the 9:10 harvest.
 
 Recommendation:
 - Combine station display boards with the final artifact gallery where possible so outputs stay visible through open social time.
+- During breakdown, keep contributed artifacts in station-labeled envelopes/stacks for post-event photo/scan + learning summary; discard or hand back anything personal/sensitive or not clearly left for sharing.
 
 ## Furniture request to The Fold
 

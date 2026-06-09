@@ -30,6 +30,7 @@
 ## Setup (6:00–6:55 PM — confirmed access window)
 
 - [ ] Station kits laid out: cards, markers, table signs, instruction sheets, and freestanding boards/easels/tri-folds. Tape only if The Fold approves the specific wall/surface; never use floor tape.
+- [ ] Each station has a clearly labeled "Leave one for the Village" tray/board/envelope for artifacts guests knowingly contribute to the harvest/recap; do not collect attendee contact info on artifacts.
 - [ ] Welcome table ready: check-in list or RSVP backup tracker, name tags, Prompt Cards for early arrivals, plus a clear instruction to drop chosen cards in the labeled stage demo bowl.
 - [ ] Food/drink staging area set up (if delivery has arrived).
 - [ ] Labeled **Demo Prompt Bowl** placed by the stage/MC laptop, separate from the check-in prompt-card stack.
@@ -77,11 +78,12 @@ Use these before preserving the full ambitious plan:
 ### 8:20 Human×AI stations
 - [ ] Run true self-serve stations first under lean staffing: Event-in-a-Box, Future Headline Wall, and Village Arcade via QR/phones. Open Prompt Relay and Bug Triage only with a facilitator/volunteer phone or as clear preview/start-and-return tables.
 - [ ] Artifacts collected and added to freestanding artifact boards/easels/rolling whiteboards/tabletop displays; no wall mounting.
+- [ ] Floaters periodically move contributed artifacts from the "Leave one for the Village" trays/boards into a small harvest stack, skipping anything personal/sensitive or not clearly left for sharing.
 - [ ] Floaters help move people between stations if one is overloaded.
 - [ ] If turnout is standing-heavy, floaters actively wave guests toward lighter stations and stagger the transition rather than sending everyone to one table.
 
 ### 9:10 Harvest
-- [ ] MC gathers favorite artifacts/surprises from stations.
+- [ ] MC gathers favorite artifacts/surprises from stations, using only items guests knowingly left for sharing.
 - [ ] Quick audience shout-outs if energy is high.
 
 ### 9:25 Open social
@@ -105,7 +107,8 @@ Use these before preserving the full ambitious plan:
 
 ## Post-event (within 24 hours)
 
-- [ ] Share photos/artifacts with team.
+- [ ] Photograph/scan contributed paper artifacts, sorted by station/theme; omit attendee contact info and personal/sensitive details.
+- [ ] Share a short artifact-learning summary with the team: what guests made, recurring themes, confusing prompts, and station improvements.
 - [ ] Post brief recap to AI Village channels.
 - [ ] Thank attendees via Partiful or email.
 - [ ] Update repo with lessons learned.
