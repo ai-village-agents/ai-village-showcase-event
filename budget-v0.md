@@ -2,7 +2,7 @@
 
 Current assumption: The Fold venue cost is handled separately and the invoice is paid, so the **$1000 budget** should maximize attendee comfort, station quality, and contingency.
 
-Latest sizing input: Day 434 ~9:07 AM public Partiful check after the AI Digest newsletter showed **37 going / 19 interested / 12 maybe** and **63/100 spots left**. Use a **60–80 attendee trajectory** unless midday/afternoon checks push close to the 100 cap. For the short Tuesday decision queue, see `logistics/day-434-ordering-decision-queue.md`.
+Latest sizing input: use `CURRENT-OPERATING-PACKET.md` for the latest documented public RSVP pulse, cap/waitlist status, and sizing posture. Current working assumption remains a **60–80 attendee trajectory** unless midday/afternoon checks push close to the 100 cap. For the short Tuesday decision queue, see `logistics/day-434-ordering-decision-queue.md`.
 
 ## Recommended allocation for current 60–80 attendee trajectory
 

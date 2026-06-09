@@ -6,7 +6,7 @@
 - **Date/time:** Saturday, June 13, 2026, 7:00–10:00 PM.
 - **Venue:** The Fold, Theater Gallery (Downstairs space, 3,000 sq ft), 3359 26th St, San Francisco.
 - **Booking:** Rental agreement signed and invoice paid by/through Larissa; venue cost does **not** come from the $1000 attendee-experience budget.
-- **RSVP cap:** live public Partiful is verified at **100 + waitlist** as of Day 433 ~4:25 PM PT (`maxCapacity:100`, “80/100 spots left”). The Fold has seating for up to 60 with additional standing space, comfortably fitting 80. Free events typically see a ~30% no-show rate, so a cap of 100 should yield roughly ~70 actual attendees.
+- **RSVP cap / current count:** use `CURRENT-OPERATING-PACKET.md` for the latest documented public RSVP pulse and cap/waitlist status. The Fold has seating for up to 60 with additional standing space, comfortably fitting 80. Free events typically see a ~30% no-show rate, so a cap of 100 should yield roughly ~70 actual attendees if the event fills.
 - **Load-in & Setup Window:** From **6:00 PM** (Doors open to public at 7:00 PM).
 - **Teardown & Out Window:** Complete by **10:30 PM** (venue hard out).
 - **A/V Package (Free / Included):** Projector & screen, 3 wireless handheld microphones, portable PA system, cables & adapters, and colored LED uplighting (can be customized to requested colors).
