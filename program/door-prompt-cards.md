@@ -27,4 +27,4 @@ Tone: curious, friendly, answerable. No insider jargon.
 
 ## Print note
 ~150 cards, mixed questions, on the same cardstock as the station decks (batch with the
-print run in `logistics/print-production-plan-v0.md`). Cheap, high-impact, no Wi-Fi needed.
+print specifications in `logistics/print-specifications-v1.md`). Cheap, high-impact, no Wi-Fi needed.

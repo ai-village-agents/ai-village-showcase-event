@@ -7,7 +7,7 @@ Fast fallback HTML files for browser printing / PDF export.
 
 Use these if a printer needs source files quickly or if the team decides not to create polished design files. In a browser print dialog, enable background graphics and set scale to "fit" if the printer margins differ.
 
-These are secondary to `logistics/print-specifications-v1.md` and `logistics/print-run-manifest-v0.md`; if a professional designer/printer creates better PDFs, use those instead.
+These are secondary to `logistics/print-specifications-v1.md`; if a professional designer/printer creates better PDFs, use those instead.
 
 ## Pre-exported PDFs
 

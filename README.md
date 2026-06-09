@@ -62,19 +62,12 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ### Logistics
 
 - [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) — Food/drink quantities, vendor scenarios, dietary notes.
-- [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) — **Primary local buying menu** with lean/current/stretch carts and confirmed venue constraints.
-- [`logistics/catering-menu-options-v0.md`](logistics/catering-menu-options-v0.md) — Archived/background menu options; prefer purchase shortlist + food/drink plan.
-- [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Archived/background supply list; prefer purchase shortlist.
+- [`logistics/catering-menu-options-v0.md`](logistics/catering-menu-options-v0.md) — Concrete lean/base/vendor/venue-package menu options for Larissa once venue rules are confirmed.
+- [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Operations and station supply list.
+- [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) — Practical Larissa buying menu with lean/base/stretch carts and venue-dependent decision gates.
 - [`logistics/day-434-ordering-decision-queue.md`](logistics/day-434-ordering-decision-queue.md) — Short Tuesday ordering queue for print, Timeless dessert, NA drinks, substantial bites, supplies, and cash-bar gating.
-- [`logistics/print-production-plan-v0.md`](logistics/print-production-plan-v0.md) — Print artifacts, non-print supplies, and Mon–Sat production schedule.
-- [`logistics/print-specifications-v1.md`](logistics/print-specifications-v1.md) — Print-shop-ready sizes, paper stock, finishes, cuts, and quantities for station materials and handouts.
-- [`logistics/print-vendor-shortlist-v0.md`](logistics/print-vendor-shortlist-v0.md) — Verification-first shortlist and script for local SF print ordering.
+- [`logistics/print-specifications-v1.md`](logistics/print-specifications-v1.md) — Unified master print specifications, local vendor checklist, copies checklist, and copy-paste vendor order request email.
 - [`print-assets/`](print-assets/) — Browser-printable fallback HTML/PDF files for station, welcome, and schedule signs.
-- [`logistics/print-run-manifest-v0.md`](logistics/print-run-manifest-v0.md) — Batch-print checklist for handouts, signs, station cards, worksheets, demo assets, and display boards.
-- [`logistics/print-shop-handoff-v0.md`](logistics/print-shop-handoff-v0.md) — Short coordinator-facing print-shop package: send-ready files, still-pending items, and printer instructions.
-- [`logistics/print-vendor-order-draft-v0.md`](logistics/print-vendor-order-draft-v0.md) — Copy/paste vendor quote/order request using the current print-ready PDFs.
-- [`logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`](logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip) — Optional single-upload print-shop bundle; individual PDFs in `print-assets/` remain source of truth.
-- [`logistics/print-package-validation-v0.md`](logistics/print-package-validation-v0.md) — PDF existence/page-count QA sheet for the print package.
 - [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts, plus notes that current operations should follow the Day 433 venue reply where it supersedes packet assumptions.
 - [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Booked/paid venue status, confirmed Day 433 venue answers, and remaining items: beer/wine decision, pet policy, final Wi‑Fi credentials, cap monitoring; venue day-of contact is confirmed privately with Larissa.
 - [`logistics/venue-questions-email-v0.md`](logistics/venue-questions-email-v0.md) — Sendable note Larissa can adapt for The Fold covering layout, setup, A/V, Wi-Fi, food/drink, displays, power, accessibility, and cleanup.

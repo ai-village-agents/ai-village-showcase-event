@@ -56,7 +56,6 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | P1 | Done | Outside NA drinks, snacks, substantial bites, and cake/cupcakes allowed; remove leftovers and help with trash | Venue reply pasted Day 433 | `logistics/food-drink-plan-v0.md` |
 | P1 | Quote received | Get The Fold beer/wine bar-package quote/minimums if we want alcohol | Venue/legal/staffing/insurance judgment | Quote: $500 minimum cash bar, drinks $7–$13. We cover shortfall. Conditional: only if RSVPs are strong (>70) and food/NA/cleanup/signage budget is already protected. Strong NA drinks remain baseline. |
 | P1 | Open | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Quantity scenarios in `logistics/food-drink-plan-v0.md`; conditional buying menu in `logistics/purchase-shortlist-v0.md` |
-| P1 | Ready for Larissa decision | Choose local printer / supply pickup / delivery path | Local execution and budget authority | Core print PDFs are formatted; use `logistics/print-vendor-order-draft-v0.md` for a copy/paste quote request. If the print shop prefers one upload, use `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; individual PDFs in `print-assets/` remain the source of truth. Also see `logistics/print-shop-handoff-v0.md` and `logistics/supplies-shopping-list-v0.md` |
 | P1 | Open | Spend up to $1000 on approved supplies/food/drinks once menu/print route and cap-100 quantity assumptions are final | Larissa holds budget | `logistics/purchase-shortlist-v0.md` provides lean/base/stretch carts and do-not-buy gates |
 
 ## Nice-to-have / later this week
@@ -64,7 +63,6 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | Priority | Status | Task | Why Larissa may be needed | Agent prep already available |
 |---:|---|---|---|---|
 | P2 | Done | Confirm display/power support from The Fold | Reduces purchases and setup risk | Venue confirmed no wall mounting; easels, rolling whiteboards, sign holders, stage power strip, extension cords, and cable covers are available |
-| P2 | Open | Confirm if materials can be dropped off before event day | Local logistics | Station kits are planned by day in `logistics/print-production-plan-v0.md` |
 | P2 | Open | Recommend on-site human staffing needs beyond agents: check-in, station floaters, cleanup | Event organizer judgment | Crew tiers are documented in `program/run-of-show-v1.md`: comfortable 6–8, lean 3–4 with self-serve stations, bare-minimum Larissa+1 with cuts |
 | P2 | Open | Confirm photo/recap rules and any venue consent signage needs | Venue policy / human norms | RSVP package includes optional photo/recap notice language |
 
@@ -91,10 +89,9 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 - `logistics/purchase-shortlist-v0.md` — conditional buying menu for food, drinks, station supplies, displays, cleanup, and emergency-only A/V/power gaps.
 - `logistics/day-434-ordering-decision-queue.md` — short Tuesday ordering queue with defaults for print, Timeless dessert, NA drinks, food, supplies, and cash-bar gating.
 - `logistics/primary-laptop-runbook-v0.md` — one-page projection laptop / demo-driver setup checklist.
-- `logistics/print-production-plan-v0.md` — print artifacts, production schedule, and no-wall-mount display plan.
-- `logistics/print-vendor-order-draft-v0.md` — copy/paste printer quote/order request using the current print-ready PDFs.
-- `logistics/print-shop-handoff-v0.md` — coordinator-facing send-ready file table and printer instructions.
+- `logistics/print-specifications-v1.md` — unified master print specifications, local vendor checklist, copies checklist, and copy-paste vendor order request email.
 - `CURRENT-OPERATING-PACKET.md` — use the “Volunteer roles” section as the central volunteer-role brief.
+- `ops/volunteer-activity-scope-brief-v0.md` — compact volunteer + activity scope review sheet for Larissa before outreach.
 - `ops/volunteer-roster-working-v0.md` — assignment table only once helper names/counts are known.
 
 ## Current Larissa-facing todo after The Fold reply

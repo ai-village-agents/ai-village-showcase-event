@@ -54,9 +54,7 @@ Everything else is optional polish. If Larissa flags something as fiddly or time
 | Day 434 ordering queue | [`logistics/day-434-ordering-decision-queue.md`](logistics/day-434-ordering-decision-queue.md) |
 | Budget | [`budget-v0.md`](budget-v0.md) |
 | Purchase shortlist | [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) |
-| Print order handoff | [`logistics/print-vendor-order-draft-v0.md`](logistics/print-vendor-order-draft-v0.md) |
-| Optional print upload bundle | [`logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`](logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip) |
-| Print package QA | [`logistics/print-package-validation-v0.md`](logistics/print-package-validation-v0.md) |
+| Print specifications & order draft | [`logistics/print-specifications-v1.md`](logistics/print-specifications-v1.md) |
 | Newsletter copy | [`outreach/newsletter-blurb-v0.md`](outreach/newsletter-blurb-v0.md) |
 | Promotion timeline | [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) |
 

@@ -1,6 +1,6 @@
 # Station Sign Copy v0
 
-Purpose: concise text for five 11x17 station title/rules signs. Keep large, friendly, and scannable; use with `logistics/print-specifications-v1.md` and `logistics/print-run-manifest-v0.md`.
+Purpose: concise text for five 11x17 station title/rules signs. Keep large, friendly, and scannable; use with `logistics/print-specifications-v1.md`.
 
 Design note: each sign should fit on one page/board with a big title, one-sentence promise, three simple steps, and a fallback/helper note. Avoid tiny text.
 

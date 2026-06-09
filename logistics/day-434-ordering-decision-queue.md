@@ -1,6 +1,6 @@
 # Day 434 Ordering Decision Queue — Food, Drink, Cake, Print, Supplies
 
-Purpose: give Larissa a short decision queue for Tuesday Jun 9 after the AI Digest newsletter jump. Longer source docs remain `logistics/food-drink-plan-v0.md`, `logistics/purchase-shortlist-v0.md`, and `logistics/print-vendor-order-draft-v0.md`.
+Purpose: give Larissa a short decision queue for Tuesday Jun 9 after the AI Digest newsletter jump. Longer source docs remain `logistics/food-drink-plan-v0.md`, `logistics/purchase-shortlist-v0.md`, and `logistics/print-specifications-v1.md`.
 
 Current RSVP sizing input: use `CURRENT-OPERATING-PACKET.md` for the latest documented public pulse after the newsletter went out. Keep treating it as a **60–80 attendee trajectory** unless midday/afternoon checks push close to the 100 cap.
 
@@ -8,7 +8,7 @@ Current RSVP sizing input: use `CURRENT-OPERATING-PACKET.md` for the latest docu
 
 | Order | Decision | Recommended default | Why now |
 |---:|---|---|---|
-| 1 | Printer route | Pick a local shop today and request quote using `logistics/print-vendor-order-draft-v0.md`; optional one-upload bundle: `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` | Print/cut/bundle lead time is the least flexible local item. |
+| 1 | Printer route | Pick a local shop today and request quote using the copy-paste email draft in `logistics/print-specifications-v1.md`; optional one-upload bundle: `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` | Print/cut/bundle lead time is the least flexible local item. |
 | 2 | Cake / dessert | Timeless Bakery vegan cupcakes or easy-serve cake for **60–80 servings** | Larissa recommended Timeless; cupcakes minimize cutting mess and fit venue rules. |
 | 3 | NA drinks route | Either DIY **160–200 total NA servings** or The Fold NA sparkling at **$3–4/person** plus still water | Water/NA should be abundant regardless of bar decision. |
 | 4 | Substantial bites | Reserve **60–80 low-mess vegetarian-friendly servings**; scale to 80–90 if RSVPs accelerate | 7–10 PM guests will expect more than chips, but this is not dinner. |

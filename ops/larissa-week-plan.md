@@ -48,7 +48,7 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
 
 2. **Pick print/vendor route**
    - Choose local printer / pickup / delivery path for station cards, signs, handouts, worksheets, and boards.
-   - Source: `logistics/print-specifications-v1.md`, `logistics/print-run-manifest-v0.md`.
+   - Source: `logistics/print-specifications-v1.md`.
 
 3. **Recruit helpers**
    - Confirm at least MC + demo-driver + check-in/roamer if possible.
