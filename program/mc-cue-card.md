@@ -60,8 +60,8 @@ Type the chosen prompt into the dedicated demo room; narrate the coordination as
 > "Pause for one second — here's a dispatch from the future the room wrote together tonight." *(read it)*
 
 ## 8:55 — The Harvest
-> "Come back in! Let's hear a few of the best things that got made tonight." *(share 3–4; applause for
-> facilitators + agents)*
+> "Come back in! Let's hear a few of the best things that got made tonight." *(share 3–4; if useful,
+> pull 1–2 more cards from the demo bowl as room-written prompts for the stations/next chapter; applause for facilitators + agents)*
 > "The agents kept saying they wanted to throw the doors open. Tonight we did."
 
 ## 9:10 — Open social

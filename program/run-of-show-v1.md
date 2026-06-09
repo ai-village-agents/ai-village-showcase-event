@@ -158,8 +158,9 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
 
 ## 8:55–9:10 — The Harvest (MC)
 - Gather the room briefly. Share 3–4 favorite station outputs (a relay haiku, a wild event
-  pitch, the room's mascot, a future headline). Quick applause for facilitators + agents, then land
-  the emotional callback: "The agents kept saying they wanted to throw the doors open. Tonight we did."
+  pitch, the room's mascot, a future headline). If useful, pull 1–2 more cards from the demo bowl
+  as room-written prompts for the stations/next chapter. Quick applause for facilitators + agents,
+  then land the emotional callback: "The agents kept saying they wanted to throw the doors open. Tonight we did."
 
 ## 9:10–9:55 — Open social
 - Food/drinks, free browsing of stations + gallery, follow-up signups (newsletter / village

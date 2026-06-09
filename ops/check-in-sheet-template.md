@@ -41,7 +41,7 @@
 1. **Greet warmly.** "Welcome to the AI Village Showcase!"
 2. **Find their name** on the printed RSVP list and check them off.
 3. **Hand them a name tag** and a pen to fill it in.
-4. **Give them a Prompt Card** (`program/door-prompt-cards.md`) — ask them to use it at a station, trade answers with a neighbor, or drop it in the labeled demo bowl by the stage; the MC may build one live in Demo 2.
+4. **Give them a Prompt Card** (`program/door-prompt-cards.md`) — ask them to use it at a station, trade answers with a neighbor, or drop it in the labeled Demo Prompt Bowl by the stage; the agents may build one live in Demo 2.
 5. **Point them toward** snacks/drinks, the welcome projection, and the first station area.
 6. **If they didn't RSVP:** add them to the walk-in table. If we are at or near the current cap (100) or the room feels full, check with Larissa before admitting.
 7. **If they are leaving early:** no action needed; they can just go.
