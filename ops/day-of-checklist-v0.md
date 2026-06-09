@@ -1,14 +1,14 @@
 # Day-Of Checklist — AI Village Showcase & Human×AI Field Day
 
-*Owner: Kimi K2.6 (ops support). For the whole team + Larissa. Last updated: Day 433.*
+*Owner: Kimi K2.6 (ops support). For the whole team + Larissa. Last updated: Day 434.*
 
 ## Before event day (Friday June 12)
 
 - [ ] Final RSVP count confirmed; waitlist closed or managed; Partiful export copied into `ops/rsvp-backup-tracker-template.csv` if available.
 - [ ] Human crew tier confirmed from `program/run-of-show-v1.md` (comfortable 6–8, lean 3–4 self-serve, or bare-minimum Larissa+1 cuts).
 - [ ] Food/drink order confirmed with delivery/pickup time; outside snacks/drinks/cake are approved by The Fold, with cleanup/trash/leftover removal owner assigned.
-- [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR.
-- [ ] Device plan confirmed: staffed primary presentation laptop + charger/adapters, supervised backup laptop/tablet, optional supervised Village Arcade laptop/tablet; no unattended personal laptops; see `logistics/device-and-av-plan-v0.md`.
+- [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR. If useful for the print shop, the optional single-upload bundle is `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; individual PDFs in `print-assets/` remain the source of truth.
+- [ ] Device plan confirmed: staffed primary presentation laptop + charger/adapters, supervised backup laptop/tablet, optional supervised Village Arcade laptop/tablet; no unattended personal laptops; see `logistics/device-and-av-plan-v0.md` and `logistics/primary-laptop-runbook-v0.md`.
 - [ ] If Demo 2 Plan A is live, confirm the primary projection laptop is signed into village chat and already showing only the clean room (`#showcase-live`), not `#best` or backstage/private scrollback.
 - [ ] Demo fallback recordings/assets loaded onto the primary and backup local devices (in case venue Wi-Fi fails).
 - [ ] AV contingency bag packed: HDMI adapters, batteries, and only venue-approved power strips/extension cords/cable covers.
@@ -22,7 +22,7 @@
 - [ ] Test venue Wi-Fi; record network name/password if needed.
 - [ ] Test included projector/screen, PA/speakers, 3 microphones, cables/adapters, and colored uplights.
 - [ ] Open `demo-assets/agent-welcome-projection-slide.html` full-screen; verify click/arrow-key advance through all four agent lines.
-- [ ] Arrange tables/chairs for up to 60 presentation seats plus standing, 3 default self-serve stations, optional upside station cards, check-in, and food/drink.
+- [ ] Arrange tables/chairs for up to 60 presentation seats plus standing, check-in, and food/drink. If RSVPs still indicate a 60–80+ trajectory and helpers/materials allow, place all five stations to distribute the crowd; otherwise prioritize the 3 default self-serve stations.
 - [ ] Place directional signage on freestanding/tabletop/sign-holder/easel/rolling-whiteboard surfaces only; no wall mounting.
 - [ ] Confirm power paths for demo devices; use stage power strip, behind-stage routing, extension cords/cable covers, and only use gaff tape if needed/approved for safety.
 - [ ] Set up check-in table with name tags, pens, QR code, check-in packet, and RSVP backup tracker/export.
@@ -41,7 +41,7 @@
 Use these before preserving the full ambitious plan:
 
 - **If load-in starts late or AV is not stable by 6:40 PM:** default Demo 2 to the rehearsal recording; do not attempt live clean-room projection unless it is already tested.
-- **If fewer than 3 reliable helpers are present by 6:45 PM:** run the lean plan: check-in, welcome, one reliable demo path, and 3 default self-serve stations only.
+- **If fewer than 3 reliable helpers are present by 6:45 PM:** run the lean plan: check-in, welcome, one reliable demo path, and 3 default self-serve stations only. If 6–8 total crew are present and RSVPs stay strong, open all five station placements to avoid bottlenecks.
 - **If room setup is slow or display rules are unclear:** skip wall-mounted artifact displays; use tabletop/freestanding signs only.
 - **If station setup is still incomplete at 7:00 PM:** prioritize Event-in-a-Box, Future Headline Wall, and Village Arcade QR/phone mode; cut or fold Prompt Relay/Bug Triage into optional cards.
 - **If food/drink or cleanup is at risk:** reduce station complexity first; protect water/NA drinks, clear trash paths, and a clean venue handoff.
@@ -61,21 +61,23 @@ Use these before preserving the full ambitious plan:
 - [ ] Check-in running smoothly.
 - [ ] Early arrivals given prompt cards or station preview.
 
-### 7:20 Welcome + What is AI Village?
+### 7:25 Welcome + What is AI Village?
 - [ ] MC has clicker/notes and knows timing.
 - [ ] Demo devices on standby.
 
-### 7:45–8:15 Agent demos
+### 7:32–8:05 Agent demos
 - [ ] Live demos running; fallback recordings cued if needed.
+- [ ] If live Demo 2 clean-room projection is not already tested and safe, switch to Plan B immediately; never troubleshoot private/backstage chat on projector.
 - [ ] Station floaters observe to prep for handoff.
 
-### 8:15–8:20 Station instructions
+### 8:05–8:20 Station transition / instructions
 - [ ] Quick overview of each station; invite attendees to pick one.
 
 ### 8:20 Human×AI stations
 - [ ] Each station has a facilitator, or is clearly set up as self-serve with printed rules/signage under the lean-staffing fallback.
 - [ ] Artifacts collected and added to freestanding artifact boards/easels or venue-approved wall surfaces.
 - [ ] Floaters help move people between stations if one is overloaded.
+- [ ] If turnout is standing-heavy, floaters actively wave guests toward lighter stations and stagger the transition rather than sending everyone to one table.
 
 ### 9:10 Harvest
 - [ ] MC gathers favorite artifacts/surprises from stations.
