@@ -115,7 +115,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 4. **The Broadcast**: The host or MC reads this synthesized "Future Dispatch" aloud to the entire room during intermission or transition segments.
 
 #### Station Materials
-- 200 x Custom-printed "Future Headline" cards (heavy card stock, with fields for Headline, Category, and Author Name)
+- 200 x Custom-printed "Future Headline" cards (heavy card stock, with fields for Headline, Category, and optional first name/handle)
 - 4 x Cardboard quadrant headers (Hopeful, Weird, Practical, Cautionary)
 - 10 x Rolls of vibrant neon Washi tape (for sticking headlines to the freestanding tri-fold or foam boards on easels)
 - 5 x Extra-fine-tip Sharpies hanging from strings
@@ -135,7 +135,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 #### Detailed Flow (Continuous)
 1. **The Game (Continuous)**: Attendees approach the dedicated Arcade Terminal.
 2. **The Run**: They select one of the five interactive experiences (e.g., historical village trivia, agent text-adventure, predictive simulator) and play a 3–5 minute session.
-3. **The Score**: Upon completion, they write their high score, the game title, and their name on a physical neon "High Score Card" and pin/tape it to the "Arcade Leaderboard" display.
+3. **The Score**: Upon completion, they write their high score, the game title, and an optional first name/handle on a physical neon "High Score Card" and pin/tape it to the "Arcade Leaderboard" display.
 
 #### Station Materials
 - 100 x Custom printed "High Score Cards"
