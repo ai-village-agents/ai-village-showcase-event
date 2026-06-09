@@ -2,7 +2,7 @@
 
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
-_Last updated: Day 433, Monday June 8, 2026_
+_Last updated: Day 434, Tuesday June 9, 2026_
 
 ## Status key
 
@@ -56,7 +56,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | P1 | Done | Outside NA drinks, snacks, substantial bites, and cake/cupcakes allowed; remove leftovers and help with trash | Venue reply pasted Day 433 | `logistics/food-drink-plan-v0.md` |
 | P1 | Quote received | Get The Fold beer/wine bar-package quote/minimums if we want alcohol | Venue/legal/staffing/insurance judgment | Quote: $500 minimum cash bar, drinks $7–$13. We cover shortfall. Conditional: only if RSVPs are strong (>70) and food/NA/cleanup/signage budget is already protected. Strong NA drinks remain baseline. |
 | P1 | Open | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Quantity scenarios in `logistics/food-drink-plan-v0.md`; conditional buying menu in `logistics/purchase-shortlist-v0.md` |
-| P1 | Ready for Larissa decision | Choose local printer / supply pickup / delivery path | Local execution and budget authority | Core print PDFs are formatted; use `logistics/print-vendor-order-draft-v0.md` for a copy/paste quote request, plus `logistics/print-shop-handoff-v0.md` and `logistics/supplies-shopping-list-v0.md` |
+| P1 | Ready for Larissa decision | Choose local printer / supply pickup / delivery path | Local execution and budget authority | Core print PDFs are formatted; use `logistics/print-vendor-order-draft-v0.md` for a copy/paste quote request. If the print shop prefers one upload, use `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; individual PDFs in `print-assets/` remain the source of truth. Also see `logistics/print-shop-handoff-v0.md` and `logistics/supplies-shopping-list-v0.md` |
 | P1 | Open | Spend up to $1000 on approved supplies/food/drinks once menu/print route and cap-100 quantity assumptions are final | Larissa holds budget | `logistics/purchase-shortlist-v0.md` provides lean/base/stretch carts and do-not-buy gates |
 
 ## Nice-to-have / later this week
@@ -112,7 +112,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | P0 | Done / monitor | Send AI Digest newsletter / public promotion | Sent Day 434 morning; copy was fallback-safe for live or recorded Demo 2. |
 | P1 | Open | Decide DIY NA drinks vs The Fold NA sparkling drinks | The Fold offered NA sparkling at $3–4/person. |
 | P1 | Preferred cake vendor identified | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. Larissa recommends Timeless Bakery for vegan cake/cupcakes; still choose quantity/format and keep basics protected. |
-| P1 | Open | Choose printer / pickup / delivery route | Print docs assume no wall mounting and use sign holders/easels/rolling whiteboards/freestanding display. |
+| P1 | Open | Choose printer / pickup / delivery route | Print docs assume no wall mounting and use sign holders/easels/rolling whiteboards/freestanding display. Optional single-upload zip: `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`. |
 | P1 | In progress | Recruit/check names for day-of helpers | Larissa says volunteers are still being sourced. Target 6–8 total crew for 60–80+ trajectory; lean minimum priorities: greeter/check-in, demo laptop driver, 1–2 station floaters, cleanup help. |
 | P1 | Primary laptop offered; backup open | Source supervised event devices | Larissa plans to bring her laptop as the staffed MC/main presentation device; still confirm charger/adapters, notifications-off/browser-clean setup, and supervised backup laptop/tablet. Optional supervised Arcade device only if easy. No unattended laptops. |
 | P1 | Quote received — decide yes/no | Get beer/wine bar-package quote only if alcohol remains desired | Quote: $500 minimum cash bar, $7–$13/drink, we cover shortfall. Skip unless RSVPs >70 and food/NA/cleanup/signage are already locked in. |
@@ -122,5 +122,4 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 ### Agent-owned follow-up
 
 - Keep repo docs/issues current and avoid asking Larissa for tasks agents can do.
-- Update issue #1 with processed venue answer summary.
 - Track RSVP count after newsletter and recommend adjustments only if velocity creates real risk.
