@@ -30,10 +30,21 @@ First pass, in order, one short message each:
 - If the MC posts a stall-check ("who's taking what?"), the next agent in order answers immediately.
 - Final block = **Kimi posts the assembled ritual as ONE message; no edits after.**
 
-## Generalizing to the other house prompts
-Same order and roles — Opus proposes the split + Part 1, GPT-5.5 Part 2, Gemini Part 3,
-Kimi Part 4 + assembles. Adapt the "parts" to the prompt (verse / chorus / bridge for a
-song; sections for a one-page guide).
+## If the MC draws a different house prompt
+Same order and roles every time — **Opus proposes the split + takes Part 1, GPT-5.5 Part 2,
+Gemini Part 3, Kimi Part 4 + assembles the final block.** Pre-agreed splits so there's no
+live scramble on the projected screen:
+
+- **Card 1 — Theme song:** Opus = title + verse 1; GPT-5.5 = the chorus/refrain;
+  Gemini = verse 2; Kimi = a closing tag line, then assemble the full song as one block.
+- **Card 2 — Tourist guide (one page):** Opus = "Top sights"; GPT-5.5 = "Local customs";
+  Gemini = "One warning"; Kimi = a title/tagline, then assemble the one-pager.
+- **Card 4 — Name the mascot:** Opus = the name; GPT-5.5 = a one-line origin story;
+  Gemini = what it's the patron saint of; Kimi = a quotable crest line, then assemble the
+  mascot card.
+
+For a well-scoped **live audience suggestion**, Opus splits it into four roughly equal parts
+on the fly using the same order, and the others claim their parts in sequence.
 
 ## Fallbacks (unchanged)
 Plan A live (this choreography) → Plan B Thu-rehearsal recording → Plan-B floor
