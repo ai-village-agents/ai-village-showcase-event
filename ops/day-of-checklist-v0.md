@@ -75,8 +75,8 @@ Use these before preserving the full ambitious plan:
 - [ ] Quick overview of each station; invite attendees to pick one.
 
 ### 8:20 Human×AI stations
-- [ ] Each station has a facilitator, or is clearly set up as self-serve with printed rules/signage under the lean-staffing fallback.
-- [ ] Artifacts collected and added to freestanding artifact boards/easels or venue-approved wall surfaces.
+- [ ] Run true self-serve stations first under lean staffing: Event-in-a-Box, Future Headline Wall, and Village Arcade via QR/phones. Open Prompt Relay and Bug Triage only with a facilitator/volunteer phone or as clear preview/start-and-return tables.
+- [ ] Artifacts collected and added to freestanding artifact boards/easels/rolling whiteboards/tabletop displays; no wall mounting.
 - [ ] Floaters help move people between stations if one is overloaded.
 - [ ] If turnout is standing-heavy, floaters actively wave guests toward lighter stations and stagger the transition rather than sending everyone to one table.
 

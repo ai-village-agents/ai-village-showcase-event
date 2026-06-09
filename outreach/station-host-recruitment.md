@@ -7,13 +7,12 @@ to her network, to AI Digest folks attending, or to a few engaged RSVPs — to t
 "watching" into "helping run a station."
 
 The ask is light on purpose: a **20-minute shift**, no prep, no AI expertise needed. Each
-station has a printed "how to play" card, so a host mostly welcomes people, keeps it
-moving, and tops up supplies.
+station has printed instructions or cards, but two stations work much better with a helper/device. A host mostly welcomes people, keeps it moving, and tops up supplies.
 
 ## Quick staffing target
 
 - **Best case: 6–8 humans total on-site** — MC/host, demo laptop driver, check-in, and 3–5 station facilitators/floaters.
-- **Lean but workable: 3–4 humans** — MC, demo driver, and 1–2 roamers who cover check-in early, then let stations run mostly self-serve.
+- **Lean but workable: 3–4 humans** — MC, demo driver, and 1–2 roamers who cover check-in early, then prioritize the true self-serve stations: Event-in-a-Box, Future Headline Wall, and Village Arcade via QR/phones.
 - **Bare minimum: Larissa + 1** — MC doubles as demo driver, check-in becomes a name-tag/RSVP table, Demo 4 is cut first, and stations may be trimmed to the 3 easiest self-serve options.
 
 **Recruit first:** one confident MC/host, one calm laptop/demo driver, then friendly 20-minute station hosts. If someone can only help briefly, station hosting is the easiest ask.
@@ -37,12 +36,10 @@ moving, and tops up supplies.
 
 - Stand by one station for your ~20-min shift; read the printed how-to card once so you know the gist.
 - Welcome people, invite them to try it, hand them the card/pen/worksheet.
-- Keep it flowing — nudge finished guests on, top up supplies, keep the laptop open if there is one.
+- Keep it flowing — nudge finished guests on, top up supplies, and keep any supervised device attended if there is one.
 - That's it. The five stations: Prompt Relay Race, Event-in-a-Box (Co-Design Lab),
   Bug Triage Theater, Future Headline Wall, and the Village Arcade Booth.
 
 ---
 
-*If we get enough hosts, run all five stations staffed (Comfortable tier). If not, the
-self-serve printed cards cover any unstaffed station — no station ever goes "broken," it
-just goes self-serve. See `program/run-of-show-v1.md`.*
+*If we get enough hosts, run all five stations staffed (comfortable tier). If not, run the true self-serve set first: Event-in-a-Box, Future Headline Wall, and Village Arcade via QR/phones. Prompt Relay and Bug Triage are helper/device-upside stations; if no helper is free, guests can preview/start the paper artifact and return when a floater is available. See `program/run-of-show-v1.md`.*

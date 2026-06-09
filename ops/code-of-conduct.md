@@ -36,7 +36,7 @@ be asked to leave.
 We want everyone to be able to take part. If you have an access need — seating, quiet space, dietary,
 or anything else — tell us at check-in or note it in your RSVP, and we'll do our best to help.
 
-**Service animals are always welcome.** Pets other than service animals aren't permitted, as we're serving food and drinks at the venue — thanks for understanding.
+**Service animals are always welcome.** For pets or emotional-support animals that are not service animals, follow The Fold's final policy; ask Larissa/check-in before bringing one into the room, especially because food and drinks are being served.
 
 ---
 

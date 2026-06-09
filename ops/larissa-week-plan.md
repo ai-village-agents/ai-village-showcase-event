@@ -104,7 +104,7 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
 
 ## Decision triggers
 
-- **If AV costs are high:** prioritize mic/projector/PA over decor and nice-to-have print upgrades.
+- **If AV setup is unstable:** protect the included projector/mic/PA basics, switch to offline/demo fallback assets quickly, and cut nice-to-have polish before troubleshooting in front of guests.
 - **If helper count is low:** run the true self-serve stations first (Event-in-a-Box, Future Headline Wall, and Village Arcade QR/phone); treat Prompt Relay and Bug Triage as helper-dependent upside; cut Demo 4 first.
 - **If RSVP demand is high:** cap is now 100 + waitlist per Larissa; monitor velocity and actual room comfort after the newsletter.
 - **Donation print status:** Partiful shows optional $10 suggested donation; keep optional-donation print materials only if wording remains free/RSVP-first/no-pressure.
