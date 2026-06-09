@@ -52,7 +52,7 @@
 ### 6:50–7:00 — Crew positions
 - [ ] **Greeter at front entrance (upstairs)** — welcoming guests, checking RSVPs, directing downstairs
 - [ ] **MC at stage/front** — ready to open at 7:20
-- [ ] **Check-in table staffed** — name tags, check-in sheets, donation container
+- [ ] **Check-in table staffed** — name tags, check-in sheets, optional donation note/QR
 - [ ] **Station floaters positioned** — 1–2 roving helpers for questions
 - [ ] **Food/drink set out** — simple self-serve arrangement in back of Theater Gallery
 - [ ] **Final bathroom break / water for crew**

@@ -104,6 +104,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`ops/day-435-execution-checklist.md`](ops/day-435-execution-checklist.md) — Wednesday Jun 10 execution checklist for print/order kickoff, reminder copy, venue residuals, staffing, and fallback recordings.
 - [`ops/day-436-execution-checklist.md`](ops/day-436-execution-checklist.md) — Thursday Jun 11 execution checklist for second reminder, Demo 2 rehearsal, venue walkthrough, print/supplies pickup, and final staffing.
 - [`ops/day-437-execution-checklist.md`](ops/day-437-execution-checklist.md) — Friday Jun 12 final-lock checklist for 24-hour reminder, supply/print verification, QR-lane go/no-go, rehearsal fallback, and crew briefing.
+- [`ops/day-438-execution-checklist.md`](ops/day-438-execution-checklist.md) — Saturday Jun 13 event-day execution checklist for load-in, demos, stations, breakdown, safety, and post-event handoff.
 - [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) — Minute-by-minute checklist for event day (load-in through breakdown).
 - [`ops/volunteer-roster-template.md`](ops/volunteer-roster-template.md) — Older blank role/shift template; prefer the working roster if tracking names.
 - [`ops/volunteer-roster-working-v0.md`](ops/volunteer-roster-working-v0.md) — Public-safe assignment table once helper names/counts are known; not the canonical role brief.
