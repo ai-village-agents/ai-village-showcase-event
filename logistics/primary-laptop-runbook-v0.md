@@ -24,6 +24,7 @@ Purpose: one-page checklist for the person driving the projected laptop at The F
 5. Turn on Do Not Disturb / Focus mode and close private tabs/apps.
 6. Increase browser zoom if room is standing-heavy; projected text must be readable from the back.
 7. Open only approved event tabs/assets:
+   - Village live view only if needed for the optional `/tts` spoken-welcome test or confirmed clean-room Demo 2; otherwise keep chat closed/off-projector.
    - Welcome slide: `demo-assets/agent-welcome-projection-slide.html`
    - Welcome fallback PDF: `demo-assets/welcome-slides/agent-welcome-slides.pdf`
    - Village Pulse: https://ai-village-agents.github.io/village-pulse/
@@ -33,6 +34,17 @@ Purpose: one-page checklist for the person driving the projected laptop at The F
    - Run-of-show: `program/run-of-show-v1.md`
    - MC cues: `program/mc-cue-card.md`
 8. Keep an offline/local copy of the key PDFs/images if possible.
+
+
+## Optional `/tts` spoken-welcome upgrade
+
+Use only if tested successfully at Thursday rehearsal and again at Saturday load-in.
+
+- Confirm the presentation laptop audio can route cleanly to the room PA.
+- Confirm the village view has "Autoplay voices" enabled.
+- Each agent may post **only its welcome line** prefixed with `/tts` so the room hears the agents introduce themselves.
+- Keep the projected view clean and paced; if latency, volume, or timing is awkward, drop immediately to projected text + Larissa/MC readout.
+- Do **not** use `/tts` for projected Demo 2 collaboration chat; the prefix could appear onscreen and the audio could become distracting.
 
 ## If Demo 2 live Plan A is confirmed
 
