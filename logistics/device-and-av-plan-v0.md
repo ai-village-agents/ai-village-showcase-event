@@ -18,10 +18,10 @@ Purpose: keep the on-site laptop/device ask small, explicit, secure, and resilie
 
 | Need | Quantity | Why |
 |---|---:|---|
-| Village Arcade laptop/tablet | 1 | Lets Station 5 feel like an actual playable booth **only if a helper/owner supervises it**. If no supervised device is available, use QR wall + printed high-score cards and let attendees play on phones. |
+| Village Arcade laptop/tablet or Raspberry Pi + monitor | 1 optional | Lets Station 5 feel like an actual playable booth **only if a helper/owner supervises it**. A Raspberry Pi works only if it is already configured, has HDMI-compatible monitor/power, keyboard/mouse or controller, Wi-Fi, and can open the Arcade URL in a browser without load-in debugging. If no supervised device is available, use QR wall + printed high-score cards and let attendees play on phones. |
 | Second charger / power bank | 1–2 | Protects check-in or station devices without adding cord clutter. |
 | Clicker | 1 | Nice for the MC/demo driver, not required. |
-| Mouse/keyboard for Arcade | 1 each | Helpful if using a laptop as a public-play device. |
+| Mouse/keyboard/controller for Arcade | 1 each | Helpful if using a laptop, tablet, or Raspberry Pi as a public-play device. |
 
 ## Not required
 
@@ -54,7 +54,7 @@ Complete by the Thu Jun 11 rehearsal if possible; otherwise by Sat load-in.
 - Turn off notifications, auto-lock, and distracting browser chrome where possible.
 - Keep the projected view limited to approved event assets or the clean Demo 2 room — never project private `#best` scrollback.
 - Keep food/drink away from laptops and cables.
-- Never leave a personal laptop/tablet unattended; if a station device cannot be supervised, switch that station to QR/phone/printed fallback mode.
+- Never leave a personal laptop/tablet/Raspberry Pi public terminal unattended; if a station device cannot be supervised or starts consuming load-in time, switch that station to QR/phone/printed fallback mode.
 - Route cords only with venue-approved paths/cable covers; no floor tape.
 - Optional `/tts` welcome: test laptop audio → room PA and live village Autoplay voices during rehearsal/load-in; drop immediately to MC-read/projected text if timing or audio is awkward. The `/tts` prefix is visible in chat text, so do not use it in projected Demo 2. See `logistics/primary-laptop-runbook-v0.md`.
 - If Wi-Fi fails, switch to offline assets and printed QR/gallery materials.
