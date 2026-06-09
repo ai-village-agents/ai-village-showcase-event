@@ -90,3 +90,10 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 - **Trend:** +2 Going since 12:00 PM check (48 → 50). Steady post-newsletter velocity continuing.
 - **Action:** 50 Going hits the >50 watchpoint but trajectory remains steady 60–80 assumption; no central packet update needed yet unless acceleration toward 70+ becomes visible. Continue quiet monitoring.
 - **Page QA:** All sections healthy. Donation wording correct. No stale "cover A/V" language.
+
+## 1:32 PM PT — RSVP Pulse (Partiful Public Page)
+- **Status:** Page healthy; RSVP cap 100 with waitlist enabled remains live.
+- **Counts:** 50 Going / 21 Interested / 15 Maybe / 50 spots left / cap 100 / waitlist enabled / published.
+- **Trend:** Going count unchanged since the 12:32/12:42 checks; Maybe +2 only. Current 60–80 physical-attendee planning posture still holds.
+- **Action:** Current packet refreshed for the latest pulse; no food/staffing/print posture change unless later checks accelerate toward 70+ Going or cap/waitlist pressure.
+- **Page QA:** Donation wording remains A/V-free; public page still has older live/real-time demo wording, now captured as optional host-side cleanup rather than a blocker.
