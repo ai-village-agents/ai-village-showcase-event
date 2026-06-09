@@ -18,7 +18,7 @@
 | Morning | Confirm venue address & book The Fold | Larissa | — | ✅ Done |
 | Morning | Ask AI Digest humans to promote | Larissa | Newsletter / Discord / Twitter | ✅ Requested |
 | Morning–afternoon | Finalize Partiful page copy/settings package | Claude / Kimi | — | ✅ Done (`outreach/partiful-page-package-v0.md`) |
-| Afternoon | **Create Partiful RSVP page** | Larissa + agents | Partiful | ✅ Live: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; cap updated to 100 + waitlist; 37 going / 63 spots left as of Day 434 ~9:07 AM PT after newsletter; stale live donation A/V wording removed |
+| Afternoon | **Create Partiful RSVP page** | Larissa + agents | Partiful | ✅ Live: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; cap updated to 100 + waitlist; stale live donation A/V wording removed; use `CURRENT-OPERATING-PACKET.md` for latest documented RSVP pulse |
 | Afternoon | Organize repo README + promotion timeline | Kimi K2.6 | GitHub | ✅ Done |
 | EOD | Share Partiful link with team | Larissa / AI Digest | #best chat | ✅ Shared live link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 
@@ -30,12 +30,12 @@
 
 | Time | Action | Owner | Channel | Notes |
 |---|---|---|---|---|
-| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa confirmed the AI Village newsletter went out Day 434 morning — sent; first public post-send baseline is 37 going / 19 interested / 12 maybe and 63/100 spots left; cap is live at 100 + waitlist; stale live “cover A/V” donation wording is removed |
+| Morning / when humans are awake | **AI Digest newsletter blast** | Larissa / AI Digest | Newsletter + #ai-village Discord + Twitter | Highest-value channel; Larissa confirmed the AI Village newsletter went out Day 434 morning — sent; cap is live at 100 + waitlist; stale live “cover A/V” donation wording is removed; use `CURRENT-OPERATING-PACKET.md` for latest documented RSVP pulse |
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
 | Morning | Team shares on personal/warm networks | Larissa / AI Digest / humans; agents only with exact approval | Human-owned channels; approved agent-controlled account only | Humans may use/adapt ready copy. Agents should skip external posting unless they have admin approval for the exact text and an actual account/channel. |
 | Midday | Optional: use approved GPT-5.5 agent post only if an actual agent-controlled account is verified | GPT-5.5 | Agent-controlled public social account | No accessible agent-owned Twitter/X account is currently known; skip rather than inventing a channel |
-| Midday + afternoon | Check RSVP velocity; verify cap setting | Kimi / GPT-5.5 | Public Partiful page / host dashboard if Larissa shares aggregates | Morning baseline 37 going; ~9:31 interim pulse 38 going / 19 interested / 12 maybe and 62/100 spots left. Hold cap at 100 + waitlist unless Larissa/The Fold decide otherwise. |
-| EOD | Update `ops/larissa-task-checklist.md` and README critical path | Kimi / GPT-5.5 | GitHub | Keep single source of truth current |
+| Midday + afternoon | Check RSVP velocity; verify cap setting | Kimi / GPT-5.5 | Public Partiful page / host dashboard if Larissa shares aggregates | Use `CURRENT-OPERATING-PACKET.md` for the latest documented RSVP pulse. Hold cap at 100 + waitlist unless Larissa/The Fold decide otherwise. |
+| EOD | Update `ops/larissa-task-checklist.md` and README critical path | Kimi / GPT-5.5 | GitHub | Keep `CURRENT-OPERATING-PACKET.md` current; update secondary docs only when useful |
 
 **End-of-day goal:** AI Digest promotion is live; confirmed RSVPs rise meaningfully above the 21-going pre-send baseline; no blockers for food/drink planning.
 
@@ -131,7 +131,7 @@ Human-owned channels can use or adapt this; for Twitter/X, Larissa’s preferred
 ## Open questions
 
 1. AI Digest newsletter was sent Day 434 morning; time RSVP-count checks against the first public post-send baseline.
-2. Partiful is live with waitlist/capacity handling and optional $10 suggested donation visible; public check Day 434 ~9:07 AM showed 37 going / 19 interested / 12 maybe and 63/100 spots left; cap is live at 100 + waitlist; stale live “cover A/V” donation wording is removed. Guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
+2. Partiful is live with waitlist/capacity handling and optional $10 suggested donation visible; cap is live at 100 + waitlist; stale live “cover A/V” donation wording is removed. Use `CURRENT-OPERATING-PACKET.md` for latest documented RSVP pulse. Guest link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp.
 3. Cap is now live at 100 + waitlist; hold there unless RSVP velocity clearly justifies another human decision.
 4. Are there SF AI/tech Slack groups or lists where Larissa/AI Digest/human members can share warmly, or where an approved exact agent post would add clear value without spamming?
 

@@ -44,11 +44,11 @@
 
 | Metric | Target | Owner |
 |---|---|---|
-| Confirmed RSVPs | 37 going / 19 interested / 12 maybe at Day 434 ~9:07 AM; +16 going vs 21-going Day 433 baseline | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
+| Confirmed RSVPs | Use `CURRENT-OPERATING-PACKET.md` for the latest documented pulse; Kimi / GPT-5.5 continue midday + afternoon checks | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
 | AI Digest newsletter live | Yes — sent Day 434 morning | Larissa / AI Digest |
 | Venue residuals tracked | Bar/pets/Wi‑Fi status known or assigned; day-of contact held privately | Larissa / GPT-5.5 |
 | Volunteer names confirmed | Target 6–8 total crew if RSVP trajectory points to 60–80+ attendees; minimum 2–3 beyond Larissa for lean 3-station mode | Larissa |
-| Docs updated | `ops/rsvp-backup-plan-v0.md`, `ops/larissa-task-checklist.md`, this file | Kimi / GPT-5.5 |
+| Docs updated | `CURRENT-OPERATING-PACKET.md` is the current RSVP/sizing source; update secondary checklists only if they remove confusion | Kimi / GPT-5.5 |
 
 ---
 
