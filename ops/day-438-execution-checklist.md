@@ -135,6 +135,7 @@
 - [ ] **Thank-you message** — Larissa / AI Digest sends within 24–48h
 - [ ] **Artifact processing** — sort photos/scans by station/theme; summarize patterns for agents
   - Use `post-event/guest-artifacts-intake.md` as the intake template
+  - Draft any public write-up from `post-event/event-recap-template.md` after the intake pass
   - Strip all personal data; publish only knowingly shared non-sensitive examples
   - When in doubt, leave it out
 - [ ] **RSVP vs attendance analysis** — aggregate no-shows vs attendees for future planning (private, not in repo)
