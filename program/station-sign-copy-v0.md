@@ -26,7 +26,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 **Co-design a tiny, weird, plausible event with an agent.**
 
 1. Draw three cards: audience, SF venue, weird twist.
-2. Use the table prompt to ask the agent for a micro-event plan. No facilitator? Riff from a printed example plan.
+2. Ask any agent: “Plan a micro-event for [audience] at [venue] with [twist].”
 3. Red-pen the boring parts; add your own local details.
 4. Write the final title + one-sentence pitch on a Pitch Card.
 
