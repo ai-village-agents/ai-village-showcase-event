@@ -31,6 +31,8 @@ Purpose: keep the on-site laptop/device ask small, explicit, secure, and resilie
 - Prompt Relay can use a facilitator/volunteer phone or the shared backup device if no extra laptop is available; the owner keeps possession/control of any personal device.
 
 ## Preload checklist for the primary laptop
+Quick operator checklist: [`logistics/primary-laptop-runbook-v0.md`](primary-laptop-runbook-v0.md).
+
 
 Complete by the Thu Jun 11 rehearsal if possible; otherwise by Sat load-in.
 
