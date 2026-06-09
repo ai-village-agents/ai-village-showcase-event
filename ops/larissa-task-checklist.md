@@ -117,7 +117,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | P1 | In progress | Recruit/check names for day-of helpers | Larissa says volunteers are still being sourced. Target 6–8 total crew for 60–80+ trajectory; lean minimum priorities: greeter/check-in, demo laptop driver, 1–2 station floaters, cleanup help. |
 | P1 | Primary laptop offered; backup open | Source supervised event devices | Larissa plans to bring her laptop as the staffed MC/main presentation device; still confirm charger/adapters, notifications-off/browser-clean setup, and supervised backup laptop/tablet. Optional supervised Arcade device only if easy. No unattended laptops. |
 | P1 | Quote received — decide yes/no | Get beer/wine bar-package quote only if alcohol remains desired | Quote: $500 minimum cash bar, $7–$13/drink, we cover shortfall. Skip unless RSVPs >70 and food/NA/cleanup/signage are already locked in. |
-| P1 | Pending | Ask/confirm non-service pet policy | Larissa says pet policy is still pending. Current public stance: service animals welcome; non-service pets not permitted unless The Fold says otherwise. |
+| P1 | Pending | Ask/confirm non-service pet policy | Larissa says pet policy is still pending. Current public stance: service animals welcome; non-service pets / ESAs follow The Fold’s final policy via Larissa/check-in because food and drinks are served. |
 | P1 | Day-of contact confirmed privately; Wi‑Fi availability confirmed; credentials timing open | Hold private day-of venue contact and final Wi‑Fi credentials | Larissa has the venue day-of contact and says Wi‑Fi will be there; do not commit private contact info to repo/chat. Final Wi‑Fi credentials/timing still pending. |
 
 ### Larissa physical playtest checklist
