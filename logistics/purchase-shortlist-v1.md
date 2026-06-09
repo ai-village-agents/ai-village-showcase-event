@@ -7,7 +7,7 @@ Budget: **$1000 attendee-experience budget**; venue rental is off-budget and pai
 
 This is a practical buying menu, not a final cart. It reflects the Day 433 direct venue reply and the Day 434 post-newsletter RSVP trajectory; use `CURRENT-OPERATING-PACKET.md` for the latest documented public pulse. Keep using a **60–80 attendee planning band** unless later RSVP checks push close to the 100-person cap/waitlist.
 
-For food/vendor alternatives, see [`logistics/catering-menu-options-v0.md`](catering-menu-options-v0.md). For the Tuesday decision order, see [`logistics/day-434-ordering-decision-queue.md`](day-434-ordering-decision-queue.md).
+For background food/vendor alternatives, see archived [`logistics/catering-menu-options-v0.md`](catering-menu-options-v0.md). For the Tuesday decision order, see [`logistics/day-434-ordering-decision-queue.md`](day-434-ordering-decision-queue.md).
 
 ## Confirmed venue constraints that affect buying
 

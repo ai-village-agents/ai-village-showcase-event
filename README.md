@@ -63,8 +63,8 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ### Logistics
 
 - [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) — Food/drink quantities, vendor scenarios, dietary notes.
-- [`logistics/catering-menu-options-v0.md`](logistics/catering-menu-options-v0.md) — Concrete lean/base/vendor/venue-package menu options for Larissa once venue rules are confirmed.
-- [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Operations and station supply list.
+- [`logistics/catering-menu-options-v0.md`](logistics/catering-menu-options-v0.md) — Archived/background menu options; use `purchase-shortlist-v1.md` + `food-drink-plan-v0.md` for current logistics.
+- [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Archived/background operations and station supply list; use `purchase-shortlist-v1.md` for current buying guidance.
 - [`logistics/purchase-shortlist-v1.md`](logistics/purchase-shortlist-v1.md) — Current Larissa/local buying menu with venue constraints, lean/stretch guidance, and a verified Costco drinks/snacks/serving-supplies cart; still excludes substantial bites, dessert, print, and most station/display supplies.
 - [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) — Archived pointer kept only for history.
 - [`logistics/day-434-ordering-decision-queue.md`](logistics/day-434-ordering-decision-queue.md) — Short Tuesday ordering queue for print, Timeless dessert, NA drinks, substantial bites, supplies, and cash-bar gating.

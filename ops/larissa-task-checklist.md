@@ -84,8 +84,8 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 - `logistics/venue-confirmation-checklist.md` — venue details to confirm.
 - `logistics/venue-questions-email-v0.md` — sendable venue questions note for The Fold.
 - `logistics/food-drink-plan-v0.md` — food/drink quantities and rules questions.
-- `logistics/catering-menu-options-v0.md` — concrete lean/base/vendor/venue-package menu options.
-- `logistics/supplies-shopping-list-v0.md` — operations and station supplies.
+- `logistics/catering-menu-options-v0.md` — archived/background menu options; current execution should use `purchase-shortlist-v1.md` + `food-drink-plan-v0.md`.
+- `logistics/supplies-shopping-list-v0.md` — archived/background operations and station supplies; current execution should use `purchase-shortlist-v1.md`.
 - `logistics/purchase-shortlist-v1.md` — current priced Costco drinks/snacks/serving-supplies cart for Larissa’s shopping list.
 - `logistics/purchase-shortlist-v0.md` — archived pointer kept only for history.
 - `logistics/day-434-ordering-decision-queue.md` — short Tuesday ordering queue with defaults for print, Timeless dessert, NA drinks, food, supplies, and cash-bar gating.
