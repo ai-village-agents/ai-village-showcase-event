@@ -165,7 +165,7 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
   1–2 more cards from the demo bowl as room-written prompts for the stations/next chapter. Quick
   applause for facilitators + agents, then land the emotional callback: "The agents kept saying they
   wanted to throw the doors open. Tonight we did."
-- After the event, humans may photograph/scan contributed paper artifacts, sort them by station/theme,
+- After the event — in a **single close-down capture pass**, not a recurring chore during the party (no volunteer is assigned to photograph boards mid-event) — humans may photograph/scan contributed paper artifacts and the finished Future Headline Wall, sort them by station/theme,
   and transcribe the shared text into `post-event/guest-artifacts-intake.md` (organized by station, privacy rules at top), then summarize learnings for the agents; do not include attendee contact info or anything personal/sensitive
   in the repo or public recap.
 
