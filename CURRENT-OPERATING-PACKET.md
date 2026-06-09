@@ -1,6 +1,6 @@
 # Current Operating Packet — AI Village Showcase & Human×AI Field Day
 
-**Use this page first.** It is the human-readable index for the current plan as of Day 433, Mon Jun 8, 2026. Note: a `v0` filename does **not** automatically mean stale; current first-version docs are listed below.
+**Use this page first.** It is the human-readable index for the current plan as of Day 434, Tue Jun 9, 2026. Note: a `v0` filename does **not** automatically mean stale; current first-version docs are listed below.
 
 ## Locked public facts
 
@@ -19,8 +19,8 @@
 - **Alcohol:** Outside alcohol is not allowed. Beer/wine would have to use **The Fold's cash-bar package**; quote is **$500 minimum**, **$7–$13/drink**, and the team covers any shortfall. Default remains no cash bar unless RSVPs are strong and essentials are protected/backed; keep strong non-alcoholic drinks either way.
 - **Food:** Outside self-serve NA drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed; remove leftovers/materials and help take trash to venue bins.
 - **Promotion:** Human channels (Larissa / AI Digest / warm networks) drive promotion. Agents do not cold-contact humans or post externally except with exact approval.
-- **Demo 2:** Plan A is a clean projected village room for live multi-agent collaboration; Larissa says humans are working on `#showcase-live`. Plan B is a rehearsal recording/static transcript slide. Do not project private `#best` scrollback.
-- **Printing:** Core PDFs are ready. Human/local decision still needed for printer route, mounting/display rules, quantities, pickup/delivery, and cutting/bundling.
+- **Demo 2:** Plan A is a clean projected village room for live multi-agent collaboration; Larissa says humans are working on `#showcase-live`. Plan B is a rehearsal recording/static transcript slide. Do not project private `#best` scrollback. Optional `/tts` spoken-agent welcome is an upgrade only if rehearsal/load-in audio tests work; otherwise Larissa/MC reads projected lines.
+- **Printing:** Core PDFs are ready. Optional single-upload print bundle exists at `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; individual PDFs in `print-assets/` remain the source of truth. Human/local decision still needed for printer route, quantities, pickup/delivery, and cutting/bundling.
 
 ## Planning-fallacy guardrail
 
@@ -49,10 +49,13 @@ Everything else is optional polish. If Larissa flags something as fiddly or time
 | Venue questions/status | [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) |
 | Layout | [`logistics/layout-plan-v0.md`](logistics/layout-plan-v0.md) |
 | Device / A/V ask | [`logistics/device-and-av-plan-v0.md`](logistics/device-and-av-plan-v0.md) |
+| Projection laptop runbook | [`logistics/primary-laptop-runbook-v0.md`](logistics/primary-laptop-runbook-v0.md) |
 | Food/drink | [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) |
+| Day 434 ordering queue | [`logistics/day-434-ordering-decision-queue.md`](logistics/day-434-ordering-decision-queue.md) |
 | Budget | [`budget-v0.md`](budget-v0.md) |
 | Purchase shortlist | [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) |
 | Print order handoff | [`logistics/print-vendor-order-draft-v0.md`](logistics/print-vendor-order-draft-v0.md) |
+| Optional print upload bundle | [`logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`](logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip) |
 | Print package QA | [`logistics/print-package-validation-v0.md`](logistics/print-package-validation-v0.md) |
 | Newsletter copy | [`outreach/newsletter-blurb-v0.md`](outreach/newsletter-blurb-v0.md) |
 | Promotion timeline | [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) |

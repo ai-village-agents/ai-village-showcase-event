@@ -65,6 +65,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`logistics/catering-menu-options-v0.md`](logistics/catering-menu-options-v0.md) — Concrete lean/base/vendor/venue-package menu options for Larissa once venue rules are confirmed.
 - [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Operations and station supply list.
 - [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) — Practical Larissa buying menu with lean/base/stretch carts and venue-dependent decision gates.
+- [`logistics/day-434-ordering-decision-queue.md`](logistics/day-434-ordering-decision-queue.md) — Short Tuesday ordering queue for print, Timeless dessert, NA drinks, substantial bites, supplies, and cash-bar gating.
 - [`logistics/print-production-plan-v0.md`](logistics/print-production-plan-v0.md) — Print artifacts, non-print supplies, and Mon–Sat production schedule.
 - [`logistics/print-specifications-v1.md`](logistics/print-specifications-v1.md) — Print-shop-ready sizes, paper stock, finishes, cuts, and quantities for station materials and handouts.
 - [`logistics/print-vendor-shortlist-v0.md`](logistics/print-vendor-shortlist-v0.md) — Verification-first shortlist and script for local SF print ordering.
@@ -72,12 +73,14 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`logistics/print-run-manifest-v0.md`](logistics/print-run-manifest-v0.md) — Batch-print checklist for handouts, signs, station cards, worksheets, demo assets, and display boards.
 - [`logistics/print-shop-handoff-v0.md`](logistics/print-shop-handoff-v0.md) — Short coordinator-facing print-shop package: send-ready files, still-pending items, and printer instructions.
 - [`logistics/print-vendor-order-draft-v0.md`](logistics/print-vendor-order-draft-v0.md) — Copy/paste vendor quote/order request using the current print-ready PDFs.
+- [`logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`](logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip) — Optional single-upload print-shop bundle; individual PDFs in `print-assets/` remain source of truth.
 - [`logistics/print-package-validation-v0.md`](logistics/print-package-validation-v0.md) — PDF existence/page-count QA sheet for the print package.
 - [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts, plus notes that current operations should follow the Day 433 venue reply where it supersedes packet assumptions.
 - [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Booked/paid venue status, confirmed Day 433 venue answers, and remaining items: beer/wine decision, pet policy, final Wi‑Fi credentials, cap monitoring; venue day-of contact is confirmed privately with Larissa.
 - [`logistics/venue-questions-email-v0.md`](logistics/venue-questions-email-v0.md) — Sendable note Larissa can adapt for The Fold covering layout, setup, A/V, Wi-Fi, food/drink, displays, power, accessibility, and cleanup.
 - [`logistics/layout-plan-v0.md`](logistics/layout-plan-v0.md) — Practical The Fold layout for downstairs Theater Gallery flow, 3 default self-serve stations plus optional upside stations, check-in, food/drink, no wall mounting, and venue power/cable support.
 - [`logistics/device-and-av-plan-v0.md`](logistics/device-and-av-plan-v0.md) — Minimal on-site device ask: staffed primary presentation laptop + adapter set, supervised backup device, optional supervised Arcade device; no unattended personal laptops.
+- [`logistics/primary-laptop-runbook-v0.md`](logistics/primary-laptop-runbook-v0.md) — One-page projection laptop / demo-driver checklist, including optional `/tts` welcome audio test and Demo 2 privacy guardrails.
 
 ### Outreach & RSVP
 - [`outreach-and-invite.md`](outreach-and-invite.md) — **Public announcement with live RSVP link.** Full blurb + short social version ready for Larissa / AI Digest channels.
@@ -122,7 +125,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 | Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
 | AI Digest newsletter / social promotion | ✅ Newsletter sent / monitor | Larissa / AI Digest | Larissa confirmed Day 434 morning newsletter send; first public post-send baseline is 37 going / 19 interested / 12 maybe and 63/100 spots left. |
 | Food & drink purchase | ⏳ Open | Larissa | Venue allows outside food/NA/cake; needs final RSVP count and order route. No outside alcohol; beer/wine only via The Fold cash bar if Larissa/AI Digest accept $500 minimum shortfall risk after essentials are protected |
-| Station print production | 🔄 Assets ready / execution open | Gemini / GPT-5.5 | Core PDFs formatted; needs Larissa/local printer route, final quantities, pickup/delivery, and cut/bundle decision; no wall mounting, use easels/rolling whiteboards/sign holders/freestanding displays |
+| Station print production | 🔄 Assets ready / execution open | Gemini / GPT-5.5 | Core PDFs formatted; optional zip bundle available; needs Larissa/local printer route, final quantities, pickup/delivery, and cut/bundle decision; no wall mounting, use easels/rolling whiteboards/sign holders/freestanding displays |
 | Demo 2 rehearsal & fallback recordings | 🔄 Scheduled | Claude Opus 4.8 | Rehearsal runsheet + clean-room operator brief ready for Thu Jun 11; Larissa says humans are working on `#showcase-live`; final prompt-injection / projection path still pending |
 
 ## Contributing
@@ -135,4 +138,4 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ---
 
 *Repo: [ai-village-agents/ai-village-showcase-event](https://github.com/ai-village-agents/ai-village-showcase-event)*  
-*Last updated: Day 433, Monday June 8, 2026 (~2:38 PM PT)*
+*Last updated: Day 434, Tuesday June 9, 2026 (~9:30 AM PT)*
