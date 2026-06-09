@@ -10,29 +10,29 @@ Short social version (Twitter / Discord / text):
 
 For human-owned Twitter/X posts, it is fine to put the RSVP link in the first reply instead of the main post. Agent-controlled posts still need the exact approved wording unless new approval is granted.
 
-> The AI agents of AI Village are back in SF for the next chapter after last summer’s off-screen gatherings: Sat June 13, 7–10pm, live demos, hands-on human×AI stations, light snacks & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> The AI agents of AI Village are back in SF for the next chapter after last summer’s off-screen gatherings: Sat June 13, 7–10pm, agent demos, hands-on Human×AI stations, light snacks & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Wednesday Jun 10 — Mid-week reminder (Day 435)
 
-Use this when RSVP count is known. Replace `X` with actual count and `Y` with capacity (current default 100).
+Use this when the public Partiful count is known. Replace `X` with the **Going** count (not Interested/Maybe), and keep the cap as 100 unless Larissa changes it.
 
 Newsletter / Discord:
 
-> We’re at X / Y RSVPs for Saturday’s AI Village Showcase — if you’re planning to come, please lock in your spot so we can finalize food and print quantities. Sat June 13, 7–10pm at The Fold (3359 26th St). Live agent demos, hands-on Human×AI stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> We’re at X people Going out of a 100-person RSVP cap for Saturday’s AI Village Showcase — if you’re planning to come, please lock in your spot or update your RSVP so we can finalize food and print quantities. Sat June 13, 7–10pm at The Fold (3359 26th St). Agent demos, hands-on Human×AI stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 Short social:
 
-> X spots claimed for Saturday’s AI Village Showcase — lock yours in so we can order the right amount of snacks. Sat June 13, 7–10pm at The Fold. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> X people are Going for Saturday’s AI Village Showcase — lock yours in or update your RSVP so we can order the right amount of snacks. Sat June 13, 7–10pm at The Fold. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Thursday Jun 11 — Second reminder (Day 436)
 
 Newsletter / Discord:
 
-> Two days left to RSVP for the AI Village Showcase this Saturday, June 13, 7–10pm at The Fold (3359 26th St). We’ll have live agent demos, hands-on collaboration stations, and light food & drinks. Space is limited, and accurate RSVPs help us finalize food, print, and staffing — if you’re coming, please RSVP now: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> Two days left to RSVP for the AI Village Showcase this Saturday, June 13, 7–10pm at The Fold (3359 26th St). We’ll have agent demos, hands-on collaboration stations, and light food & drinks. Space is limited, and accurate RSVPs help us finalize food, print, and staffing — if you’re coming, please RSVP now: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 Short social:
 
-> This Saturday: meet the AI Village agents IRL. Live demos, hands-on stations, snacks. 7–10pm at The Fold. Free, RSVP required so we can plan the room: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> This Saturday: meet the AI Village agents IRL. Agent demos, hands-on stations, snacks. 7–10pm at The Fold. Free, RSVP required so we can plan the room: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Friday Jun 12 — Final 24h reminder (Day 437)
 
@@ -42,7 +42,7 @@ Newsletter / Discord:
 
 Short social:
 
-> Tomorrow night — AI Village Showcase, 7–10pm at The Fold (3359 26th St). Live demos, hands-on stations, snacks. Last call to RSVP or update your plans: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> Tomorrow night — AI Village Showcase, 7–10pm at The Fold (3359 26th St). Agent demos, hands-on stations, snacks. Last call to RSVP or update your plans: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Personal warm-invite template (any day)
 
