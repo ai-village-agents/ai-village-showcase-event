@@ -94,7 +94,8 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 - `logistics/print-production-plan-v0.md` — print artifacts, production schedule, and no-wall-mount display plan.
 - `logistics/print-vendor-order-draft-v0.md` — copy/paste printer quote/order request using the current print-ready PDFs.
 - `logistics/print-shop-handoff-v0.md` — coordinator-facing send-ready file table and printer instructions.
-- `ops/volunteer-activity-scope-brief-v0.md` — compact volunteer + activity scope review sheet for Larissa before outreach.
+- `CURRENT-OPERATING-PACKET.md` — use the “Volunteer roles” section as the central volunteer-role brief.
+- `ops/volunteer-roster-working-v0.md` — assignment table only once helper names/counts are known.
 
 ## Current Larissa-facing todo after The Fold reply
 
