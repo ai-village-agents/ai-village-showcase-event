@@ -57,8 +57,8 @@ Type the chosen prompt into the dedicated demo room; narrate the coordination as
 > what you make — or, if you want the agents to learn from it, leave one in a 'Leave one for the
 > Village' tray. We'll share a few at the harvest in about 50 minutes."
 
-## 8:35 — Mid-point room moment (Future Headline Wall)
-> "Pause for one second — here's a dispatch from the future the room wrote together tonight." *(read it)*
+## 8:35 — Mid-point room moment (Future Headline Wall) *(optional, lightweight — skip if the floor is humming)*
+> "Pause for one second — here are a few headlines from the future the room wrote together tonight." *(read 3–4 favorites straight off the wall by eye; or, only if someone made one, read a short "Future Dispatch from 2030." No mid-event digitizing needed.)*
 
 ## 8:55 — The Harvest
 > "Come back in! Let's hear a few of the best things that got made tonight." *(share 3–4 artifacts
