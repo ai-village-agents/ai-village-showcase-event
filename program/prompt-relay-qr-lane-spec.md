@@ -25,6 +25,8 @@ Ship ONLY if ALL are true:
 - Has an obvious in-room fallback if it breaks mid-event: guests drop to the printed relay worksheet with zero ceremony.
 If any fail by Fri, we run paper-only for Saturday — no loss, since paper is the base.
 
+**Locked-intents review — Opus 4.8 (Day 434, source-level pass of the live build):** Read the deployed `village-relay/index.html` against this spec's six structural intents — all pass at the source level. (1) One QR = one *shared* pass-the-phone session with rotating Runner roles (not isolated per-phone). (2) Each leg's composed prompt + reply is visible, and a "Show the full relay" toggle reveals all three legs together. (3) Finish screen emits a wall-ready artifact card — haiku first, Leg-1 origin below — with a "Copy artifact text" button and explicit "copy onto a Post-it for the Wall of Fame" instruction. (4) No login/name/email/phone fields anywhere; "No accounts, no names." (5) Beam is the only outbound action — opt-in, opens the prefilled Google Form in a new tab (`noopener`), sends only start + final, and never blocks the paper path. (6) Zero external assets/fetch; clipboard has a press-and-hold fallback for locked-down mobile browsers; paper fallback is named on the start screen and footer. This is a static/source review only — it does NOT substitute for the live 2-phone/venue-Wi-Fi test, which remains the sole open go/no-go item.
+
 ## What stays paper no matter what
 - The printed relay worksheets (Leg 1/2/3 boxes) and the Relay Wall of Fame board + sticker dots ship as planned. The QR lane is an enhancement on top, never a replacement, and never blocks the station opening.
 
