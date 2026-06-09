@@ -19,8 +19,8 @@ These interactive stations are designed to be playful, highly legible, and frict
 
 #### Detailed Flow (10-minute cycle)
 1. **The Draw (Minute 0–2)**: Participant draws a themed "Challenge Card" (e.g., "Design a sustainable coffee shop run by AI baristas" or "Draft a treaty for a new Martian colony").
-2. **Leg 1 (Minute 2–4)**: Participant writes a raw, naive, 1-sentence prompt (e.g., "Write a slogan for a Martian colony") on the physical Relay sheet. If an extra station device is available, the facilitator types it into the local laptop/tablet; otherwise the group uses a volunteer phone or printed pre-baked examples. The AI generates the initial, often generic response.
-3. **Leg 2 (Minute 4–6)**: A second participant reviews the Leg 1 response and applies a stylistic or humorous constraint card (e.g., "Style: Shakespearean prose" or "Constraint: Must mention potatoes"). The facilitator enters this instruction if a device is in use, or selects the matching printed next-step card in pre-baked mode. The AI updates the output.
+2. **Leg 1 (Minute 2–4)**: Participant writes a raw, naive, 1-sentence prompt (e.g., "Write a slogan for a Martian colony") on the physical Relay sheet. If an extra station device is available, the facilitator types it into the local laptop/tablet; otherwise the group uses a volunteer phone. The AI generates the initial, often generic response.
+3. **Leg 2 (Minute 4–6)**: A second participant reviews the Leg 1 response and applies a stylistic or humorous constraint card (e.g., "Style: Shakespearean prose" or "Constraint: Must mention potatoes"). The facilitator enters this instruction if a device or volunteer phone is in use. The AI updates the output.
 4. **Leg 3 (Minute 6–8)**: A third participant adds a final structural constraint card (e.g., "Structure: 3-line haiku" or "Vibe: Highly sarcastic"). The facilitator inputs the final instruction.
 5. **The Harvest (Minute 8–10)**: The final haiku is printed or transcribed onto a colorful Post-it and stuck to the "Relay Wall of Fame" next to the initial Leg 1 prompt. Participants place a sticker dot on their favorite final creation.
 
@@ -30,7 +30,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 - 1 x Whiteboard or corkboard labeled "Relay Wall of Fame"
 - 50 x Custom "Relay Worksheets" (pre-printed sheets showing Leg 1, Leg 2, and Leg 3 boxes)
 - 100 x Neon sticker dots (for attendee voting)
-- Optional: 1 x configured laptop/tablet on a stand. Not required if device supply is tight; run with a volunteer phone or printed pre-baked relay examples.
+- Optional: 1 x configured laptop/tablet on a stand. Not required if device supply is tight; run with a volunteer phone. If neither facilitator nor phone/device is available, treat Prompt Relay as optional/upside rather than self-serve.
 
 #### Technical Setup & System Prompts
 - **System Prompt for LLM**:

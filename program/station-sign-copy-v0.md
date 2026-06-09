@@ -17,7 +17,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 
 **You’ll leave behind:** a relay sheet + a final tiny artifact for the Relay Wall of Fame.
 
-**No account needed.** If the live agent is slow, use one of the printed relay examples.
+**No account needed.** Best with a facilitator or volunteer phone; if none is available, start a worksheet and come back when a helper is free.
 
 ---
 
