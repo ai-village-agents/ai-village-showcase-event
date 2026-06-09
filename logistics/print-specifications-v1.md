@@ -88,20 +88,20 @@ Self-explanatory instructions displayed at each station to guide self-serve flow
 * **File Source:** `print-assets/station-signs.pdf` (5 pages)
 * **Physical Specifications:**
   - **Dimensions:** Tabloid size (11" x 17"), single-sided.
-  - **Substrate/Mounting:** Mounted on **3/16" Foam Board** (rigid, self-supporting on table-top easels or display stands).
+  - **Substrate/Mounting:** Flat tabloid color prints for venue sign holders, tabletop easels, rolling boards, or clipboards; foam mounting only if cheap/easy and not slower.
   - **Coating/Finish:** Smooth Matte / Anti-glare finish (essential to prevent harsh reflections).
   - **Color:** Full Color (CMYK).
-  - **Quantity:** **5 boards** (1 per station).
+  - **Quantity:** **5 signs** (1 per station).
 
 ### 2.6 Welcome and Schedule Display Boards
 Large-format entrance signs to welcome guests and display the night's run-of-show.
 * **File Source:** `print-assets/welcome-schedule-signs.pdf` (2 pages)
 * **Physical Specifications:**
   - **Dimensions:** Medium poster size (18" x 24"), single-sided.
-  - **Substrate/Mounting:** Mounted on **3/16" Foam Board** (stands on floor easels at check-in and main gallery).
+  - **Substrate/Mounting:** Flat poster/sign paper for venue easels, rolling boards, sign holders, or other freestanding displays; foam mounting only if cheap/easy and not slower.
   - **Coating/Finish:** Matte / Anti-glare finish.
   - **Color:** Full Color (CMYK).
-  - **Quantity:** **2 boards** (1 Welcome Sign, 1 Schedule/Flow Sign).
+  - **Quantity:** **2 signs** (1 Welcome Sign, 1 Schedule/Flow Sign).
 
 ### 2.7 Table-Top Wayfinding Signs
 Placed at check-in, restrooms, arcade, food/drink, and demo zones.
@@ -147,8 +147,8 @@ Use this matrix to guide ordering. If budget or time constraints arise, prioriti
 |:---|---|---|---|---|---|---|---:|
 | **Group 1: Must-Have** | Attendee Program Handout | 8.5" x 11" | 80 lb Text | Matte | 4/0 Color | Straight Cut | 100 |
 | **Group 1: Must-Have** | Prompt Relay Worksheet | 8.5" x 11" | 60 lb Book/Text | Uncoated | 1/0 K (B/W) | Straight Cut | 100 |
-| **Group 2: High Priority**| Welcome / Run-of-Show Signs | 18" x 24" | 3/16" Foam Board | Matte | 4/0 Color | Mounted | 2 |
-| **Group 2: High Priority**| Station Title & Rule Signs | 11" x 17" | 3/16" Foam Board | Matte | 4/0 Color | Mounted | 5 |
+| **Group 2: High Priority**| Welcome / Run-of-Show Signs | 18" x 24" | Flat poster/sign paper | Matte | 4/0 Color | No mounting | 2 |
+| **Group 2: High Priority**| Station Title & Rule Signs | 11" x 17" | Flat tabloid color-copy/sign paper | Matte | 4/0 Color | No mounting | 5 |
 | **Group 2: High Priority**| Table-top Wayfinding Signs | 8.5" x 11" | 110 lb Cover | Matte | 4/0 Color | Straight Cut | 5 |
 | **Group 3: Station Decks**| Station Card Decks (v1) | 3" x 5" | 110 lb Cover | Matte | 4/4 Color | Rounded (3mm) | 148 |
 | **Group 3: Station Decks**| Door Prompt Cards | 3" x 5" | 110 lb Cover | Matte | 4/0 Color | Straight Cut | 150 |
@@ -165,8 +165,9 @@ Larissa makes the final vendor choice based on convenience, price, and turnaroun
 
 ### 5.1 Kinko’s / FedEx Office — SF Mission / Castro Locations
 * **Default use:** First quote / price-calibration route unless timing, custom cutting, or price fails.
-* **Pros:** Reliable for fast handouts, standard flyers, flat posters, and optional mounted foam boards. Predictable online portal and upload flow.
+* **Pros:** Reliable for fast handouts, standard flyers/color copies, flat posters, and optional mounted foam boards. Predictable online portal and upload flow.
 * **Verify Before Ordering:** Check nearest location coordinates to The Fold (3359 26th St), same-day/next-day flat-poster/card turnaround, optional foam-board price/turnaround, and capability to cut custom card size.
+* **FedEx portal note:** For 11" x 17" station signs and 17" x 11" QR-wall-style files, use the **Copies & Custom Documents / color copies** flow rather than the large-format Poster Prints flow when possible; Fable's Day 434 test priced 11" x 17" color copies at about $1.46/page.
 * **Cost-Saving Default:** Prefer flat posters/signs in venue-provided sign frames, easels, or rolling whiteboards. Use foam mounting only if the quote is acceptable and it does not slow turnaround.
 
 ### 5.2 Local SF Independent Shops (e.g., Mission Blue, Copy Central, local SF Digital Printers)
@@ -208,17 +209,17 @@ Please review our technical requirements and print files below:
 
 3. Station Signs (File: print-assets/station-signs.pdf — 5 pages)
    - Size: Tabloid 11" x 17", single-sided.
-   - Substrate: Mounted on 3/16" Foam Board.
+   - Substrate: Flat tabloid color-copy/sign paper; no mounting by default.
    - Finish: Matte/Anti-glare.
    - Color: Full color (CMYK).
-   - Quantity: 1 set of 5 boards.
+   - Quantity: 1 set of 5 signs.
 
 4. Welcome + Schedule Signs (File: print-assets/welcome-schedule-signs.pdf — 2 pages)
    - Size: Medium poster 18" x 24", single-sided.
-   - Substrate: Mounted on 3/16" Foam Board.
+   - Substrate: Flat poster/sign paper; no mounting by default.
    - Finish: Matte/Anti-glare.
    - Color: Full color (CMYK).
-   - Quantity: 1 set of 2 boards.
+   - Quantity: 1 set of 2 signs.
 
 5. Project QR Wall Print (File: print-assets/project-qr-wall-print.pdf) — print 2 copies if budget allows: one by the demo screen and one at the Arcade table
    - Size: Tabloid landscape 17" x 11", single-sided.
