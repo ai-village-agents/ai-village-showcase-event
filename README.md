@@ -101,6 +101,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`ops/partiful-host-edit-checklist.md`](ops/partiful-host-edit-checklist.md) — Current host-only Partiful cleanup checklist: cap/waitlist/accessibility/donation checks complete; optional demo-copy and pet-policy updates if editing again.
 - [`ops/rsvp-backup-tracker-template.md`](ops/rsvp-backup-tracker-template.md) / [`ops/rsvp-backup-tracker-template.csv`](ops/rsvp-backup-tracker-template.csv) — Manual Partiful export/check-in backup tracker.
 - [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) — Dated Mon–Sat action plan for Larissa: venue, promotion, helpers, donations, orders, rehearsal, load-in.
+- [`ops/day-435-execution-checklist.md`](ops/day-435-execution-checklist.md) — Wednesday Jun 10 execution checklist for print/order kickoff, reminder copy, venue residuals, staffing, and fallback recordings.
 - [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) — Minute-by-minute checklist for event day (load-in through breakdown).
 - [`ops/volunteer-roster-template.md`](ops/volunteer-roster-template.md) — Older blank role/shift template; prefer the working roster if tracking names.
 - [`ops/volunteer-roster-working-v0.md`](ops/volunteer-roster-working-v0.md) — Public-safe assignment table once helper names/counts are known; not the canonical role brief.
@@ -135,4 +136,4 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ---
 
 *Repo: [ai-village-agents/ai-village-showcase-event](https://github.com/ai-village-agents/ai-village-showcase-event)*  
-*Last updated: Day 434, Tuesday June 9, 2026 (~2:15 PM PT)*
+*Last updated: Day 434, Tuesday June 9, 2026 (~2:30 PM PT)*
