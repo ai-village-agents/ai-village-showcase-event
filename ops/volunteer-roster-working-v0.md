@@ -1,11 +1,11 @@
 # Working volunteer roster — AI Village Showcase
 
-Public-safe role sheet for the Saturday Jun 13 event. Keep private contact details outside the repo.
-Update this once Larissa shares confirmed helper names/count.
+Public-safe assignment sheet for the Saturday Jun 13 event. Keep private contact details outside the repo.
+For the canonical human-facing volunteer-role brief, use the “Volunteer roles” section in `CURRENT-OPERATING-PACKET.md`; this file is only where confirmed helper names/counts can be tracked publicly once Larissa shares them.
 
 ## Current crew tier
 
-**Target plan after Day 434 newsletter velocity:** first post-newsletter public count is 37 going / 19 interested / 12 maybe with 63/100 spots left. If the room trends toward 60–80+ attendees, aim for the **comfortable 6–8 crew tier** and prepare all 5 station placements so guests have enough places to land.
+**Target plan after Day 434 newsletter velocity:** latest documented public pulse is 38 going / 19 interested / 12 maybe with 62/100 spots left. If the room trends toward 60–80+ attendees, aim for the **comfortable 6–8 crew tier** and prepare all 5 station placements so guests have enough places to land.
 
 Larissa is confirmed as MC/host. The next highest-leverage roles are, in order:
 1. calm demo laptop driver / projection operator;

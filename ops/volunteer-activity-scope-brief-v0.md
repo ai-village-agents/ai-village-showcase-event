@@ -1,3 +1,5 @@
+> **Supporting detail, not the central source.** For human volunteer-role info, use the “Volunteer roles” section in `CURRENT-OPERATING-PACKET.md` first. This file is retained as background activity-scope detail and should not be treated as a second checklist.
+
 # Volunteer + Activity Scope Brief v0
 
 Purpose: give Larissa a compact human-event-organizer review sheet before volunteer outreach. This is a summary of `program/run-of-show-v1.md`, `program/interactive-stations-v1.md`, `ops/volunteer-roster-working-v0.md`, and `logistics/device-and-av-plan-v0.md`.

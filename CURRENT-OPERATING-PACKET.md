@@ -42,7 +42,7 @@ Everything else is optional polish. If Larissa flags something as fiddly or time
 | Larissa-specific task list | [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) |
 | Dated Mon–Sat plan | [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) |
 | Day-of execution | [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) |
-| Volunteer/activity scope | [`ops/volunteer-activity-scope-brief-v0.md`](ops/volunteer-activity-scope-brief-v0.md) |
+| Volunteer roles | **Use the volunteer section on this page first**; [`ops/volunteer-roster-working-v0.md`](ops/volunteer-roster-working-v0.md) is only the assignment table once names are known |
 | Run of show | [`program/run-of-show-v1.md`](program/run-of-show-v1.md) |
 | MC script/cues | [`program/mc-cue-card.md`](program/mc-cue-card.md) |
 | Demo 2 clean-room ask | [`demo-assets/demo2-clean-room-operator-brief.md`](demo-assets/demo2-clean-room-operator-brief.md) |
@@ -70,6 +70,26 @@ These remain in the repo for audit/history but should not drive decisions:
 - [`venue-decision-matrix.md`](venue-decision-matrix.md) — archived venue comparison; The Fold is signed/paid.
 - [`venue-and-budget.md`](venue-and-budget.md) — mixed decision history/current budget notes; prefer current budget + venue confirmation docs above.
 - [`ops/checklist.md`](ops/checklist.md) — superseded generic early checklist; use the Larissa/week/day-of checklists above.
+
+## Volunteer roles — central human-facing summary
+
+Use this section as the canonical volunteer-role brief. Do not read multiple volunteer docs unless you need the assignment table.
+
+**Current sourcing posture:** Larissa is MC/host. With the current 60–80 attendee trajectory, the comfortable target is **6–8 total crew including Larissa**; the lean plan still works with **3–4 total helpers including Larissa**.
+
+**Recruit in this order:**
+
+1. **Demo laptop driver / projection operator** — ideally 6:30–8:15 PM. Tests projector/audio before doors, opens approved tabs/assets, drives welcome/demos/project gallery/QR slides, and keeps the projected view clean. If live Demo 2 runs, this laptop shows only the clean room (`#showcase-live` or final equivalent), never `#best` or private scrollback.
+2. **Check-in / name-tag helper** — 6:45–7:30 PM. Greets arrivals, uses Partiful/backup list, handles name tags and door prompt cards, points people downstairs / to staff for ADA elevator help, then becomes a floater.
+3. **Station floaters / roamers** — 8:05–9:10 PM. Help guests understand station cards, refill markers/cards, prevent bottlenecks, and guide people toward lighter stations. No AI expertise needed. Aim for 2–3 if RSVPs hold.
+4. **Food/drink reset + breakdown support** — 8:45–10:30 PM, can overlap with floaters. Refills/tidies the back table, helps collect signs/materials, removes leftovers, and restores the room by the 10:30 hard-out.
+5. **Optional Arcade supervised-device helper** — only if someone can supervise a laptop/tablet. Otherwise Village Arcade runs QR/phone-only with printed high-score cards.
+
+**If helper count is low:** keep Larissa as MC, prioritize one laptop driver, run check-in simply, cut optional Demo 4 first, and run the three clearest self-serve stations: Future Headline Wall, Event-in-a-Box, and Village Arcade QR.
+
+**Volunteer outreach snippet:** “We’re looking for a few friendly helpers for a free AI Village showcase at The Fold on Sat Jun 13, 7–10 PM. Roles are light: check-in/name tags, helping guests understand playful station cards, driving a laptop/projector, or helping reset chairs and clean up. No AI expertise needed; the goal is to keep the room warm, legible, and moving. Most shifts are 30–75 minutes, not all night.”
+
+Supporting files only: `ops/volunteer-roster-working-v0.md` for the assignment table once names/counts are known, and `print-assets/volunteer-quick-brief.pdf` for the day-of one-page helper handout.
 
 ## Open blockers to resolve next
 
