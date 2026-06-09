@@ -2,7 +2,7 @@
 
 Purpose: give Larissa a short decision queue for Tuesday Jun 9 after the AI Digest newsletter jump. Longer source docs remain `logistics/food-drink-plan-v0.md`, `logistics/purchase-shortlist-v0.md`, and `logistics/print-vendor-order-draft-v0.md`.
 
-Current RSVP sizing input: Day 434 ~9:07 AM public page showed **37 going / 19 interested / 12 maybe**, **63/100 spots left**, after the newsletter went out. Treat this as a **60–80 attendee trajectory** unless midday/afternoon checks push close to the 100 cap.
+Current RSVP sizing input: Day 434 ~9:31 AM public page showed **38 going / 19 interested / 12 maybe**, **62/100 spots left**, after the newsletter went out. This was only +1 going from the 9:07 baseline, so keep treating it as a **60–80 attendee trajectory** unless midday/afternoon checks push close to the 100 cap.
 
 ## Decision order
 
@@ -32,7 +32,7 @@ Use the 60–80 trajectory:
 
 ## Recheck triggers
 
-- If midday RSVPs are still near **37 going** with little movement: keep 60-attendee quantities and preserve contingency.
+- If midday RSVPs are still near **38 going** with little movement: keep 60-attendee quantities and preserve contingency.
 - If midday/afternoon RSVPs pass **50 going**: keep 80-attendee food/drink sizing and open all five stations if staffing allows.
 - If RSVPs approach **70+ going** before Thu: scale water + substantial bites first; revisit cash bar only if essentials and shortfall risk are covered.
 - If the event nears waitlist/cap: do not raise cap without Larissa/The Fold judgment; protect flow, water, and staffing.
