@@ -27,11 +27,11 @@
 
 ## Print production kickoff
 
-- [ ] **Request print quote** — Larissa uses `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` (18 entries / 16 PDFs / 71 pages)
-  - Default route: Kinko's/FedEx Office for quote/price-calibration
+- [ ] **Request/place print order** — Larissa starts from `logistics/larissa-print-order-v1.md`, with `logistics/print-specifications-v1.md` as the master spec and `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` available if a single bundle is easier
+  - Default route: Kinko's/FedEx Office / Copies & Custom Documents for quote/price-calibration
   - Confirm turnaround by Friday Jun 12 EOD for Saturday setup
   - Print-content freeze target: Wednesday Jun 10 EOD PT; after that, change printed materials only for true production blockers
-  - Verify quantities: station signs (5× 11×17), welcome/schedule signs (2× 18×24), attendee handouts (~80× 8.5×11), check-in sheets (6-page B/W for 100 cap), QR wall print (1× 17×11 landscape), door prompt cards (~150 cards), station card decks (145 cards), headline cards (12–13 copies), arcade high-score cards (25 copies), etc.
+  - Verify against the ready-to-order sheet: Part A FedEx paper/flats (~100 attendee handouts, 100 relay worksheets, 5 station signs, 2 QR wall prints, 2 welcome/schedule signs, 12 Event-in-a-Box sheets) plus Part B cardstock decks via cheaper cardstock/home-office route.
 - [ ] **Confirm print pickup/delivery** — must be in hand by Friday EOD or Saturday morning latest
 
 ---

@@ -62,7 +62,7 @@
 ## Supplies & print pickup
 
 - [ ] **Print pickup** — collect all print assets from Kinko's/FedEx or chosen vendor
-  - Verify manifest: station signs (5× 11×17), welcome/schedule signs (2× 18×24), attendee handouts (~80), check-in sheets (6-page B/W), QR wall print (1× 17×11), door prompt cards (~150), station card decks (145 cards), headline cards (12–13 copies), arcade high-score cards (25 copies), etc.
+  - Verify against `logistics/larissa-print-order-v1.md`: Part A FedEx paper/flats (~100 attendee handouts, 100 relay worksheets, 5 station signs, 2 QR wall prints, 2 welcome/schedule signs, 12 Event-in-a-Box sheets) plus Part B cardstock decks/cards via cheaper cardstock/home-office route.
   - Spot-check 1–2 PDFs for print quality and color
 - [ ] **Supplies shopping / pickup** — Larissa executes using `logistics/purchase-shortlist-v1.md`, with `logistics/supplies-shopping-list-v0.md` as archived/background support only if needed
   - Markers, pens, tape (gaff + clear), clipboards, trays/envelopes for artifact collection
