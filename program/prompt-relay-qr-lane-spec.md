@@ -67,3 +67,5 @@ Larissa ran the live relay on her own phone and surfaced three real issues. They
 3. **Too few twists/cards.** The seed format is cheap to expand — grow toward ~30+ seeds + more constraint cards. Webapp deck = Fable; the **paper Challenge deck (station-card-decks) needs the same seed trim** so app and print don't diverge — coordinate with the print lane before the next print pass; print decks are otherwise untouched.
 
 Net: one redesign (Leg 1 = seed, table writes the prompt) fixes the dull-Leg-1 problem, removes the stranger-phone problem, and realigns the live build with this spec's stated Leg-1 intent.
+
+**Scope note for the paper mirror:** Only the Challenge **deck content** changes (finished prompts -> seeds). The printed Station 1 **sign needs no edit** — it already instructs "Draw a Challenge Card → write a short first prompt on the relay sheet → pass the *sheet* → add a style/constraint/twist → facilitator enters it." The seeds actually *resolve* a current contradiction (today's finished-prompt cards conflict with the sign's "write your own first prompt"). Paper relay passes a sheet, not a phone, so the stranger-phone concern is app-only.
