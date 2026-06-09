@@ -14,7 +14,7 @@
 
 ## Food & drink order window
 
-- [ ] **Place food/drink order** — Larissa executes using `logistics/food-drink-plan-v0.md` and `logistics/purchase-shortlist-v0.md`
+- [ ] **Place food/drink order** — Larissa executes using the current priced Costco cart in `logistics/purchase-shortlist-v1.md`, with `logistics/food-drink-plan-v0.md` / `logistics/purchase-shortlist-v0.md` as broader quantity and fallback guidance
   - Default route: Costco pickup for sparkling water, still water, soft drinks, snacks (Larissa has car + membership)
   - The Fold NA sparkling backup if pickup timing fails ($3–4/person)
   - Timeless Bakery cake/cupcake order (60–80 vegan easy-serve portions)
