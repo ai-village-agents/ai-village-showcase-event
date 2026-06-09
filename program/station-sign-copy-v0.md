@@ -13,11 +13,11 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 1. Draw a Challenge Card.
 2. Write a short first prompt on the relay sheet.
 3. Pass it to the next person: add a style, constraint, or twist.
-4. Facilitator enters the visible prompt/update; compare outputs and pin your favorite to the Relay Wall of Fame.
+4. Your group’s scribe types each prompt into the station tablet/QR or one phone; compare outputs and pin your favorite to the Relay Wall of Fame.
 
 **You can leave behind:** a relay sheet + a final tiny artifact for the Relay Wall of Fame.
 
-**No account needed.** Best with a facilitator or volunteer phone; if none is available, start a worksheet and come back when a helper is free.
+**No account needed.** Self-serve: scan the separate QR if available, or use the paper worksheet and Relay Wall; no staff required.
 
 ---
 
