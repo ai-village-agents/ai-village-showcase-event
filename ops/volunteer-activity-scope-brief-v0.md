@@ -76,7 +76,7 @@ The full five-station plan is upside, not a promise we should defend at the expe
 
 | Tier | On-site humans | What changes |
 |---|---:|---|
-| Comfortable | 6–8 including Larissa | MC, demo driver, check-in, 2–3 floaters, Arcade/helper, breakdown. All 5 stations feel supported. |
+| Comfortable | 6–8 including Larissa | MC, demo driver, check-in, light-touch floaters, Arcade/helper, breakdown. All 5 stations can open if helpers want to host, but guests are not treated as staff. |
 | Lean | 3–4 including Larissa | MC, demo driver, 1–2 roamers. Stations run mostly self-serve; Arcade likely QR/phone mode. |
 | Bare minimum | Larissa + 1 | Keep welcome/demos simple, cut optional Demo 4 first, run only the clearest stations self-serve, make Arcade QR-only. |
 
@@ -86,7 +86,7 @@ If Larissa thinks the plan is too much, simplify in this order:
 
 1. **Make Village Arcade QR/phone-only** unless a supervised device/helper is easy.
 2. **Make Future Headline Wall fully self-serve**; it is the best overflow activity.
-3. **Combine Prompt Relay + Event-in-a-Box under one floater** instead of separate hosts.
+3. **Keep Prompt Relay + Event-in-a-Box light-touch** under one roamer instead of separate hosts; Prompt Relay opens only if someone naturally wants to scribe/host it.
 4. **Run Bug Triage as a scheduled mini-round** rather than an always-on station.
 5. **Cut optional Demo 4** before cutting the core welcome, Demo 2, or stations.
 6. If still too much, reduce to **3 strongest stations**: Event-in-a-Box, Future Headline Wall, Village Arcade QR wall.
