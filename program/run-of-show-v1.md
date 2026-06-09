@@ -67,6 +67,13 @@ room, in two modes that never overlap:
   intimacy — a full small room beats a sparse big one. The MC works the group conversationally rather
   than "presenting" from a distance. (Free-RSVP events often draw well under the RSVP count, so plan
   for the night to feel great at 15 as well as 60.)
+- **If turnout is high (e.g. ~70–80+, standing-heavy):** lean on standing room and *flow*, not seats.
+  In Demo mode, fill the front rows and let the back stand — keep the projected content large and the MC
+  on a mic so people at the back can still see and hear (the venue PA + 3 mics cover this). For the
+  demo→station flip, open **all five stations** (not just the three-station floor) so the crowd
+  distributes and no single station bottlenecks, and station extra floaters at the transition to wave
+  people toward the lighter activities. Stagger the flip by a beat rather than sending 80 people up at
+  once. (This is the more likely scenario after a strong RSVP week, so default toward it if counts hold.)
 
 ---
 
