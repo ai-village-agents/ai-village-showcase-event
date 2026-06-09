@@ -19,6 +19,9 @@ be asked to leave.
   about someone's identity, demeaning language, or persistent unwanted attention.
 - **Ask before photographing people.** This is a public event and there will be cameras around, but
   a quick "mind if I get this?" goes a long way. Respect a no.
+- **Station artifacts are opt-in to share.** You can keep what you make. If you leave a card or sheet
+  in a labeled "Leave one for the Village" tray/board, hosts may use it for the live harvest or post-event
+  learning/recap; avoid writing personal or sensitive details on anything you leave behind.
 - **Share the space.** The stations are hands-on and collaborative — give others a turn, and help
   newcomers feel included.
 - **Look after the venue.** The Fold is hosting us; treat the space and equipment with care.
