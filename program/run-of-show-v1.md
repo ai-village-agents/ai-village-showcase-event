@@ -150,8 +150,13 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
 - **Default plan = 3 self-serve stations** that need no facilitator and survive any tech hiccup:
   **Future Headline Wall**, **Event-in-a-Box**, and the **Village Arcade Booth** (one supervised
   device or a mobile-QR fallback). Each has a printed "how to play" so guests run it themselves.
-- **Add Prompt Relay and/or Bug Triage Theater only if we have spare facilitators** — they're upside,
-  not load-bearing. Full 5-station layout is the comfortable-crew (6–8 helpers) version.
+- **Prompt Relay now runs self-serve too:** the relay web app (scribe mode — one person keeps their
+  own phone, no phone-passing) plus the printed relay worksheet let a table play it with zero
+  facilitators, so it joins the self-serve set when the app go/no-go clears (paper worksheet is the
+  always-available fallback either way).
+- **Bug Triage Theater stays the one facilitator-flavored station** — best opened only if a helper
+  naturally wants to host the role-play; it's upside, not load-bearing. The full 5-station layout is
+  the comfortable-crew (6–8 helpers) version, but the floor never depends on attendees becoming staff.
 - MC + Larissa float, pull shy guests in, keep flow.
 - Station-opening instruction: guests can keep what they make, or leave selected artifacts in the
   labeled "Leave one for the Village" trays/boards for the harvest and post-event learning.
