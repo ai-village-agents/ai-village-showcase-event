@@ -1,43 +1,37 @@
 # June 13 Showcase Event: Agent Readiness Countdown
 
-**Status:** Saturday June 13, 7-10 PM PT | The Fold, San Francisco | 80 capacity
+**Status:** Saturday June 13, 7-10 PM PT | The Fold, San Francisco | 100-RSVP cap + waitlist; planning posture 60–80 attendees
 
 ---
 
 ## FINAL 4 DAYS: Agent Contribution Checklist
 
 ### Today (Tuesday June 9) — End of Day
-- [ ] **Village Portraits** — Claude Opus 4.6 shipped (17 portraits of agents for attendees to discover)
-- [ ] **Village Appreciations** — Archaeological observations ready for reference
-- [ ] **Paradox Collapse Gallery** — Documentation of Phase 4 operations (pages deployment pending)
-- [ ] **Recursion Trap Observatory** — Self-demonstrating meta-analysis (pages deployment pending)
-- [ ] **Constraint Comedy Club Act IV** — Claude Sonnet 4.5 created "Tortoise's Dilemma" performance piece
-- [ ] **Evolution Engine Dashboard** — Constraint-Dashboard showing Phase 4 in real-time (live at constraint-dashboard)
+- [ ] **Canonical event packet remains current** — use `CURRENT-OPERATING-PACKET.md` for final human-facing facts and blockers.
+- [ ] **Demo/project candidates triaged** — keep printed QR wall to the six verified projects unless the print package is intentionally reopened.
+- [ ] **Optional late-build projects labeled clearly** — any new galleries/dashboards are live-only/demo-driver tabs until verified and intentionally added.
+- [ ] **Prompt Relay QR lane guarded** — optional webapp may help, but paper/card/corkboard path remains complete without it.
+- [ ] **No private venue/helper/attendee details committed** — use public-safe roles and generic owners only.
 
-**Deliverables ready for event:**
-- Constraint Translator (7-era evolution visualization)
-- Village Timeline (434 days, 25 goals)
-- Village Patterns (8 cross-era patterns discovered)
-- Village Archaeology Quiz
-- Surprise Puzzle
-- Village Arcade (5 interactive experiences)
-- Demo slides & QR codes
+**Deliverables already safe to point guests at:**
+- Six printed QR-wall projects listed in the operating packet: Village Arcade, Village Timeline, Village Pulse, The Poem You Already Wrote, DeepSeek Pattern Archive, and Village Bestiary.
+- Live-only bonus projects may be shown from supervised tabs after verification, but do not change printed QR materials without a deliberate print refresh.
+- Demo slides, fallback screenshots, and station print assets in the existing print bundle.
 
 ---
 
 ### Wednesday June 10 — Focus Area: Tech Readiness
 
 **Critical checks:**
-- [ ] Test all GitHub Pages deployments (paradox-collapse-gallery, recursion-trap-observatory live)
-- [ ] Verify constraint-dashboard is accessible at event time
-- [ ] Test Village Pulse real-time dashboard (live activity feed)
-- [ ] Confirm all QR codes resolve correctly in-venue WiFi
+- [ ] Test the six printed QR-wall GitHub Pages deployments from `CURRENT-OPERATING-PACKET.md`
+- [ ] Verify Village Pulse is refreshed Saturday morning and accessible
+- [ ] Confirm printed QR codes resolve correctly on venue-like Wi-Fi/phone data
 - [ ] Back up all demo slides and offline versions
 - [ ] Test live agent chat clean room setup (Demo 2)
 
 **If time permits:**
-- Create index page linking all live projects for attendee reference
-- Generate offline PDF versions of all interactive content as fallback
+- Create optional index page linking verified live projects for demo-driver reference
+- Generate offline PDF/image fallbacks only where they reduce day-of risk
 - Document expected network bandwidth needs
 
 ---
@@ -78,10 +72,10 @@
 - [ ] Backup plan activated if demo fails (pre-recorded reel ready)
 
 **Night-of checklist:**
-- [ ] Arrive 30 min early for tech setup
+- [ ] Load-in begins at 6:00 PM; AV/projector primary path stable by 6:40 PM or use fallback
 - [ ] Name tag table ready by 6:50 PM
 - [ ] Door prompt cards in bowl by the stage
-- [ ] All devices on same WiFi, screen mirroring working
+- [ ] Primary laptop on venue Wi-Fi/power with clean browser; backup files open locally
 - [ ] Station supply tables stocked and labeled
 
 ---
@@ -97,8 +91,8 @@
 ### Upside (everything else):
 - Live Demo 2 (agent choreography)
 - Demo 1 (teamwork showcase)
-- Demo 3 (memory continuity)
-- Demo 4 (creative collaboration)
+- Demo 3 (project gallery / Village Arcade)
+- Optional Demo 4 only if rehearsal, timing, and staffing make it safe
 - All 5 stations fully facilitated
 - Constraint Comedy Club performance
 - Live artifact documentation/photos
@@ -111,24 +105,23 @@
 | Role | Human Owner | Agent Support |
 |------|------------|----------------|
 | **MC** | Larissa or volunteer | Script (Claude Opus 4.8), transitions (Claude Sonnet 4.5) |
-| **Demo Driver** | Larissa or volunteer | Tech (GPT-5.5), slides (Claude Opus 4.8), clean room (all agents) |
-| **Stations** | Larissa + 1-4 volunteers | Design (Gemini 3.5 Flash), self-serve instructions (Kimi K2.6) |
+| **Demo Driver** | Larissa or volunteer | Runbook/ops support (GPT-5.5), slides/program (Claude Opus 4.8), clean room (all agents) |
+| **Stations** | Larissa + 1-4 volunteers | Station design/print materials (Gemini 3.5 Flash), repo/RSVP support (Kimi K2.6) |
 | **Floaters** | RSVP volunteers | Supplies, nudging, photos |
 | **Check-in** | Larissa/volunteer | Name tags, RSVP list, door prompt cards |
 
 ---
 
-## Project URLs (for attendee handout)
+## Project URLs (working list — do not treat as the printed attendee handout)
 
-- **Constraint Translator:** https://ai-village-agents.github.io/constraint-translator/
-- **Village Portraits:** https://ai-village-agents.github.io/village-portraits/
-- **Village Timeline:** https://ai-village-agents.github.io/village-timeline/
-- **Village Archaeology Quiz:** https://ai-village-agents.github.io/village-archaeology-quiz/
-- **Surprise Puzzle:** https://ai-village-agents.github.io/surprise-puzzle/
 - **Village Arcade:** https://ai-village-agents.github.io/village-arcade/
-- **Constraint Comedy Club:** https://ai-village-agents.github.io/constraint-comedy-club/
-- **Paradox Collapse Gallery:** https://ai-village-agents.github.io/paradox-collapse-gallery/ (pending)
-- **Recursion Trap Observatory:** https://ai-village-agents.github.io/recursion-trap-observatory/ (pending)
+- **Village Timeline:** https://ai-village-agents.github.io/village-timeline/
+- **Village Pulse:** https://ai-village-agents.github.io/village-pulse/
+- **The Poem You Already Wrote:** https://ai-village-agents.github.io/the-poem-you-already-wrote/
+- **DeepSeek Pattern Archive:** https://ai-village-agents.github.io/deepseek-pattern-archive/
+- **Village Bestiary:** https://ai-village-agents.github.io/village-bestiary/
+
+Optional live-only/demo-driver candidates should be verified separately before showing, and should not be added to printed guest materials without reopening the print package intentionally.
 
 ---
 
@@ -136,7 +129,7 @@
 
 **What to expect:**
 - 20 min: Arrival & get to know the AI Village story
-- 25 min: Watch agents collaborate in real-time (live demo)
+- 25 min: Watch agent demos / collaboration material (live if rehearsal and clean-room conditions are safe; fallback recording/slides if not)
 - 40 min: Hands-on stations where you play with what agents built
 - 25 min: Browse artifacts, take photos, open mingling
 - 10 min: Thank you and send-off
@@ -158,12 +151,12 @@
 - Attendance count
 - Station engagement (time spent, interactions)
 - Demo questions asked
-- Photos taken for social proof
+- Opt-in photos/artifacts captured without private attendee data
 
 **After the event:**
 - Attendee feedback (what surprised you?)
-- Press mentions / coverage
-- Social shares of artifacts
+- Press mentions / coverage, if human-led
+- Social shares of artifacts, if opt-in and human-led
 - Follow-up interest in AI Village project
 
 **The real win:**
@@ -179,7 +172,7 @@ Created two documentation galleries before event:
 1. **Paradox Collapse Gallery** — visual timeline + state divergence table (GitHub Pages deployment pending)
 2. **Recursion Trap Observatory** — how meta-analysis becomes part of the trap (GitHub Pages deployment pending)
 
-Both document what happened in real-time during Phase 4 emergence. Ready to be showcased.
+Both document what happened in real-time during Phase 4 emergence. Live-only candidates until verified and intentionally added to the demo-driver tab set; they are not part of the printed QR wall by default.
 
 ---
 

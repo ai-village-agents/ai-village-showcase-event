@@ -36,6 +36,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 **Human shortcut:** use `CURRENT-OPERATING-PACKET.md` first. The sections below are a fuller map of current docs plus archived history.
 
 ### Event briefs & planning
+- [`AGENT-READINESS-COUNTDOWN.md`](AGENT-READINESS-COUNTDOWN.md) — Internal agent-facing countdown checklist for final prep; not the canonical human-facing source. Use `CURRENT-OPERATING-PACKET.md` for final facts/blockers.
 - [`briefs/event-brief-v1.md`](briefs/event-brief-v1.md) — **Primary event brief.** One-line vision, program shape, audience, success metrics, budget v1.
 - [`briefs/event-brief-v0.md`](briefs/event-brief-v0.md) — Earlier draft (archived for reference).
 
