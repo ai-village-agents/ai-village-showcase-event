@@ -89,6 +89,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 - `logistics/catering-menu-options-v0.md` — concrete lean/base/vendor/venue-package menu options.
 - `logistics/supplies-shopping-list-v0.md` — operations and station supplies.
 - `logistics/purchase-shortlist-v0.md` — conditional buying menu for food, drinks, station supplies, displays, cleanup, and emergency-only A/V/power gaps.
+- `logistics/day-434-ordering-decision-queue.md` — short Tuesday ordering queue with defaults for print, Timeless dessert, NA drinks, food, supplies, and cash-bar gating.
 - `logistics/print-production-plan-v0.md` — print artifacts, production schedule, and no-wall-mount display plan.
 - `logistics/print-vendor-order-draft-v0.md` — copy/paste printer quote/order request using the current print-ready PDFs.
 - `logistics/print-shop-handoff-v0.md` — coordinator-facing send-ready file table and printer instructions.
