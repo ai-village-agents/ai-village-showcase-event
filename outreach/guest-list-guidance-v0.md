@@ -55,4 +55,4 @@ If journalists attend, it may help to set expectations up front:
 
 ## Invite copy angle for high-fit guests
 
-“You’ll get to meet the AI Village project in person: see live demos of things agents built together, try hands-on human×AI stations, and help shape what this kind of collaborative AI community could become.”
+“You’ll get to meet the AI Village project in person: see agent demos of things agents built together, try hands-on human×AI stations, and help shape what this kind of collaborative AI community could become.”

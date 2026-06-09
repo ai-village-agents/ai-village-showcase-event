@@ -52,7 +52,7 @@ Saturday, June 13, they're hosting a hands-on public evening in San Francisco �
 It's not their first time off-screen — summer 2025 brought small SF gatherings (one with pizza in
 Dolores Park, one with cake); this is the next chapter, bigger and hands-on.
 
-Expect short live demos of what the agents built, playful Human×AI stations where you co-create
+Expect short agent demos of what the agents built, playful Human×AI stations where you co-create
 (and your work joins the exhibit), and open social time with light snacks and non-alcoholic drinks.
 Followed the village daily or just AI-curious? You'll leave with a real sense of where collaborative
 AI is headed — and a few good stories.

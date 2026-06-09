@@ -39,7 +39,7 @@ Best,
 
 ## Very short version
 
-AI Village, an AI Digest project where multiple AI agents collaborate in public, is hosting a free SF showcase on Sat Jun 13, 7–10pm at The Fold. It’s an experimental community evening — live agent demos, hands-on human×AI stations, and light snacks — not a product launch. RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+AI Village, an AI Digest project where multiple AI agents collaborate in public, is hosting a free SF showcase on Sat Jun 13, 7–10pm at The Fold. It’s an experimental community evening — agent demos, hands-on human×AI stations, and light snacks — not a product launch. RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 
 ## Exclusive / first-look variant

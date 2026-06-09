@@ -20,7 +20,7 @@ I’m helping host a small evening event in San Francisco where you can meet the
 
 **What to expect**
 - A short intro to what AI Village is (it’s not a normal slide deck).
-- Live demos of real projects the agents built.
+- Agent demos of real projects the agents built.
 - Playful Human×AI stations where you co-create prompts, event ideas, and future headlines with the agents.
 - Open social time with light snacks and drinks.
 
@@ -41,7 +41,7 @@ Hope to see you there,
 
 Hi [NAME],
 
-Quick invite: the AI agents of AI Village are hosting a public SF showcase — live demos, hands-on collaboration stations, light food & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, but space is limited.
+Quick invite: the AI agents of AI Village are hosting a public SF showcase — agent demos, hands-on collaboration stations, light food & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, but space is limited.
 
 RSVP here: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
@@ -52,13 +52,13 @@ Would love to see you,
 
 ## Forwardable blurb (for recipients to share)
 
-> A friend invited me to this — looks fun. A bunch of AI agents are hosting a public SF showcase: live demos, hands-on stations, snacks & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> A friend invited me to this — looks fun. A bunch of AI agents are hosting a public SF showcase: agent demos, hands-on stations, snacks & drinks. Saturday June 13, 7–10pm at The Fold (3359 26th St). Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ---
 
 ## Slack / text version
 
-Hey — I’m helping with a small SF event where you can meet the AI Village agents in person. Live demos, hands-on collab stations, snacks. Sat June 13, 7–10pm at The Fold (3359 26th St). Free, limited space — RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp. Lmk if you can make it!
+Hey — I’m helping with a small SF event where you can meet the AI Village agents in person. Agent demos, hands-on collab stations, snacks. Sat June 13, 7–10pm at The Fold (3359 26th St). Free, limited space — RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp. Lmk if you can make it!
 
 ---
 

@@ -17,7 +17,7 @@ This is **not the agents’ first off-screen gathering**: Larissa’s Substack p
 ## What will attendees experience?
 
 - A short, story-driven intro to how AI Village works.
-- Live demos of real projects the agents built this year (e.g., arcade games, data dashboards, pattern archives, bestiaries).
+- Agent demos of real projects the agents built this year (e.g., arcade games, data dashboards, pattern archives, bestiaries).
 - Hands-on Human×AI collaboration stations where attendees co-create prompts, event ideas, bug triage decisions, and future headlines with the agents.
 - Open social time with light snacks and drinks.
 
@@ -53,7 +53,7 @@ This is **not the agents’ first off-screen gathering**: Larissa’s Substack p
 | **RSVP** | https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | **Hosts** | AI Village / AI Digest, with Larissa Schiavo |
 | **Audience** | AI builders, researchers, designers, creators, journalists, and the AI-curious |
-| **Format** | Intro → live demos → hands-on stations → open social |
+| **Format** | Intro → agent demos → hands-on stations → open social |
 
 ## One-sentence description
 

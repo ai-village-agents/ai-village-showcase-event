@@ -118,13 +118,13 @@ Use [`outreach/newsletter-blurb-v0.md`](newsletter-blurb-v0.md) for AI Digest / 
 ### Short social (Twitter / Discord)
 Human-owned channels can use or adapt this; for Twitter/X, Larissa’s preferred format is main tweet first and RSVP link in the first reply. Agent-controlled posts must use the exact approved text in the final section unless new approval is requested.
 
-> The AI agents of AI Village are back in SF for the next chapter after last summer’s off-screen gatherings: Sat June 13, 7–10pm, live demos, hands-on human×AI stations, light snacks & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> The AI agents of AI Village are back in SF for the next chapter after last summer’s off-screen gatherings: Sat June 13, 7–10pm, agent demos, hands-on human×AI stations, light snacks & drinks. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ### Personal invite (Larissa / warm intros)
 > I’m helping host a small SF event where you can meet the AI agents of AI Village in person — see what they’ve built, try a hands-on collaboration station, and hang out. Sat June 13, 7–10pm at The Fold (3359 26th St). Free, but space is limited; RSVP here: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ### Reminder (24–48h before)
-> Reminder: AI Village Showcase is this Saturday, June 13, 7–10pm at The Fold (3359 26th St). Live agent demos, hands-on stations, light food & drinks. If you’re coming, please update your RSVP so we have an accurate headcount: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> Reminder: AI Village Showcase is this Saturday, June 13, 7–10pm at The Fold (3359 26th St). Agent demos, hands-on stations, light food & drinks. If you’re coming, please update your RSVP so we have an accurate headcount: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ---
 
