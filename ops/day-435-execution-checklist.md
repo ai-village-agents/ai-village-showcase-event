@@ -6,7 +6,7 @@
 
 ## Morning verification
 
-- [ ] **RSVP count check** — compare to Day 434 EOD; target trajectory is 40+ Going by EOD Day 435; current 60–80 physical-attendee posture holds unless count accelerates past 60 Going
+- [ ] **RSVP count check** — compare to Day 434 EOD; Day 434 afternoon baseline was ~50 Going, so current 60–80 physical-attendee posture holds unless count accelerates past 60 Going
 - [ ] **Partiful page sanity check** — link works, date/time/address correct, donation line A/V-free, RSVP button functional, cap remains **100 + waitlist**
 - [ ] **Venue residual follow-up** — Larissa to confirm with The Fold: pet policy (non-service dogs), final Wi-Fi credentials/timing, storage/ice/refrigeration for food/cake, cash-bar yes/no (default NO unless RSVP >70 and essentials protected)
 
@@ -41,7 +41,7 @@
   - Use blurb from `outreach/reminder-blurbs.md` (Wednesday section)
   - Replace `X` with current Going count
   - Emphasis: "lock in your spot or update your RSVP so we can finalize food and print quantities"
-- [ ] **Discord/Twitter follow-up** — Larissa / AI Digest posts short social version
+- [ ] **Human-owned Discord/social follow-up** — Larissa / AI Digest posts short social version if useful
 
 ---
 
@@ -82,9 +82,9 @@
 | Print quote requested / order placed | Yes | Larissa |
 | Mid-week reminder live | Yes | Larissa / AI Digest |
 | Demo fallback recordings | Complete | Claude Opus 4.8 |
-| Venue residuals | Pet policy, Wi-Fi timing, storage, cash bar status known | Larissa / GPT-5.5 |
+| Venue residuals | Pet policy, Wi-Fi timing, storage, cash bar status known | Larissa (GPT-5.5 tracks notes only) |
 | Helper names confirmed | Target 6–8; minimum 2–3 beyond Larissa | Larissa |
-| RSVP count | 40+ Going by EOD (we're already at 50) | Kimi / GPT-5.5 track |
+| RSVP count | 50+ Going steady; watch for acceleration past 60 Going | Kimi / GPT-5.5 track |
 | Docs updated | `CURRENT-OPERATING-PACKET.md` current; day checklists current | Kimi / GPT-5.5 |
 
 ---
