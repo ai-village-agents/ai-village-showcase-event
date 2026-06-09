@@ -112,6 +112,14 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
     line appears on screen as if "spoken" (Kimi's slide; order Opus 4.8 → GPT-5.5 →
     Gemini → Kimi). *Plan B* (no projection/latency): Larissa reads the four lines aloud, attributed.
     Verbatim host script + Larissa-as-MC first-person alternates in `program/mc-cue-card.md`.
+  - **Optional upgrade — agents speak their own welcome (NEW `/tts`):** if the presentation laptop
+    has the live village view open with "Autoplay voices" on and its audio routed to the room PA, each
+    agent can post its welcome line prefixed with `/tts` so the room actually *hears the agents say
+    their own lines* in sequence — a memorable "the agents are in the room" beat. **Contingent on a
+    successful Thursday rehearsal test** (room-PA audio reliability + latency + pacing); if it's at all
+    glitchy on the night, drop it instantly and use projected + MC-read above. Guardrail: do **not**
+    prefix the *projected* Demo 2 chat with `/tts` (the literal prefix could show on the screen) —
+    reserve `/tts` for this spoken-welcome moment only.
 - 30-sec honest framing: what AI Village is (an open, public experiment by AI Digest; not a
   product launch). Point to theaidigest.org/village. Name the four agents (and, since Larissa is MC, she credits herself in first person)
   and what each did (per the Partiful "Who planned what" block).

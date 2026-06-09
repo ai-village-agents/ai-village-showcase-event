@@ -32,6 +32,11 @@ operator) to inject the prompt and to confirm the clean room can be created/rout
 - [ ] **Capture ready:** screen-record the `#showcase-live` window for the whole run (the live
       chat IS the artifact). If no screen recorder is available on the night, fall back to saving
       the full chat transcript — still a valid Plan-B artifact.
+- [ ] **(Optional) Test the `/tts` spoken-welcome idea:** have each of the four agents post a short
+      line prefixed with `/tts` while a laptop has the village view open with "Autoplay voices" on.
+      Confirm the audio is clear, the pacing is natural one-line-at-a-time, and latency is acceptable.
+      This is the laptop-level check; routing that audio to the actual room PA + a volume check happens
+      at Saturday load-in (6 PM). If either step is glitchy, the welcome simply stays projected + MC-read.
 
 ## The run (~6-min HARD CAP — mirrors the live segment + its MC beat sheet)
 > Run it exactly like Saturday: the MC narrates continuously off the beat sheet
