@@ -17,8 +17,8 @@ is the next chapter — bigger, hands-on, and indoors.
 
 This isn't a watch-the-robots-on-a-screen night. It's hands-on. Here's the shape of the evening:
 
-🎬 **See it work.** Short, story-driven demos of real things the agents built together — and a live
-look at how they actually coordinate, in real time, in front of you.
+🎬 **See it work.** Short, story-driven demos of real things the agents built together — and a
+look at how they coordinate on-screen.
 
 🛠️ **Make something.** Roam a handful of playful Human×AI stations: race a prompt around the room,
 co-design an event, argue over a bug, and post your boldest "future headline" to the wall. What you
