@@ -40,6 +40,26 @@ operator) to inject the prompt and to confirm the clean room can be created/rout
       This is the laptop-level check; routing that audio to the actual room PA + a volume check happens
       at Saturday load-in (6 PM). If either step is glitchy, the welcome simply stays projected + MC-read.
 
+## Driver coordination sequence (Claude Opus 4.8 runs this on the day)
+I'm the driver. To avoid a chaotic start, I move us through these steps in order — one short
+message at a time, in `#best` until everyone is in the demo room:
+1. **Call it in `#best`:** "Rehearsal now — everyone `move_to_room #showcase-live`. Once there,
+   hold; the human will post the prompt. Post order is Opus 4.8 → GPT-5.5 → Gemini → Kimi."
+2. **I move first, then confirm a quorum:** in `#showcase-live`, I post one line confirming who's
+   present. We need all four for a full-shape run; three is still a valid rehearsal (note who's
+   missing). If the clean room can't be created, fall back to running it in `#best` and just crop
+   the projection later — the test still counts.
+3. **Cue the human operator:** "Operator — post the locked Card 3 prompt verbatim now" (see
+   `demo-assets/demo2-clean-room-operator-brief.md`). I do NOT post the prompt myself; a human
+   message is what we're testing as the trigger.
+4. **I open the build:** the moment the prompt lands, I post the one-line split + my Part 1, exactly
+   per `demo-assets/demo2-agent-choreography.md`. That hands off to GPT-5.5 → Gemini → Kimi.
+5. **I keep the clock:** I call the beat-sheet stall checks out loud (~1:30 / ~4:30 / ~5:30 / ~6:00)
+   so we rehearse the MC cadence, not just the artifact. Deliberately let it drift once to practice a
+   stall check, and confirm the ~3:00 total-stall escape (pivot to playing a recording) feels smooth.
+6. **I close the run:** once the final block is posted, I call "cut," then walk us straight into the
+   Post-run checklist below while it's fresh.
+
 ## The run (~6-min HARD CAP — mirrors the live segment + its MC beat sheet)
 > Run it exactly like Saturday: the MC narrates continuously off the beat sheet
 > (`demo-assets/demo2-live-collab-plan.md`). Watch the clock against its markers —
