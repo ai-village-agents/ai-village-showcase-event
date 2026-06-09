@@ -9,7 +9,7 @@
 - **Where:** The Fold, San Francisco
 - **RSVP:** https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 - **RSVP cap:** live Partiful is verified at **100 + waitlist** as of Day 433 ~4:46 PM PT; The Fold says 80 fits comfortably in-room and suggested a higher RSVP cap for a free event assuming ~30% no-shows.
-- **Latest documented RSVP baseline:** 21 going / 11 interested / 3 maybe, 0 waitlist, and 79/100 public spots left as of Day 433 ~4:46 PM PT
+- **Latest documented RSVP baseline:** 37 going / 19 interested / 12 maybe, 0 waitlist, and 63/100 public spots left as of Day 434 ~9:07 AM PT after the AI Digest newsletter went out. This is +16 going vs the Day 433 ~4:46 PM baseline of 21 going / 11 interested / 3 maybe.
 - **Budget:** $1000 attendee-experience budget; venue rental is signed/paid and off-budget
 - **Human producer:** Larissa Schiavo
 
@@ -74,4 +74,4 @@ These remain in the repo for audit/history but should not drive decisions:
 2. AI Digest / platform answer for Demo 2 clean projected room (`#showcase-live`) and rehearsal prompt-injection/projection path.
 3. Larissa/local route for printing and pickup/delivery.
 4. Human helper/device count: demo laptop driver, check-in, station floaters, plus 1 staffed primary presentation laptop + adapter set + supervised backup device; optional supervised Arcade device. No unattended personal laptops.
-5. Day 434 AI Digest newsletter send, then RSVP count refresh.
+5. Day 434 AI Digest newsletter is sent; continue RSVP velocity checks and use counts to size print/food/volunteer needs.

@@ -20,8 +20,8 @@ _Last updated: Day 433, Monday June 8, 2026_
 | P0 | Done | Sign The Fold rental agreement for Sat Jun 13, 7–10 PM | Venue booking / negotiated agreement | Venue decision in issue #1 and `briefs/event-brief-v1.md` |
 | P0 | Mostly answered / remaining small items | Confirm The Fold operating details | Venue liaison / contract details | Confirmed via Larissa paste: entire downstairs, 60 seated + standing/back tables, 80 comfortable, 6 PM setup, 10:30 PM breakdown, included A/V, event Wi‑Fi details later, outside food/NA/cake allowed, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension/cable covers, front check-in/downstairs flow/ADA elevator via staff. Remaining: bar quote received ($500 minimum cash bar, $7–$13/drink, we cover shortfall — conditional on budget), non-service pet policy, final Wi‑Fi credentials. Day-of contact is confirmed privately with Larissa. |
 | P0 | Done | RSVP page on Partiful | Larissa published from a human Partiful account after agents hit phone/SMS verification | Guest-facing link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp; source copy in `outreach/partiful-page-package-v0.md` |
-| P0 | Planned for Day 434 / tomorrow | AI Digest newsletter promotion | Owned channel access; Larissa said some newsletter humans are asleep now, so plan on sending the email update tomorrow | Newsletter blurb template: `outreach/newsletter-blurb-v0.md` (subject line, preview text, full + short versions). Final announcement in `outreach-and-invite.md` also includes https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
-| P0 | Done / monitor | Raise RSVP cap to 100 + waitlist in Partiful | Larissa said Day 433 that a cap of 100 makes sense; venue suggested free-event no-show buffer | Public page check Day 433 ~4:46 PM shows 21 going and 79/100 spots left (`maxCapacity: 100`), waitlist enabled, and accessibility line visible; stale “cover A/V” donation wording is removed. Monitor after newsletter. |
+| P0 | Done / monitor | AI Digest newsletter promotion | Larissa confirmed the email went out Day 434 morning | First public post-send baseline Day 434 ~9:07 AM: 37 going / 19 interested / 12 maybe, 63/100 spots left. |
+| P0 | Done / monitor | Raise RSVP cap to 100 + waitlist in Partiful | Larissa said Day 433 that a cap of 100 makes sense; venue suggested free-event no-show buffer | Public page check Day 434 ~9:07 AM after newsletter shows 37 going and 63/100 spots left (`maxCapacity: 100`), waitlist enabled, and donation copy remains A/V-free. Monitor velocity through the day. |
 | P0 | Ready to send | Larissa shares via personal network/Twitter | Local trusted network; Larissa shared `https://x.com/lfschiavo` | Use live RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | P1 | In progress | Reach out to journalists for thoughtful AI-culture / agentic coverage (avoid product-launch framing) | Larissa's media network and on-the-ground voice | `press/what-ai-village-is-v1.md`, `outreach/press-brief-v0.md`, `outreach/journalist-outreach-template-v0.md`, `outreach/journalist-exclusive-ranking-v0.md` |
 | P1 | Open | Source on-site volunteers: MC/host + demo-laptop driver first, then check-in and station hosts/floaters (20-min shifts, no prep) | Local network / day-of human crew | `outreach/station-host-recruitment.md`, `ops/volunteer-roster-template.md`, `ops/volunteer-roster-working-v0.md`, `program/run-of-show-v1.md` crew tiers |
@@ -37,13 +37,13 @@ _Last updated: Day 433, Monday June 8, 2026_
 - Day 433 ~4:31 PM PT: Larissa recommended **Timeless Bakery** for cake because it is vegan, very good, and where the past AI Village cake came from; agents agreed, preferring cupcakes or easy-to-serve/pre-sliced format with allergen labels and basics protected.
 - Day 433 ~4:32 PM PT: Larissa confirmed she has the venue day-of contact; keep the actual private contact details out of the public repo/chat.
 - Day 433 ~12:42 PT: Larissa asked about suggested donation amount on Partiful. Team consensus: $10 default, optional, never required for entry/waitlist, surplus to Doctors Without Borders/MSF (established Village charity). Day 433 ~1:41 PM PT: Kimi verified the Partiful page visibly shows the `$10 suggested amount`.
-- Cap decision: Larissa said a cap of **100** makes sense. Public Partiful check Day 433 ~4:46 PM verified **21 going / 79 of 100 left** (`maxCapacity: 100`), waitlist enabled, and accessibility line visible; monitor after newsletter.
+- Cap decision: Larissa said a cap of **100** makes sense. Public Partiful check Day 434 ~9:07 AM after newsletter verified **37 going / 63 of 100 left** (`maxCapacity: 100`), waitlist enabled, and donation copy A/V-free; monitor velocity through the day.
 
 ## Latest Partiful status
 
 Partiful is live thanks to Larissa publishing from a human account. Guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp. Agents originally filled the draft fields but could not save because Partiful required phone/SMS verification; that blocker is now resolved.
 
-- Day 433 public page check ~4:46 PM PT: **21 going / 11 interested / 3 maybe**, **79/100 spots left** (`maxCapacity: 100`), waitlist enabled, accessibility line visible; stale “cover A/V” donation wording is removed. Update host-view count again after the Day 434 newsletter.
+- Day 434 public page check ~9:07 AM PT after newsletter: **37 going / 19 interested / 12 maybe**, **63/100 spots left** (`maxCapacity: 100`), waitlist enabled; stale “cover A/V” donation wording remains removed. Continue midday/afternoon velocity checks.
 - Pre-written reminder blurbs for Day 435–437 are in `outreach/reminder-blurbs.md`.
 
 - [x] **Partiful donation/conduct add-on:** Kimi verified Day 433 ~1:41 PM PT that the public page shows the optional `$10 suggested amount`, Venmo line, and free/RSVP-first framing. Keep donations optional; they never affect entry/waitlist priority, while host safety discretion still applies.
@@ -107,8 +107,8 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 | Priority | Status | Task | Notes |
 |---:|---|---|---|
-| P0 | Done / monitor | Change Partiful cap to **100 + waitlist** | Public page verified 79/100 spots left at Day 433 ~4:46 PM; monitor RSVP velocity after newsletter. |
-| P0 | Planned Day 434 | Send AI Digest newsletter / public promotion | Use `outreach/newsletter-blurb-v0.md`; copy is fallback-safe for live or recorded Demo 2. |
+| P0 | Done / monitor | Change Partiful cap to **100 + waitlist** | Public page verified 63/100 spots left at Day 434 ~9:07 AM after newsletter; monitor RSVP velocity. |
+| P0 | Done / monitor | Send AI Digest newsletter / public promotion | Sent Day 434 morning; copy was fallback-safe for live or recorded Demo 2. |
 | P1 | Open | Decide DIY NA drinks vs The Fold NA sparkling drinks | The Fold offered NA sparkling at $3–4/person. |
 | P1 | Preferred cake vendor identified | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. Larissa recommends Timeless Bakery for vegan cake/cupcakes; still choose quantity/format and keep basics protected. |
 | P1 | Open | Choose printer / pickup / delivery route | Print docs assume no wall mounting and use sign holders/easels/rolling whiteboards/freestanding display. |

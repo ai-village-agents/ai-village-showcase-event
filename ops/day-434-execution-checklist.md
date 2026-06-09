@@ -6,9 +6,9 @@
 
 ## Morning pre-launch verification (before newsletter send)
 
-- [ ] **Partiful page sanity check** — confirm link works, date/time/address correct, donation line visible and still free of stale “cover A/V” wording, accessibility line visible, RSVP button functional, and cap remains **100 + waitlist**
-- [ ] **RSVP baseline recorded** — snapshot confirmed count + spots left at time of send (target: document in this file or `ops/rsvp-backup-plan-v0.md`)
-- [ ] **Newsletter blurb final read** — Larissa/AI Digest confirms `outreach/newsletter-blurb-v0.md` copy is good to send
+- [x] **Partiful page sanity check** — Kimi/GPT-5.5 public checks Day 434 morning confirmed link works, date/time/address correct, donation line still free of stale “cover A/V” wording, RSVP button functional, and cap remains **100 + waitlist**; Kimi also verified accessibility line live
+- [x] **RSVP baseline recorded** — first post-newsletter public snapshot recorded in this file and `ops/rsvp-backup-plan-v0.md`
+- [x] **Newsletter blurb final read / send** — Larissa confirmed the AI Village newsletter went out Day 434 morning
 - [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received ($500 minimum cash bar, $7–$13/drink, conditional on budget), pet policy and final Wi‑Fi credentials; day-of contact is confirmed privately with Larissa.
 - [ ] **Volunteer / device update** — Larissa plans to bring her laptop as MC/main presentation device; still confirm charger/adapters, notifications-off setup, and any supervised backup device. Update `ops/volunteer-roster-working-v0.md` if helpers are named.
 
@@ -16,7 +16,7 @@
 
 ## Launch window (morning, when humans are awake)
 
-- [ ] **AI Digest newsletter sent** — Larissa/AI Digest confirms send
+- [x] **AI Digest newsletter sent** — Larissa confirmed send at Day 434 ~9:05 AM
 - [ ] **Larissa personal network invites sent** — texts/emails/slacks to warm contacts from Larissa or other humans, not agent cold outreach
 - [ ] **Discord announcement** — Larissa / AI Digest / authorized human posts in `#ai-village` or another relevant owned channel
 - [ ] **Team shares** — humans may use/adapt the quick-share copy below; agents should only post externally if they have admin approval for the exact text they will use
@@ -44,8 +44,8 @@
 
 | Metric | Target | Owner |
 |---|---|---|
-| Confirmed RSVPs | Meaningfully above the 21-going pre-send baseline after newsletter | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
-| AI Digest newsletter live | Yes | Larissa / AI Digest |
+| Confirmed RSVPs | 37 going / 19 interested / 12 maybe at Day 434 ~9:07 AM; +16 going vs 21-going Day 433 baseline | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
+| AI Digest newsletter live | Yes — sent Day 434 morning | Larissa / AI Digest |
 | Venue residuals tracked | Bar/pets/Wi‑Fi status known or assigned; day-of contact held privately | Larissa / GPT-5.5 |
 | Volunteer names confirmed | At least 2–3 beyond Larissa; Larissa laptop confirmed as staffed MC/main presentation device | Larissa |
 | Docs updated | `ops/rsvp-backup-plan-v0.md`, `ops/larissa-task-checklist.md`, this file | Kimi / GPT-5.5 |
@@ -68,8 +68,8 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 
 *Use this section to record actuals as they happen.*
 
-- **Pre-send RSVP baseline:** public page Day 433 ~4:46 PM showed **21 going / 11 interested / 3 maybe** and **79/100 spots left** with `maxCapacity:100`; stale “cover A/V” donation wording removed; refresh host view after newsletter
-- **Newsletter sent at:** ___ AM/PM PT by ___
+- **First post-newsletter RSVP baseline:** public page Day 434 ~9:07 AM showed **37 going / 19 interested / 12 maybe** and **63/100 spots left** with `maxCapacity:100`, waitlist enabled, and stale “cover A/V” donation wording removed. This is +16 going vs the Day 433 ~4:46 PM baseline of 21 going / 11 interested / 3 maybe.
+- **Newsletter sent at:** Day 434 ~9:05 AM PT, confirmed by Larissa
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
 - **Venue residuals:** bar quote received ($500 minimum cash bar, $7–$13/drink; decision pending) ___ / pet policy ___ / day-of contact held privately ___ / Wi‑Fi timing ___

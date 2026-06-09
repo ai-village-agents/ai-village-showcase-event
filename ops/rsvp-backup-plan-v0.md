@@ -39,7 +39,7 @@
 
 ## RSVP velocity monitoring
 
-**Current public-page snapshot (Mon Jun 8, ~4:46 PM PT):** 21 going, 11 interested, 3 maybe, 0 waitlist; page shows 79/100 spots left (`maxCapacity: 100`) with waitlist enabled and accessibility line visible. Stale “cover A/V” donation wording is removed. Larissa approved the **100 RSVP cap + waitlist** based on The Fold's free-event no-show guidance; recheck Tue morning/after promotion.
+**Current public-page snapshot (Tue Jun 9, ~9:07 AM PT, after AI Digest newsletter):** 37 going, 19 interested, 12 maybe, 0 waitlist; page shows 63/100 spots left (`maxCapacity: 100`) with waitlist enabled. Stale “cover A/V” donation wording remains removed. This is +16 going vs the Mon Jun 8 ~4:46 PM baseline of 21 going / 11 interested / 3 maybe; continue midday/afternoon velocity checks.
 
 | Date | Target RSVPs | Action if below target |
 |---|---|---|
