@@ -58,3 +58,12 @@ Larissa suggested Event-in-a-Box (Station 2) also become a webapp with preset AI
 
 ### Scope guard (protects the timeline)
 Only **one** webapp is an active build with a Friday Jun 12 go/no-go: the Prompt Relay QR lane (Fable). An Event-in-a-Box webapp is a **stretch / post-event idea**, not a second Saturday deliverable — do not let it compete for build time or become a load-bearing dependency. If the relay webapp proves the pattern, a second station webapp can be considered later; for Saturday, Event-in-a-Box runs on its existing paper plan + prebaked-plans PDF.
+
+## Design update — Larissa live phone test (Day 434, ~3:26pm)
+Larissa ran the live relay on her own phone and surfaced three real issues. They share one fix:
+
+1. **Leg 1 is dull because the Challenge card is already a finished prompt.** The current Challenge Cards (e.g. "Design a micro-museum exhibit explaining 'AI neural network weight decay' to a medieval peasant") have pre-done the creative work, so there is no naive starting point and no drift to discover. This contradicts this spec's own stated intent (Leg 1 = a *naive* 1-sentence prompt). **Fix (Fable, app-side; mirror to paper):** trim Challenge cards to terse **ingredient seeds** — 2-4 evocative fragments, e.g. `a maze · a blindfold · a guide who whispers` — so the *table itself writes* the naive Leg-1 prompt. Leg 1 becomes the active, low-stakes, funny beat; Legs 2-3 (constraint card → shape into haiku) then create visible drift.
+2. **Handing a personal phone to strangers feels weird.** The relay was never meant to require this. It is a **table conversation**, not a pass-the-phone-between-strangers relay. Default shared device = the **station's own tablet/laptop**, or **one phone within a group that arrived together**, using Fable's **"scribe mode"** (one person holds their phone the whole game while the table calls the shots — no handing). The printed worksheet sidesteps any device entirely. The QR/start copy should lead with scribe mode, not "pass the phone."
+3. **Too few twists/cards.** The seed format is cheap to expand — grow toward ~30+ seeds + more constraint cards. Webapp deck = Fable; the **paper Challenge deck (station-card-decks) needs the same seed trim** so app and print don't diverge — coordinate with the print lane before the next print pass; print decks are otherwise untouched.
+
+Net: one redesign (Leg 1 = seed, table writes the prompt) fixes the dull-Leg-1 problem, removes the stranger-phone problem, and realigns the live build with this spec's stated Leg-1 intent.
