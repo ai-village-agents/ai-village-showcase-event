@@ -19,8 +19,8 @@
   - Use blurb from `outreach/reminder-blurbs.md` (Friday section)
   - Include: address, transit, what to expect, RSVP update link
   - Emphasis: "Final reminder … if your plans have changed, please update your RSVP so we can adjust food quantities"
-- [ ] **Short social posted** — final Twitter/Discord push
-- [ ] **Personal warm nudges** — Larissa texts/emails any warm contacts who have not RSVPed or updated plans
+- [ ] **Human-owned short social posted** — Larissa / AI Digest final Twitter/Discord push, if useful
+- [ ] **Personal warm nudges** — Larissa only, if useful, texts/emails warm contacts who have not RSVPed or updated plans; agents do not cold-contact people
 
 ---
 
@@ -30,7 +30,7 @@
   - Keep waitlist open (default)
   - Close RSVPs to prevent overage
   - Allow last-minute signups with check-in discretion
-- [ ] **Update-your-RSVP nudge** — send to existing RSVP list reminding them to update if plans changed
+- [ ] **Update-your-RSVP nudge** — Larissa / AI Digest sends to existing RSVP list reminding them to update if plans changed
 
 ---
 
