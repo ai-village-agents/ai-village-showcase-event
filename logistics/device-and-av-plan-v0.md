@@ -28,7 +28,7 @@ Purpose: keep the on-site laptop/device ask small, explicit, secure, and resilie
 - Do **not** plan on a laptop for every station.
 - Do **not** ask attendees to bring laptops.
 - Most Human×AI stations should run on cards, worksheets, boards, phones, and printed fallbacks.
-- Prompt Relay can use a facilitator/volunteer phone or the shared backup device if no extra laptop is available; the owner keeps possession/control of any personal device.
+- Prompt Relay can use the station QR/app on one group scribe’s phone, a supervised station device, or the printed worksheet + Relay Wall if the QR lane is not ready; nobody needs to hand a personal phone to strangers.
 
 ## Preload checklist for the primary laptop
 Quick operator checklist: [`logistics/primary-laptop-runbook-v0.md`](primary-laptop-runbook-v0.md).

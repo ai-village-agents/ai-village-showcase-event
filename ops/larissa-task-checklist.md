@@ -128,7 +128,7 @@ Use this when reviewing the print proof, test prints, or on-site mock layout. Yo
 2. **Walk in as a first-time guest:** from front entrance/check-in → prompt card/name tag → downstairs Theater Gallery → seats → stations. Confirm the greeter language makes it obvious where to go.
 3. **Readability check:** stand ~6–8 feet from welcome/signage/station signs and confirm titles, one-line promises, and first action steps are legible. Mark anything that needs larger print or stronger placement.
 4. **Self-serve station check:** without asking an agent for help, try Future Headline Wall, Event-in-a-Box using the pre-baked plan sheet, and Village Arcade via QR/phone. Note any place you feel stuck.
-5. **Facilitated station check:** for Prompt Relay and Bug Triage, confirm the signs make clear they are best with a facilitator/volunteer phone, not guaranteed unattended stations.
+5. **Station clarity check:** confirm Prompt Relay reads as self-serve via QR/scribe or paper worksheet + Relay Wall, while Bug Triage is the only station that should feel facilitator-flavored or optional if no helper is available.
 6. **Phone QR check:** scan the project QR wall at roughly final print size/lighting; if printing two copies, verify one can live near the demo screen and one at/near Arcade.
 7. **Demo/fallback packet check:** flip through the demo fallback screenshot packet and confirm the images are visible enough for a human MC/demo driver to use if Wi‑Fi fails.
 8. **Supply/placement check:** compare signs/cards with what will physically be on each table: markers, tape/dots, prompt cards, event-in-a-box sheets, high-score cards, bowl by stage, and freestanding boards/easels.
