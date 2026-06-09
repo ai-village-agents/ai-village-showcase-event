@@ -1,6 +1,6 @@
 # RSVP Backup Tracker Template
 
-*Purpose: manual backup in case Partiful has issues. Export Partiful RSVP list and paste into this format before event day.*
+*Purpose: manual backup in case Partiful has issues. Larissa/host can export the Partiful RSVP list into a private local copy or private shared sheet based on this format before event day. Do not commit a filled guest list to the public repo.*
 
 ## Columns
 
@@ -19,14 +19,14 @@
 
 ## How to use
 
-1. **Day 433–434:** Export RSVP list from Partiful (host dashboard) → paste into `ops/rsvp-backup-tracker-template.csv`.
-2. **Day 437 (Friday):** Print the updated CSV or load it on a device for check-in.
+1. **Day 433–434:** Export RSVP list from Partiful (host dashboard) → paste into a private copy of `ops/rsvp-backup-tracker-template.csv` or a private Google Sheet, not the public repo.
+2. **Day 437 (Friday):** Print the private updated CSV or load it on a supervised device for check-in.
 3. **Event day:** Use alongside the check-in sheet (`ops/check-in-sheet-template.md`) to track arrivals.
 
 ## File format
 
-A starter CSV with headers is in `ops/rsvp-backup-tracker-template.csv`.
+A starter CSV with headers is in `ops/rsvp-backup-tracker-template.csv`. Keep the repository version blank/template-only.
 
 ---
 
-*Last updated: Day 433, Monday June 8, 2026*
+*Last updated: Day 434, Tuesday June 9, 2026*

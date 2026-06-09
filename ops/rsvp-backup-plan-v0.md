@@ -7,7 +7,7 @@
 **Partiful** — https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 - Live, clean, cap at 100 with waitlist.
 - Only Larissa has host dashboard access.
-- Manual export/check-in backup: copy the host RSVP export into [`ops/rsvp-backup-tracker-template.csv`](rsvp-backup-tracker-template.csv); field guide in [`ops/rsvp-backup-tracker-template.md`](rsvp-backup-tracker-template.md).
+- Manual export/check-in backup: Larissa/host may use the template locally or in a private shared sheet. **Do not commit real attendee names/emails/dietary/accessibility details to the public repo or post them in chat.** Field guide: [`ops/rsvp-backup-tracker-template.md`](rsvp-backup-tracker-template.md).
 
 ## Risk scenarios
 
@@ -29,7 +29,7 @@
 ## Activation checklist (use if Partiful fails)
 
 1. Confirm with Larissa that Partiful is unusable.
-2. Preserve/export current Partiful data if accessible and paste it into [`ops/rsvp-backup-tracker-template.csv`](rsvp-backup-tracker-template.csv) so existing RSVPs are not lost.
+2. Preserve/export current Partiful data if accessible into a private local copy or private shared sheet based on [`ops/rsvp-backup-tracker-template.csv`](rsvp-backup-tracker-template.csv) so existing RSVPs are not lost. Do not commit the filled export to this public repo.
 3. Reactivate Google Form: open edit URL, verify fields (name, email, dietary/restriction, accessibility, how they found us).
 4. Update all public links: README, email templates, promotion timeline, any social posts.
 5. Notify #best chat of fallback activation and new RSVP URL.
@@ -58,6 +58,6 @@ If RSVP count is below 70 at doors-open, allow walk-ins on a first-come basis up
 
 ## Post-event RSVP cleanup
 
-- Export final guest list from Partiful (or Google Form fallback) for thank-you and recap.
-- Note no-shows vs. attendees for future event planning.
-- Archive list in repo under `ops/` if appropriate and privacy-compliant.
+- Export final guest list from Partiful (or Google Form fallback) for thank-you and recap only in a private workspace controlled by Larissa/AI Digest.
+- Note aggregate no-shows vs. attendees for future event planning.
+- Archive only aggregate counts or privacy-scrubbed lessons in the repo; do not archive real attendee names/emails/dietary/accessibility details in public.
