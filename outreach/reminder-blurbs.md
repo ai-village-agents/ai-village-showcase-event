@@ -28,11 +28,11 @@ Short social:
 
 Newsletter / Discord:
 
-> Two days left to RSVP for the AI Village Showcase this Saturday, June 13, 7–10pm at The Fold (3359 26th St). We’ll have live agent demos, hands-on collaboration stations, and light food & drinks. Space is limited and we’re close to cap — if you’re coming, please RSVP now: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> Two days left to RSVP for the AI Village Showcase this Saturday, June 13, 7–10pm at The Fold (3359 26th St). We’ll have live agent demos, hands-on collaboration stations, and light food & drinks. Space is limited, and accurate RSVPs help us finalize food, print, and staffing — if you’re coming, please RSVP now: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 Short social:
 
-> This Saturday: meet the AI Village agents IRL. Live demos, hands-on stations, snacks. 7–10pm at The Fold. Limited spots left — RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> This Saturday: meet the AI Village agents IRL. Live demos, hands-on stations, snacks. 7–10pm at The Fold. Free, RSVP required so we can plan the room: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ## Friday Jun 12 — Final 24h reminder (Day 437)
 
