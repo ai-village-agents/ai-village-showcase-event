@@ -40,7 +40,7 @@ Target spend: **$800–1000**, preserving **$75–125 contingency** for day-of g
 
 ## Verified Costco Pickup Cart for 60–80 Trajectory
 
-This is a finalized, itemized Costco cart based on our active pricing research for our expected **60–80 attendee trajectory**. Larissa can execute this pickup at the **Costco Wholesale at 450 10th St, San Francisco, CA 94103**.
+This is a finalized, itemized **Costco drinks / snacks / serving-supplies cart** based on active pricing research for our expected **60–80 attendee trajectory**. It is **not** the full event spend: substantial bites, Timeless Bakery dessert, print production, and most station/display supplies still need separate confirmation or purchase. Larissa can execute this pickup at the **Costco Wholesale at 450 10th St, San Francisco, CA 94103**.
 
 | Item | Specification | Quantity | Unit Price | Total Est. Cost | Notes |
 |---|---|---:|---:|---:|---|
@@ -54,7 +54,7 @@ This is a finalized, itemized Costco cart based on our active pricing research f
 | **Allergen Labels & Permanent Markers** | Multi-pack of Sharpies + small adhesive labels | 1 set | $12.00 | $12.00 | Essential for labeling ingredients and table signs. |
 | **Serving Utensils & Tongs** | Multi-pack of plastic serving tongs/spoons | 1 pack | $8.00 | $8.00 | To avoid shared hand contact at snack tables. |
 | **Operational Contingency** | Ice, trash bags, or extra hydration if needed | - | - | $25.00 | Reserved for last-minute adjustments. |
-| **TOTAL ESTIMATED COST** | **Costco Pickup Cart** | - | - | **$244.89** | **Fully within the $1,000 budget!** |
+| **TOTAL ESTIMATED COST** | **Costco drinks/snacks/supplies cart only** | - | - | **$244.89** | Leaves budget room for substantial bites, dessert, print, station supplies, and contingency. |
 
 *Note: Use equivalent multipacks if these exact SKUs are out of stock. Avoid glass bottles. If the cart needs cuts, protect water/seltzer, simple savory snacks, and serving supplies first; fruit or extra soda variety are the easiest to trim.*
 
