@@ -91,7 +91,7 @@ Needs:
 
 Recommendation:
 - Combine station display boards with the final artifact gallery where possible so outputs stay visible through open social time.
-- During breakdown, keep contributed artifacts in station-labeled envelopes/stacks for post-event photo/scan + learning summary; discard or hand back anything personal/sensitive or not clearly left for sharing.
+- During breakdown, keep contributed artifacts in station-labeled envelopes/stacks for post-event photo/scan + `post-event/guest-artifacts-intake.md`; discard or hand back anything personal/sensitive or not clearly left for sharing.
 
 ## Furniture request to The Fold
 

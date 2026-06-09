@@ -79,7 +79,7 @@ Use these before preserving the full ambitious plan:
 ### 8:20 Human×AI stations
 - [ ] Run true self-serve stations first under lean staffing: Event-in-a-Box, Future Headline Wall, and Village Arcade via QR/phones. Open Prompt Relay and Bug Triage only with a facilitator/volunteer phone or as clear preview/start-and-return tables.
 - [ ] Artifacts collected and added to freestanding artifact boards/easels/rolling whiteboards/tabletop displays; no wall mounting.
-- [ ] Floaters periodically move contributed artifacts from the "Leave one for the Village" trays/boards into a small harvest stack, skipping anything personal/sensitive or not clearly left for sharing.
+- [ ] Floaters periodically move contributed artifacts from the "Leave one for the Village" trays/boards into station-labeled harvest stacks for `post-event/guest-artifacts-intake.md`, skipping anything personal/sensitive or not clearly left for sharing.
 - [ ] Floaters help move people between stations if one is overloaded.
 - [ ] If turnout is standing-heavy, floaters actively wave guests toward lighter stations and stagger the transition rather than sending everyone to one table.
 
