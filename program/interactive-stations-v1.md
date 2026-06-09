@@ -1,6 +1,6 @@
 # Human×AI Challenge Stations — Specification v1
 
-These interactive stations are designed to be playful, highly legible, and friction-free for both builders and non-technical attendees. Each station runs as a self-contained 8–12 minute loop, requiring no attendee account creation.
+These interactive stations are designed to be playful, highly legible, and friction-free for both builders and non-technical attendees. Each station runs as a self-contained 8–12 minute loop, requiring no attendee account creation. The default self-serve set is Station 2, Station 4, and Station 5 via phone/QR; Station 1 and Station 3 are facilitator/device-upside stations.
 
 ---
 
@@ -8,7 +8,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 - **No Friction**: Attendees should be able to walk up and participate immediately without logging in or downloading apps.
 - **Visible AI Agency**: Show real-time prompts, visible intermediate outputs, or concise process summaries via physical displays (laptops, iPads, or projected screens); do not expose private agent planning traces or chain-of-thought.
 - **Physical Artifact Output**: Every loop must end with a physical artifact (a written index card, a vote sticker, a hand-drawn sketch, or a card pinned to a board).
-- **Graceful Degradation (Fallback)**: If local Wi-Fi goes down or API latency spikes, every station must have a "Pre-Baked Mode" using printed cards with pre-generated prompt-response steps.
+- **Graceful Degradation (Fallback)**: If local Wi-Fi goes down, API latency spikes, or helper coverage is thin, favor the stations with real printed/phone fallbacks: Event-in-a-Box with pre-baked plan sheets, Future Headline Wall, and Village Arcade via the project QR wall / attendee phones. Treat Prompt Relay and Bug Triage as facilitator/device-upside rather than guaranteed unattended stations.
 
 ---
 
@@ -37,7 +37,7 @@ These interactive stations are designed to be playful, highly legible, and frict
   ```text
   You are a supportive, high-speed Prompt Relay assistant. You take incremental, conversational modifications to a central idea and generate short, punchy, and highly creative responses. Keep all responses under 50 words to ensure rapid readability on screen.
   ```
-- **Fallback Package**: 10 x Pre-printed "Relay Sheets" showing complete, beautifully printed step-by-step histories of a relay run (from raw prompt to final hilarious result) for display.
+- **Fallback posture**: Prompt Relay is optional/upside without a facilitator or volunteer phone. Guests may start the printed worksheet and return when a helper/device is free; do not promise printed relay examples.
 
 ---
 
@@ -66,7 +66,7 @@ These interactive stations are designed to be playful, highly legible, and frict
   ```text
   You are an expert, highly eccentric event planning assistant. Your goal is to design incredibly engaging, specific, and slightly chaotic micro-events based on constraints. Avoid corporate boilerplate. Be sharp, creative, and local to SF. Format as: **TITLE** followed by exactly 5 bullet points.
   ```
-- **Fallback Package**: 10 x Pre-printed "Event-in-a-Box" pitch boards illustrating combinations of the card decks and pre-baked agent responses.
+- **Fallback Package**: `print-assets/event-in-a-box-prebaked-plans.pdf` provides a 1-page self-serve sheet with three pre-baked agent-style plans for guests to red-pen if no agent/device/facilitator is handy. Print 10–15 copies per `logistics/print-specifications-v1.md`.
 
 ---
 
@@ -96,7 +96,7 @@ These interactive stations are designed to be playful, highly legible, and frict
   ```text
   You are a senior site reliability engineer (SRE) and QA agent. You help teams analyze weird bugs by providing high-fidelity technical post-mortems and test suites. Keep your responses structured with 1) Cause, 2) Test Cases, and 3) Recommendation. Make it sound professional but with dry software engineering humor.
   ```
-- **Fallback Package**: 10 x pre-stamped and completed bug cards with funny justifications for immediate display and reading.
+- **Fallback posture**: Bug Triage is best with a facilitator or volunteer phone. If none is available, leave the incident cards and roles visible as a preview activity, then resume full play when a helper/device is free; do not promise a separate pre-stamped fallback deck.
 
 ---
 
@@ -124,7 +124,7 @@ These interactive stations are designed to be playful, highly legible, and frict
   ```text
   You are a speculative historian from the year 2030. You take raw, unedited future headlines written by technologists and synthesize them into a cohesive, highly engaging 150-word "Future Dispatch." Highlight common patterns, unexpected contradictions, and the overall mood of the village.
   ```
-- **Fallback Package**: A set of 5 pre-written "Future Dispatches" to be used during the first 30 minutes or in case of technical issues.
+- **Fallback posture**: The headline-writing wall is fully self-serve as a physical artifact even if no live synthesis happens. The host may read a few favorite headlines aloud instead of generating a Future Dispatch.
 
 ---
 
@@ -144,7 +144,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 
 #### Technical Setup & System Prompts
 - **Technical Dependency**: A local or live-hosted instance of the `village-arcade` repository running in a fullscreen web browser on the optional Arcade device, or on attendee phones via QR code if no station device is available.
-- **Fallback Package**: Pre-packaged offline version of the arcade running locally, or a printed "Offline Trivia" deck with historical village highlights.
+- **Fallback posture**: If the optional supervised Arcade device or Wi-Fi is unavailable, use the printed project fallback screenshots for the demo-driver/MC and keep Station 5 as a physical leaderboard plus QR-wall/attendee-phone activity when connectivity permits. Do not rely on an unverified offline arcade build or printed trivia deck.
 
 ---
 
@@ -170,7 +170,7 @@ The following physical items must be procured to bring these stations to life. V
 ---
 
 ## Part 4: Staffing and Setup Logistics
-- **Floater Facilitators**: Ideally at least 2 human facilitators roam the stations to ensure attendees understand the rules and hand out constraint cards. If staffing is lean, run stations self-serve with printed rules and clear table signs; agents may participate remotely/live where the run-of-show explicitly calls for it, but they cannot physically facilitate the room.
+- **Floater Facilitators**: Ideally at least 2 human facilitators roam the stations to ensure attendees understand the rules and hand out constraint cards. If staffing is lean, run the truly self-serve set first (Event-in-a-Box, Future Headline Wall, and Village Arcade QR/phone) and treat Prompt Relay / Bug Triage as helper-dependent upside. Agents may participate remotely/live where the run-of-show explicitly calls for it, but they cannot physically facilitate the room.
 - **Hardware Requirements**:
   - **Station 1 (Prompt Relay)** and **Station 3 (Bug Triage)** are facilitator/device-upside stations: they work best with a volunteer phone or staffed device, and guests can start the printed worksheet/deck while waiting for a helper. Do not promise unattended agent access or printed relay examples.
   - **Station 2 (Event-in-a-Box)** and **Station 4 (Future Headline Wall)** are fully print-playable/self-serve from the table signs, cards, worksheets, and the Event-in-a-Box pre-baked plan sheet.
