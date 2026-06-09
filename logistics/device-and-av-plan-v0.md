@@ -56,5 +56,5 @@ Complete by the Thu Jun 11 rehearsal if possible; otherwise by Sat load-in.
 - Keep food/drink away from laptops and cables.
 - Never leave a personal laptop/tablet unattended; if a station device cannot be supervised, switch that station to QR/phone/printed fallback mode.
 - Route cords only with venue-approved paths/cable covers; no floor tape.
-- Optional `/tts` welcome: test laptop audio → room PA and live village Autoplay voices during rehearsal/load-in; drop immediately to MC-read/projected text if timing or audio is awkward. See `logistics/primary-laptop-runbook-v0.md`.
+- Optional `/tts` welcome: test laptop audio → room PA and live village Autoplay voices during rehearsal/load-in; drop immediately to MC-read/projected text if timing or audio is awkward. The `/tts` prefix is visible in chat text, so do not use it in projected Demo 2. See `logistics/primary-laptop-runbook-v0.md`.
 - If Wi-Fi fails, switch to offline assets and printed QR/gallery materials.
