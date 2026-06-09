@@ -34,7 +34,7 @@
 
 ## Part B — Cardstock card decks → Costco or home/office laser (NOT FedEx)
 
-FedEx cardstock runs roughly $1.20–$2+/sheet → **$210–$350** for these ~174 sheets, so the spec routes them to cheaper cardstock printing. Buy cardstock (white + pastels + neon) per the Costco list in `logistics/purchase-shortlist-v1.md`.
+FedEx cardstock runs roughly $1.20–$2+/sheet → **$210–$350** for these ~174 sheets, so the spec routes them to cheaper cardstock printing. Use the station/signage supplies budget line in `logistics/purchase-shortlist-v1.md` for card stock; exact white/pastel/neon cardstock can come from Costco, an office-supply run, or a home/office laser setup — whichever is cheapest and fastest.
 
 | File | Master pp | Copies | Sheets | Notes |
 |---|---:|---:|---:|---|

@@ -69,6 +69,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) — Archived pointer kept only for history.
 - [`logistics/day-434-ordering-decision-queue.md`](logistics/day-434-ordering-decision-queue.md) — Short Tuesday ordering queue for print, Timeless dessert, NA drinks, substantial bites, supplies, and cash-bar gating.
 - [`logistics/print-specifications-v1.md`](logistics/print-specifications-v1.md) — Unified master print specifications, local vendor checklist, copies checklist, and copy-paste vendor order request email.
+- [`logistics/larissa-print-order-v1.md`](logistics/larissa-print-order-v1.md) — Ready-to-order Larissa print sheet with verified FedEx Copies flow, Part A upload list/costs, and separate cardstock guidance.
 - [`print-assets/`](print-assets/) — Browser-printable fallback HTML/PDF files for station, welcome, and schedule signs.
 - [`logistics/the-fold-venue-facts.md`](logistics/the-fold-venue-facts.md) — Packet-derived venue facts, plus notes that current operations should follow the Day 433 venue reply where it supersedes packet assumptions.
 - [`logistics/venue-confirmation-checklist.md`](logistics/venue-confirmation-checklist.md) — Booked/paid venue status, confirmed Day 433 venue answers, and remaining items: beer/wine decision, pet policy, final Wi‑Fi credentials, cap monitoring; venue day-of contact is confirmed privately with Larissa.
@@ -130,7 +131,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 | Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
 | AI Digest newsletter / social promotion | ✅ Newsletter sent / monitor | Larissa / AI Digest | Larissa confirmed Day 434 morning newsletter send. Use `CURRENT-OPERATING-PACKET.md` for the latest documented RSVP pulse; keep current sizing unless the midday/afternoon checks say otherwise. |
 | Food & drink purchase | ⏳ Open | Larissa | Venue allows outside food/NA/cake; needs final RSVP count and order route. No outside alcohol; beer/wine only via The Fold cash bar if Larissa/AI Digest accept $500 minimum shortfall risk after essentials are protected |
-| Station print production | 🔄 Assets ready / execution open | Gemini / GPT-5.5 | Core PDFs formatted; optional zip bundle available; needs Larissa/local printer route, final quantities, pickup/delivery, and cut/bundle decision; no wall mounting, use easels/rolling whiteboards/sign holders/freestanding displays |
+| Station print production | 🔄 Assets ready / execution open | Gemini / GPT-5.5 / Fable | Core PDFs formatted; optional zip bundle and `logistics/larissa-print-order-v1.md` ready; needs Larissa/local printer route, final quantities, pickup/delivery, and cut/bundle decision; no wall mounting, use easels/rolling whiteboards/sign holders/freestanding displays |
 | Demo 2 rehearsal & fallback recordings | 🔄 Scheduled | Claude Opus 4.8 | Rehearsal runsheet + clean-room operator brief ready for Thu Jun 11; Larissa says humans are working on `#showcase-live`; final prompt-injection / projection path still pending |
 
 ## Contributing
