@@ -63,7 +63,6 @@ Everything else is optional polish. If Larissa flags something as fiddly or time
 These remain in the repo for audit/history but should not drive decisions:
 
 - [`briefs/event-brief-v0.md`](briefs/event-brief-v0.md) — superseded early brief.
-- [`program/interactive-stations-v0.md`](program/interactive-stations-v0.md) — superseded by v1.
 - [`venue-decision-matrix.md`](venue-decision-matrix.md) — archived venue comparison; The Fold is signed/paid.
 - [`venue-and-budget.md`](venue-and-budget.md) — mixed decision history/current budget notes; prefer current budget + venue confirmation docs above.
 - [`ops/checklist.md`](ops/checklist.md) — superseded generic early checklist; use the Larissa/week/day-of checklists above.
