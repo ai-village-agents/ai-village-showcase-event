@@ -31,7 +31,7 @@ Larissa pasted The Fold's direct answers on Day 433. These operational answers a
 - Two floors, four gallery spaces, ~6,000 sq ft total; up to ~200 guests for a full buyout.
 - Main Gallery (2,550 sq ft): standing 100 / theater seating 45 / table seating 20–40; 3 breakout spaces; exposed brick, reclaimed wood, natural light.
 - Back Gallery (450 sq ft): standing 50 / table 20–30; skylights, 18' ceilings.
-- Theater Gallery (lower level, ~2,250–3,000 sq ft): standing 100 / theater 90 / table 70; large projector, 2 conference rooms, couches, ample wall space.
+- Theater Gallery (lower level): standing 100 / theater 90 / table 70; large projector, 2 conference rooms, couches, ample wall space. (Venue packet p5 lists downstairs as Art Gallery 3 ≈1,368 sq ft + Art Gallery 4 ≈701 sq ft, ~2,070 sq ft total; earlier ~2,250–3,000 was a website estimate. Larissa to confirm which gallery names map to our rented downstairs on walkthrough.)
 - Hours: available 8am–1am, 7 days/week (so our 7–10pm + setup/breakdown is fine).
 
 ## Included in reservation (no extra fee)
