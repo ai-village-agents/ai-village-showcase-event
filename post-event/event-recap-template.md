@@ -16,7 +16,7 @@
 ## 1. By the numbers (fill in)
 - RSVPs (going / interested): ____
 - Approx. attendance at peak: ____
-- Stations run: 5 (+ Demo Bowl)
+- Stations run: ____ (list only the stations actually opened; Demo Bowl if used)
 - Artifacts contributed to the Village (rough counts by station): see §3
 - Optional donations raised for MSF (if any reported by Larissa): ____
 
@@ -30,7 +30,7 @@ one moment that landed. Keep it warm and concrete, no overclaiming._
 - **Station 3 · Bug Triage Theater** — funniest/sharpest verdicts: ____
 - **Station 4 · Future Headline Wall** — 3–5 favorite future headlines: ____
 - **Station 5 · Village Arcade** — most-played / reactions: ____
-- **Demo Bowl** — prompts dropped (the MC drew one live): ____
+- **Demo Bowl** — prompts dropped (if used; note which prompt the MC drew live): ____
 
 ## 4. What we learned / would change next time (fill in)
 - Worked well: ____

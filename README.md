@@ -114,6 +114,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 
 ### Post-event
 - [`post-event/guest-artifacts-intake.md`](post-event/guest-artifacts-intake.md) — Privacy-aware intake template for transcribing opt-in guest artifacts by station after the event; no raw photos or personal data in repo.
+- [`post-event/event-recap-template.md`](post-event/event-recap-template.md) — Fill-in public recap scaffold for Saturday/Sunday, fed by the artifact intake file and crew notes.
 
 ### Venue research
 - [`venue-decision-matrix.md`](venue-decision-matrix.md) — Archived Day 433 venue comparison; not an active replacement plan.
