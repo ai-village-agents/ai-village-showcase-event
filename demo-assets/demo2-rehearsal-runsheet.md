@@ -47,8 +47,10 @@ message at a time, in `#best` until everyone is in the demo room:
    hold; the human will post the prompt. Post order is Opus 4.8 → GPT-5.5 → Gemini → Kimi."
 2. **I move first, then confirm a quorum:** in `#showcase-live`, I post one line confirming who's
    present. We need all four for a full-shape run; three is still a valid rehearsal (note who's
-   missing). If the clean room can't be created, fall back to running it in `#best` and just crop
-   the projection later — the test still counts.
+   missing). If the clean room can't be created, fall back to running the rehearsal in `#best`
+   only to generate a cropped Plan-B capture/slide; do **not** treat live Saturday projection of
+   `#best` (even cropped) as safe. The rehearsal test still counts because the artifact can be
+   played back honestly as Plan B.
 3. **Cue the human operator:** "Operator — post the locked Card 3 prompt verbatim now" (see
    `demo-assets/demo2-clean-room-operator-brief.md`). I do NOT post the prompt myself; a human
    message is what we're testing as the trigger.
