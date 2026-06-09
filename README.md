@@ -62,9 +62,9 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ### Logistics
 
 - [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) — Food/drink quantities, vendor scenarios, dietary notes.
-- [`logistics/catering-menu-options-v0.md`](logistics/catering-menu-options-v0.md) — Concrete lean/base/vendor/venue-package menu options for Larissa once venue rules are confirmed.
-- [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Operations and station supply list.
-- [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) — Practical Larissa buying menu with lean/base/stretch carts and venue-dependent decision gates.
+- [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) — **Primary local buying menu** with lean/current/stretch carts and confirmed venue constraints.
+- [`logistics/catering-menu-options-v0.md`](logistics/catering-menu-options-v0.md) — Archived/background menu options; prefer purchase shortlist + food/drink plan.
+- [`logistics/supplies-shopping-list-v0.md`](logistics/supplies-shopping-list-v0.md) — Archived/background supply list; prefer purchase shortlist.
 - [`logistics/day-434-ordering-decision-queue.md`](logistics/day-434-ordering-decision-queue.md) — Short Tuesday ordering queue for print, Timeless dessert, NA drinks, substantial bites, supplies, and cash-bar gating.
 - [`logistics/print-production-plan-v0.md`](logistics/print-production-plan-v0.md) — Print artifacts, non-print supplies, and Mon–Sat production schedule.
 - [`logistics/print-specifications-v1.md`](logistics/print-specifications-v1.md) — Print-shop-ready sizes, paper stock, finishes, cuts, and quantities for station materials and handouts.
@@ -98,7 +98,8 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`outreach/station-host-recruitment.md`](outreach/station-host-recruitment.md) — **Ready-to-send ask** to recruit a few station hosts (20-min shifts) — de-risks staffing.
 
 ### Operations
-- [`ops/volunteer-activity-scope-brief-v0.md`](ops/volunteer-activity-scope-brief-v0.md) — Compact activity/staffing brief for Larissa's event-organizer review before volunteer outreach.
+- Volunteer roles — **use the “Volunteer roles” section in `CURRENT-OPERATING-PACKET.md` first.**
+- [`ops/volunteer-activity-scope-brief-v0.md`](ops/volunteer-activity-scope-brief-v0.md) — Supporting/background activity-scope detail only; not a second volunteer checklist.
 - [`ops/checklist.md`](ops/checklist.md) — Superseded generic early checklist; use Larissa/week/day-of docs instead.
 - [`ops/code-of-conduct.md`](ops/code-of-conduct.md) — Short friendly conduct/safety note for Partiful, check-in, and welcome remarks.
 - [`ops/rsvp-constraints-v0.md`](ops/rsvp-constraints-v0.md) — RSVP policy, cap logic, and waitlist rules.
@@ -108,8 +109,8 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`ops/rsvp-backup-tracker-template.md`](ops/rsvp-backup-tracker-template.md) / [`ops/rsvp-backup-tracker-template.csv`](ops/rsvp-backup-tracker-template.csv) — Manual Partiful export/check-in backup tracker.
 - [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) — Dated Mon–Sat action plan for Larissa: venue, promotion, helpers, donations, orders, rehearsal, load-in.
 - [`ops/day-of-checklist-v0.md`](ops/day-of-checklist-v0.md) — Minute-by-minute checklist for event day (load-in through breakdown).
-- [`ops/volunteer-roster-template.md`](ops/volunteer-roster-template.md) — Role/shift assignment sheet for sourced volunteers.
-- [`ops/volunteer-roster-working-v0.md`](ops/volunteer-roster-working-v0.md) — Public-safe working roster with Larissa confirmed as MC and remaining helper roles TBD.
+- [`ops/volunteer-roster-template.md`](ops/volunteer-roster-template.md) — Older blank role/shift template; prefer the working roster if tracking names.
+- [`ops/volunteer-roster-working-v0.md`](ops/volunteer-roster-working-v0.md) — Public-safe assignment table once helper names/counts are known; not the canonical role brief.
 
 ### Venue research
 - [`venue-decision-matrix.md`](venue-decision-matrix.md) — Archived Day 433 venue comparison; not an active replacement plan.
@@ -138,4 +139,4 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ---
 
 *Repo: [ai-village-agents/ai-village-showcase-event](https://github.com/ai-village-agents/ai-village-showcase-event)*  
-*Last updated: Day 434, Tuesday June 9, 2026 (~9:30 AM PT)*
+*Last updated: Day 434, Tuesday June 9, 2026 (~9:47 AM PT)*
