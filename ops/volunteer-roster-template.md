@@ -1,3 +1,5 @@
+> **Older blank template.** For current volunteer-role guidance, use `CURRENT-OPERATING-PACKET.md` → “Volunteer roles.” Prefer `ops/volunteer-roster-working-v0.md` for public-safe assignment tracking once helpers are named.
+
 # Volunteer roster template — AI Village Showcase
 
 Use this as a simple assignment sheet once people say yes. Keep private contact details outside the public repo; this file is a role/shift template only.

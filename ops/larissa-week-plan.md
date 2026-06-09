@@ -36,7 +36,7 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
 
 7. **Source volunteers**
    - Recruit on-site helpers: MC/host and demo-laptop driver first, then check-in and station hosts/floaters (20-min shifts, no prep, no AI background needed).
-   - Source: `outreach/station-host-recruitment.md`, `ops/volunteer-roster-template.md`, `program/run-of-show-v1.md` crew tiers.
+   - Source: `CURRENT-OPERATING-PACKET.md` → “Volunteer roles” is the central brief; use `ops/volunteer-roster-working-v0.md` only as the assignment table once names/counts are known.
 
 ## Tuesday Jun 9
 
