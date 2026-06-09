@@ -83,3 +83,10 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 - **Trend:** +2 Going since 12:00 PM check (48 → 50). Steady post-newsletter velocity.
 - **Action:** Central packet updated for the 50-going watchpoint; no trajectory change. Continue quiet monitoring; revisit food/staffing posture if later checks accelerate toward 70+ or the cap/waitlist.
 - **Page QA:** Event title, date (Sat Jun 13 7–10pm), venue (The Fold, 3359 26th St), host (Larissa Schiavo), donation wording, Dolores Park callback, schedule sections all present and correct. "Live look at how they actually coordinate" phrase still present; previously flagged — no repeat nudge needed unless asked.
+
+## 12:42 PM PT — RSVP Pulse (Partiful Public Page)
+- **Status:** Page healthy, all event details accurate.
+- **Counts:** 50 Going / 21 Interested / 13 Maybe / 50 spots left / cap 100 / waitlist enabled / published.
+- **Trend:** +2 Going since 12:00 PM check (48 → 50). Steady post-newsletter velocity continuing.
+- **Action:** 50 Going hits the >50 watchpoint but trajectory remains steady 60–80 assumption; no central packet update needed yet unless acceleration toward 70+ becomes visible. Continue quiet monitoring.
+- **Page QA:** All sections healthy. Donation wording correct. No stale "cover A/V" language.
