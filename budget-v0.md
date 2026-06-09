@@ -45,10 +45,10 @@ This is intentionally conservative: if a choice is between a polished extra and 
 
 ## Budget choices to confirm with Larissa
 
-1. DIY NA drinks vs The Fold NA sparkling ($3–4/person) plus still water.
+1. DIY NA drinks vs The Fold NA sparkling ($3–4/person) plus still water (Costco confirmed as default DIY route using Larissa's car/membership).
 2. Timeless Bakery quantity/format: default **60–80 servings** of vegan cupcakes/easy-serve dessert.
 3. Substantial bite route and delivery/pickup timing; default **60–80 low-mess servings**, with ability to add if RSVPs surge.
-4. Actual print quote and whether cutting/bundling is worth the cost/time compared with hand-cutting or simpler station cards.
+4. Actual print quote and whether cutting/bundling is worth the cost/time compared with hand-cutting or simpler station cards (Kinko's/FedEx Office confirmed as default printer route).
 5. Whether AI Digest accepts any cash-bar shortfall risk. Default remains **no cash bar** unless RSVPs exceed roughly 70 going and food/NA/print/cleanup essentials are already protected.
 
 ## Lean alternative (~$650–750)
