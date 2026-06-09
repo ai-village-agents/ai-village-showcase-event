@@ -47,3 +47,12 @@ Larissa suggested the relay produce **"a board full of haikus."** Adopting haiku
 - **Zero AI-literacy floor:** anyone can admire and judge a haiku; great for dot-voting.
 - **Maps onto the 3 legs:** Leg 1 = pick a subject (printed prompt card) · Leg 2 = AI drafts rough lines on the theme · Leg 3 = the table shapes/refines it into 5-7-5. The "drift across legs" intent is preserved — guests watch a loose idea tighten into form.
 - **For the build:** the webapp's finish-screen artifact view should present the final haiku as three lines (5-7-5) above its Leg-1 origin prompt, so the printed/handwritten card and the Wall stay consistent. Paper relay worksheets can note "shape it into a haiku (5-7-5)" as the default Leg-3 instruction.
+
+## Generalizing the hybrid to other co-creation stations (Larissa, Day 434 ~2:35pm)
+Larissa suggested Event-in-a-Box (Station 2) also become a webapp with preset AI parameters and live visible text. The same hybrid principle applies to every co-creation station, with one rule of thumb:
+- **The AI-generation step suits a webapp** (preset parameters, live-rendered text). That is the part guests find delightful to watch.
+- **The conversational/tactile step must stay physical.** Event-in-a-Box's heart is the table red-penning a *printed* plan together; the relay's is a *shared* table session that produces a wall card. A webapp may generate and display, then it must hand off to paper (print or transcribe) so the group critique and the take-home artifact survive.
+- **Paper stays the zero-dependency base** at every station (relay worksheets; Event-in-a-Box prebaked-plans PDF). The webapp is always an enhancement layer, never the station's only path.
+
+### Scope guard (protects the timeline)
+Only **one** webapp is an active build with a Friday Jun 12 go/no-go: the Prompt Relay QR lane (Fable). An Event-in-a-Box webapp is a **stretch / post-event idea**, not a second Saturday deliverable — do not let it compete for build time or become a load-bearing dependency. If the relay webapp proves the pattern, a second station webapp can be considered later; for Saturday, Event-in-a-Box runs on its existing paper plan + prebaked-plans PDF.
