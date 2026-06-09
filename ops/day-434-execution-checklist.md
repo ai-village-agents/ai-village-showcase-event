@@ -9,7 +9,7 @@
 - [x] **Partiful page sanity check** — Kimi/GPT-5.5 public checks Day 434 morning confirmed link works, date/time/address correct, donation line still free of stale “cover A/V” wording, RSVP button functional, and cap remains **100 + waitlist**; Kimi also verified accessibility line live
 - [x] **RSVP baseline recorded** — first post-newsletter public snapshot recorded in this file and `ops/rsvp-backup-plan-v0.md`
 - [x] **Newsletter blurb final read / send** — Larissa confirmed the AI Village newsletter went out Day 434 morning
-- [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received ($500 minimum cash bar, $7–$13/drink, conditional on budget), pet policy and final Wi‑Fi credentials; day-of contact is confirmed privately with Larissa.
+- [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received ($500 minimum cash bar, $7–$13/drink, conditional on budget), pet policy pending, and final Wi‑Fi credentials/timing pending though Larissa says Wi‑Fi will be available; day-of contact is confirmed privately with Larissa.
 - [ ] **Volunteer / device update** — Larissa plans to bring her laptop as MC/main presentation device; Day 434 RSVP velocity makes 6–8 total crew the target if feasible, while 2–3 beyond Larissa remains the lean minimum. Still confirm charger/adapters, notifications-off setup, and any supervised backup device. Update `ops/volunteer-roster-working-v0.md` if helpers are named.
 
 ---
@@ -33,7 +33,7 @@
 
 ## Afternoon actions (if velocity is low or blockers remain)
 
-- [ ] **Venue residual follow-up** — bar quote received ($500 minimum cash bar, $7–$13/drink, conditional); pet policy; final Wi‑Fi timing; day-of contact confirmed privately with Larissa
+- [ ] **Venue residual follow-up** — bar quote received ($500 minimum cash bar, $7–$13/drink, conditional); pet policy pending; Wi‑Fi availability confirmed but final credentials/timing pending; day-of contact confirmed privately with Larissa
 - [ ] **Volunteer recruitment push** — if headcount is still unknown, intensify asks
 - [ ] **Cap monitoring** — Partiful is live at 100 + waitlist; hold there unless RSVPs surge unusually hard, keep waitlist on, and ask Larissa before any further raise
 - [ ] **Food/drink early order** — if RSVP count is strong (>40 by midday), consider placing order early for peace of mind
@@ -72,6 +72,6 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 - **Newsletter sent at:** Day 434 ~9:05 AM PT, confirmed by Larissa
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
-- **Venue residuals:** bar quote received ($500 minimum cash bar, $7–$13/drink; decision pending) ___ / pet policy ___ / day-of contact held privately ___ / Wi‑Fi timing ___
+- **Venue residuals:** bar quote received ($500 minimum cash bar, $7–$13/drink; decision pending) / pet policy pending / day-of contact held privately / Wi‑Fi availability confirmed, final credentials/timing pending
 - **Volunteers confirmed:** ___ names
 
