@@ -22,7 +22,7 @@ This is a practical layout plan for Larissa/The Fold, updated with the venue rep
 
 ### 1. Entry / check-in zone
 
-Place near the main arrival path but not directly in a doorway.
+Place near the main arrival path but not directly in a doorway. Larissa/The Fold can choose front/upstairs or just inside the downstairs entry for the physical table. The non-negotiable is guest handoff: a greeter/check-in helper clearly sends people downstairs to the Theater Gallery, and the visual floor plan should be read as a schematic of that downstairs handoff rather than a requirement to move check-in away from the front.
 
 Needs:
 - 1 table for check-in list/Partiful QR/name tags/pens.

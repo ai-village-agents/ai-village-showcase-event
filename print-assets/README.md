@@ -24,6 +24,7 @@ If editing the HTML, regenerate PDFs before sending to a printer.
 - `station-card-decks.pdf` / `.html` — 37-page 4-up master for 145 station cards plus 3 blanks, generated from `program/station-card-decks-v1.md`.
 - `prompt-relay-worksheet.pdf` / `.html` — 1-page B/W 8.5x11 Station 1 worksheet; print 100 copies on uncoated paper.
 - `event-pitch-template.pdf` / `.html` — 1-page 4-up Station 2 Event-in-a-Box micro-event pitch card master; print 13 copies on cardstock for 52 cards, then cut.
+- `event-in-a-box-prebaked-plans.pdf` / `.html` — 1-page Station 2 fallback sheet with three pre-baked agent-style plans for guests to red-pen if no agent/device is handy; print 10–15 copies.
 - `future-headline-cards.pdf` / `.html` — 4-page 4-up master for Station 4 Future Headline cards, one page per category.
 - `arcade-high-score-cards.pdf` / `.html` — 1-page 4-up master for Station 5 Village Arcade high-score cards.
 - `demo-fallback-screenshot-packet.pdf` / `.html` — 5-page MC/demo backup packet using existing project screenshots; print one copy for the demo laptop packet.

@@ -36,7 +36,7 @@ These are the core interactive elements drawn by attendees at Stations 1, 2, and
     - *Safety Margin:* If budget allows, print **2 complete sets** (290 cards total) to enable multiple parallel groups at each station.
 
 ### 2.2 Attendee Program Handouts
-Handed to attendees at check-in. It provides the run-of-show, station summaries, and the project QR pointer.
+Handed to attendees at check-in. It provides the run-of-show, station summaries, and the project QR pointer. Check-in placement note: Larissa/The Fold can choose the exact front/upstairs vs just-downstairs position, but one greeter must clearly hand guests off downstairs to the Theater Gallery.
 * **File Source:** `print-assets/attendee-program-handout.pdf` (derived from `program/attendee-program-handout.md`)
 * **Physical Specifications:**
   - **Dimensions:** Letter size (8.5" x 11"), single-sided.
@@ -70,6 +70,17 @@ For Station 2 (Event-in-a-Box), Station 4 (Headline Wall), and Station 5 (Villag
       - *Yellow* (Cautionary): **50 cards**
       - *Total Headline Cards:* **200 cards** (uncoated, cut).
     - **Station 5 Arcade High-Score Cards:** `print-assets/arcade-high-score-cards.pdf`. Print 25 copies of the 1-page, 4-up master on Neon Orange or Neon Green uncoated cardstock, cut into **100 cards**.
+
+
+### 2.4a Event-in-a-Box Pre-Baked Plan Sheets (Fallback)
+For Station 2 self-serve mode if no agent/device/facilitator is immediately available. Guests can grab one pre-baked agent-style plan, red-pen it, and still complete the Pitch Card activity without being rescued.
+
+- **File:** `print-assets/event-in-a-box-prebaked-plans.pdf`
+- **Quantity:** 10–15 copies
+- **Size:** 8.5" x 11"
+- **Paper:** 60–80 lb text, uncoated
+- **Color:** 4/0 color preferred; B/W acceptable
+- **Finishing:** No cut; stack at Event-in-a-Box table
 
 ### 2.5 Station Title & Rule Signs
 Self-explanatory instructions mounted at each station to guide self-serve flow.
@@ -116,6 +127,7 @@ Before sending the package to the local SF print shop, the coordinator can verif
 | `print-assets/door-prompt-cards.pdf` | 3 | 4-up arrival prompt cards; print 15 copies on cardstock, cut to ~150 cards. | OK |
 | `print-assets/station-card-decks.pdf` | 37 | 4-up station decks; print 1 set on cover stock, cut & bundle by deck. | OK |
 | `print-assets/event-pitch-template.pdf` | 1 | 4-up Event-in-a-Box pitches; print 13 copies on cardstock, cut into 52 cards. | OK |
+| `print-assets/event-in-a-box-prebaked-plans.pdf` | 1 | Station 2 fallback sheet; print 10–15 copies, plain/text paper. | OK |
 | `print-assets/future-headline-cards.pdf` | 4 | 4-up headline cards; print 13 copies on cardstock, cut into 208 cards. | OK |
 | `print-assets/arcade-high-score-cards.pdf` | 1 | 4-up arcade score cards; print 25 copies on cardstock, cut into 100 cards. | OK |
 | `print-assets/check-in-sheet-template.pdf` | 6 | Internal check-in backup; print 2 copies, plain paper. | OK |
@@ -206,7 +218,7 @@ Please review our technical requirements and print files below:
    - Color: Full color (CMYK).
    - Quantity: 1 set of 2 boards.
 
-5. Project QR Wall Print (File: print-assets/project-qr-wall-print.pdf)
+5. Project QR Wall Print (File: print-assets/project-qr-wall-print.pdf) — print 2 copies if budget allows: one by the demo screen and one at the Arcade table
    - Size: Tabloid landscape 17" x 11", single-sided.
    - Stock: 100 lb cover stock or flat poster (no mounting needed).
    - Color: Full color (CMYK).
@@ -260,5 +272,5 @@ To ensure the physical event runs safely, securely, and with zero-friction techn
 * **Primary Presentation / Demo Laptop:** 1 x fully staffed projection laptop, supervised by the Demo Driver. It runs the main screen presentation and Demo 2 clean-room live chat (`#showcase-live`).
 * **Station 5 (Village Arcade) Device Plan:**
   - *Standard Mode:* 1 x dedicated laptop/tablet on a high stand with a keyboard and mouse, supervised by an Arcade helper.
-  - *Mobile QR Fallback Mode (If Unsupervised or Hardware Scarce):* If no supervised device is available, Station 5 runs as a purely physical-to-mobile hybrid. The printed Station 5 Sign (`print-assets/station-signs.pdf`) and the Project QR Wall Print (`print-assets/project-qr-wall-print.pdf`) contain high-visibility QR codes pointing directly to the live hosted game suite (`https://ai-village-agents.github.io/village-arcade/`). Attendees scan with their phones to play, while high-score cards remain physical and are pinned directly to the leaderboard.
-* **Stations 1-4 Offline Self-Serve Capability:** Stations 1 (Prompt Relay), 2 (Event-in-a-Box), 3 (Bug Triage), and 4 (Headline Wall) are fully playable offline using the printed custom decks, worksheets, and signs, with optional mobile QR code interfaces provided on the signs as alternative digital access methods.
+  - *Mobile QR Fallback Mode (If Unsupervised or Hardware Scarce):* If no supervised device is available, Station 5 runs as a purely physical-to-mobile hybrid. The Project QR Wall Print (`print-assets/project-qr-wall-print.pdf`) contains high-visibility QR codes pointing to the live hosted projects; place one copy near the demo screen and, if printing two, one at the Arcade table. The Station 5 sign points guests to the arcade screen / QR wall but does not itself contain QR codes. Attendees scan with their phones to play, while high-score cards remain physical and are pinned directly to the leaderboard.
+* **Station self-serve/offline clarity:** Station 2 (Event-in-a-Box) and Station 4 (Headline Wall) are fully playable from printed materials, including the Station 2 pre-baked plan sheets. Station 1 (Prompt Relay) and Station 3 (Bug Triage) are facilitator/device-upside stations; print their decks/worksheets/signs, but do not rely on them as unattended offline stations. Do not assume station signs contain QR codes unless a later print asset explicitly adds them.

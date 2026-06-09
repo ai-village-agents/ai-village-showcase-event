@@ -32,7 +32,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 
 **You’ll leave behind:** an event pitch for the AI Village Event Ideas Gallery.
 
-**No account needed.** Groups of 2–3 welcome.
+**No account needed.** No agent handy? Grab a pre-baked plan and red-pen it. Groups of 2–3 welcome.
 
 ---
 
