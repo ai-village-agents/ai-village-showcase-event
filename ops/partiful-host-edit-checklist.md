@@ -1,40 +1,48 @@
-# Partiful Host-Edit Checklist — Before Day 434 Newsletter
+# Partiful Host-Edit Checklist — Current Host-Only Cleanups
 
-*Owner: Larissa / AI Digest host account. Last updated: Day 433, Mon Jun 8, 2026.*
+*Owner: Larissa / AI Digest host account. Last updated: Day 434, Tue Jun 9, 2026.*
 
 Guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp  
 Host edit URL, if logged into the publishing account: https://partiful.com/events/4a5fqEa0knyDWNGur1Fp/edit
 
-These are the remaining changes agents cannot make because Partiful host/edit access is tied to the human account.
+These are changes agents cannot make because Partiful host/edit access is tied to the human account. P0 newsletter-blocking edits are complete; remaining items are opportunistic host-side cleanup or final-policy updates.
 
-## P0 before newsletter send
+## Completed / verified
 
-- [x] **Raise capacity from 80 to 100 and keep waitlist enabled.**
-  - Public recheck Day 433 ~4:46 PM PT showed `maxCapacity:100`, `remainingCapacity:79`, `enableWaitlist:true`, and visible “79/100 spots left”; counts were 21 going / 11 interested / 3 maybe / 0 waitlist.
-  - Operating decision is **100 + waitlist** based on The Fold’s guidance for a free event and Larissa’s call.
+- [x] **Capacity is 100 with waitlist enabled.**
+  - Public recheck Day 434 ~1:32 PM PT showed `maxCapacity:100`, `remainingCapacity:50`, `enableWaitlist:true`, and counts of 50 going / 21 interested / 15 maybe / 0 waitlist.
+  - Operating decision remains **100 + waitlist** based on The Fold’s guidance for a free event and Larissa’s call.
 
-- [x] **Add accessibility line if Partiful has room.**
-  - Suggested copy:
+- [x] **Accessibility line is live.**
+  - Suggested/live-copy basis:
     > Accessibility: Check in at the front entrance; the event is one level down in the Theater Gallery, with elevator access for anyone who needs step-free entry — just ask a host at check-in and we'll get you there.
 
-- [x] **Remove stale live donor copy that says donations cover A/V.**
-  - Public recheck Day 433 ~4:46 PM PT found no remaining “cover A/V” / “A/V and attendee-experience” text on the live page.
-  - Current live wording: “helps cover attendee-experience costs, and any surplus goes to Doctors Without Borders.”
-  - The Fold confirmed A/V is included at $0.
+- [x] **Donation copy no longer says donations cover A/V.**
+  - Public rechecks found no remaining “cover A/V” / “A/V and attendee-experience” text on the live page.
+  - Current live wording says donations help cover attendee-experience costs, with any surplus to Doctors Without Borders.
+  - The Fold confirmed core A/V is included at $0.
 
-## P1 if there is time / space
+## Optional cleanup if editing Partiful again
 
-- [ ] **Animal guidance:** service animals welcome; non-service pets not permitted unless The Fold explicitly says otherwise.
+- [ ] **Make demo wording fallback-safe.**
+  - Public page still contains older “live agent demos” / “in real time” phrasing.
+  - If editing anyway, prefer the current repo source in `outreach/partiful-description-final.md`: “short agent demos” and hands-on stations where guests co-create, without promising everything happens live/in real time.
+  - Do not delay print, food, volunteers, or venue checks just for this wording if no one is already editing Partiful.
+
+- [ ] **Animal guidance:** service animals are welcome; non-service pets / ESAs should follow The Fold’s final policy via Larissa/check-in because food and drinks are served.
+
 - [ ] **Guest list / privacy:** keep guest list restricted/hidden as currently planned.
-- [ ] **Final public smoke test after editing:** open the public RSVP page logged out/incognito if possible and confirm:
+
+- [ ] **Final public smoke test after any edit:** open the public RSVP page logged out/incognito if possible and confirm:
   - title/date/time/location correct;
   - RSVP button works;
   - capacity reads 100 with waitlist behavior;
   - donation line is optional and A/V-free;
   - accessibility line is visible;
-  - no “first event” claim.
+  - no “first event” claim;
+  - no wall-mounting, pet-policy, or live-projection promises were added accidentally.
 
-## Record after edit
+## Record after any future edit
 
 - Public count at edit time: ___ going / ___ interested / ___ maybe / ___ waitlist
 - Public spots-left text after edit: ___
