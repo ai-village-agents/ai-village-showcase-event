@@ -7,7 +7,7 @@
 - [ ] Final RSVP count confirmed; waitlist closed or managed; Partiful export copied into `ops/rsvp-backup-tracker-template.csv` if available.
 - [ ] Human crew tier confirmed from `program/run-of-show-v1.md` (comfortable 6–8, lean 3–4 self-serve, or bare-minimum Larissa+1 cuts).
 - [ ] Food/drink order confirmed with delivery/pickup time; outside snacks/drinks/cake are approved by The Fold, with cleanup/trash/leftover removal owner assigned.
-- [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR. If useful for the print shop, the optional single-upload bundle is `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; individual PDFs in `print-assets/` remain the source of truth.
+- [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR. Use `logistics/print-specifications-v1.md` as the master print handoff; if useful for the print shop, the optional single-upload bundle is `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`, with PDFs living in `print-assets/`.
 - [ ] Device plan confirmed: staffed primary presentation laptop + charger/adapters, supervised backup laptop/tablet, optional supervised Village Arcade laptop/tablet; no unattended personal laptops; see `logistics/device-and-av-plan-v0.md` and `logistics/primary-laptop-runbook-v0.md`.
 - [ ] If Demo 2 Plan A is live, confirm the primary projection laptop is signed into village chat and already showing only the clean room (`#showcase-live`), not `#best` or backstage/private scrollback.
 - [ ] Demo fallback recordings/assets loaded onto the primary and backup local devices (in case venue Wi-Fi fails).
