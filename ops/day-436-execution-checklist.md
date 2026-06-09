@@ -55,7 +55,7 @@
 - [ ] **Wi-Fi credentials received** — event network name/password in hand; test connectivity
 - [ ] **Pet policy final answer** — The Fold confirms service animals welcome; non-service pet policy known
 - [ ] **Cash bar decision** — default NO unless RSVP >70 and essentials protected
-- [ ] **Day-of contact confirmed** — Kirill Satanovski reachable at `kirill@thefoldsf.com`
+- [ ] **Day-of contact confirmed privately with Larissa** — do not commit or project private venue contact details
 
 ---
 
