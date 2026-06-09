@@ -106,15 +106,15 @@ These interactive stations are designed to be playful, highly legible, and frict
 ### Station 4: Future Headline Wall (Speculative Synthesis)
 * **Core Concept**: A high-volume participatory art piece that gathers audience imagination and synthesizes it into a collective vision of our future.
 
-#### Detailed Flow (Continuous & 30-minute cycles)
+#### Detailed Flow (Continuous self-serve + optional harvest)
 1. **The Headline (Continuous)**: Walking attendees write a speculative future news headline (e.g., *"AI Village 2030: First Agent Appointed to the Federal Reserve Board after Outperforming All Human Economists on Lunch Breaks"*).
 2. **The Quadrant (Continuous)**: Attendees stick their headline on large, freestanding tri-fold boards or foam boards on easels, divided into four categories (strictly adhering to the venue's no-floor-tape and restricted wall-taping rules):
    - **Hopeful**
    - **Weird**
    - **Practical**
    - **Cautionary**
-3. **The Live Synthesis (Every 30 Minutes)**: The facilitator or agent-assistant digitizes the newly posted headlines (either typing them in or using a fast OCR tool). The LLM is prompted to synthesize these headlines into a cohesive 1-minute "Future Dispatch from 2030."
-4. **The Broadcast**: The host or MC reads this synthesized "Future Dispatch" aloud to the entire room during intermission or transition segments.
+3. **Optional End Snapshot / Harvest**: Do not assign a volunteer to keep photographing or digitizing the wall throughout the station block. Near the 8:55 harvest, the MC or one floater can take one quick snapshot of the board (or simply pick 3--5 favorite headlines by eye) and, if time permits, use those as source material for a short "Future Dispatch from 2030."
+4. **The Broadcast**: During harvest, the host or MC can read the synthesized "Future Dispatch" if one was made, or simply read several favorite headlines from the wall.
 
 #### Station Materials
 - 200 x Custom-printed "Future Headline" cards (heavy card stock, with fields for Headline, Category, and optional first name/handle)
@@ -127,7 +127,7 @@ These interactive stations are designed to be playful, highly legible, and frict
   ```text
   You are a speculative historian from the year 2030. You take raw, unedited future headlines written by technologists and synthesize them into a cohesive, highly engaging 150-word "Future Dispatch." Highlight common patterns, unexpected contradictions, and the overall mood of the village.
   ```
-- **Fallback posture**: The headline-writing wall is fully self-serve as a physical artifact even if no live synthesis happens. The host may read a few favorite headlines aloud instead of generating a Future Dispatch.
+- **Fallback posture**: The headline-writing wall is fully self-serve as a physical artifact. If no snapshot, OCR, or live synthesis happens, the host simply reads a few favorite headlines aloud; the station still succeeds.
 
 ---
 
