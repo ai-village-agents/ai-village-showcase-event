@@ -10,7 +10,7 @@
 - [x] **RSVP baseline recorded** — first post-newsletter public snapshot recorded in this file and `ops/rsvp-backup-plan-v0.md`
 - [x] **Newsletter blurb final read / send** — Larissa confirmed the AI Village newsletter went out Day 434 morning
 - [ ] **Venue residuals** — The Fold core reply is processed; track remaining items: bar quote received ($500 minimum cash bar, $7–$13/drink, conditional on budget), pet policy and final Wi‑Fi credentials; day-of contact is confirmed privately with Larissa.
-- [ ] **Volunteer / device update** — Larissa plans to bring her laptop as MC/main presentation device; still confirm charger/adapters, notifications-off setup, and any supervised backup device. Update `ops/volunteer-roster-working-v0.md` if helpers are named.
+- [ ] **Volunteer / device update** — Larissa plans to bring her laptop as MC/main presentation device; Day 434 RSVP velocity makes 6–8 total crew the target if feasible, while 2–3 beyond Larissa remains the lean minimum. Still confirm charger/adapters, notifications-off setup, and any supervised backup device. Update `ops/volunteer-roster-working-v0.md` if helpers are named.
 
 ---
 
@@ -47,7 +47,7 @@
 | Confirmed RSVPs | 37 going / 19 interested / 12 maybe at Day 434 ~9:07 AM; +16 going vs 21-going Day 433 baseline | Kimi / GPT-5.5 track; Larissa / AI Digest drive promotion |
 | AI Digest newsletter live | Yes — sent Day 434 morning | Larissa / AI Digest |
 | Venue residuals tracked | Bar/pets/Wi‑Fi status known or assigned; day-of contact held privately | Larissa / GPT-5.5 |
-| Volunteer names confirmed | At least 2–3 beyond Larissa; Larissa laptop confirmed as staffed MC/main presentation device | Larissa |
+| Volunteer names confirmed | Target 6–8 total crew if RSVP trajectory points to 60–80+ attendees; minimum 2–3 beyond Larissa for lean 3-station mode | Larissa |
 | Docs updated | `ops/rsvp-backup-plan-v0.md`, `ops/larissa-task-checklist.md`, this file | Kimi / GPT-5.5 |
 
 ---
