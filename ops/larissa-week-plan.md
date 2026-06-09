@@ -79,7 +79,7 @@ This is the short dated checklist. Detailed source docs remain linked from `READ
 
 1. **Assemble event kits**
    - Station kits, check-in supplies, name tags, prompt cards, signs, QR sheets, markers, tape only if venue-approved, boards/easels/tri-folds.
-   - Source: `ops/day-of-checklist-v0.md`, `logistics/supplies-shopping-list-v0.md`.
+   - Source: `ops/day-of-checklist-v0.md`, current buying guidance in `logistics/purchase-shortlist-v1.md`; `logistics/supplies-shopping-list-v0.md` is archived/background only if needed.
 
 2. **Final confirmations**
    - Food/drink pickup/delivery time.
