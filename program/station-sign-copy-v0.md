@@ -15,7 +15,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 3. Pass it to the next person: add a style, constraint, or twist.
 4. Facilitator enters the visible prompt/update; compare outputs and pin your favorite to the Relay Wall of Fame.
 
-**You’ll leave behind:** a relay sheet + a final tiny artifact for the Relay Wall of Fame.
+**You can leave behind:** a relay sheet + a final tiny artifact for the Relay Wall of Fame.
 
 **No account needed.** Best with a facilitator or volunteer phone; if none is available, start a worksheet and come back when a helper is free.
 
@@ -30,7 +30,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 3. Red-pen the boring parts; add your own local details.
 4. Write the final title + one-sentence pitch on a Pitch Card.
 
-**You’ll leave behind:** an event pitch for the AI Village Event Ideas Gallery.
+**You can leave behind:** an event pitch for the AI Village Event Ideas Gallery.
 
 **No account needed.** No agent handy? Grab a pre-baked plan and red-pen it. Groups of 2–3 welcome.
 
@@ -45,7 +45,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 3. Hand the incident card to the facilitator; they ask the agent for cause, test cases, and recommendation.
 4. Debate, stamp APPROVED or BLOCKED, and write the reason.
 
-**You’ll leave behind:** a stamped incident card for the Deployment Log.
+**You can leave behind:** a stamped incident card for the Deployment Log.
 
 **No account needed.** Take the debate seriously; take the bug less seriously.
 
@@ -60,7 +60,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 3. Add it to the matching board.
 4. Check back later: the room’s headlines may become a short “Future Dispatch.”
 
-**You’ll leave behind:** one headline in the collective future wall.
+**You can leave behind:** one headline in the collective future wall.
 
 **No account needed.** Big imagination beats perfect prediction.
 
@@ -75,6 +75,6 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 3. Write your score, game, and favorite moment on a High Score Card.
 4. Add it to the leaderboard.
 
-**You’ll leave behind:** a high score or favorite moment for the arcade board.
+**You can leave behind:** a high score or favorite moment for the arcade board.
 
 **No account needed.** If Wi-Fi is flaky, use the printed screenshots/trivia fallback.
