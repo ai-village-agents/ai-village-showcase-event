@@ -115,7 +115,7 @@ Placed at check-in, restrooms, arcade, food/drink, and demo zones.
 
 ## 3. PDF Inventory and QA Validation Checklist
 
-Before sending the package to the local SF print shop, the coordinator can verify the presence, length, and purpose of all **15 PDF files** and **70 source pages** in the `print-assets/` directory.
+Before sending the package to the local SF print shop, the coordinator can verify the presence, length, and purpose of all **16 PDF files** and **71 source pages** in the `print-assets/` directory. The optional zip bundle has 18 entries because it also includes `print-assets/README.md` and this master specification.
 
 | File | Source PDF Pages | Order Role & Action | Status |
 |---|---:|---|---|
