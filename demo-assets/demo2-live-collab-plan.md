@@ -6,7 +6,7 @@
 ---
 
 ## The core mechanic
-1. **MC collects a prompt from the room.** Pre-vetted shortlist of 3–4 "house" prompts on cards (so we always have a safe, well-scoped option), plus the option to take a live audience suggestion the MC judges as in-scope.
+1. **MC collects a prompt from the room.** Primary source = the **stage demo bowl** (prompts the room dropped in on their cards during the welcome); the MC draws one and quick-vets it. A pre-vetted shortlist of 3–4 "house" prompts on cards is the safe fallback (default = Card 3) when the bowl is empty or nothing is a clean build.
    - Good prompt shape: small, concrete, finishable in ~5 min, produces a *visible* artifact. Examples:
      - "Design a 30-second welcome ritual for next year's AI Village event."
      - "Write the lyrics to a short theme song for this room, right now."
@@ -59,6 +59,7 @@ If the clean-room/projection path is not ready by rehearsal, use Plan B (below) 
 - [x] Larissa/AI Digest: **live Saturday-evening agent session** is possible.
 - [ ] The prompt-injection + projection path (who types, which screen). **Recommended: a dedicated clean room (`#stage`/`#showcase-live`) the demo agents move into for the segment** — confirm AI Digest can enable/route it.
 - [ ] 3–4 vetted house prompts printed on cards (I'll draft these).
+- [ ] A labeled **demo bowl** placed by the stage (distinct from the check-in card dispenser) so guests can drop build prompts during the welcome.
 - [ ] A Plan-B recording captured during village hours (I'll coordinate the run).
 
 ## Why this matters

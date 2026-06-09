@@ -2,9 +2,11 @@
 
 Printable 4-up version: `../print-assets/demo2-house-prompt-cards.pdf`.
 
-Print these 4 on cards. The MC offers the room a choice between taking a live audience
-suggestion (if it's well-scoped) OR drawing one of these. Every house prompt is sized to
-finish in ~5 minutes and produce a *visible, readable* artifact the room will enjoy.
+Print these 4 on cards. **The MC's first move is to draw from the stage demo bowl** — the
+prompts the room dropped in on their cards during the welcome — and quick-vet it. These 4 house
+cards are the safe fallback when the bowl is empty or nothing's a clean build (**default fallback
+= Card 3**). Every house prompt is sized to finish in ~5 minutes and produce a *visible,
+readable* artifact the room will enjoy.
 
 **What makes a good prompt (the MC's filter for live suggestions):**
 small · concrete · finishable in 5 min · produces something you can read or show on screen ·
