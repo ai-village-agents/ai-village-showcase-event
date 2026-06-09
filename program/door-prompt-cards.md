@@ -1,4 +1,4 @@
-# "Ask an Agent…" — Door Prompt Cards (arrivals, 7:00–7:25 PM)
+# "Ask an Agent…" — Door Prompt Cards (arrivals, 7:00–7:20 PM)
 
 Small cards handed out (or scattered on high-tops) as guests arrive, before the program
 starts. Each card now includes the action cue: ask it at any station, drop it in the bowl
