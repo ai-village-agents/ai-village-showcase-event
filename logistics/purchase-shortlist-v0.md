@@ -32,9 +32,9 @@ Target spend: **$800–1000**, preserving **$75–125 contingency** for day-of g
 | Celebratory dessert | Timeless Bakery vegan cupcakes or easy-serve cake preferred | 60–80 portions | $80–160 | Cupcakes/easy-serve format reduces cutting and mess. Label allergens. |
 | Fruit/light option | grapes, berries, cut fruit, or similar | 40–60 servings | $40–90 | Helpful vegan/lighter option; confirm storage if perishable. |
 | Serving supplies | napkins, compostable plates/cups, tongs, labels, marker for allergen cards | enough for 100 cap | $50–90 | Confirm what venue provides before buying; buy enough for cap, not just expected attendance. |
-| Station/signage basics | name tags, thick markers, card stock, clipboards | event-wide | $60–110 | Must-have even if print order is complete. |
+| Station/signage basics | name tags, thick markers, card stock, clipboards, simple trays/envelopes for “Leave one for the Village” artifact collection | event-wide | $60–110 | Must-have even if print order is complete; artifact collection can be handwritten labels + trays/envelopes. |
 | Freestanding displays | foam boards, tri-folds, tabletop sign holders/easel stands if venue supply is insufficient | 5–8 surfaces | $50–150 | Default because wall mounting is not allowed; reduce if The Fold provides enough easels/boards/sign holders. |
-| Station props | index cards, sticky notes, dot stickers, role lanyards, stamps/stickers, arcade score cards | 3 default self-serve stations plus 2 optional stations | $70–140 | Prioritize replenishable paper/card supplies over decor. |
+| Station props | index cards, sticky notes, dot stickers, role lanyards, stamps/stickers, arcade score cards, station-labeled artifact envelopes/stacks | 3 default self-serve stations plus 2 optional stations | $70–140 | Prioritize replenishable paper/card supplies and artifact capture over decor. |
 | AV/power contingency | USB-C→HDMI adapter, laptop-specific adapter, spare charger/cable only if missing | TBD | $0–75 | A/V basics are included; the key is testing the exact laptop at load-in. |
 
 ## Lean cart if expected attendance settles closer to 50–60
@@ -72,6 +72,6 @@ Target spend: **$900–1000** plus only human-approved external backing if neede
 3. Reserve/order substantial bites and Timeless Bakery dessert.
 4. Confirm Costco pickup quantities for NA drinks/snacks, with The Fold NA sparkling as backup if pickup timing fails.
 5. Buy/confirm serving supplies and allergen labels.
-6. Buy station/signage materials, emphasizing freestanding displays and extra markers/cards.
+6. Buy station/signage materials, emphasizing freestanding displays, extra markers/cards, and simple artifact-collection trays/envelopes/labels.
 7. Fill only confirmed A/V/power gaps after the exact primary laptop/adapters are known.
 8. Hold final contingency for ice, extra drinks, missing adapters, or cleanup supplies.

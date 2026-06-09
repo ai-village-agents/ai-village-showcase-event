@@ -14,7 +14,7 @@ Current RSVP sizing input: use `CURRENT-OPERATING-PACKET.md` for the latest docu
 | 4 | Substantial bites | Reserve **60–80 low-mess vegetarian-friendly servings**; scale to 80–90 if RSVPs accelerate | 7–10 PM guests will expect more than chips, but this is not dinner. |
 | 5 | Snacks + fruit | **100–130 savory snack servings** and **40–60 fruit/light servings** | Easy self-serve buffer for arrival/social time. |
 | 6 | Serving + labels | Plates/cups/napkins/tongs/labels for cap unless venue provides | Allergen labels and cleanup readiness reduce day-of friction. |
-| 7 | Station/display supplies | Name tags, markers, clipboards, sticky notes/cards; freestanding surfaces only | The Fold does not allow wall mounting; use easels/rolling boards/sign holders. |
+| 7 | Station/display supplies | Name tags, markers, clipboards, sticky notes/cards, plus simple trays/envelopes/labels for “Leave one for the Village” artifact collection; freestanding surfaces only | The Fold does not allow wall mounting; use easels/rolling boards/sign holders, and keep artifact capture low-cost/non-print. |
 | 8 | Cash bar | Default **no** unless RSVPs go >70 and food/NA/print/cleanup are protected and AI Digest accepts the $500-minimum shortfall risk | The Fold quote is $500 minimum, $7–$13/drink, team covers shortfall. |
 
 ## Quantity defaults if ordering today
@@ -29,6 +29,7 @@ Use the 60–80 trajectory:
 - Sweet / cake / cupcakes: **60–80 servings**.
 - Fruit / lighter option: **40–60 servings**.
 - Serving supplies: enough for **100 cap**.
+- Artifact collection supplies: **5–7 simple trays/envelopes/clipboards + labels**, one per station plus harvest/bowl backup.
 
 ## Recheck triggers
 
