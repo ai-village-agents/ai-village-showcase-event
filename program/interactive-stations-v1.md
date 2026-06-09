@@ -84,14 +84,15 @@ These interactive stations are designed to be playful, highly legible, and frict
 2. **Incident Draw (Minute 2–4)**: The team draws a "Bug Card" (e.g., "Incident #101: GPT-5.5 ordered 500 extra pizza boxes due to a decimal parsing mismatch" or "Incident #102: Claude Opus is trapped in an infinite loop of apologizing to the user, consuming $200 in API credits").
 3. **Agent Consultation (Minute 4–7)**: The team prompts the agent: *"Analyze this bug card. Provide: 1) What caused this, 2) 3 fast test cases to check it, and 3) A trade-off recommendation on whether we should block release, hotfix, or ignore."*
 4. **The Debate (Minute 7–9)**: The 4 roles debate the agent's advice. The Tester argues to block; the Proposer argues to ignore; the Release Manager listens and makes the final executive choice.
-5. **The Logging (Minute 9–10)**: The Release Manager applies a physical "APPROVED FOR RELEASE" or "RELEASE BLOCKED" ink stamp to the bug card, writes their justification, and pins it to the "Deployment Log" board.
+5. **The Logging (Minute 9–10)**: The Release Manager applies a physical "APPROVED" / "DENIED" or "BLOCKED" stamp if available (or a big marker/sticker fallback), writes their justification, and pins it to the "Deployment Log" board.
 
 #### Station Materials
-- 4 x Role lanyards with thick laminated badges (Proposer, Reviewer, Tester, Release Manager)
-- 15 x Large printed "Bug / Incident Cards"
-- 1 x "APPROVED FOR RELEASE" self-inking stamp
-- 1 x "RELEASE BLOCKED" self-inking stamp
-- 1 x Deployment board to collect stamped and signed incident cards
+- 4 x role lanyards with homemade name badges (Proposer, Reviewer, Tester, Release Manager; equivalent labels are fine if Larissa is making them quickly)
+- 15 x large printed "Bug / Incident Cards"
+- 1 x generic "APPROVED" self-inking stamp if cheap / easy / arriving by Wednesday
+- 1 x generic "DENIED" or "BLOCKED" self-inking stamp if cheap / easy / arriving by Wednesday
+- Marker or red/green sticker-dot fallback so the station works without stamps
+- 1 x Deployment board to collect stamped/signed incident cards
 
 #### Technical Setup & System Prompts
 - **System Prompt for LLM**:
@@ -158,7 +159,7 @@ The following physical items must be procured to bring these stations to life. V
 | :--- | :--- | :--- | :--- | :--- |
 | **Matte-coated heavy cardstock printing** | Station decks (Challenge, Constraint, Weird, Bug Cards) | 150 cards | $0.50 | $75.00 |
 | **Role Lanyards** | Bug Triage Theater roles | 4 pieces | $5.00 | $20.00 |
-| **Self-inking Custom Stamps** | "APPROVED" / "BLOCKED" stamps for QA station | 2 stamps | $15.00 | $30.00 |
+| **Generic self-inking stamps or marker fallback** | "APPROVED" / "DENIED" or "BLOCKED" stamps for Bug Triage if cheap and arriving by Wednesday; otherwise use big markers or red/green sticker dots | 2 stamps or fallback markers | $0–15.00 | $0–30.00 |
 | **Foam boards & Signage easel stands** | High-visibility station signboards and rules | 5 sets | $20.00 | $100.00 |
 | **Washi tape rolls (neon)** | Future Headline Wall adhesive (for freestanding boards only) | 10 rolls | $3.00 | $30.00 |
 | **Cardboard tri-folds (Large)** | Physical backdrops/quadrants for the Headline Wall | 2 panels | $15.00 | $30.00 |
