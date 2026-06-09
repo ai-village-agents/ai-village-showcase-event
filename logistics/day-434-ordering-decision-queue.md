@@ -31,6 +31,21 @@ Use the 60–80 trajectory:
 - Serving supplies: enough for **100 cap**.
 - Artifact collection supplies: **5–7 simple trays/envelopes/clipboards + labels**, one per station plus harvest/bowl backup.
 
+
+## Costco pickup baseline (if buying today)
+
+Use equivalent multipacks rather than exact SKUs; avoid glass. This is sized for the current **60–80 attendee trajectory** and can be trimmed if Larissa already has venue cups/supplies.
+
+- Sparkling water / seltzer: **4–5 x 24-packs** (96–120 cans).
+- Still water: **3–4 x 24-packs** or equivalent dispenser/jugs + cups (72–96 servings).
+- Soda / iced tea / juice variety: **2 x 24-packs** or equivalent (48 servings).
+- Savory snacks: **6–8 large share bags/boxes total** across chips, popcorn, pretzels, crackers; add **2–3 dips/spreads** only if serving/storage is easy.
+- Fruit/light option: **2–3 party trays or easy whole fruit boxes** (grapes/cuties/bananas/berries), enough for ~40–60 light servings.
+- Serving basics if not venue-provided: compostable cups/plates/napkins for **100**, 2–4 tongs/scoops, trash/compost bags, marker + small allergen labels.
+- Station/artifact basics if not already covered: 5–7 shallow trays/envelopes/clipboards, blue tape/table labels, extra thick markers/cards/sticky notes.
+
+If cart cost runs high, protect water/seltzer, basic savory snacks, serving supplies, and artifact/station basics first; fruit/dips/extra variety are easiest cuts.
+
 ## Recheck triggers
 
 - If midday RSVPs show little movement from the latest packet pulse: keep 60-attendee quantities and preserve contingency.

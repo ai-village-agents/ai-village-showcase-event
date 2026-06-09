@@ -37,6 +37,21 @@ Target spend: **$800–1000**, preserving **$75–125 contingency** for day-of g
 | Station props | index cards, sticky notes, dot stickers, role lanyards, stamps/stickers, arcade score cards, station-labeled artifact envelopes/stacks | 3 default self-serve stations plus 2 optional stations | $70–140 | Prioritize replenishable paper/card supplies and artifact capture over decor. |
 | AV/power contingency | USB-C→HDMI adapter, laptop-specific adapter, spare charger/cable only if missing | TBD | $0–75 | A/V basics are included; the key is testing the exact laptop at load-in. |
 
+
+## Fast Costco pickup baseline for 60–80 trajectory
+
+Use equivalent multipacks rather than exact SKUs; avoid glass. This turns the quantity targets above into a quick pickup cart if Larissa is shopping by car:
+
+- **4–5 x 24-packs** sparkling water / seltzer (96–120 cans).
+- **3–4 x 24-packs** still water, or equivalent jugs/dispenser + cups (72–96 servings).
+- **2 x 24-packs** soda / iced tea / juice variety (about 48 servings).
+- **6–8 large share bags/boxes** of low-mess savory snacks across chips, popcorn, pretzels, crackers; add **2–3 dips/spreads** only if serving/storage is easy.
+- **2–3 fruit trays or easy whole-fruit boxes** for ~40–60 light servings.
+- If venue does not provide them: compostable cups/plates/napkins for **100**, 2–4 tongs/scoops, trash/compost bags, marker + allergen labels.
+- If station supplies are not already in hand: 5–7 trays/envelopes/clipboards for opt-in artifacts, blue tape/table labels, extra thick markers/cards/sticky notes.
+
+If the cart needs cuts, keep water/seltzer, simple savory snacks, serving supplies, and station/artifact basics before extra fruit, dips, or drink variety.
+
 ## Lean cart if expected attendance settles closer to 50–60
 
 Target spend: **$600–800**.
