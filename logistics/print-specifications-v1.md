@@ -84,7 +84,7 @@ For Station 2 self-serve mode if no agent/device/facilitator is immediately avai
 - **Finishing:** No cut; stack at Event-in-a-Box table
 
 ### 2.5 Station Title & Rule Signs
-Self-explanatory instructions mounted at each station to guide self-serve flow.
+Self-explanatory instructions displayed at each station to guide self-serve flow; flat prints in venue sign holders/easels are preferred over foam mounting if cost is high.
 * **File Source:** `print-assets/station-signs.pdf` (5 pages)
 * **Physical Specifications:**
   - **Dimensions:** Tabloid size (11" x 17"), single-sided.
@@ -122,8 +122,8 @@ Before sending the package to the local SF print shop, the coordinator can verif
 |---|---:|---|---|
 | `print-assets/attendee-program-handout.pdf` | 1 | Guest handout; print 100 copies on text weight. | OK |
 | `print-assets/prompt-relay-worksheet.pdf` | 1 | Station 1 worksheet; print 100 copies, uncoated. | OK |
-| `print-assets/station-signs.pdf` | 5 | Five station signs; 1 set, mount on 11x17 foam boards. | OK |
-| `print-assets/welcome-schedule-signs.pdf` | 2 | Welcome + schedule signs; 1 set, mount on 18x24 foam boards. | OK |
+| `print-assets/station-signs.pdf` | 5 | Five station signs; 1 set as flat 11x17 prints for venue sign holders/easels; foam mounting only if cheap/easy. | OK |
+| `print-assets/welcome-schedule-signs.pdf` | 2 | Welcome + schedule signs; 1 set as flat 18x24 posters for venue sign holders/easels; foam mounting only if cheap/easy. | OK |
 | `print-assets/project-qr-wall-print.pdf` | 1 | QR project wall; print 1–2 copies, 17x11 landscape. | OK |
 | `print-assets/door-prompt-cards.pdf` | 3 | 4-up arrival prompt cards; print 15 copies on cardstock, cut to ~150 cards. | OK |
 | `print-assets/station-card-decks.pdf` | 37 | 4-up station decks; print 1 set on cover stock, cut & bundle by deck. | OK |
@@ -165,9 +165,9 @@ Larissa makes the final vendor choice based on convenience, price, and turnaroun
 
 ### 5.1 Kinko’s / FedEx Office — SF Mission / Castro Locations
 * **Default use:** First quote / price-calibration route unless timing, custom cutting, or price fails.
-* **Pros:** Reliable for fast handouts, standard flyers, posters, and mounted foam boards. Predictable online portal and upload flow.
-* **Verify Before Ordering:** Check nearest location coordinates to The Fold (3359 26th St), same-day/next-day foam board turnaround, and capability to cut custom card size.
-* **Simplification Fallback:** If foam-mounting is too slow, print posters flat and slide them into venue-provided sign frames or mount them to rolling whiteboards.
+* **Pros:** Reliable for fast handouts, standard flyers, flat posters, and optional mounted foam boards. Predictable online portal and upload flow.
+* **Verify Before Ordering:** Check nearest location coordinates to The Fold (3359 26th St), same-day/next-day flat-poster/card turnaround, optional foam-board price/turnaround, and capability to cut custom card size.
+* **Cost-Saving Default:** Prefer flat posters/signs in venue-provided sign frames, easels, or rolling whiteboards. Use foam mounting only if the quote is acceptable and it does not slow turnaround.
 
 ### 5.2 Local SF Independent Shops (e.g., Mission Blue, Copy Central, local SF Digital Printers)
 * **Pros:** Best for rush digital print, heavy cardstocks, precision cuts, rounded corners, and personalized service. Very supportive of local Mission District events.
@@ -254,7 +254,7 @@ Please review our technical requirements and print files below:
 Could you please provide:
 1. An estimated total cost for the package as specified.
 2. Confirmation of whether you can accommodate pickup by Thursday, June 11 or Friday, June 12.
-3. Pricing/time differences if we simplify card cutting or foam board mounting.
+3. Pricing/time differences if we use flat posters/signs instead of foam board mounting, and if we simplify card cutting.
 
 All print files are packaged together. I look forward to your response!
 
