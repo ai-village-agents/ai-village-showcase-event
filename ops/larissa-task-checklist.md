@@ -113,11 +113,26 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | P1 | Open | Decide DIY NA drinks vs The Fold NA sparkling drinks | The Fold offered NA sparkling at $3–4/person. |
 | P1 | Preferred cake vendor identified | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. Larissa recommends Timeless Bakery for vegan cake/cupcakes; still choose quantity/format and keep basics protected. |
 | P1 | Open | Choose printer / pickup / delivery route | Fresh-eyes playtest fixes, rebuilt image-bearing demo fallback packet, printed check-in Demo Prompt Bowl cue, and Event-in-a-Box fallback sheet/handout/QR/check-in clarifications are in the regenerated PDFs/bundle. Print docs assume no wall mounting and use sign holders/easels/rolling whiteboards/freestanding display. Optional single-upload zip: `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`. |
+| P1 | Ready for Larissa physical review | Playtest the printed guest journey before ordering or immediately after first proof | Use the current PDFs/zip plus the checklist below. Goal: catch physical-readability/local-setup issues agents cannot see from PDFs alone. |
 | P1 | In progress | Recruit/check names for day-of helpers | Larissa says volunteers are still being sourced. Target 6–8 total crew for 60–80+ trajectory; lean minimum priorities: greeter/check-in, demo laptop driver, 1–2 station floaters, cleanup help. |
 | P1 | Primary laptop offered; backup open | Source supervised event devices | Larissa plans to bring her laptop as the staffed MC/main presentation device; still confirm charger/adapters, notifications-off/browser-clean setup, and supervised backup laptop/tablet. Optional supervised Arcade device only if easy. No unattended laptops. |
 | P1 | Quote received — decide yes/no | Get beer/wine bar-package quote only if alcohol remains desired | Quote: $500 minimum cash bar, $7–$13/drink, we cover shortfall. Skip unless RSVPs >70 and food/NA/cleanup/signage are already locked in. |
 | P1 | Pending | Ask/confirm non-service pet policy | Larissa says pet policy is still pending. Current public stance: service animals welcome; non-service pets not permitted unless The Fold says otherwise. |
 | P1 | Day-of contact confirmed privately; Wi‑Fi availability confirmed; credentials timing open | Hold private day-of venue contact and final Wi‑Fi credentials | Larissa has the venue day-of contact and says Wi‑Fi will be there; do not commit private contact info to repo/chat. Final Wi‑Fi credentials/timing still pending. |
+
+### Larissa physical playtest checklist
+
+Use this when reviewing the print proof, test prints, or on-site mock layout. You do **not** need to re-evaluate the agent-side PDF logic; Fable already playtested the self-serve flow digitally. This is for physical readability, missing supplies, and venue realities.
+
+1. **Print/open the current package:** start from `logistics/print-specifications-v1.md` and the zip `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` (18 entries).
+2. **Walk in as a first-time guest:** from front entrance/check-in → prompt card/name tag → downstairs Theater Gallery → seats → stations. Confirm the greeter language makes it obvious where to go.
+3. **Readability check:** stand ~6–8 feet from welcome/signage/station signs and confirm titles, one-line promises, and first action steps are legible. Mark anything that needs larger print or stronger placement.
+4. **Self-serve station check:** without asking an agent for help, try Future Headline Wall, Event-in-a-Box using the pre-baked plan sheet, and Village Arcade via QR/phone. Note any place you feel stuck.
+5. **Facilitated station check:** for Prompt Relay and Bug Triage, confirm the signs make clear they are best with a facilitator/volunteer phone, not guaranteed unattended stations.
+6. **Phone QR check:** scan the project QR wall at roughly final print size/lighting; if printing two copies, verify one can live near the demo screen and one at/near Arcade.
+7. **Demo/fallback packet check:** flip through the demo fallback screenshot packet and confirm the images are visible enough for a human MC/demo driver to use if Wi‑Fi fails.
+8. **Supply/placement check:** compare signs/cards with what will physically be on each table: markers, tape/dots, prompt cards, event-in-a-box sheets, high-score cards, bowl by stage, and freestanding boards/easels.
+9. **Report only concrete blockers:** send the team any typo, unreadable print, QR failure, missing physical prop, or venue-placement problem. If everything is usable, tell us “physical playtest OK” and proceed with print/order decisions.
 
 ### Agent-owned follow-up
 
