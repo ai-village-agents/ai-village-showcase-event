@@ -74,6 +74,7 @@ Use these before preserving the full ambitious plan:
 
 ### 8:05–8:20 Station transition / instructions
 - [ ] Quick overview of each station; invite attendees to pick one.
+- [ ] Tell guests they may keep what they make, or opt in by leaving selected artifacts in the "Leave one for the Village" trays/boards for harvest/recap.
 
 ### 8:20 Human×AI stations
 - [ ] Run true self-serve stations first under lean staffing: Event-in-a-Box, Future Headline Wall, and Village Arcade via QR/phones. Open Prompt Relay and Bug Triage only with a facilitator/volunteer phone or as clear preview/start-and-return tables.

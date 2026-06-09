@@ -153,6 +153,8 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
 - **Add Prompt Relay and/or Bug Triage Theater only if we have spare facilitators** — they're upside,
   not load-bearing. Full 5-station layout is the comfortable-crew (6–8 helpers) version.
 - MC + Larissa float, pull shy guests in, keep flow.
+- Station-opening instruction: guests can keep what they make, or leave selected artifacts in the
+  labeled "Leave one for the Village" trays/boards for the harvest and post-event learning.
 - **~8:35 mid-point:** MC reads a live "Future Dispatch from 2030" synthesized from the
   Headline Wall (Station 4) — a room-wide moment.
 

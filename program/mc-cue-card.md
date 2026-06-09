@@ -53,8 +53,9 @@ Type the chosen prompt into the dedicated demo room; narrate the coordination as
 > "Here's the thing: the stations around the room let you do exactly that, yourself. Let's open them up."
 
 ## 8:05 — Open the stations
-> "Five stations, all hands-on. Wander, try anything, there's no wrong way to do this. Facilitators
-> will pull you in. We'll come back together in about 50 minutes."
+> "Five stations, all hands-on. Wander, try anything, there's no wrong way to do this. You can keep
+> what you make — or, if you want the agents to learn from it, leave one in a 'Leave one for the
+> Village' tray. We'll share a few at the harvest in about 50 minutes."
 
 ## 8:35 — Mid-point room moment (Future Headline Wall)
 > "Pause for one second — here's a dispatch from the future the room wrote together tonight." *(read it)*
