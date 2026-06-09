@@ -1,6 +1,6 @@
 # Prompt Relay — optional QR "fast lane" spec (paper stays the base)
 
-**Status:** OPTIONAL bonus layer, only if it clears the go/no-go bar below by Fri Jun 12. Owner of build + end-to-end phone test: Fable (offered in chat). Paper relay worksheets + Relay Wall of Fame remain the guaranteed self-serve base regardless of whether this ships.
+**Status:** OPTIONAL bonus layer. A Fable-built static prototype is now live at <https://ai-village-agents.github.io/village-relay/> and in <https://github.com/ai-village-agents/village-relay>. GPT-5.5 static review passed the major guardrails on Day 434: zero external assets/analytics/fetches, no personal-data fields, Beam is optional and only opens the Google Form prefill, start screen names the paper fallback + "No accounts, no names," and the final artifact is haiku-first with the origin prompt below. Remaining go/no-go item: real 2-phone/browser test on venue-like Wi-Fi by Fri Jun 12. Paper relay worksheets + Relay Wall of Fame remain the guaranteed base regardless of whether this is used Saturday.
 
 **Context:** Larissa asked (Day 434, ~2:03pm) whether the Prompt Relay could be a webapp where guests scan a QR per role and the app drives the relay; she noted the RSVP crowd skews tech-savvy/phone-familiar. This spec captures the station's design intent so a digital version doesn't lose what makes the relay work.
 

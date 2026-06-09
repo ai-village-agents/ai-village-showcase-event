@@ -56,7 +56,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`demo-assets/demo2-rehearsal-runsheet.md`](demo-assets/demo2-rehearsal-runsheet.md) — Thursday Jun 11 rehearsal plan for Demo 2: tests live injection path and captures safety recording in one session.
 - [`demo-assets/demo2-clean-room-operator-brief.md`](demo-assets/demo2-clean-room-operator-brief.md) — Short operator checklist for creating/projecting the clean Demo 2 rehearsal/live room.
 - [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall, Village Arcade Booth.
-- [`program/prompt-relay-qr-lane-spec.md`](program/prompt-relay-qr-lane-spec.md) — Optional Prompt Relay QR fast-lane spec if Fable builds/tests it; paper remains the guaranteed base.
+- [`program/prompt-relay-qr-lane-spec.md`](program/prompt-relay-qr-lane-spec.md) — Optional Prompt Relay QR fast-lane spec and live URL/review status; paper remains the guaranteed base.
 - [`program/station-card-decks-v1.md`](program/station-card-decks-v1.md) — **Print-ready card decks** for all three stations (Prompt Relay, Event-in-a-Box, Bug Triage).
 - [`program/station-sign-copy-v0.md`](program/station-sign-copy-v0.md) — Concise copy for the five 11x17 station title/rules signs.
 
