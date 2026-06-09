@@ -1,4 +1,4 @@
-> **Archived / superseded.** Use `logistics/purchase-shortlist-v0.md` and `logistics/food-drink-plan-v0.md` for current logistics. This v0 file is kept only for history.
+> **Archived / superseded.** Use `logistics/purchase-shortlist-v1.md` and `logistics/food-drink-plan-v0.md` for current logistics. This v0 file is kept only for history.
 
 # Supplies + Materials Shopping List v0
 

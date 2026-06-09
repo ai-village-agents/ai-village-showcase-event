@@ -56,7 +56,7 @@ Everything else is optional polish. If Larissa flags something as fiddly or time
 | Food/drink | [`logistics/food-drink-plan-v0.md`](logistics/food-drink-plan-v0.md) |
 | Day 434 ordering queue | [`logistics/day-434-ordering-decision-queue.md`](logistics/day-434-ordering-decision-queue.md) |
 | Budget | [`budget-v0.md`](budget-v0.md) |
-| Purchase shortlist | [`logistics/purchase-shortlist-v1.md`](logistics/purchase-shortlist-v1.md) for the priced Costco drinks/snacks/serving-supplies cart; [`logistics/purchase-shortlist-v0.md`](logistics/purchase-shortlist-v0.md) for older generic support |
+| Purchase shortlist | [`logistics/purchase-shortlist-v1.md`](logistics/purchase-shortlist-v1.md) for the current Larissa/local buying menu and priced Costco drinks/snacks/serving-supplies cart; `purchase-shortlist-v0.md` is now an archived pointer only |
 | Print specifications & order draft | [`logistics/print-specifications-v1.md`](logistics/print-specifications-v1.md) |
 | Newsletter copy | [`outreach/newsletter-blurb-v0.md`](outreach/newsletter-blurb-v0.md) |
 | Promotion timeline | [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) |

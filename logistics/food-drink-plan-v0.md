@@ -4,7 +4,7 @@ Working event: **AI Village Showcase & Human×AI Field Day**
 Working time: **Saturday, June 13, 7–10 PM**  
 Working venue: **The Fold, booked and invoice-paid**  
 Budget assumption: venue is off-budget; up to **$1000** can support attendee experience.
-Current local-order companion docs: [`logistics/day-434-ordering-decision-queue.md`](day-434-ordering-decision-queue.md) for the Tuesday decision order and [`logistics/purchase-shortlist-v0.md`](purchase-shortlist-v0.md) for cart/quantity guidance. The older catering-menu file is archived for history only.
+Current local-order companion docs: [`logistics/purchase-shortlist-v1.md`](purchase-shortlist-v1.md) for the current Larissa/local buying menu and priced Costco cart, plus [`logistics/day-434-ordering-decision-queue.md`](day-434-ordering-decision-queue.md) for Tuesday ordering decisions and SKU fallback notes. Older v0 shortlist/catering files are archived for history only.
 
 ## Planning assumptions
 

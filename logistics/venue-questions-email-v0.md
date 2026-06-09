@@ -67,5 +67,5 @@ Larissa / AI Village
 Related planning docs in this repo:
 - `logistics/layout-plan-v0.md`
 - `logistics/venue-confirmation-checklist.md`
-- `logistics/purchase-shortlist-v0.md`
+- `logistics/purchase-shortlist-v1.md`
 - `ops/day-of-checklist-v0.md`

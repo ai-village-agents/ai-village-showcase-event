@@ -1,92 +1,12 @@
-# Purchase Shortlist v0 — Larissa / Local Execution
+# Purchase Shortlist v0 — Archived Pointer
 
-Working event: **AI Village Showcase & Human×AI Field Day**  
-Date/time: **Saturday, June 13, 2026, 7–10 PM**  
-Venue: **The Fold**  
-Budget: **$1000 attendee-experience budget**; venue rental is off-budget and paid.
+> **Archived / superseded.** Use [`logistics/purchase-shortlist-v1.md`](purchase-shortlist-v1.md) for the current Larissa/local buying menu and priced Costco drinks/snacks/serving-supplies cart. This v0 file is kept only for history.
 
-This is a practical buying menu, not a final cart. It reflects the Day 433 direct venue reply and the Day 434 post-newsletter RSVP trajectory; use `CURRENT-OPERATING-PACKET.md` for the latest documented public pulse. Keep using a **60–80 attendee planning band** unless later RSVP checks push close to the 100-person cap/waitlist.
+The v1 shortlist retains the broader 60–80 attendee quantity guidance, venue constraints, lean/stretch carts, and do-not-buy gates, while adding the verified Costco cart and latest cut priorities.
 
-For food/vendor alternatives, see [`logistics/catering-menu-options-v0.md`](catering-menu-options-v0.md). For the Tuesday decision order, see [`logistics/day-434-ordering-decision-queue.md`](day-434-ordering-decision-queue.md).
+Related current docs:
 
-## Confirmed venue constraints that affect buying
-
-- Outside self-serve non-alcoholic drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed.
-- Team must remove leftovers/materials and help with cleanup/trash; venue has trash/recycling/compost bins.
-- Projector/screen, 3 microphones, PA, cables/adapters, uplights, stage power, extension cords, power strips, and cable covers are included/available.
-- Bring/test backup adapters if easy; do not buy large A/V or power items unless a gap is confirmed.
-- No wall mounting. Use easels, rolling whiteboards, sign holders, tabletop signs, or freestanding boards.
-- Use gaff/tape only for labels/tabletop or venue-approved cable safety, never as a wall/floor-mounting plan.
-- Default route for sparkling water, still water, soft drinks, and snacks is **Costco pickup** because Larissa has a car and Costco membership; The Fold can provide NA sparkling drinks for about **$3–4/person** if pickup timing fails or simpler venue service is preferred.
-- Beer/wine, if chosen, must be through The Fold; default remains **no cash bar** unless essentials are protected and the $500-minimum shortfall risk is accepted.
-
-## Recommended cart for current 60–80 attendee trajectory
-
-Target spend: **$800–1000**, preserving **$75–125 contingency** for day-of gaps.
-
-| Category | Buy | Quantity target | Est. cost | Notes |
-|---|---|---:|---:|---|
-| Non-alcoholic drinks | Costco sparkling water/seltzer, still water, iced tea/juice/soda — or The Fold NA sparkling + still water as backup | 140–180 total servings | $180–300 | Scale water first if RSVPs accelerate. Avoid glass unless Larissa confirms easy. |
-| Savory snacks | Costco multipacks: chips, popcorn, pretzels, crackers, dips | 90–120 servings | $90–150 | Low-mess; keep food/drink away from laptops. |
-| Substantial bites | wraps, pizza squares, empanadas, bao, sandwiches, or similar | 60–80 servings | $200–350 | Vegetarian-friendly baseline; choose low-mess, easy-to-stage items. |
-| Celebratory dessert | Timeless Bakery vegan cupcakes or easy-serve cake preferred | 60–80 portions | $80–160 | Cupcakes/easy-serve format reduces cutting and mess. Label allergens. |
-| Fruit/light option | grapes, berries, cut fruit, or similar | 40–60 servings | $40–90 | Helpful vegan/lighter option; confirm storage if perishable. |
-| Serving supplies | napkins, compostable plates/cups, tongs, labels, marker for allergen cards | enough for 100 cap | $50–90 | Confirm what venue provides before buying; buy enough for cap, not just expected attendance. |
-| Station/signage basics | name tags, thick markers, card stock, clipboards, simple trays/envelopes for “Leave one for the Village” artifact collection | event-wide | $60–110 | Must-have even if print order is complete; artifact collection can be handwritten labels + trays/envelopes. |
-| Freestanding displays | foam boards, tri-folds, tabletop sign holders/easel stands if venue supply is insufficient | 5–8 surfaces | $50–150 | Default because wall mounting is not allowed; reduce if The Fold provides enough easels/boards/sign holders. |
-| Station props | index cards, sticky notes, dot stickers, role lanyards, stamps/stickers, arcade score cards, station-labeled artifact envelopes/stacks | 3 default self-serve stations plus 2 optional stations | $70–140 | Prioritize replenishable paper/card supplies and artifact capture over decor. |
-| AV/power contingency | USB-C→HDMI adapter, laptop-specific adapter, spare charger/cable only if missing | TBD | $0–75 | A/V basics are included; the key is testing the exact laptop at load-in. |
-
-
-## Fast Costco pickup baseline for 60–80 trajectory
-
-Use equivalent multipacks rather than exact SKUs; avoid glass. This turns the quantity targets above into a quick pickup cart if Larissa is shopping by car:
-
-- **4–5 x 24-packs** sparkling water / seltzer (96–120 cans).
-- **3–4 x 24-packs** still water, or equivalent jugs/dispenser + cups (72–96 servings).
-- **2 x 24-packs** soda / iced tea / juice variety (about 48 servings).
-- **6–8 large share bags/boxes** of low-mess savory snacks across chips, popcorn, pretzels, crackers; add **2–3 dips/spreads** only if serving/storage is easy.
-- **2–3 fruit trays or easy whole-fruit boxes** for ~40–60 light servings.
-- If venue does not provide them: compostable cups/plates/napkins for **100**, 2–4 tongs/scoops, trash/compost bags, marker + allergen labels.
-- If station supplies are not already in hand: 5–7 trays/envelopes/clipboards for opt-in artifacts, blue tape/table labels, extra thick markers/cards/sticky notes.
-
-If the cart needs cuts, keep water/seltzer, simple savory snacks, serving supplies, and station/artifact basics before extra fruit, dips, or drink variety.
-
-## Lean cart if expected attendance settles closer to 50–60
-
-Target spend: **$600–800**.
-
-- Drinks: 110–140 total servings, **$130–220**.
-- Snacks + substantial bites: 70–100 snack servings and 45–60 substantial bites, **$250–400**.
-- Dessert/fruit: 50–65 portions, **$80–140**.
-- Supplies/signage/stations: **$130–220**, prioritizing name tags, markers, card stock, check-in materials, and at least 3–5 freestanding display surfaces.
-- Keep at least **$100** unspent until event day if possible.
-
-## Stretch cart if RSVPs push toward cap/waitlist
-
-Target spend: **$900–1000** plus only human-approved external backing if needed.
-
-- Scale **water, NA drinks, substantial bites, napkins/plates**, and easy-to-replenish snacks first.
-- Keep stations practical: more cards/sticky notes/markers before decorative items.
-- Use all five station placements if helpers/materials allow to reduce crowding.
-- Do not add cash bar by default; revisit only if essentials are covered and AI Digest/Larissa accepts the possible $500-minimum shortfall.
-- Preserve at least **$75** for day-of gaps unless Larissa has a separate contingency.
-
-## Do-not-buy list unless specifically confirmed
-
-- Outside alcohol or DIY bar supplies.
-- Floor tape or wall adhesive products for display mounting.
-- Large power/cable items already covered by the venue.
-- Messy/open-flame foods, glass-heavy drink orders, or anything requiring refrigeration/ice/storage before logistics are clear.
-- Extra electronics for every station; stations should work with print materials, phones, and one supervised projection/demo device.
-
-## Suggested final purchase sequence
-
-1. Confirm current RSVP count and whether the trajectory still fits 60–80.
-2. Lock print route and pickup/delivery timing; default quote calibration is Kinko’s / FedEx Office unless timing, cutting, or price fails.
-3. Reserve/order substantial bites and Timeless Bakery dessert.
-4. Confirm Costco pickup quantities for NA drinks/snacks, with The Fold NA sparkling as backup if pickup timing fails.
-5. Buy/confirm serving supplies and allergen labels.
-6. Buy station/signage materials, emphasizing freestanding displays, extra markers/cards, and simple artifact-collection trays/envelopes/labels.
-7. Fill only confirmed A/V/power gaps after the exact primary laptop/adapters are known.
-8. Hold final contingency for ice, extra drinks, missing adapters, or cleanup supplies.
+- [`logistics/purchase-shortlist-v1.md`](purchase-shortlist-v1.md) — current shopping list / buying menu.
+- [`logistics/food-drink-plan-v0.md`](food-drink-plan-v0.md) — broader food/drink posture and venue constraints.
+- [`logistics/day-434-ordering-decision-queue.md`](day-434-ordering-decision-queue.md) — short ordering decision queue and SKU fallback notes.
+- [`CURRENT-OPERATING-PACKET.md`](../CURRENT-OPERATING-PACKET.md) — latest operational summary.

@@ -1,6 +1,6 @@
 # Day 434 Ordering Decision Queue — Food, Drink, Cake, Print, Supplies
 
-Purpose: give Larissa a short decision queue for Tuesday Jun 9 after the AI Digest newsletter jump. Longer source docs remain `logistics/food-drink-plan-v0.md`, `logistics/purchase-shortlist-v0.md`, `logistics/purchase-shortlist-v1.md`, and `logistics/print-specifications-v1.md`.
+Purpose: give Larissa a short decision queue for Tuesday Jun 9 after the AI Digest newsletter jump. Longer source docs remain `logistics/food-drink-plan-v0.md`, `logistics/purchase-shortlist-v1.md`, and `logistics/print-specifications-v1.md`; `purchase-shortlist-v0.md` is archived/pointer-only.
 
 Current RSVP sizing input: use `CURRENT-OPERATING-PACKET.md` for the latest documented public pulse after the newsletter went out. Keep treating it as a **60–80 attendee trajectory** unless midday/afternoon checks push close to the 100 cap.
 

@@ -55,8 +55,8 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 |---:|---|---|---|---|
 | P1 | Done | Outside NA drinks, snacks, substantial bites, and cake/cupcakes allowed; remove leftovers and help with trash | Venue reply pasted Day 433 | `logistics/food-drink-plan-v0.md` |
 | P1 | Quote received | Get The Fold beer/wine bar-package quote/minimums if we want alcohol | Venue/legal/staffing/insurance judgment | Quote: $500 minimum cash bar, drinks $7–$13. We cover shortfall. Conditional: only if RSVPs are strong (>70) and food/NA/cleanup/signage budget is already protected. Strong NA drinks remain baseline. |
-| P1 | Preferred route identified | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Larissa identified Costco as easiest for sparkling water, soft drinks, and snacks because she has a car + membership; use the current priced Costco drinks/snacks/serving-supplies cart in `logistics/purchase-shortlist-v1.md` and keep the broader 60–80 quantity posture in `logistics/food-drink-plan-v0.md` / `logistics/purchase-shortlist-v0.md` as background. |
-| P1 | Open | Spend up to $1000 on approved supplies/food/drinks once menu/print route and cap-100 quantity assumptions are final | Larissa holds budget | `logistics/purchase-shortlist-v1.md` is the current priced Costco drinks/snacks/serving-supplies cart; `logistics/purchase-shortlist-v0.md` remains the broader lean/base/stretch background with do-not-buy gates |
+| P1 | Preferred route identified | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Larissa identified Costco as easiest for sparkling water, soft drinks, and snacks because she has a car + membership; use the current priced Costco drinks/snacks/serving-supplies cart in `logistics/purchase-shortlist-v1.md` and keep the broader 60–80 quantity posture in `logistics/food-drink-plan-v0.md` as background. |
+| P1 | Open | Spend up to $1000 on approved supplies/food/drinks once menu/print route and cap-100 quantity assumptions are final | Larissa holds budget | `logistics/purchase-shortlist-v1.md` is the current buying menu and priced Costco drinks/snacks/serving-supplies cart; `logistics/purchase-shortlist-v0.md` is archived/pointer-only |
 
 ## Nice-to-have / later this week
 
@@ -87,7 +87,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 - `logistics/catering-menu-options-v0.md` — concrete lean/base/vendor/venue-package menu options.
 - `logistics/supplies-shopping-list-v0.md` — operations and station supplies.
 - `logistics/purchase-shortlist-v1.md` — current priced Costco drinks/snacks/serving-supplies cart for Larissa’s shopping list.
-- `logistics/purchase-shortlist-v0.md` — broader conditional buying menu for food, drinks, station supplies, displays, cleanup, and emergency-only A/V/power gaps.
+- `logistics/purchase-shortlist-v0.md` — archived pointer kept only for history.
 - `logistics/day-434-ordering-decision-queue.md` — short Tuesday ordering queue with defaults for print, Timeless dessert, NA drinks, food, supplies, and cash-bar gating.
 - `logistics/primary-laptop-runbook-v0.md` — one-page projection laptop / demo-driver setup checklist.
 - `logistics/print-specifications-v1.md` — unified master print specifications, local vendor checklist, copies checklist, and copy-paste vendor order request email.

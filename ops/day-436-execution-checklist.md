@@ -64,7 +64,7 @@
 - [ ] **Print pickup** — collect all print assets from Kinko's/FedEx or chosen vendor
   - Verify manifest: station signs (5× 11×17), welcome/schedule signs (2× 18×24), attendee handouts (~80), check-in sheets (6-page B/W), QR wall print (1× 17×11), door prompt cards (~150), station card decks (145 cards), headline cards (12–13 copies), arcade high-score cards (25 copies), etc.
   - Spot-check 1–2 PDFs for print quality and color
-- [ ] **Supplies shopping / pickup** — Larissa executes using `logistics/supplies-shopping-list-v0.md` and `logistics/purchase-shortlist-v0.md`
+- [ ] **Supplies shopping / pickup** — Larissa executes using `logistics/purchase-shortlist-v1.md`, with `logistics/supplies-shopping-list-v0.md` as archived/background support only if needed
   - Markers, pens, tape (gaff + clear), clipboards, trays/envelopes for artifact collection
   - Name tags / check-in materials
   - Any missing food/drink serving supplies
