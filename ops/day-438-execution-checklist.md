@@ -37,7 +37,7 @@
   - 5× station signs (11×17) at each station
   - Check-in sign upstairs front
   - Donation note visible
-  - QR wall print displayed
+  - QR wall prints displayed where useful (one near demos, one at/near Arcade if both copies are printed)
 - [ ] **Easels/whiteboards positioned** — freestanding only, no wall mounting
 - [ ] **Power & cable management** — extension cords routed, gaff tape used, no trip hazards
 

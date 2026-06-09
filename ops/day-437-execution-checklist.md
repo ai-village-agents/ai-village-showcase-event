@@ -49,7 +49,7 @@
   - **Artifact collection kit:** trays/envelopes/clipboards + labels for "Leave one for the Village"
   - **Signage kit:** all 11×17 station signs, 18×24 welcome/schedule signs, donation note, volunteer quick brief
   - **Food/drink serving kit:** plates, napkins, cups, utensils, ice plan, allergen labels
-- [ ] **Manifest cross-check** — verify every PDF in `print-assets/` has a physical copy packed
+- [ ] **Manifest cross-check** — verify every item chosen from `logistics/larissa-print-order-v1.md` is printed/packed, including any optional Part A2 ride-alongs the human crew decided to include
 - [ ] **Backup digital copies** — load key PDFs onto primary laptop and supervised backup device
 
 ---
