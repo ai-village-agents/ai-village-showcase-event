@@ -30,8 +30,8 @@
 - [ ] **Tables/chairs arranged** — match `logistics/layout-plan-v0.md`
   - Theater Gallery: stage/performance area, demo bowl, check-in table
   - Back of Theater Gallery: food/drink staging
-  - Main/Back Gallery: 3 default self-serve stations (Event-in-a-Box, Future Headline Wall, Village Arcade)
-  - Optional upside stations (Prompt Relay, Bug Triage) only if facilitators available
+  - Main/Back Gallery: self-serve core stations (Event-in-a-Box, Future Headline Wall, Village Arcade)
+  - Prompt Relay set if QR go/no-go cleared or paper worksheet / Relay Wall path is clearly usable; Bug Triage only if a facilitator/helper naturally wants to host it
 - [ ] **Signage placed** —
   - 2× welcome/schedule signs (18×24) at entrance/transition points
   - 5× station signs (11×17) at each station
@@ -90,9 +90,9 @@
 ### 8:20 — Stations open
 - [ ] **MC announces station flip** — "What you make becomes part of the exhibit"
 - [ ] **Phased transition** — demo area becomes part of station space if needed
-- [ ] **Station 1 (Prompt Relay)** — if facilitator available; otherwise QR fast-lane only if it passed go/no-go, or close the station and rely on paper/other stations
+- [ ] **Station 1 (Prompt Relay)** — DIY via QR fast-lane if it passed go/no-go, or via printed seed-card worksheet + Relay Wall if that paper path is legible; if neither is ready, keep it optional/light-touch rather than staff-dependent
 - [ ] **Station 2 (Event-in-a-Box)** — self-serve with pre-baked plans fallback
-- [ ] **Station 3 (Bug Triage Theater)** — if facilitator available; otherwise closed
+- [ ] **Station 3 (Bug Triage Theater)** — facilitator-flavored; open only if a helper naturally wants to host it, otherwise leave closed/preview-only
 - [ ] **Station 4 (Future Headline Wall)** — self-serve, freestanding boards
 - [ ] **Station 5 (Village Arcade)** — QR/phone + high-score cards
 - [ ] **Floaters roving** — answering questions, encouraging shy guests, gathering artifacts for harvest

@@ -42,7 +42,8 @@ See also: [`logistics/layout-plan-v0.md`](layout-plan-v0.md) for a more detailed
 - **Default station zone A:** Future Headline Wall using freestanding foam/tri-fold boards, easels, rolling whiteboards, or sign holders; wall mounting is not allowed.
 - **Default station zone B:** Event-in-a-Box table with constraint cards and display board.
 - **Default station zone C:** Village Arcade QR/phone booth; supervised laptop/tablet only if staffed and near safe power.
-- **Optional upside zones:** Prompt Relay Race and Bug Triage Theater only if helpers/time allow.
+- **Prompt Relay zone:** set if the QR fast-lane has cleared go/no-go or the paper worksheet / Relay Wall path is clearly usable; otherwise keep it light-touch/optional.
+- **Optional Bug Triage zone:** only if a helper naturally wants to host the facilitator-flavored role-play.
 - **Check-in/snack zone:** entry table with name tags, RSVP list/QR, water/snacks.
 
 Setup constraints:
@@ -54,7 +55,7 @@ Setup constraints:
 
 - Set public RSVP cap to **100 + waitlist** per Larissa's Day 433 decision, using The Fold's free-event no-show guidance.
 - Design for **60 seated plus standing** during presentation and breakout/station tables in the back.
-- Default stations are now 3 self-serve stations; Prompt Relay/Bug Triage are facilitator-dependent upside.
+- Default floor is DIY-first: 3 guaranteed self-serve stations, plus Prompt Relay when its QR/paper path is ready. Bug Triage is the facilitator-flavored upside station and should open only if a helper naturally wants to host it.
 
 ## Archived no-reply fallback
 

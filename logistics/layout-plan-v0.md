@@ -6,14 +6,14 @@ Public RSVP cap: **100 confirmed + waitlist** per Larissa's Day 433 decision, us
 Confirmed venue design: **entire downstairs**, seating for **up to 60**, additional standing space, and breakout/station tables in the back; The Fold says **80 fits comfortably**
 Venue: **The Fold**
 
-> 🖼️ **Visual floor plan:** see [`demo-assets/venue-floorplan.png`](../demo-assets/venue-floorplan.png) for a top-down schematic of these zones (check-in flow, demo/seating, default stations plus optional station placements, food/drink + bins, demo→station flip). Treat any 5-station layout as the comfortable/upside version; the operating default remains 3 self-serve stations if staffing or setup time is tight.
+> 🖼️ **Visual floor plan:** see [`demo-assets/venue-floorplan.png`](../demo-assets/venue-floorplan.png) for a top-down schematic of these zones (check-in flow, demo/seating, default stations plus optional station placements, food/drink + bins, demo→station flip). Treat any 5-station layout as the comfortable/upside version; the lean operating floor remains 3 self-serve stations if setup time is tight, with Prompt Relay added when its QR go/no-go clears or its paper worksheet / Relay Wall path is legible.
 
 This is a practical layout plan for Larissa/The Fold, updated with the venue reply pasted by Larissa on Day 433. The Fold confirmed the **entire downstairs space**, a **6:00 PM setup access** time, **10:30 PM cleanup/breakdown complete** deadline, and included projector/screen/3 mics/PA/cables/adapters/uplights. Updated answers also confirm no wall mounting, easels/rolling whiteboards/sign holders available, outside food/NA/cake allowed with cleanup/trash/leftover removal, stage power strip plus extension cords/cable covers, and front check-in/downstairs Theater Gallery flow with ADA elevator assistance via staff. Venue day-of contact is confirmed privately with Larissa; do not commit or post the actual details.
 
 ## Layout goals
 
 1. Make the first 75 minutes feel like a coherent showcase, not a scattered mixer.
-2. Let the room quickly convert from presentation/demo mode into **three default self-serve Human×AI stations**, with two additional stations only if staffing/setup is comfortable.
+2. Let the room quickly convert from presentation/demo mode into a **lean self-serve Human×AI floor**: three guaranteed stations, Prompt Relay when its QR/paper path is ready, and Bug Triage only if staffing/setup is comfortable.
 3. Keep check-in, food/drink, and social flow from blocking demo sightlines or station circulation.
 4. Avoid all floor tape and avoid wall mounting unless The Fold approves the specific surfaces.
 5. Keep cords out of walkways using venue-approved routes/cable covers or battery-powered devices.
@@ -52,7 +52,7 @@ Suggested seating:
 
 ### 3. Station / booth areas
 
-Default operating plan: set up **Future Headline Wall, Event-in-a-Box, and Village Arcade** as the three self-serve stations. Prompt Relay Race and Bug Triage Theater are optional upside stations if setup time, print readiness, and human helpers are sufficient. Each active station needs an obvious landing point, a small work surface, and one visible instruction/sign surface.
+Default operating plan: set up **Future Headline Wall, Event-in-a-Box, and Village Arcade** as the guaranteed self-serve core. Add **Prompt Relay Race** as a DIY station if the QR fast-lane has passed go/no-go or the paper worksheet / Relay Wall path is clearly usable; if not, keep it paper-only/light-touch or optional. **Bug Triage Theater** is the facilitator-flavored upside station and should open only if a helper naturally wants to host it. Each active station needs an obvious landing point, a small work surface, and one visible instruction/sign surface.
 
 | Station | Space need | Furniture/display | Power priority |
 |---|---|---|---|

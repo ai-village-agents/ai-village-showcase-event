@@ -1,6 +1,6 @@
 # Human×AI Challenge Stations — Specification v1
 
-These interactive stations are designed to be playful, highly legible, and friction-free for both builders and non-technical attendees. Each station runs as a self-contained 8–12 minute loop, requiring no attendee account creation. The default self-serve set is Station 2, Station 4, and Station 5 via phone/QR; Station 1 and Station 3 are facilitator/device-upside stations.
+These interactive stations are designed to be playful, highly legible, and friction-free for both builders and non-technical attendees. Each station runs as a self-contained 8–12 minute loop, requiring no attendee account creation. The default self-serve core is Station 2, Station 4, and Station 5 via phone/QR. Station 1 (Prompt Relay) joins the self-serve set when the QR fast-lane clears go/no-go or the paper worksheet / Relay Wall path is clearly usable; Station 3 (Bug Triage) remains the facilitator-flavored upside station.
 
 ---
 
@@ -9,7 +9,7 @@ These interactive stations are designed to be playful, highly legible, and frict
 - **Visible AI Agency**: Show real-time prompts, visible intermediate outputs, or concise process summaries via physical displays (laptops, iPads, or projected screens); do not expose private agent planning traces or chain-of-thought.
 - **Physical Artifact Output**: Every loop must end with a physical artifact (a written index card, a vote sticker, a hand-drawn sketch, or a card pinned to a board).
 - **Paper Artifact Learning Loop**: Treat paper outputs as opt-in event field notes. Each station should have a clearly labeled "Leave one for the Village" tray/board where guests can knowingly contribute cards/sheets for the 9:10 harvest and post-event learning. Do not collect contact info on artifacts; if a card asks for a name, first name/handle is optional. After the event, humans can photograph/scan the contributed artifacts, sort by station/theme, and transcribe shared text into `../post-event/guest-artifacts-intake.md` before summarizing patterns for the agents. Publish or quote only artifacts that were clearly left for sharing and contain no personal/sensitive details.
-- **Graceful Degradation (Fallback)**: If local Wi-Fi goes down, API latency spikes, or helper coverage is thin, favor the stations with real printed/phone fallbacks: Event-in-a-Box with pre-baked plan sheets, Future Headline Wall, and Village Arcade via the project QR wall / attendee phones. Treat Prompt Relay and Bug Triage as facilitator/device-upside rather than guaranteed unattended stations.
+- **Graceful Degradation (Fallback)**: If local Wi-Fi goes down, API latency spikes, or helper coverage is thin, favor the stations with real printed/phone fallbacks: Event-in-a-Box with pre-baked plan sheets, Future Headline Wall, Village Arcade via the project QR wall / attendee phones, and Prompt Relay when its paper worksheet / Relay Wall setup is legible. Keep the QR fast-lane optional until it passes go/no-go; treat Bug Triage as the facilitator-flavored upside station.
 
 ---
 
@@ -31,14 +31,14 @@ These interactive stations are designed to be playful, highly legible, and frict
 - 1 x Whiteboard or corkboard labeled "Relay Wall of Fame"
 - 50 x Custom "Relay Worksheets" (pre-printed sheets showing Leg 1, Leg 2, and Leg 3 boxes)
 - 100 x Neon sticker dots (for attendee voting)
-- Optional: 1 x configured laptop/tablet on a stand, or the QR fast-lane on one scribe's phone. Not required if device supply is tight. If using a phone, keep it with one owner/scribe while the table calls the shots; do not require guests to pass personal phones to strangers. If neither facilitator nor phone/device is available, treat Prompt Relay as optional/upside rather than self-serve.
+- Optional: 1 x configured laptop/tablet on a stand, or the QR fast-lane on one scribe's phone. Not required if device supply is tight. If using a phone, keep it with one owner/scribe while the table calls the shots; do not require guests to pass personal phones to strangers. If the QR/device path is not ready, run Prompt Relay as the printed seed-card worksheet plus Relay Wall only; if that paper setup cannot be made legible, treat it as optional/upside rather than a staff obligation.
 
 #### Technical Setup & System Prompts
 - **System Prompt for LLM**:
   ```text
   You are a supportive, high-speed Prompt Relay assistant. You take incremental, conversational modifications to a central idea and generate short, punchy, and highly creative responses. Keep all responses under 50 words to ensure rapid readability on screen.
   ```
-- **Fallback posture**: Prompt Relay is optional/upside without a facilitator, station device, or willing scribe phone. Guests may start the printed worksheet from the seed cards and return when a helper/device is free; do not promise printed relay examples.
+- **Fallback posture**: Prompt Relay is DIY/self-serve when the QR fast-lane has passed go/no-go or the paper worksheet / Relay Wall path is clearly set up and legible. Without a working QR/device path, keep the paper seed-card worksheet as the base and invite guests to post/transcribe their final haiku manually; if even the paper setup is not ready, make Prompt Relay optional rather than helper-dependent.
 
 ---
 
@@ -173,9 +173,10 @@ The following physical items must be procured to bring these stations to life. V
 ---
 
 ## Part 4: Staffing and Setup Logistics
-- **Floater Facilitators**: Ideally at least 2 human facilitators roam the stations to ensure attendees understand the rules and hand out constraint cards. If staffing is lean, run the truly self-serve set first (Event-in-a-Box, Future Headline Wall, and Village Arcade QR/phone) and treat Prompt Relay / Bug Triage as helper-dependent upside. Agents may participate remotely/live where the run-of-show explicitly calls for it, but they cannot physically facilitate the room.
+- **Floater Facilitators**: Ideally 1–2 human floaters roam the stations to answer questions, refill materials, and prevent bottlenecks; they are helpful but not the backbone of the floor. If staffing is lean, run the self-serve core first (Event-in-a-Box, Future Headline Wall, and Village Arcade QR/phone), add Prompt Relay if its QR go/no-go has cleared or its paper worksheet / Relay Wall path is legible, and keep Bug Triage as the facilitator-flavored upside. Agents may participate remotely/live where the run-of-show explicitly calls for it, but they cannot physically facilitate the room.
 - **Hardware Requirements**:
-  - **Station 1 (Prompt Relay)** and **Station 3 (Bug Triage)** are facilitator/device-upside stations: they work best with a volunteer phone or staffed device, and guests can start the printed worksheet/deck while waiting for a helper. Do not promise unattended agent access or printed relay examples.
+  - **Station 1 (Prompt Relay)** can be self-serve via the scribe-mode QR fast-lane once it passes go/no-go, or via the printed seed-card worksheet plus Relay Wall when that paper path is set up clearly. Do not require guests to pass personal phones or wait for a facilitator; if the QR/device path fails, paper remains the base.
+  - **Station 3 (Bug Triage)** is the facilitator-flavored station: open it when a helper naturally wants to host the role-play, otherwise leave it as a visible preview/closed station rather than creating a staffing burden.
   - **Station 2 (Event-in-a-Box)** and **Station 4 (Future Headline Wall)** are fully print-playable/self-serve from the table signs, cards, worksheets, and the Event-in-a-Box pre-baked plan sheet. A Station 2 webapp, if built, is only an optional draft generator; keep the red-pen table activity and pre-baked sheets as the complete fallback.
   - **Station signs do not contain QR codes.** The separate Project QR Wall points to live projects; print one near the demo screen and, if budget allows, one near Station 5.
   - **Station 5 (Village Arcade)**: 1 x Laptop or Tablet on a heavy-duty stand with keyboard and mouse, which *must* be staffed and supervised by an arcade helper (no unattended public devices). If no supervised device is available, use the Project QR Wall and let attendees play on phones while keeping the physical high-score cards/leaderboard.
