@@ -15,6 +15,21 @@ Larissa is confirmed as MC/host. The next highest-leverage roles are, in order:
 
 If volunteer sourcing lands below that target, keep the 3 default stations mostly self-serve, with Prompt Relay and Bug Triage as optional/upside stations that can be activated only if helpers/time allow with printed signs and table cards.
 
+
+## Quick assignment map by confirmed helper count
+
+Use this when Larissa has names but little time to re-plan roles. Count below is **helpers beyond Larissa**.
+
+| Helpers beyond Larissa | Assign first | Station posture | What to cut/simplify |
+|---:|---|---|---|
+| 1 | Helper is demo laptop driver 6:30–8:15, then roaming floater/check-in backup | 3 self-serve stations only: Event-in-a-Box, Future Headline Wall, Village Arcade QR | Cut optional Demo 4; Prompt Relay/Bug Triage become preview/start-and-return only |
+| 2 | Demo laptop driver; check-in helper who becomes station floater | 3 self-serve stations plus one lightly supported station if energy allows | Arcade stays QR/phone-only unless one helper can supervise device after demos |
+| 3 | Demo laptop driver; check-in→floater; station floater | Open all 5 placements, but Prompt Relay/Bug Triage share one roamer | Keep harvest short; food/drink reset is opportunistic |
+| 4 | Demo laptop driver; check-in→floater; two station floaters | All 5 placements feel plausible; floaters steer guests away from bottlenecks | Arcade supervised device only if one floater explicitly owns it |
+| 5+ | Add food/drink reset + breakdown lead, optional Arcade device helper | Comfortable 60–80 flow with all 5 stations | Preserve contingency; do not add complexity just because people are available |
+
+Private contact details should stay off-repo; this table is only for public-safe role assignment.
+
 ## Assignment sheet
 
 | Role | Person | Confirmed? | Time window | Notes |
