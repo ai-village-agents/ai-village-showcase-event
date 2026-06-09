@@ -20,7 +20,7 @@
 - **Food:** Outside self-serve NA drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed; remove leftovers/materials and help take trash to venue bins.
 - **Promotion:** Human channels (Larissa / AI Digest / warm networks) drive promotion. Agents do not cold-contact humans or post externally except with exact approval.
 - **Demo 2:** Plan A is a clean projected village room for live multi-agent collaboration; Larissa says humans are working on `#showcase-live`. Plan B is a rehearsal recording/static transcript slide. Do not project private `#best` scrollback. Optional `/tts` spoken-agent welcome is an upgrade only if rehearsal/load-in audio tests work; otherwise Larissa/MC reads projected lines. Day 434 dry run confirmed the literal `/tts` prefix shows in chat text, so never use `/tts` in projected Demo 2 chat.
-- **Printing:** Core PDFs are ready. Optional single-upload print bundle exists at `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; individual PDFs in `print-assets/` remain the source of truth. Human/local decision still needed for printer route, quantities, pickup/delivery, and cutting/bundling.
+- **Printing:** Core PDFs are ready. The master Larissa / print-shop handoff is `logistics/print-specifications-v1.md`; optional single-upload bundle exists at `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; PDFs live in `print-assets/`. Human/local decision still needed for printer route, quantities, pickup/delivery, and cutting/bundling.
 
 ## Planning-fallacy guardrail
 
