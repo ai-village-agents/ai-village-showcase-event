@@ -13,7 +13,7 @@ Current local-order companion docs: [`logistics/day-434-ordering-decision-queue.
 - Avoid messy foods near laptops/station materials.
 - Baseline remains strong non-alcoholic drinks; if alcohol is included for Saturday-night hospitality, use **The Fold's bar package only** and keep it modest.
 - Prioritize vegetarian-friendly and common allergen labeling.
-- The Fold has confirmed outside self-serve NA drinks, simple snacks/substantial bites, and cake/cupcakes are allowed; remove leftovers/materials and help take trash to venue bins.
+- The Fold has confirmed outside self-serve NA drinks, simple snacks/substantial bites, and cake/cupcakes are allowed; remove leftovers/materials and help take trash to venue bins. Larissa has a car and Costco membership, so Costco pickup is the default for sparkling water, still water, soft drinks, and snacks.
 
 
 ## Venue rules / options from The Fold packet
@@ -21,7 +21,7 @@ Current local-order companion docs: [`logistics/day-434-ordering-decision-queue.
 - Outside vendors appear possible; preferred vendors include **B Star** and **Bi-Rite Catering**.
 - Venue package backup from packet: **light hors d'oeuvres + non-alcoholic beverages at $20/person** with a 2-hour minimum and 20-person minimum. Later venue reply says The Fold can provide NA sparkling drinks at **$3–4/person** if Larissa prefers that route.
 - Alcohol: beer/wine only, and Larissa confirmed Day 433 that we **cannot bring our own alcoholic beverages** because of licensing. If alcohol is included, it must be through **The Fold's bar package**; quote received is a **$500 minimum cash bar**, **$7–$13/drink**, with the team covering any shortfall.
-- Operational default: outside non-alcoholic drinks, simple snacks, substantial bites, and cake/cupcakes are venue-approved; layer on a modest venue-run beer/wine bar only if the bar-package quote fits the budget.
+- Operational default: Costco-pickup non-alcoholic drinks and snacks, plus separate substantial bites and cake/cupcakes; layer on a modest venue-run beer/wine bar only if the bar-package quote fits the budget.
 - Cleanup: plan to sort trash/recycling/compost into venue bins and remove leftovers/supplies unless The Fold says otherwise.
 
 ## Recommended default for 100 RSVP cap / expected no-shows
@@ -30,10 +30,10 @@ Day 434 after the AI Digest newsletter: use `CURRENT-OPERATING-PACKET.md` for th
 
 | Category | Quantity target | Notes | Est. budget |
 |---|---:|---|---:|
-| Sparkling water / canned seltzer | 90–120 cans | 1–1.5 per expected attendee; or use The Fold NA sparkling at $3–4/person if simpler | $90–160 |
+| Sparkling water / canned seltzer | 90–120 cans | Default Costco pickup; The Fold NA sparkling at $3–4/person remains backup if simpler | $90–160 |
 | Still water | 80–100 servings | bottles or dispenser + cups; do not underbuy water | $50–100 |
 | Juice / soda / iced tea | 40–60 servings | optional variety | $60–100 |
-| Savory snacks | 80–100 servings | chips, popcorn, pretzels, crackers, dips | $100–150 |
+| Savory snacks | 80–100 servings | Costco multipacks: chips, popcorn, pretzels, crackers, dips | $100–150 |
 | More substantial bites | 60–90 servings | wraps, empanadas, pizza squares, bao, or similar low-mess food | $180–350 |
 | Sweet snacks / cake | 60–90 servings | Timeless Bakery vegan cupcakes or easy-to-serve cake format preferred if budget allows | $80–160 |
 | Fruit / lighter option | 40–60 servings | grapes, cuties, bananas, berries | $40–80 |
@@ -66,7 +66,7 @@ Day 434 after the AI Digest newsletter: use `CURRENT-OPERATING-PACKET.md` for th
 
 1. Outside NA drinks, simple snacks, substantial bites, and cake/cupcakes are confirmed allowed. Still avoid glass/messy foods unless Larissa confirms those are convenient for the venue.
 2. The venue provides trash/recycling/compost bins, and the team helps sort/take trash to bins and remove leftovers/materials.
-3. Decide whether Larissa prefers DIY NA drinks or The Fold NA sparkling at $3–4/person.
+3. Confirm Costco pickup quantities for sparkling water, still water, soft drinks, and snacks; keep The Fold NA sparkling at $3–4/person as backup only if pickup timing fails.
 4. Confirm any prep/storage/refrigerator/ice access if ordering perishable food or cake.
 5. Cash bar quote is known: $500 minimum, $7–$13/drink, team covers shortfall. Default remains no unless RSVPs are strong and food/NA/cleanup/signage are already protected/backed.
 
@@ -88,4 +88,4 @@ Known cash-bar quote:
 
 ## Current recommendation
 
-Operate with a **100 RSVP cap + waitlist** per Larissa's Day 433 decision, expecting free-event no-shows to land closer to The Fold's comfortable in-room range. After the Day 434 newsletter jump, assume a **60–80 attendee trajectory** unless later counts say otherwise. The Fold confirmed outside self-serve non-alcoholic drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed; the team must remove leftovers/materials and help take trash to venue bins. The Fold can provide NA sparkling drinks at $3–4/person if Larissa prefers that route. Prefer Timeless Bakery vegan cupcakes/easy-serve dessert if it fits the protected basics. Default remains **no cash bar** unless RSVPs become very strong and Larissa/AI Digest accepts the $500-minimum shortfall risk. Revisit quantities at midday/afternoon Day 434 and again 48–72 hours before the event based on RSVP count and waitlist size.
+Operate with a **100 RSVP cap + waitlist** per Larissa's Day 433 decision, expecting free-event no-shows to land closer to The Fold's comfortable in-room range. After the Day 434 newsletter jump, assume a **60–80 attendee trajectory** unless later counts say otherwise. The Fold confirmed outside self-serve non-alcoholic drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed; the team must remove leftovers/materials and help take trash to venue bins. Default local route is Costco pickup for sparkling water, still water, soft drinks, and snacks because Larissa has a car and membership; The Fold can provide NA sparkling drinks at $3–4/person if that backup is easier. Prefer Timeless Bakery vegan cupcakes/easy-serve dessert if it fits the protected basics. Default remains **no cash bar** unless RSVPs become very strong and Larissa/AI Digest accepts the $500-minimum shortfall risk. Revisit quantities at midday/afternoon Day 434 and again 48–72 hours before the event based on RSVP count and waitlist size.

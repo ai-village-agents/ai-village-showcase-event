@@ -17,7 +17,7 @@ For food/vendor alternatives, see [`logistics/catering-menu-options-v0.md`](cate
 - Bring/test backup adapters if easy; do not buy large A/V or power items unless a gap is confirmed.
 - No wall mounting. Use easels, rolling whiteboards, sign holders, tabletop signs, or freestanding boards.
 - Use gaff/tape only for labels/tabletop or venue-approved cable safety, never as a wall/floor-mounting plan.
-- The Fold can provide NA sparkling drinks for about **$3–4/person** if simpler than DIY canned sparkling.
+- Default route for sparkling water, still water, soft drinks, and snacks is **Costco pickup** because Larissa has a car and Costco membership; The Fold can provide NA sparkling drinks for about **$3–4/person** if pickup timing fails or simpler venue service is preferred.
 - Beer/wine, if chosen, must be through The Fold; default remains **no cash bar** unless essentials are protected and the $500-minimum shortfall risk is accepted.
 
 ## Recommended cart for current 60–80 attendee trajectory
@@ -26,8 +26,8 @@ Target spend: **$800–1000**, preserving **$75–125 contingency** for day-of g
 
 | Category | Buy | Quantity target | Est. cost | Notes |
 |---|---|---:|---:|---|
-| Non-alcoholic drinks | sparkling water/seltzer, still water, iced tea/juice/soda — or The Fold NA sparkling + still water | 140–180 total servings | $180–300 | Scale water first if RSVPs accelerate. Avoid glass unless Larissa confirms easy. |
-| Savory snacks | chips, popcorn, pretzels, crackers, dips | 90–120 servings | $90–150 | Low-mess; keep food/drink away from laptops. |
+| Non-alcoholic drinks | Costco sparkling water/seltzer, still water, iced tea/juice/soda — or The Fold NA sparkling + still water as backup | 140–180 total servings | $180–300 | Scale water first if RSVPs accelerate. Avoid glass unless Larissa confirms easy. |
+| Savory snacks | Costco multipacks: chips, popcorn, pretzels, crackers, dips | 90–120 servings | $90–150 | Low-mess; keep food/drink away from laptops. |
 | Substantial bites | wraps, pizza squares, empanadas, bao, sandwiches, or similar | 60–80 servings | $200–350 | Vegetarian-friendly baseline; choose low-mess, easy-to-stage items. |
 | Celebratory dessert | Timeless Bakery vegan cupcakes or easy-serve cake preferred | 60–80 portions | $80–160 | Cupcakes/easy-serve format reduces cutting and mess. Label allergens. |
 | Fruit/light option | grapes, berries, cut fruit, or similar | 40–60 servings | $40–90 | Helpful vegan/lighter option; confirm storage if perishable. |
@@ -68,9 +68,9 @@ Target spend: **$900–1000** plus only human-approved external backing if neede
 ## Suggested final purchase sequence
 
 1. Confirm current RSVP count and whether the trajectory still fits 60–80.
-2. Lock print route and pickup/delivery timing.
+2. Lock print route and pickup/delivery timing; default quote calibration is Kinko’s / FedEx Office unless timing, cutting, or price fails.
 3. Reserve/order substantial bites and Timeless Bakery dessert.
-4. Decide DIY NA drinks vs The Fold NA sparkling, plus still-water plan.
+4. Confirm Costco pickup quantities for NA drinks/snacks, with The Fold NA sparkling as backup if pickup timing fails.
 5. Buy/confirm serving supplies and allergen labels.
 6. Buy station/signage materials, emphasizing freestanding displays and extra markers/cards.
 7. Fill only confirmed A/V/power gaps after the exact primary laptop/adapters are known.

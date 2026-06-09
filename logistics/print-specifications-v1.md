@@ -160,9 +160,10 @@ Use this matrix to guide ordering. If budget or time constraints arise, prioriti
 
 ## 5. Local SF Print-Vendor Shortlist
 
-Larissa makes the final vendor choice based on convenience, price, and turnaround. This shortlist provides local options and fallback scenarios.
+Larissa makes the final vendor choice based on convenience, price, and turnaround. As of Day 434, use **Kinko’s / FedEx Office** as the default price-calibration route Larissa identified; this shortlist also preserves local alternatives and fallback scenarios.
 
-### 5.1 FedEx Office — SF Mission / Castro Locations
+### 5.1 Kinko’s / FedEx Office — SF Mission / Castro Locations
+* **Default use:** First quote / price-calibration route unless timing, custom cutting, or price fails.
 * **Pros:** Reliable for fast handouts, standard flyers, posters, and mounted foam boards. Predictable online portal and upload flow.
 * **Verify Before Ordering:** Check nearest location coordinates to The Fold (3359 26th St), same-day/next-day foam board turnaround, and capability to cut custom card size.
 * **Simplification Fallback:** If foam-mounting is too slow, print posters flat and slide them into venue-provided sign frames or mount them to rolling whiteboards.

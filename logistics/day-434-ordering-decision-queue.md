@@ -8,9 +8,9 @@ Current RSVP sizing input: use `CURRENT-OPERATING-PACKET.md` for the latest docu
 
 | Order | Decision | Recommended default | Why now |
 |---:|---|---|---|
-| 1 | Printer route | Pick a local shop today and request quote using the copy-paste email draft in `logistics/print-specifications-v1.md`; optional one-upload bundle: `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` | Print/cut/bundle lead time is the least flexible local item. |
+| 1 | Printer route | Treat **Kinko’s / FedEx Office** as the default price-calibration route Larissa identified; request quote using the copy-paste email draft in `logistics/print-specifications-v1.md`; optional one-upload bundle: `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` | Print/cut/bundle lead time is the least flexible local item; use alternate local shops only if FedEx/Kinko’s timing, cutting, or price fails. |
 | 2 | Cake / dessert | Timeless Bakery vegan cupcakes or easy-serve cake for **60–80 servings** | Larissa recommended Timeless; cupcakes minimize cutting mess and fit venue rules. |
-| 3 | NA drinks route | Either DIY **160–200 total NA servings** or The Fold NA sparkling at **$3–4/person** plus still water | Water/NA should be abundant regardless of bar decision. |
+| 3 | NA drinks route | Default to **Costco pickup** for sparkling water, still water, soft drinks, and snacks because Larissa has a car + Costco membership; keep The Fold NA sparkling at **$3–4/person** as backup if pickup timing fails | Water/NA should be abundant regardless of bar decision. |
 | 4 | Substantial bites | Reserve **60–80 low-mess vegetarian-friendly servings**; scale to 80–90 if RSVPs accelerate | 7–10 PM guests will expect more than chips, but this is not dinner. |
 | 5 | Snacks + fruit | **100–130 savory snack servings** and **40–60 fruit/light servings** | Easy self-serve buffer for arrival/social time. |
 | 6 | Serving + labels | Plates/cups/napkins/tongs/labels for cap unless venue provides | Allergen labels and cleanup readiness reduce day-of friction. |
@@ -21,10 +21,10 @@ Current RSVP sizing input: use `CURRENT-OPERATING-PACKET.md` for the latest docu
 
 Use the 60–80 trajectory:
 
-- Sparkling water / seltzer: **90–120 cans** or venue NA sparkling equivalent.
+- Sparkling water / seltzer: **90–120 cans**, default Costco pickup; venue NA sparkling equivalent remains backup.
 - Still water: **80–100 servings**.
-- Juice / soda / iced tea: **40–60 servings**.
-- Savory snacks: **80–100+ servings**.
+- Juice / soda / iced tea: **40–60 servings**, default Costco pickup / multipack route.
+- Savory snacks: **80–100+ servings**, default Costco multipack route.
 - Substantial bites: **60–80 servings** now; hold ability to add more if RSVPs surge.
 - Sweet / cake / cupcakes: **60–80 servings**.
 - Fruit / lighter option: **40–60 servings**.
@@ -39,8 +39,8 @@ Use the 60–80 trajectory:
 
 ## Notes for vendors / shop calls
 
-- Venue allows outside self-serve NA drinks, snacks, substantial bites, and cake/cupcakes; leftovers/materials must be removed.
+- Venue allows outside self-serve NA drinks, snacks, substantial bites, and cake/cupcakes; leftovers/materials must be removed. Larissa has a car and Costco membership, so do not optimize around delivery unless time gets tight.
 - Avoid glass and messy foods unless Larissa confirms convenience.
 - Ask about refrigeration/ice if ordering perishable bites or cake.
 - Display materials must be freestanding/tabletop; no wall mounting.
-- Print pickup goal: Thu Jun 11 if possible, Fri Jun 12 latest if cutting/bundling is included.
+- Print pickup goal: Thu Jun 11 if possible, Fri Jun 12 latest if cutting/bundling is included. Default quote route is Kinko’s / FedEx Office; ask alternates only if quote/timing/cutting fails.
