@@ -56,6 +56,9 @@ Thank you!
 
 ## Files to attach / upload
 
+**Convenience bundle:** if the shop prefers one upload, use `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`. It contains all 15 verified PDFs plus the README, specifications, manifest, handoff, validation notes, and this order draft. The individual PDFs in `print-assets/` remain the source of truth if any file must be uploaded separately.
+
+
 All files are in the repo under `print-assets/`:
 
 - `attendee-program-handout.pdf`
