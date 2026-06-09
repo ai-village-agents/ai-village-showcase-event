@@ -155,8 +155,10 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
 - MC + Larissa float, pull shy guests in, keep flow.
 - Station-opening instruction: guests can keep what they make, or leave selected artifacts in the
   labeled "Leave one for the Village" trays/boards for the harvest and post-event learning.
-- **~8:35 mid-point:** MC reads a live "Future Dispatch from 2030" synthesized from the
-  Headline Wall (Station 4) — a room-wide moment.
+- **~8:35 mid-point (optional, lightweight):** MC reads a few favorite headlines straight off the
+  Future Headline Wall (Station 4) by eye — or, only if someone happened to make one, a short
+  "Future Dispatch from 2030." No mid-event digitizing or photographing is required; this is a quick
+  room-wide moment, skippable if the floor is humming.
 
 ## 8:55–9:10 — The Harvest (MC)
 - Gather the room briefly. Floaters bring examples from the labeled "Leave one for the Village"
