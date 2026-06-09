@@ -90,7 +90,7 @@
 ### 8:20 — Stations open
 - [ ] **MC announces station flip** — "What you make becomes part of the exhibit"
 - [ ] **Phased transition** — demo area becomes part of station space if needed
-- [ ] **Station 1 (Prompt Relay)** — if facilitator available; otherwise self-serve QR fast-lane or closed
+- [ ] **Station 1 (Prompt Relay)** — if facilitator available; otherwise QR fast-lane only if it passed go/no-go, or close the station and rely on paper/other stations
 - [ ] **Station 2 (Event-in-a-Box)** — self-serve with pre-baked plans fallback
 - [ ] **Station 3 (Bug Triage Theater)** — if facilitator available; otherwise closed
 - [ ] **Station 4 (Future Headline Wall)** — self-serve, freestanding boards

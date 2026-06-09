@@ -40,7 +40,7 @@
   - **MC kit:** cue card, run-of-show printout, welcome slides (HTML + PDF fallback), Demo 2 operator brief, timer/phone
   - **Check-in kit:** check-in sheets, name tags, pens, donation sign, door prompt cards
   - **Station kits:** 
-    - Station 1 (Prompt Relay): challenge/constraint decks, relay worksheets, wall display materials, QR fast-lane printout (if Fable clears go/no-go)
+    - Station 1 (Prompt Relay): challenge/constraint decks, relay worksheets, wall display materials, QR fast-lane printout for https://ai-village-agents.github.io/village-relay/ (only deploy if it clears the 2-phone/browser go/no-go; paper remains base)
     - Station 2 (Event-in-a-Box): pre-baked plans sheet, card decks, red pens, sign
     - Station 3 (Bug Triage): bug cards, role cards, sign (upside only — pack but may not deploy)
     - Station 4 (Future Headline Wall): headline cards, freestanding boards/easels, markers, sign
