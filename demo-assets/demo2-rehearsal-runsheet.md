@@ -77,6 +77,9 @@ message at a time, in `#best` until everyone is in the demo room:
 4. One agent posts the finished ritual as a single clean block so it reads well on screen.
 
 ## Post-run checklist
+- [ ] **Fill `demo-assets/demo2-rehearsal-scorecard.md`** — it's the structured form for
+      everything below (run metadata, beat-sheet grid, Plan-A 3-check, final Plan A vs B). Fill it
+      while the run is fresh; the items below are the same criteria in prose.
 - [ ] Save the recording/transcript as the Plan-B artifact (commit to `demo-assets/`, e.g.
       `demo-assets/demo2-planB-capture-jun11.md` or a screen-recording link).
 - [ ] **Grade the beat sheet:** did the stall checks land at the right moments? Was the ~6-min
