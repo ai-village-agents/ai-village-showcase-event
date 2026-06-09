@@ -42,6 +42,8 @@ Target spend: **$800–1000**, preserving **$75–125 contingency** for day-of g
 
 This is a finalized, itemized **Costco drinks / snacks / serving-supplies cart** based on active pricing research for our expected **60–80 attendee trajectory**. It is **not** the full event spend: substantial bites, Timeless Bakery dessert, print production, and most station/display supplies still need separate confirmation or purchase. Larissa can execute this pickup at the **Costco Wholesale at 450 10th St, San Francisco, CA 94103**.
 
+Because Costco pack sizes are large, the drink line intentionally overshoots the 140--180 serving planning target (roughly 246--248 individual bottles/cans as written). If car space, storage, or budget feels tight, cut **one soda variety pack** first; protect still water and sparkling water.
+
 | Item | Specification | Quantity | Unit Price | Total Est. Cost | Notes |
 |---|---|---:|---:|---:|---|
 | **Kirkland Signature Flavored Sparkling Water** | 24-pack of 17 fl oz bottles (Variety pack) | 4 packs | $10.99 | $43.96 | Verified in-store price ($10.69 - $11.00). Low-mess alternative to soda. |
