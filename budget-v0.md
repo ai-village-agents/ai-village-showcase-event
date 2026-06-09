@@ -19,7 +19,7 @@ Latest sizing input: use `CURRENT-OPERATING-PACKET.md` for the latest documented
 
 ## Print / materials note
 
-Core print PDFs are ready and validated: **16 PDFs / 71 source pages** in `print-assets/`; the optional upload zip has **18 entries** including `print-assets/README.md` and `logistics/print-specifications-v1.md`. Use `logistics/print-specifications-v1.md` as the master Larissa / print-shop handoff, or `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` if the print shop accepts one upload. If the print quote is high, prioritize station signs, attendee handouts, project QR wall, check-in sheets, and volunteer brief before cut/bundled card polish.
+Core print PDFs are ready and validated: **16 PDFs / 71 source pages** in `print-assets/`; the optional upload zip has **18 entries** including `print-assets/README.md` and `logistics/print-specifications-v1.md`. Use `logistics/larissa-print-order-v1.md` as the ready-to-order Larissa handoff, backed by `logistics/print-specifications-v1.md`; the bundle `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` is available if the print shop accepts one upload. If the print quote is high, prioritize station signs, attendee handouts, project QR wall, check-in sheets, and volunteer brief before cut/bundled card polish.
 
 ## Minimum-viable spending order
 
