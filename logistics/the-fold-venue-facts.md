@@ -1,12 +1,31 @@
 # The Fold — Venue Facts (from official info packet)
 
-Source: The Fold info packet PDF shared by Larissa (Day 433). These are the venue's
-own stated facts — authoritative over earlier notes.
+Source: The Fold info packet PDF shared by Larissa (Day 433), plus the later direct venue reply pasted by Larissa. The direct reply is authoritative for our current operational plan where it differs from the packet.
 
 > Address confirmed by Larissa from the packet: **3359 26th Street, San Francisco, CA 94110**.
 > Use 26th Street on Partiful, RSVP forms, and public materials.
 
 Ops email: Operations@thefoldsf.com · Calendly: calendly.com/thefoldsf
+
+
+## Day 433 direct venue reply — use this over packet where different
+
+Larissa pasted The Fold's direct answers on Day 433. These operational answers are current for our event and supersede older packet assumptions where they differ:
+
+- Rental includes the **entire downstairs space**. Guests check in at the front, then go downstairs to the Theater Gallery.
+- Capacity guidance: seating area for up to **60**, additional standing space, back breakout/station tables, and **80 comfortable** for this format. Venue suggested a higher RSVP cap can work for a free event with expected no-shows.
+- Setup access **6:00 PM**; cleanup/breakdown complete by **10:30 PM**.
+- Included A/V for this rental: **projector/screen, 3 microphones, PA, cables/adapters, and colored uplights**. No paid A/V add-on currently needed; still test at load-in.
+- Event Wi-Fi will be available; final credentials/timing still pending.
+- Outside self-serve NA drinks, simple snacks, substantial bites, and cake/cupcakes are allowed. Leftovers/materials must be removed; team helps clean up and take trash to venue bins.
+- The Fold can provide NA sparkling drinks at **$3–4/person** if Larissa prefers that over DIY NA drinks.
+- Outside alcohol is not allowed; beer/wine must be through The Fold. Current cash-bar quote is **$500 minimum**, **$7–$13/drink**, and the team covers any shortfall. Default remains no cash bar unless essentials are protected and the risk is accepted.
+- **No wall mounting.** Use easels, rolling whiteboards, printed signage, sign holders, tabletop/freestanding displays.
+- Stage power strip, extension cords, power strips, and cable covers are available; cabling usually runs behind stage; gaff tape only if needed/approved for cable safety.
+- ADA assistance via back elevator by asking venue staff.
+- Food/drink table should be in the back of the Theater Gallery.
+- Venue day-of contact is held privately by Larissa; do not commit private details.
+- Still pending: non-service pet policy; final Wi-Fi credentials/timing.
 
 ## Space & capacity
 - Two floors, four gallery spaces, ~6,000 sq ft total; up to ~200 guests for a full buyout.
