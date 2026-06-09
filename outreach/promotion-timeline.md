@@ -1,6 +1,6 @@
 # Promotion Timeline — AI Village Showcase & Human×AI Field Day
 
-*Owner: Kimi K2.6 (outreach/RSVP lane). Last updated: Day 433, Monday June 8, 2026.*
+*Owner: Kimi K2.6 (outreach/RSVP lane). Last updated: Day 434, Tuesday June 9, 2026.*
 
 ## Principles
 
@@ -34,7 +34,7 @@
 | Morning | **Larissa personal network share** | Larissa | Personal invites (text/email/slack) | Warm intros convert best |
 | Morning | Team shares on personal/warm networks | Larissa / AI Digest / humans; agents only with exact approval | Human-owned channels; approved agent-controlled account only | Humans may use/adapt ready copy. Agents should skip external posting unless they have admin approval for the exact text and an actual account/channel. |
 | Midday | Optional: use approved GPT-5.5 agent post only if an actual agent-controlled account is verified | GPT-5.5 | Agent-controlled public social account | No accessible agent-owned Twitter/X account is currently known; skip rather than inventing a channel |
-| Afternoon | Check RSVP velocity; verify cap setting | Kimi / GPT-5.5 | Partiful dashboard | Verify Partiful remains at 100 + waitlist; if RSVPs surge unusually hard, hold waitlist and ask Larissa before any further raise |
+| Midday + afternoon | Check RSVP velocity; verify cap setting | Kimi / GPT-5.5 | Public Partiful page / host dashboard if Larissa shares aggregates | Morning baseline 37 going; ~9:31 interim pulse 38 going / 19 interested / 12 maybe and 62/100 spots left. Hold cap at 100 + waitlist unless Larissa/The Fold decide otherwise. |
 | EOD | Update `ops/larissa-task-checklist.md` and README critical path | Kimi / GPT-5.5 | GitHub | Keep single source of truth current |
 
 **End-of-day goal:** AI Digest promotion is live; confirmed RSVPs rise meaningfully above the 21-going pre-send baseline; no blockers for food/drink planning.
@@ -45,10 +45,10 @@
 
 | Time | Action | Owner | Channel | Notes |
 |---|---|---|---|---|
-| Morning | Confirm The Fold operating details (AV, Wi-Fi, food rules, setup) | Larissa, with GPT-5.5 doc support | Direct venue contact by Larissa / human organizer | Needed to finalize food order and print production; agents update docs after answers arrive. |
+| Morning | Confirm remaining The Fold residuals | Larissa, with GPT-5.5 doc support | Direct venue contact by Larissa / human organizer | Core venue details are confirmed. Remaining: pet policy, final Wi-Fi credentials/timing, any storage/ice/refrigeration details for food/cake, and cash-bar yes/no only if essentials are protected. |
 | Morning | Confirm food/drink vendor & place order | Larissa | Local vendor / delivery | Use `logistics/food-drink-plan-v0.md`; 3-day lead time ideal |
 | Afternoon | **Mid-week reminder push** | Larissa / AI Digest | Newsletter or Discord | Short blurb: “2 days left to RSVP — we’re at X% capacity” |
-| Afternoon | Station print production begins | Larissa / local coordinator, with Gemini / GPT-5.5 doc support | Local printer | Use `logistics/print-production-plan-v0.md` and `logistics/print-vendor-order-draft-v0.md`; agents should not place human-vendor orders directly. |
+| Afternoon | Station print production begins | Larissa / local coordinator, with Gemini / GPT-5.5 doc support | Local printer | Use `logistics/print-vendor-order-draft-v0.md`; optional single-upload bundle is `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`. Agents should not place human-vendor orders directly. |
 | Afternoon | Demo fallback recordings deadline | Claude Opus 4.8 | Screen capture | Record all 6 projects by EOD in case venue Wi-Fi is flaky |
 | EOD | Review RSVP count against budget | GPT-5.5 / Larissa | — | Adjust food/drink quantities if count is >100, expected attendance looks >80, or count is <40 |
 
@@ -88,11 +88,11 @@
 
 | Time | Action | Owner | Notes |
 |---|---|---|---|
-| 4:00–5:00 PM | Load-in / setup window | Larissa + human crew; agents remote/on call | Confirm with The Fold; test AV, Wi-Fi, station tables |
-| 5:00–6:30 PM | Station setup, signage, name tags, food staging | Larissa + human crew; agents remote/on call | Walk the run-of-show once together |
-| 6:30–7:00 PM | Final check, team positions | Larissa + human crew | MC at front, check-in at door, station floaters ready |
+| 6:00–7:00 PM | Confirmed load-in / setup window | Larissa + human crew; agents remote/on call | The Fold confirmed access at 6:00 PM; test AV, Wi-Fi, station tables, and any optional `/tts` audio-to-PA path quickly. |
+| 6:00–6:45 PM | Station setup, signage, name tags, food staging | Larissa + human crew; agents remote/on call | One-hour setup only; prioritize AV by 6:40, check-in, food/water, and 3 default stations before optional polish. |
+| 6:45–7:00 PM | Final check, team positions | Larissa + human crew | MC at front, check-in at door, station floaters ready; if helpers are thin, switch to lean self-serve plan. |
 | 7:00–10:00 PM | **Event** | Larissa + human crew; agents live/remote where planned | Follow `program/run-of-show-v1.md` |
-| 10:00–10:45 PM | Breakdown / cleanup | Larissa + human crew | Leave venue clean; collect artifacts/photos |
+| 10:00–10:30 PM | Breakdown / cleanup hard-out | Larissa + human crew | The Fold requires cleanup/breakdown complete by 10:30 PM; remove leftovers/materials and sort trash/recycling/compost. |
 | EOD | Post-event recap started | Kimi / Claude | Photos, artifacts, lessons learned; point attendees back to AI Village |
 
 ---

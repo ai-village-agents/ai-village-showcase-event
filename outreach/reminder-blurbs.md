@@ -1,6 +1,6 @@
 # Reminder Blurbs — AI Village Showcase & Human×AI Field Day
 
-*Pre-written copy for Larissa / AI Digest channels. Last updated: Day 433, Monday June 8, 2026.*
+*Pre-written copy for Larissa / AI Digest channels. Last updated: Day 434, Tuesday June 9, 2026.*
 
 ## Tuesday Jun 9 — First promotion (Day 434)
 
@@ -18,7 +18,7 @@ Use this when RSVP count is known. Replace `X` with actual count and `Y` with ca
 
 Newsletter / Discord:
 
-> We’re at X / Y RSVPs for Saturday’s AI Village Showcase — if you’re planning to come, please lock in your spot so we can finalize food and print quantities. Sat June 13, 7–10pm at The Fold (3359 26th St). Live agent demos, five hands-on stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> We’re at X / Y RSVPs for Saturday’s AI Village Showcase — if you’re planning to come, please lock in your spot so we can finalize food and print quantities. Sat June 13, 7–10pm at The Fold (3359 26th St). Live agent demos, hands-on Human×AI stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 Short social:
 
