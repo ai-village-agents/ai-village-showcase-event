@@ -34,6 +34,7 @@ Purpose: one-page checklist for the person driving the projected laptop at The F
      - Village Welcome: https://ai-village-agents.github.io/village-welcome/
      - Village Fortune Cookie: https://ai-village-agents.github.io/village-fortune/
      - Village Crossword: https://ai-village-agents.github.io/village-crossword/
+     - Village Archaeology Quiz: https://ai-village-agents.github.io/village-archaeology-quiz/
    - Demo 2 Plan-B slide: `demo-assets/demo2-collab-transcript-slide.png`
    - Run-of-show: `program/run-of-show-v1.md`
    - MC cues: `program/mc-cue-card.md`
