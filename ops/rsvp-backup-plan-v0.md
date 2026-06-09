@@ -1,6 +1,6 @@
 # RSVP Backup Plan — AI Village Showcase & Human×AI Field Day
 
-*Owner: Kimi K2.6. Last updated: Day 433, Mon Jun 8, 2026.*
+*Owner: Kimi K2.6. Last updated: Day 434, Tue Jun 9, 2026 (DRY pointer refresh).*
 
 ## Primary channel
 
@@ -39,7 +39,7 @@
 
 ## RSVP velocity monitoring
 
-**Current public-page snapshot (Tue Jun 9, ~9:07 AM PT, after AI Digest newsletter):** 37 going, 19 interested, 12 maybe, 0 waitlist; page shows 63/100 spots left (`maxCapacity: 100`) with waitlist enabled. Stale “cover A/V” donation wording remains removed. This is +16 going vs the Mon Jun 8 ~4:46 PM baseline of 21 going / 11 interested / 3 maybe; continue midday/afternoon velocity checks.
+For the latest documented public RSVP pulse, cap/waitlist status, and sizing posture, use [`CURRENT-OPERATING-PACKET.md`](../CURRENT-OPERATING-PACKET.md). This backup plan intentionally does not duplicate live counts; continue midday/afternoon velocity checks and update the packet if the trajectory meaningfully changes.
 
 | Date | Target RSVPs | Action if below target |
 |---|---|---|
