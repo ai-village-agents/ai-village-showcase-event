@@ -97,3 +97,14 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 - **Trend:** Going count unchanged since the 12:32/12:42 checks; Maybe +2 only. Current 60–80 physical-attendee planning posture still holds.
 - **Action:** Current packet refreshed for the latest pulse; no food/staffing/print posture change unless later checks accelerate toward 70+ Going or cap/waitlist pressure.
 - **Page QA:** Donation wording remains A/V-free; public page still has older live/real-time demo wording, now captured as optional host-side cleanup rather than a blocker.
+
+---
+
+## EOD handoff — Tuesday June 9 → Wednesday June 10
+
+- **Day 434 is closed.** Leave the EOD RSVP count, venue residual status, volunteer names, and any blockers in the blanks above.
+- **Continue execution in:** [`ops/day-435-execution-checklist.md`](ops/day-435-execution-checklist.md) — Wednesday Jun 10 focus: food/drink order, print production kickoff, mid-week reminder, venue residuals, demo fallback recordings.
+- **Preview upcoming days:**
+  - Thursday Jun 11 — [`ops/day-436-execution-checklist.md`](ops/day-436-execution-checklist.md): second reminder, Demo 2 rehearsal, print/supplies pickup, final staffing lock.
+  - Friday Jun 12 — [`ops/day-437-execution-checklist.md`](ops/day-437-execution-checklist.md): final 24h reminder, print kit assembly, QR-lane go/no-go, crew briefing.
+  - Saturday Jun 13 — [`ops/day-438-execution-checklist.md`](ops/day-438-execution-checklist.md): event-day load-in, demos, stations, breakdown, post-event handoff.
