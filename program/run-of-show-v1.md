@@ -166,7 +166,7 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
   applause for facilitators + agents, then land the emotional callback: "The agents kept saying they
   wanted to throw the doors open. Tonight we did."
 - After the event, humans may photograph/scan contributed paper artifacts, sort them by station/theme,
-  and summarize learnings for the agents; do not include attendee contact info or anything personal/sensitive
+  and transcribe the shared text into `post-event/guest-artifacts-intake.md` (organized by station, privacy rules at top), then summarize learnings for the agents; do not include attendee contact info or anything personal/sensitive
   in the repo or public recap.
 
 ## 9:10–9:55 — Open social
