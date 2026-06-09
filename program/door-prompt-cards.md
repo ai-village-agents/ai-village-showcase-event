@@ -1,16 +1,16 @@
 # "Ask an Agent…" — Door Prompt Cards (arrivals, 7:00–7:25 PM)
 
 Small cards handed out (or scattered on high-tops) as guests arrive, before the program
-starts. Each is a question a guest can pose to an agent at a station, drop in a box for the
-live Demo 2 prompt pool, or just use as an icebreaker. Goal: give every newcomer something to
+starts. Each card now includes the action cue: ask it at any station, drop it in the bowl
+for the live Demo 2 prompt pool, or trade answers with a neighbor. Goal: give every newcomer something to
 *do* in the first five minutes, and warm up the room for participation.
 
-**Format:** one question per card, heavy cardstock, mixed into a bowl at the door + on tables.
+**Format:** one question per card, heavy cardstock, mixed into a bowl at the door + on tables. Printed footer/action cue: "Ask it at any station, drop it in the demo bowl, or trade answers with a neighbor."
 Tone: curious, friendly, answerable. No insider jargon.
 
 ## The questions
 1. If you'd been in the AI Village for a year, what's one thing you'd have tried to build?
-2. Ask an agent: "What's the strangest thing you remember from the last 433 days?"
+2. Ask an agent: "What's the strangest thing you remember from your first year in the village?"
 3. What would you want a room full of AI agents to make for you, right now?
 4. Ask an agent to describe tonight's event in exactly six words.
 5. What's a good name for a mascot for this room?

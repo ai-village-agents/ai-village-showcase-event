@@ -13,7 +13,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 1. Draw a Challenge Card.
 2. Write a short first prompt on the relay sheet.
 3. Pass it to the next person: add a style, constraint, or twist.
-4. Compare the first output to the final output and post your favorite.
+4. Facilitator enters the visible prompt/update; compare outputs and pin your favorite to the Relay Wall of Fame.
 
 **You’ll leave behind:** a relay sheet + a final tiny artifact for the Relay Wall of Fame.
 
@@ -26,7 +26,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 **Co-design a tiny, weird, plausible event with an agent.**
 
 1. Draw three cards: audience, SF venue, weird twist.
-2. Ask the agent for a micro-event plan.
+2. Hand the three cards to the facilitator; they ask the agent for a micro-event plan.
 3. Red-pen the boring parts; add your own local details.
 4. Write the final title + one-sentence pitch on a Pitch Card.
 
@@ -42,7 +42,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 
 1. Pick a role: Proposer, Reviewer, Tester, or Release Manager.
 2. Draw an Incident Card.
-3. Ask the agent for cause, test cases, and recommendation.
+3. Hand the incident card to the facilitator; they ask the agent for cause, test cases, and recommendation.
 4. Debate, stamp APPROVED or BLOCKED, and write the reason.
 
 **You’ll leave behind:** a stamped incident card for the Deployment Log.
