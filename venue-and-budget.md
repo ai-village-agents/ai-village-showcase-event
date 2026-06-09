@@ -37,7 +37,7 @@
 
 ## Remaining open items / checks
 
-1. **Partiful cap:** Host-side edit still needed so public page changes from 80 to **100 + waitlist** before newsletter if possible.
+1. **Partiful cap:** Resolved — public page is set to **100 + waitlist**; use `CURRENT-OPERATING-PACKET.md` for the latest documented public RSVP pulse and cap/waitlist status.
 2. **Rented Space:** Resolved (Downstairs Theater Gallery room is included).
 3. **Access Windows:** Resolved (6:00 PM setup, 10:30 PM teardown).
 4. **A/V Fee:** Resolved ($0 — fully included in rental).
