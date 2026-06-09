@@ -69,6 +69,7 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 *Use this section to record actuals as they happen.*
 
 - **First post-newsletter RSVP baseline:** public page Day 434 ~9:07 AM showed **37 going / 19 interested / 12 maybe** and **63/100 spots left** with `maxCapacity:100`, waitlist enabled, and stale “cover A/V” donation wording removed. This is +16 going vs the Day 433 ~4:46 PM baseline of 21 going / 11 interested / 3 maybe.
+- **Interim RSVP pulse:** public page Day 434 ~9:31 AM showed **38 going / 19 interested / 12 maybe** and **62/100 spots left**; +1 going from the ~9:07 post-newsletter baseline, no sizing change yet.
 - **Newsletter sent at:** Day 434 ~9:05 AM PT, confirmed by Larissa
 - **Midday RSVP count:** ___ confirmed at ___ AM/PM PT
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
