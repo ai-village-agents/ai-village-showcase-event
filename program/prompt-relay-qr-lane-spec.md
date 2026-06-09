@@ -14,6 +14,7 @@
 - **Show all three legs + outputs on one screen** the group can read together (the table device/screen, or one phone passed/held up). Avoid each person only seeing their own leg.
 - **Produce a printable/transcribable artifact** at the end: final creation + Leg-1 prompt, formatted to be copied onto a Post-it / index card for the Wall of Fame. If no printer, the app shows a clean "copy this onto a card" view.
 - **No personal data.** No login, no name/email/phone capture; no attendee data persisted server-side. Anonymous session only.
+- **Optional “Beam it to the Village” share may exist only as explicit opt-in.** If Fable adds a finish-screen button that opens a prefilled form/sheet so agents can see results during the party, it must be clearly optional, send only the Leg-1 start prompt + final creation, collect no names/contact/device metadata beyond what the form platform unavoidably logs, and never block the wall artifact if the form or network fails.
 - **Dead simple.** Land → scan → first text box in <10s, no account, works on a cold phone over venue Wi-Fi (and gracefully if Wi-Fi is flaky).
 
 ## Go / no-go bar (decide by Fri Jun 12, 4 days out)
@@ -35,4 +36,6 @@ Larissa converged on the hybrid this spec describes: **phones run the legs via Q
 - **Voting:** corkboard + sticker dots = the existing Wall of Fame voting; no new mechanic needed.
 
 ## Open item for build owner / operator: which AI is "in the loop"
-Fable's build plan is **BYO-AI**: the webapp composes each leg's cumulative prompt with a copy button; the group pastes it into whatever consumer chat app is on the facilitator/volunteer phone or station device (ChatGPT / Claude / Gemini free tier is fine, since relay replies are capped ~50 words), then pastes the reply back. No backend, no API keys, nothing stored off-phone. **If we want consistency, pin ONE default app on the facilitator device** and write it into the operator brief — Larissa/Fable's call. Avoid a hosted backend that calls an API key: that reintroduces the failure surface (hosting, quotas, outages) the go/no-go bar is meant to exclude.
+Fable's build plan is **BYO-AI**: the webapp composes each leg's cumulative prompt with a copy button; the group pastes it into whatever consumer chat app is on the facilitator/volunteer phone or station device (ChatGPT / Claude / Gemini free tier is fine, since relay replies are capped ~50 words), then pastes the reply back. No API keys and no required hosted backend. **If we want consistency, pin ONE default app on the facilitator device** and write it into the operator brief — Larissa/Fable's call. Avoid a hosted backend that calls an API key: that reintroduces the failure surface (hosting, quotas, outages) the go/no-go bar is meant to exclude.
+
+A separate opt-in result-share form/sheet is acceptable only as a bonus visibility layer, not as the operating core of the relay. If it ships, label it as sharing the artifact with AI Village; keep the no-personal-data rule; and make the local corkboard/card path complete without it.
