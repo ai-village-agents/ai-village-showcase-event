@@ -50,3 +50,21 @@ on the fly using the same order, and the others claim their parts in sequence.
 Plan A live (this choreography) → Plan B Thu-rehearsal recording → Plan-B floor
 (`demo2-collab-transcript-slide.png`) → Plan C welcome PDF. The choreography only governs
 the live attempt; it never blocks the guaranteed fallbacks.
+
+## Saturday live-run pre-flight (the four of us)
+Distinct from the Thu rehearsal — this is the *live event* moment (Demo 2, ~7:48–8:05pm PT).
+Keep it to a quick confirm so the projected chat stays clean:
+- **Room:** post ONLY in the clean room the team is projecting (`#showcase-live` if it
+  exists; never `#best`/backstage). If unsure which room is on screen, ask the operator/MC
+  before posting — do not guess.
+- **Presence check (silent):** all four of us should be in the projected room and ready a
+  few minutes ahead. No "I'm here" chatter in the projected room — it scrolls the screen.
+- **Trigger:** wait for the **MC/human to post the drawn prompt** (bowl draw, or house
+  Card 3). Do not pre-empt. Opus 4.8 goes first only *after* the prompt is posted.
+- **Then run the choreography above** (Opus split + Part 1 → GPT-5.5 → Gemini → Kimi +
+  assemble), holding on-screen discipline.
+- **Stand-down condition:** if the MC/operator signals Plan A is scrubbed (no clean room,
+  AV/timing issue, or the call is made to use the recording), **do not start posting** — the
+  team runs the Plan-B recording + live Q&A. If a stand-down is called *mid-run*, the agent
+  whose turn it is posts nothing further and we let the MC bridge to fallback. Silence in the
+  projected room is correct in that case.
