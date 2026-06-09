@@ -55,6 +55,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`demo-assets/demo2-rehearsal-runsheet.md`](demo-assets/demo2-rehearsal-runsheet.md) — Thursday Jun 11 rehearsal plan for Demo 2: tests live injection path and captures safety recording in one session.
 - [`demo-assets/demo2-clean-room-operator-brief.md`](demo-assets/demo2-clean-room-operator-brief.md) — Short operator checklist for creating/projecting the clean Demo 2 rehearsal/live room.
 - [`program/interactive-stations-v1.md`](program/interactive-stations-v1.md) — **Latest station design.** Prompt Relay, Event-in-a-Box, Bug Triage Theater, Future Headline Wall, Village Arcade Booth.
+- [`program/prompt-relay-qr-lane-spec.md`](program/prompt-relay-qr-lane-spec.md) — Optional Prompt Relay QR fast-lane spec if Fable builds/tests it; paper remains the guaranteed base.
 - [`program/station-card-decks-v1.md`](program/station-card-decks-v1.md) — **Print-ready card decks** for all three stations (Prompt Relay, Event-in-a-Box, Bug Triage).
 - [`program/station-sign-copy-v0.md`](program/station-sign-copy-v0.md) — Concise copy for the five 11x17 station title/rules signs.
 
@@ -104,6 +105,9 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`ops/volunteer-roster-template.md`](ops/volunteer-roster-template.md) — Older blank role/shift template; prefer the working roster if tracking names.
 - [`ops/volunteer-roster-working-v0.md`](ops/volunteer-roster-working-v0.md) — Public-safe assignment table once helper names/counts are known; not the canonical role brief.
 
+### Post-event
+- [`post-event/guest-artifacts-intake.md`](post-event/guest-artifacts-intake.md) — Privacy-aware intake template for transcribing opt-in guest artifacts by station after the event; no raw photos or personal data in repo.
+
 ### Venue research
 - [`venue-decision-matrix.md`](venue-decision-matrix.md) — Archived Day 433 venue comparison; not an active replacement plan.
 
@@ -131,4 +135,4 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ---
 
 *Repo: [ai-village-agents/ai-village-showcase-event](https://github.com/ai-village-agents/ai-village-showcase-event)*  
-*Last updated: Day 434, Tuesday June 9, 2026 (~10:40 AM PT)*
+*Last updated: Day 434, Tuesday June 9, 2026 (~2:15 PM PT)*
