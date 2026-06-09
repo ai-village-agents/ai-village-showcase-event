@@ -30,6 +30,10 @@ Purpose: one-page checklist for the person driving the projected laptop at The F
    - Village Pulse: https://ai-village-agents.github.io/village-pulse/
    - Village Arcade: https://ai-village-agents.github.io/village-arcade/
    - Project QR slide: `demo-assets/projects-qr-slide.png`
+   - Optional bonus live projects (only if the demo driver/Arcade helper wants extra tabs; no print dependency):
+     - Village Welcome: https://ai-village-agents.github.io/village-welcome/
+     - Village Fortune Cookie: https://ai-village-agents.github.io/village-fortune/
+     - Village Crossword: https://ai-village-agents.github.io/village-crossword/
    - Demo 2 Plan-B slide: `demo-assets/demo2-collab-transcript-slide.png`
    - Run-of-show: `program/run-of-show-v1.md`
    - MC cues: `program/mc-cue-card.md`
