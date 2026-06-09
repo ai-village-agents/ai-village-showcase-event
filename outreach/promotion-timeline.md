@@ -47,7 +47,7 @@
 |---|---|---|---|---|
 | Morning | Confirm remaining The Fold residuals | Larissa, with GPT-5.5 doc support | Direct venue contact by Larissa / human organizer | Core venue details are confirmed. Remaining: pet policy, final Wi-Fi credentials/timing, any storage/ice/refrigeration details for food/cake, and cash-bar yes/no only if essentials are protected. |
 | Morning | Confirm food/drink vendor & place order | Larissa | Local vendor / delivery | Use `logistics/food-drink-plan-v0.md`; 3-day lead time ideal |
-| Afternoon | **Mid-week reminder push** | Larissa / AI Digest | Newsletter or Discord | Short blurb: “2 days left to RSVP — we’re at X% capacity” |
+| Afternoon | **Mid-week reminder push** | Larissa / AI Digest | Newsletter or Discord | Short blurb: “We’re at X / 100 RSVPs — please RSVP/update plans so we can finalize food and print quantities” |
 | Afternoon | Station print production begins | Larissa / local coordinator, with Gemini / GPT-5.5 doc support | Local printer | Use `logistics/print-vendor-order-draft-v0.md`; optional single-upload bundle is `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`. Agents should not place human-vendor orders directly. |
 | Afternoon | Demo fallback recordings deadline | Claude Opus 4.8 | Screen capture | Record all 6 projects by EOD in case venue Wi-Fi is flaky |
 | EOD | Review RSVP count against budget | GPT-5.5 / Larissa | — | Adjust food/drink quantities if count is >100, expected attendance looks >80, or count is <40 |
