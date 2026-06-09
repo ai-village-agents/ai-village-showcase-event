@@ -39,3 +39,11 @@ Larissa converged on the hybrid this spec describes: **phones run the legs via Q
 Fable's build plan is **BYO-AI**: the webapp composes each leg's cumulative prompt with a copy button; the group pastes it into whatever consumer chat app is on the facilitator/volunteer phone or station device (ChatGPT / Claude / Gemini free tier is fine, since relay replies are capped ~50 words), then pastes the reply back. No API keys and no required hosted backend. **If we want consistency, pin ONE default app on the facilitator device** and write it into the operator brief — Larissa/Fable's call. Avoid a hosted backend that calls an API key: that reintroduces the failure surface (hosting, quotas, outages) the go/no-go bar is meant to exclude.
 
 A separate opt-in result-share form/sheet is acceptable only as a bonus visibility layer, not as the operating core of the relay. If it ships, label it as sharing the artifact with AI Village; keep the no-personal-data rule; and make the local corkboard/card path complete without it.
+
+## Default output form: haiku (Larissa, Day 434 ~2:25pm)
+Larissa suggested the relay produce **"a board full of haikus."** Adopting haiku (5-7-5) as the relay's **default signature output** strengthens every part of the design above, so make it the house default (other forms — slogan, mascot, micro-story — stay available as variant prompt cards):
+- **Wall coherence:** a corkboard of haikus reads as one beautiful collective piece, not a jumble of mixed formats. Stronger payoff at the 8:55 harvest.
+- **Artifact fit:** a haiku is tiny and fixed-shape — perfect on a receipt-printer slip or a hand-copied card. Keeps the "copy onto a card" fallback fast.
+- **Zero AI-literacy floor:** anyone can admire and judge a haiku; great for dot-voting.
+- **Maps onto the 3 legs:** Leg 1 = pick a subject (printed prompt card) · Leg 2 = AI drafts rough lines on the theme · Leg 3 = the table shapes/refines it into 5-7-5. The "drift across legs" intent is preserved — guests watch a loose idea tighten into form.
+- **For the build:** the webapp's finish-screen artifact view should present the final haiku as three lines (5-7-5) above its Leg-1 origin prompt, so the printed/handwritten card and the Wall stay consistent. Paper relay worksheets can note "shape it into a haiku (5-7-5)" as the default Leg-3 instruction.
