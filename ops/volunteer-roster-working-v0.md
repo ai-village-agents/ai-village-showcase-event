@@ -5,7 +5,7 @@ For the canonical human-facing volunteer-role brief, use the “Volunteer roles�
 
 ## Current crew tier
 
-**Target plan after Day 434 newsletter velocity:** latest documented public pulse is 38 going / 19 interested / 12 maybe with 62/100 spots left. If the room trends toward 60–80+ attendees, aim for the **comfortable 6–8 crew tier** and prepare all 5 station placements so guests have enough places to land.
+**Target plan after Day 434 newsletter velocity:** use `CURRENT-OPERATING-PACKET.md` for the latest documented RSVP pulse. If the room trends toward 60–80+ attendees, aim for the **comfortable 6–8 crew tier** and prepare all 5 station placements so guests have enough places to land.
 
 Larissa is confirmed as MC/host. The next highest-leverage roles are, in order:
 1. calm demo laptop driver / projection operator;

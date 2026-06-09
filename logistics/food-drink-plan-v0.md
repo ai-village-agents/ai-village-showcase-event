@@ -26,7 +26,7 @@ Current local-order companion docs: [`logistics/day-434-ordering-decision-queue.
 
 ## Recommended default for 100 RSVP cap / expected no-shows
 
-Day 434 morning after the AI Digest newsletter: public Partiful showed **38 going / 19 interested / 12 maybe** and **62/100 spots left** at the ~9:31 AM PT pulse. Because velocity is strong but free-event no-shows are expected, size the base order for a **60–80 attendee trajectory** unless later RSVP checks push the waitlist/cap close to full. Prioritize food/NA/cake/cleanup before any cash-bar risk; no sizing change from the prior 37-going pulse.
+Day 434 after the AI Digest newsletter: use `CURRENT-OPERATING-PACKET.md` for the latest documented public RSVP pulse. Because velocity is strong but free-event no-shows are expected, size the base order for a **60–80 attendee trajectory** unless later RSVP checks push the waitlist/cap close to full. Prioritize food/NA/cake/cleanup before any cash-bar risk.
 
 | Category | Quantity target | Notes | Est. budget |
 |---|---:|---|---:|
