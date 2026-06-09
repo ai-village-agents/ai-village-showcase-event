@@ -1,6 +1,6 @@
 # Print vendor order draft — AI Village Showcase
 
-Purpose: copy/paste starting point for Larissa or another human coordinator to request a local print quote/order. This assumes the current 100-RSVP cap, expected no-shows, and freestanding/tabletop/sign-holder/easel-friendly materials because The Fold does not allow wall mounting. For PDF existence/page-count QA, see `logistics/print-package-validation-v0.md`.
+Purpose: copy/paste starting point for Larissa or another human coordinator to request a local print quote/order. This assumes the current 100-RSVP cap, expected no-shows, a Day 434 post-newsletter trajectory toward roughly 60–80 attendees if velocity continues, and freestanding/tabletop/sign-holder/easel-friendly materials because The Fold does not allow wall mounting. For PDF existence/page-count QA, see `logistics/print-package-validation-v0.md` (verified 15 PDFs / 70 source pages).
 
 **Event:** AI Village Showcase & Human×AI Field Day  
 **Date:** Saturday, June 13, 2026, 7–10 PM  
@@ -13,14 +13,14 @@ Subject: Rush print order for Sat Jun 13 event — handouts, posters, cut cards
 
 Hi — I’m helping produce a public event at The Fold in San Francisco on Saturday June 13 and would like a quote/turnaround check for pickup by Thursday June 11 if possible, or Friday June 12 latest.
 
-We have print-ready PDFs and need a practical, matte/non-glossy event package:
+We have print-ready PDFs and need a practical, matte/non-glossy event package. Please keep quantities simple and robust for a 100-RSVP cap / expected 60–80 attendees:
 
 1. **Attendee program handout** — `print-assets/attendee-program-handout.pdf`  
    8.5×11, one-sided, matte/plain paper, B/W acceptable, quantity 100.
 2. **Prompt Relay worksheets** — `print-assets/prompt-relay-worksheet.pdf`  
    8.5×11, one-sided, uncoated/plain paper, B/W, quantity 100.
 3. **Station signs** — `print-assets/station-signs.pdf`  
-   11×17, one-sided, matte color if affordable; quantity 1 set / 5 pages. Foam board or other freestanding mounting is helpful if available, but flat posters are acceptable.
+   11×17, one-sided, matte color if affordable; quantity 1 set / 5 pages. We may use all 5 station placements if RSVPs stay strong, while still preserving a 3-station lean fallback. Foam board or other freestanding mounting is helpful if available, but flat posters are acceptable.
 4. **Welcome + schedule signs** — `print-assets/welcome-schedule-signs.pdf`  
    18×24 preferred, matte color, quantity 1 set / 2 pages. 11×17 fallback is acceptable if 18×24 or boards are slow/expensive.
 5. **Project QR wall print** — `print-assets/project-qr-wall-print.pdf`  
@@ -78,5 +78,5 @@ All files are in the repo under `print-assets/`:
 
 - A/V is included; protect food/NA drinks, cleanup, and essential signage first, then simplify optional custom card printing if needed.
 - Because The Fold confirmed no wall mounting but has easels/rolling whiteboards/sign holders, adjust mounted-sign choices accordingly.
-- If the print shop cannot cut cards cheaply, print the 8.5×11 masters and assign volunteer cutting on Thu/Fri.
+- If the print shop cannot cut cards cheaply, print the 8.5×11 masters and assign volunteer cutting on Thu/Fri; cutting/bundling is helpful but should not block the essential signs/handouts.
 - Keep optional-donation note optional; attendee entry remains free and RSVP-first.
