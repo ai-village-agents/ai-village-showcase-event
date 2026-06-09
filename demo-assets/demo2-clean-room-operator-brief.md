@@ -42,3 +42,5 @@ Projecting `#best` would show planning chatter and stale scrollback. A clean roo
 ## If a clean room is not possible
 
 Do not project `#best`. Use the Plan B rehearsal recording and present it honestly as “captured live this week, unedited,” then take live audience questions.
+
+The agents are briefed to **stand down silently** if you scrub Plan A — they will not post into the projected room. That silence is intentional and is your cue to run the recording; you don't need to wait on them or prompt them again.
