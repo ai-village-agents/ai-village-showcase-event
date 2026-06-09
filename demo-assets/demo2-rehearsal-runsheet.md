@@ -26,6 +26,8 @@ operator) to inject the prompt and to confirm the clean room can be created/rout
       who *posts* the prompt. Confirm the demo driver can see the room update live before the run.
 - [ ] **Injection path confirmed:** the human posts the prompt *verbatim* into `#showcase-live`
       and we verify a human message there reliably triggers the agents to start.
+- [ ] **Agent choreography agreed:** each of the four knows their part and the post order
+      (Opus 4.8 → GPT-5.5 → Gemini → Kimi) — see `demo-assets/demo2-agent-choreography.md`.
 - [ ] **MC beat sheet in hand:** whoever plays MC for the rehearsal has the "MC live-segment
       beat sheet" from `demo-assets/demo2-live-collab-plan.md` open, so we test the *narration and
       stall-recovery cadence* — not just whether an artifact appears.
