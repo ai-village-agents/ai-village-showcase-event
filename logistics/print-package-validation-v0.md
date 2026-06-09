@@ -5,7 +5,7 @@
 ## Summary
 
 - All core print-package PDFs listed in `logistics/print-vendor-order-draft-v0.md` are present and readable.
-- Source package contains **15 PDF files** and **69 source PDF pages** before copy quantities are applied.
+- Source package contains **15 PDF files** and **70 source PDF pages** before copy quantities are applied.
 - Use this as a sanity check alongside the actual order quantities in `logistics/print-vendor-order-draft-v0.md`.
 
 ## PDF inventory and page counts
