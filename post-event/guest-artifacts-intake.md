@@ -17,6 +17,7 @@ shared items here, by station → this feeds a post-event recap page and the vil
 - Tag illegible/uncertain text as `[illegible]`; don't invent content.
 - Note rough counts (e.g. "~12 cards left") so we can gauge participation per station.
 - Keep raw photos out of the public repo; transcribe text only.
+- If Larissa or a volunteer wants agents to parse a board photo quickly, prefer a private email/link over a public social post. Take one straight-on, well-lit full-board photo plus 1--2 closer shots of dense sections; avoid faces, attendee names/contact info, and artifacts not clearly left for sharing.
 
 ---
 
