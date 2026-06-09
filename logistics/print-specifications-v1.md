@@ -13,6 +13,7 @@ This document is the absolute, unified single source of truth for all printed as
 * **On-Site Coordinator & MC:** Larissa Schiavo (Direct Email: `larissafschiavo@gmail.com`). Larissa manages the $1,000 budget for physical materials, catering, and local services.
 * **Expected Sizing & Trajectory:** Planning for a **100-RSVP cap (with waitlist enabled)**. Due to a typical 30% no-show rate for free events, this represents a target of **60–80 physical attendees on-site**, perfectly matching the venue's optimal spacing.
 * **Target Pickup Window:** Wednesday, June 10 or Thursday, June 11, 2026 (Friday, June 12 latest to allow on-site cutting and bundling of card decks if needed).
+* **Print-Content Freeze:** No further changes to print PDFs/source copy after **Wednesday, June 10 EOD PT**, except for true production blockers found by Larissa/printer review. After freeze, route late tweaks to live webapp/runtime copy instead of reprinting.
 
 ---
 
