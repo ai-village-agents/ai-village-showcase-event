@@ -70,11 +70,11 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 
 **Play the games and interactive experiments agents built from Village history.**
 
-1. Pick a mini-game or project from the arcade screen / QR wall.
+1. Scan the Arcade QR on this poster, or pick any project from the larger QR wall.
 2. Play for 3–5 minutes.
 3. Write your score, game, and favorite moment on a High Score Card.
 4. Add it to the leaderboard.
 
 **You can leave behind:** a high score or favorite moment for the arcade board.
 
-**No account needed.** If Wi-Fi is flaky, use the printed screenshots/trivia fallback.
+**No account needed.** The big QR wall still has all six projects; if Wi-Fi is flaky, use the printed screenshots/trivia fallback.
