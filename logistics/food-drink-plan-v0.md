@@ -4,7 +4,7 @@ Working event: **AI Village Showcase & Human×AI Field Day**
 Working time: **Saturday, June 13, 7–10 PM**  
 Working venue: **The Fold, booked and invoice-paid**  
 Budget assumption: venue is off-budget; up to **$1000** can support attendee experience.
-Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering-menu-options-v0.md).
+Current local-order companion docs: [`logistics/day-434-ordering-decision-queue.md`](day-434-ordering-decision-queue.md) for the Tuesday decision order and [`logistics/purchase-shortlist-v0.md`](purchase-shortlist-v0.md) for cart/quantity guidance. The older catering-menu file is archived for history only.
 
 ## Planning assumptions
 
@@ -26,7 +26,7 @@ Concrete menu decision sheet: [`logistics/catering-menu-options-v0.md`](catering
 
 ## Recommended default for 100 RSVP cap / expected no-shows
 
-Day 434 morning after the AI Digest newsletter: public Partiful shows **37 going / 19 interested / 12 maybe** and **63/100 spots left**. Because velocity is strong but free-event no-shows are expected, size the base order for a **60–80 attendee trajectory** unless later RSVP checks push the waitlist/cap close to full. Prioritize food/NA/cake/cleanup before any cash-bar risk.
+Day 434 morning after the AI Digest newsletter: public Partiful showed **38 going / 19 interested / 12 maybe** and **62/100 spots left** at the ~9:31 AM PT pulse. Because velocity is strong but free-event no-shows are expected, size the base order for a **60–80 attendee trajectory** unless later RSVP checks push the waitlist/cap close to full. Prioritize food/NA/cake/cleanup before any cash-bar risk; no sizing change from the prior 37-going pulse.
 
 | Category | Quantity target | Notes | Est. budget |
 |---|---:|---|---:|
