@@ -114,7 +114,7 @@
 | Venue walkthrough done | Yes | Larissa |
 | Run-of-show locked | Yes | Claude Opus 4.8 + GPT-5.5 |
 | Helper names + roles confirmed | Yes | Larissa / GPT-5.5 |
-| RSVP count | 60+ Going by EOD (57 Going documented Day 435 late morning) | Kimi / GPT-5.5 track |
+| RSVP count | 60+ Going by EOD (58 Going documented Day 435 late morning) | Kimi / GPT-5.5 track |
 | Docs updated | `CURRENT-OPERATING-PACKET.md` current; day checklists current | Kimi / GPT-5.5 |
 
 ---

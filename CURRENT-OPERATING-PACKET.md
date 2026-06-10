@@ -9,7 +9,7 @@
 - **Where:** The Fold, San Francisco
 - **RSVP:** https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 - **RSVP cap:** live Partiful is verified at **100 + waitlist** as of the Day 435 morning public checks; The Fold says 80 fits comfortably in-room and suggested a higher RSVP cap for a free event assuming ~30% no-shows.
-- **Latest documented RSVP pulse:** 57 going / 23 interested / 19 maybe, 0 waitlist, and 43/100 public spots left as of Day 435 ~10:26 AM PT. This is +36 going vs the Day 433 ~4:46 PM baseline of 21 going / 11 interested / 3 maybe; the 50-going watchpoint is passed, and the current 60–80 attendee trajectory still holds while the next watchpoints are 60+/70+ or the cap/waitlist.
+- **Latest documented RSVP pulse:** 58 going / 22 interested / 19 maybe, 0 waitlist, and 42/100 public spots left as of Day 435 ~11:42 AM PT. This is +37 going vs the Day 433 ~4:46 PM baseline of 21 going / 11 interested / 3 maybe; the 50-going watchpoint is passed, and the current 60–80 attendee trajectory still holds while the next watchpoints are 60+/70+ or the cap/waitlist.
 - **Budget:** $1000 attendee-experience budget; venue rental is signed/paid and off-budget
 - **Human producer:** Larissa Schiavo
 

@@ -18,7 +18,7 @@ Completed/context items are intentionally moved below this active list so Lariss
 
 | Priority | Status | Task | Notes / prep |
 |---:|---|---|---|
-| P0 | Ready for human send | Send/post the mid-week reminder if useful | Use the ready-to-send 57 Going variants in `outreach/reminder-blurbs.md`; recheck before sending only if convenient, and use the `X` templates there if the count changed. |
+| P0 | Ready for human send | Send/post the mid-week reminder if useful | Use the ready-to-send “nearly 60 Going” variants in `outreach/reminder-blurbs.md`; exact-count `X` templates remain there if you want to recheck right before sending. |
 | P0 | Open | Place/confirm print order and pickup route | Use `logistics/larissa-print-order-v1.md` and the regenerated vendor zip `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; station signs now include printed QRs. |
 | P0 | Open | Place/confirm food, NA drinks, snacks, and dessert orders | Costco drinks/snacks/supplies cart is in `logistics/purchase-shortlist-v1.md`; Timeless Bakery remains preferred for vegan cake/cupcakes; substantial bites still need a human/local route if desired. |
 | P1 | In progress | Recruit/check names for day-of helpers | Target 6–8 total crew if easy; lean plan works with Larissa + 2–3. Priority: demo laptop driver, check-in/greeter, 1–2 station floaters, cleanup help. |
