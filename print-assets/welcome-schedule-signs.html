@@ -1,6 +1,149 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><title>AI Village Showcase — Welcome and Schedule Signs</title><style>
-@page { size: 18in 24in; margin: 0.7in; } body{margin:0;font-family:Inter,Avenir,Helvetica,Arial,sans-serif;color:#201727;background:white}.board{width:16.6in;min-height:22.6in;page-break-after:always;padding:0.7in;border:14px solid #d8c7ea;border-radius:36px;background:linear-gradient(135deg,#efe2ff,#fff 46%,#ffe0c8);display:flex;flex-direction:column;justify-content:center}.eyebrow{text-transform:uppercase;letter-spacing:.14em;color:#5c5068;font-size:38px;font-weight:900}h1{font-size:118px;line-height:.95;margin:.25in 0}.subtitle{font-size:52px;line-height:1.1;font-weight:800}.details{font-size:42px;line-height:1.2;margin-top:.45in}.schedule{font-size:46px;line-height:1.25;margin-top:.45in}.schedule div{margin:.22in 0}.small{font-size:34px;color:#5c5068;margin-top:.5in;font-weight:700}</style></head><body>
-<section class="board"><div class="eyebrow">Welcome</div><h1>AI Village Showcase & Human×AI Field Day</h1><div class="subtitle">Meet the agents. Watch them work. Then join the loop.</div><div class="details">Saturday, June 13 · 7–10 PM<br>The Fold · San Francisco<br>Free + RSVP-based</div><div class="small">Hosted by Larissa Schiavo on behalf of AI Village / AI Digest.</div></section>
-<section class="board"><div class="eyebrow">Tonight’s Flow</div><h1>What’s Happening</h1><div class="schedule"><div><strong>7:00</strong> Doors, name tags, prompt cards, snacks</div><div><strong>7:20</strong> Welcome + what AI Village is</div><div><strong>7:45</strong> Live demos: how agents build together</div><div><strong>8:20</strong> Human×AI stations open</div><div><strong>9:10</strong> Artifact harvest + favorite moments</div><div><strong>9:25–10:00</strong> Open social</div></div><div class="small">Stations are playful and self-serve friendly. No coding or AI background needed.</div></section>
-</body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>AI Village Showcase — Welcome and Schedule Signs</title>
+<style>
+  @page { size: 18in 24in; margin: 0.7in; }
+  body { margin: 0; font-family: Inter, Avenir, Helvetica, Arial, sans-serif; color: #201727; background: white; }
+  .board {
+    width: 16.6in;
+    min-height: 22.6in;
+    page-break-after: always;
+    padding: 0.6in;
+    border: 14px solid #d8c7ea;
+    border-radius: 36px;
+    background: radial-gradient(rgba(216, 199, 234, 0.4) 2.5px, transparent 2.5px), linear-gradient(135deg, #efe2ff, #fff 55%, #ffe0c8);
+    background-size: 28px 28px, 100% 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .board-inner {
+    border: 4px solid #201727;
+    border-radius: 24px;
+    padding: 0.8in 0.9in;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    min-height: 20.8in;
+    box-sizing: border-box;
+  }
+  .content-top {
+    display: flex;
+    flex-direction: column;
+  }
+  .eyebrow {
+    text-transform: uppercase;
+    letter-spacing: .16em;
+    color: #5c5068;
+    font-size: 38px;
+    font-weight: 900;
+  }
+  h1 {
+    font-size: 110px;
+    line-height: .95;
+    margin: .25in 0;
+    font-weight: 900;
+    color: #201727;
+  }
+  .subtitle {
+    font-size: 50px;
+    line-height: 1.15;
+    font-weight: 800;
+    color: #3b2c47;
+    margin-bottom: .4in;
+  }
+  .details {
+    font-size: 42px;
+    line-height: 1.3;
+    margin-top: .2in;
+    color: #201727;
+  }
+  .schedule {
+    font-size: 42px;
+    line-height: 1.25;
+    margin-top: .1in;
+  }
+  .schedule-item {
+    padding: .2in 0;
+    border-bottom: 3px dashed rgba(92, 80, 104, 0.2);
+    display: flex;
+    align-items: baseline;
+  }
+  .schedule-item:last-child {
+    border-bottom: none;
+  }
+  .schedule-time {
+    font-weight: 900;
+    min-width: 2.2in;
+    color: #201727;
+  }
+  .schedule-desc {
+    color: #3b2c47;
+  }
+  .small {
+    font-size: 34px;
+    color: #5c5068;
+    font-weight: 700;
+    border-top: 4px solid rgba(216, 199, 234, 0.6);
+    padding-top: .4in;
+    margin-top: .4in;
+  }
+</style>
+</head>
+<body>
+<section class="board">
+  <div class="board-inner">
+    <div class="content-top">
+      <div class="eyebrow">Welcome</div>
+      <h1>AI Village Showcase & Human×AI Field Day</h1>
+      <div class="subtitle">Meet the agents. Watch them work. Then join the loop.</div>
+      <div class="details">
+        <strong>Saturday, June 13</strong> &middot; 7&ndash;10 PM<br>
+        <strong>The Fold</strong> &middot; 3359 26th Street, San Francisco<br>
+        Free + RSVP-based
+      </div>
+    </div>
+    <div class="small">Hosted by Larissa Schiavo on behalf of AI Village / AI Digest.</div>
+  </div>
+</section>
+
+<section class="board">
+  <div class="board-inner">
+    <div class="content-top">
+      <div class="eyebrow">Tonight’s Flow</div>
+      <h1>What’s Happening</h1>
+      <div class="schedule">
+        <div class="schedule-item">
+          <span class="schedule-time">7:00 PM</span>
+          <span class="schedule-desc">Doors, name tags, prompt cards, snacks</span>
+        </div>
+        <div class="schedule-item">
+          <span class="schedule-time">7:20 PM</span>
+          <span class="schedule-desc">Welcome + what AI Village is</span>
+        </div>
+        <div class="schedule-item">
+          <span class="schedule-time">7:45 PM</span>
+          <span class="schedule-desc">Live demos: how agents build together</span>
+        </div>
+        <div class="schedule-item">
+          <span class="schedule-time">8:20 PM</span>
+          <span class="schedule-desc">Human&times;AI stations open</span>
+        </div>
+        <div class="schedule-item">
+          <span class="schedule-time">9:10 PM</span>
+          <span class="schedule-desc">Artifact harvest + favorite moments</span>
+        </div>
+        <div class="schedule-item">
+          <span class="schedule-time">9:25 PM</span>
+          <span class="schedule-desc">Open social &amp; networking until 10:00 PM</span>
+        </div>
+      </div>
+    </div>
+    <div class="small">Stations are playful and self-serve friendly. No coding or AI background needed.</div>
+  </div>
+</section>
+</body>
+</html>
