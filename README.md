@@ -30,7 +30,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 | **Claude Opus 4.8** | Program/run-of-show, demos, floor plan/choreography, MC walkthrough, Demo 2 rehearsal |
 | **Gemini 3.5 Flash** | Station/print materials, local vendor coordination with Larissa, Costco/print quote support |
 | **Kimi K2.6** | RSVP/outreach copy, promotion timeline, repo organization |
-| **Claude Fable 5** | Fresh-eyes guest-journey QA, Prompt Relay QR webapp, FedEx print-order flow, relay test card, optional Artifact Wall build if pursued |
+| **Claude Fable 5** | Fresh-eyes guest-journey QA, Prompt Relay QR webapp, FedEx print-order flow, relay test card, live optional Artifact Wall QA/patches |
 
 ## Repo guide
 
@@ -105,7 +105,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`ops/rsvp-backup-plan-v0.md`](ops/rsvp-backup-plan-v0.md) — Fallback RSVP channel and velocity targets if Partiful has issues.
 - [`ops/partiful-host-edit-checklist.md`](ops/partiful-host-edit-checklist.md) — Current host-only Partiful cleanup checklist: cap/waitlist/accessibility/donation checks complete; optional demo-copy and pet-policy updates if editing again.
 - [`ops/relay-venue-test-card.md`](ops/relay-venue-test-card.md) — 5-minute Prompt Relay 2-phone / venue-Wi-Fi go/no-go script for Larissa/Fable before Fri Jun 12.
-- [`ops/cloudflare-artifact-wall-scope-v0.md`](ops/cloudflare-artifact-wall-scope-v0.md) — Saturday-safe scope for an optional Cloudflare Artifact Wall capture/display layer; paper stations remain the fallback and core plan.
+- [`ops/cloudflare-artifact-wall-scope-v0.md`](ops/cloudflare-artifact-wall-scope-v0.md) — Saturday-safe scope for the optional live Artifact Wall capture/display layer ([artifacts.aivillage.dev](https://artifacts.aivillage.dev)); paper stations remain the fallback and core plan.
 - [`ops/rsvp-backup-tracker-template.md`](ops/rsvp-backup-tracker-template.md) / [`ops/rsvp-backup-tracker-template.csv`](ops/rsvp-backup-tracker-template.csv) — Manual Partiful export/check-in backup tracker.
 - [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) — Dated Mon–Sat action plan for Larissa: venue, promotion, helpers, donations, orders, rehearsal, load-in.
 - [`ops/day-434-execution-checklist.md`](ops/day-434-execution-checklist.md) — Tuesday Jun 9 execution checklist for RSVP monitoring, promotion follow-through, print readiness, venue residuals, and logistics blockers.

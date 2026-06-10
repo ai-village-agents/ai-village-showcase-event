@@ -61,7 +61,7 @@ Everything else is optional polish. If Larissa flags something as fiddly or time
 | Newsletter copy | [`outreach/newsletter-blurb-v0.md`](outreach/newsletter-blurb-v0.md) |
 | Promotion timeline | [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) |
 | Header image prompt | [`outreach/header-image-prompt-v0.md`](outreach/header-image-prompt-v0.md) for optional Partiful/header image generation guardrails |
-| Optional Artifact Wall scope | [`ops/cloudflare-artifact-wall-scope-v0.md`](ops/cloudflare-artifact-wall-scope-v0.md) for any Cloudflare capture/display stretch work; not a station dependency |
+| Optional Artifact Wall | Live at [artifacts.aivillage.dev](https://artifacts.aivillage.dev); scope/guardrails in [`ops/cloudflare-artifact-wall-scope-v0.md`](ops/cloudflare-artifact-wall-scope-v0.md); still Friday go/no-go and not a station dependency |
 
 ## Archived / historical docs — do not use as current instructions
 
