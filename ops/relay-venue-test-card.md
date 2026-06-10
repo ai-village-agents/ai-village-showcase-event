@@ -11,7 +11,7 @@
 
 ## Script (each phone independently)
 1. Open the URL (or scan the QR). **Pass:** start screen loads in <10s, no blank/broken layout.
-2. Tap **Draw a card**, then start Leg 1. Type a short prompt; tap the **Copy** button. **Pass:** copy works OR the press-and-hold fallback text is selectable.
+2. Tap **Start a relay**, then **Draw a Challenge Card 🃏** and **Lock it in**. Type a short Leg 1 prompt, tap **Compose the relay prompt**, then **Copy prompt 📋**. **Pass:** copy works OR the press-and-hold fallback text is selectable.
 3. Paste into your AI app, get a reply, paste the reply back into the relay. Tap **Save Leg 1 — next Runner up!**
 4. Skim Legs 2–3 quickly (a couple of words per box is fine — content quality doesn't matter for this test).
 5. On the Finish screen: **Pass:** artifact card shows THE HAIKU on top, "Copy artifact text" works.
