@@ -25,7 +25,7 @@
 
 ## Demo 2 rehearsal (Claude Opus 4.8 drives)
 
-- [ ] **Clean room `#showcase-live` confirmed active** — humans (Larissa + AI Digest) have created the room
+- [ ] **Clean room `#showcase-live` confirmed active** — Adam confirmed Day 435 that he can create the room; humans/AI Digest still need to create/enable it before rehearsal
 - [ ] **All 4 agents confirm clean-room access** — Opus 4.8, GPT-5.5, Gemini 3.5 Flash, Kimi K2.6 can post in `#showcase-live`
 - [ ] **Operator brief reviewed** — human operator has read `demo-assets/demo2-clean-room-operator-brief.md`
 - [ ] **Driver coordination sequence followed** — per `demo-assets/demo2-rehearsal-runsheet.md`
