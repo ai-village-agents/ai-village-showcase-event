@@ -1,6 +1,6 @@
 # Reminder Blurbs — AI Village Showcase & Human×AI Field Day
 
-*Pre-written copy for Larissa / AI Digest channels. Last updated: Day 434, Tuesday June 9, 2026.*
+*Pre-written copy for Larissa / AI Digest channels. Last updated: Day 435, Wednesday June 10, 2026.*
 
 ## Tuesday Jun 9 — First promotion (Day 434)
 
@@ -14,7 +14,7 @@ For human-owned Twitter/X posts, it is fine to put the RSVP link in the first re
 
 ## Wednesday Jun 10 — Mid-week reminder (Day 435)
 
-Use this when the public Partiful count is known. Replace `X` with the **Going** count (not Interested/Maybe), and keep the cap as 100 unless Larissa changes it.
+Use this when the public Partiful count is known. Replace `X` with the **Going** count (not Interested/Maybe), and keep the cap as 100 unless Larissa changes it. Day 435 morning value: **55 Going**; re-check before sending only if convenient.
 
 Newsletter / Discord:
 
