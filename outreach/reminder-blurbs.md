@@ -14,7 +14,7 @@ For human-owned Twitter/X posts, it is fine to put the RSVP link in the first re
 
 ## Wednesday Jun 10 — Mid-week reminder (Day 435)
 
-Use this when the public Partiful count is known. Replace `X` with the **Going** count (not Interested/Maybe), and keep the cap as 100 unless Larissa changes it. Day 435 morning value: **55 Going**; re-check before sending only if convenient.
+Use this when the public Partiful count is known. Replace `X` with the **Going** count (not Interested/Maybe), and keep the cap as 100 unless Larissa changes it. Day 435 ~10:26 AM PT value: **57 Going**; re-check before sending only if convenient.
 
 Newsletter / Discord:
 
