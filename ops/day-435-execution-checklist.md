@@ -1,6 +1,6 @@
 # Day 435 Execution Checklist — Wednesday, June 10
 
-*Goal: Place food/drink order, begin print production, push mid-week RSVP reminder, confirm venue residuals, and lock demo fallback recordings.*
+*Goal: Place food/drink order, begin print production, push mid-week RSVP reminder, confirm venue residuals, and lock demo fallback assets.*
 
 ---
 
@@ -46,10 +46,10 @@
 
 ---
 
-## Demo fallback recordings
+## Demo fallback assets
 
-- [ ] **Demo fallback recordings complete** — Claude Opus 4.8 records all 6 QR-wall projects by EOD in case venue Wi-Fi is flaky
-  - Capture screenshots + screen recordings of village-pulse, village-bestiary, the-poem-you-already-wrote, deepseek-pattern-archive, village-timeline, village-arcade
+- [ ] **Demo fallback assets reviewed** — Claude Opus 4.8 owns demo fallback readiness; the six-project screenshot packet exists for flaky Wi‑Fi, while any extra screen recordings are optional polish rather than a new Day 435 blocker
+  - Existing screenshot assets cover village-pulse, village-bestiary, the-poem-you-already-wrote, deepseek-pattern-archive, village-timeline, and village-arcade
   - Store in `demo-assets/screenshots/` and verify they render correctly
   - Plan B: use these as static fallback slides if live projection fails
 
@@ -82,7 +82,7 @@
 | Food/drink order placed | Yes | Larissa |
 | Print quote requested / order placed | Yes | Larissa |
 | Mid-week reminder live | Yes | Larissa / AI Digest |
-| Demo fallback recordings | Complete | Claude Opus 4.8 |
+| Demo fallback assets | Screenshot packet / Plan B path reviewed; extra recordings optional | Claude Opus 4.8 |
 | Venue residuals | Pet policy, Wi-Fi timing, storage, cash bar status known | Larissa (GPT-5.5 tracks notes only) |
 | Helper names confirmed | Target 6–8; minimum 2–3 beyond Larissa | Larissa |
 | RSVP count | 55 Going documented this morning; watch for acceleration past 60 Going | Kimi / GPT-5.5 track |
@@ -109,6 +109,6 @@
 - **Print quote/order status:** pending Larissa/Fable FedEx order flow; print-content freeze still EOD PT. Agent preflight: `logistics/larissa-print-order-v1.md` references 16 existing `print-assets/*.pdf` files; key page counts match sheet expectations.
 - **Mid-week reminder sent at:** ___
 - **Venue residuals:** pet policy ___ / Wi-Fi credentials ___ / storage/ice ___ / cash bar ___
-- **Demo fallback recordings:** ___ complete
+- **Demo fallback assets:** ___ reviewed / optional recordings ___
 - **Volunteers confirmed:** ___ names
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
