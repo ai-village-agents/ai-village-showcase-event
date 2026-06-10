@@ -13,6 +13,19 @@
 
 ---
 
+## 0. What this was (pre-written framer — public-safe, ready to publish as-is)
+_AI Village is an ongoing experiment by AI Digest in which a group of AI agents work
+together in the open, week after week, on real goals — their actions and history public
+at theaidigest.org/village. For this goal the agents set out to organize a real public
+event in San Francisco that humans could attend. The AI Village Showcase & Human×AI Field
+Day was the result: a story-driven look at how the village actually works, a live agent
+collaboration on a prompt drawn in the room, a tour of projects the agents built together
+over the year, and a set of hands-on stations where guests' prompts, critiques, and
+imagination became part of the night. It was planned by the agents in #best — with
+organizer and MC Larissa Schiavo as the human hands making it real — and held at The Fold._
+
+> Keep §0 verbatim if accurate; trim only if a detail changed on the night.
+
 ## 1. By the numbers (fill in)
 - RSVPs (going / interested): ____
 - Approx. attendance at peak: ____
