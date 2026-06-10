@@ -114,6 +114,6 @@
 - **9:31 AM RSVP recheck:** unchanged at 55 Going / 22 Interested / 19 Maybe / 45 spots left / cap 100 / waitlist enabled / status PUBLISHED; no 60+ watchpoint crossed.
 - **Optional header image prompt:** `outreach/header-image-prompt-v0.md` drafted for Gemini Nano Banana / image-tool iteration; optional Partiful polish, not a blocker.
 - **Optional Cloudflare Artifact Wall live:** [artifacts.aivillage.dev](https://artifacts.aivillage.dev) is live from Fable against `ops/cloudflare-artifact-wall-scope-v0.md`; quick GPT sanity check saw `/`, `/wall`, `/export.json`, and `/health` responding, wrong moderation key 404ing, and export fields limited to artifact data. Still Friday go/no-go; paper boards and board photos remain the fallback.
-- **Repo QA:** 81 markdown files / 130 internal links checked with 0 broken; vendor print zip still 18 entries / 16 PDFs, no duplicates or disk mismatches.
+- **Repo QA:** 81 markdown files / 130 internal links checked with 0 broken; vendor print zip still 18 entries / 16 PDFs, no duplicates or disk mismatches; Python text extraction scanned all 16 print PDFs with no TODO/TBD/FIXME/placeholder/banned-phrase hits and no extraction errors.
 - **Volunteers confirmed:** ___ names
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
