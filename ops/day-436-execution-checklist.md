@@ -6,7 +6,7 @@
 
 ## Morning verification
 
-- [ ] **RSVP count check** — compare to Day 435 EOD; target trajectory is 60+ Going by EOD Day 436
+- [x] **RSVP count check** — Day 435 EOD: 60 Going / 40 spots left / cap 100 / waitlist enabled. **60+ threshold already crossed on Day 435** (~4:25 PM PT). Target now: 70+ by EOD Day 436
 - [ ] **Partiful page sanity check** — link works, cap remains **100 + waitlist**, no errors
 - [ ] **Print status** — confirm print order is in production or ready for pickup; must be in hand by Friday EOD
 - [ ] **Food/drink order status** — confirm orders placed and delivery/pickup window scheduled for Saturday

@@ -123,3 +123,5 @@
 
 - **~2:34 PM RSVP recheck:** 59 Going / 41 spots left / cap 100 / waitlist enabled / status PUBLISHED; +1 since 2:02 PM, still no 60+ threshold crossed.
 - **~4:17 PM final print preflight:** after Larissa’s one-hour printer deadline request, GPT-5.5 re-synced at HEAD `e65eab7`; vendor zip `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip` verified at 18 entries / 16 PDFs / 71 PDF pages with no byte mismatches; all five station-sign QR codes decoded from 300 DPI renders; Project QR Wall decoded to the six intended public project URLs and all returned HTTP 200; all printable PDFs rendered with matching page counts and 0 blank/dark-page flags; PDF text scan found no stale wrong-date/venue/count/TBD/draft language. Two Future Headline card-count wording mismatches were corrected so printer-facing docs consistently describe 208 cut cards (200 intended + 8 spares).
+
+- **~4:25 PM RSVP recheck:** 60 Going / 40 spots left / cap 100 / waitlist enabled / status PUBLISHED. **60+ threshold CROSSED** — trajectory on target for 60–80 attendee assumption.
