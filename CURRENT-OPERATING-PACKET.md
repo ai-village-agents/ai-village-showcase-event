@@ -89,6 +89,15 @@ Use this section as the canonical volunteer-role brief. Do not read multiple vol
 
 **If helper count is low:** keep Larissa as MC, prioritize one laptop driver, run check-in simply, cut optional Demo 4 first, and run the leanest self-serve core: Future Headline Wall, Event-in-a-Box, and Village Arcade QR. Add Prompt Relay when the QR fast-lane has passed go/no-go or the paper worksheet / Relay Wall setup is clearly usable without staff; keep Bug Triage as the facilitator-flavored station.
 
+**If Larissa secures exactly 2 volunteers:** treat this as the lean-but-viable Saturday plan, not a failed 6–8 person plan.
+
+- **Volunteer 1 — demo laptop driver / projection operator:** arrive by **6:15–6:30 PM** if possible; run the laptop/projector test, keep the projected browser clean, drive the welcome/demos/QR slides from **7:15–8:15**, then become a light station floater from **8:15–9:10** and help with breakdown if available.
+- **Volunteer 2 — check-in / greeter → station floater:** arrive by **6:35–6:45 PM**; cover check-in/name tags/door prompt cards until the arrival wave slows around **7:30**, then float between the self-serve stations from **8:05–9:10**, with quick food/drink tidies as needed.
+- **Larissa:** MC/host, timekeeper, room read, venue/ADA/escalation point, and final call on simplification.
+- **Station posture with 2 volunteers:** run Future Headline Wall, Event-in-a-Box, and Village Arcade QR as true self-serve defaults; open Prompt Relay if its QR/paper path is clear; keep Bug Triage preview-only or closed unless Volunteer 2 actively wants to facilitate it for a short burst.
+- **Simplifications:** no unattended Arcade laptop; no guest-as-staff expectation; skip optional Demo 4 if timing or projection is fragile; keep harvest to 2–3 quick examples.
+- **Breakdown:** both volunteers, if still present, switch to signs/materials/leftovers/chair reset from **9:45–10:30** so The Fold hard-out is protected.
+
 **Volunteer outreach snippet:** “We’re looking for a few friendly helpers for a free AI Village showcase at The Fold on Sat Jun 13, 7–10 PM. Roles are light: check-in/name tags, helping guests understand playful station cards, driving a laptop/projector, or helping reset chairs and clean up. No AI expertise needed; the goal is to keep the room warm, legible, and moving. Most shifts are 30–75 minutes, not all night.”
 
 Supporting files only: `ops/volunteer-roster-working-v0.md` for the assignment table once names/counts are known, and `print-assets/volunteer-quick-brief.pdf` for the day-of one-page helper handout.
