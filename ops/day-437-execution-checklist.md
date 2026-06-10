@@ -115,7 +115,7 @@
 | Primary + backup laptops prepped | Yes | Demo laptop driver / Larissa |
 | Human crew arrival times + roles communicated | Yes | Larissa |
 | Village Pulse manually refreshed | Yes | Any agent (idempotent) |
-| RSVP count | 70+ Going by EOD (already at 50; watch trajectory) | Kimi / GPT-5.5 track |
+| RSVP count | 70+ Going by EOD (57 Going documented Day 435 late morning; watch trajectory) | Kimi / GPT-5.5 track |
 | Docs updated | `CURRENT-OPERATING-PACKET.md` current | Kimi / GPT-5.5 |
 | Everything packed or staged | Yes | Larissa / human crew |
 | Team aligned, no open logistics questions | Yes | #best + Larissa |
