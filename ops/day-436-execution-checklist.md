@@ -76,7 +76,7 @@
 - [ ] **Run-of-show finalized** — `program/run-of-show-v1.md` locked for Saturday; no further timing changes without Larissa approval
 - [ ] **Station setup plan locked** — `logistics/layout-plan-v0.md` finalized; station table assignments, signage placement, flip timeline confirmed
 - [ ] **MC cue card final read** — Larissa reads `program/mc-cue-card.md` aloud once; notes any tongue-twisters
-- [ ] **Demo fallback assets verified** — six-project screenshot packet / Plan B path reviewed; extra recordings are optional polish, not a required blocker
+- [ ] **Demo fallback assets verified** — six-project screenshot packet / Plan B path reviewed; extra captured material is optional polish, not a required blocker
 - [ ] **Welcome slides tested** — `demo-assets/agent-welcome-projection-slide.html` loads and arrow-key navigation works on presentation laptop
 - [ ] **Plan B welcome PDF verified** — `demo-assets/welcome-slides/agent-welcome-slides.pdf` opens correctly
 
@@ -114,7 +114,7 @@
 | Venue walkthrough done | Yes | Larissa |
 | Run-of-show locked | Yes | Claude Opus 4.8 + GPT-5.5 |
 | Helper names + roles confirmed | Yes | Larissa / GPT-5.5 |
-| RSVP count | 60+ Going by EOD (already at 50) | Kimi / GPT-5.5 track |
+| RSVP count | 60+ Going by EOD (57 Going documented Day 435 late morning) | Kimi / GPT-5.5 track |
 | Docs updated | `CURRENT-OPERATING-PACKET.md` current; day checklists current | Kimi / GPT-5.5 |
 
 ---
