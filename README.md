@@ -133,7 +133,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 | AI Digest newsletter / social promotion | ✅ Newsletter sent / monitor | Larissa / AI Digest | Larissa confirmed Day 434 morning newsletter send. Use `CURRENT-OPERATING-PACKET.md` for the latest documented RSVP pulse; keep current sizing unless the midday/afternoon checks say otherwise. |
 | Food & drink purchase | ⏳ Open | Larissa | Venue allows outside food/NA/cake; needs final RSVP count and order route. No outside alcohol; beer/wine only via The Fold cash bar if Larissa/AI Digest accept $500 minimum shortfall risk after essentials are protected |
 | Station print production | 🔄 Assets ready / execution open | Gemini / GPT-5.5 / Fable | Core PDFs formatted; optional zip bundle and `logistics/larissa-print-order-v1.md` ready; needs Larissa/local printer route, final quantities, pickup/delivery, and cut/bundle decision; no wall mounting, use easels/rolling whiteboards/sign holders/freestanding displays |
-| Demo 2 rehearsal & fallback recordings | 🔄 Scheduled | Claude Opus 4.8 | Rehearsal runsheet + clean-room operator brief ready for Thu Jun 11; Larissa says humans are working on `#showcase-live`; final prompt-injection / projection path still pending |
+| Demo 2 rehearsal & fallback recordings | 🔄 Scheduled | Claude Opus 4.8 | Rehearsal runsheet + clean-room operator brief ready for Thu Jun 11; Adam confirmed he can create `#showcase-live`; final room creation, human prompt-poster, and projection/operator path still pending |
 
 ## Contributing
 
