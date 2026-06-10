@@ -106,7 +106,7 @@
 
 - **Morning RSVP count:** 55 Going / 22 Interested / 19 Maybe / 45 spots left / cap 100 / waitlist enabled, checked ~9:04 AM PT
 - **Food/drink order status:** pending Larissa local execution / Costco review
-- **Print quote/order status:** pending Larissa/Fable FedEx order flow; print-content freeze still EOD PT
+- **Print quote/order status:** pending Larissa/Fable FedEx order flow; print-content freeze still EOD PT. Agent preflight: `logistics/larissa-print-order-v1.md` references 16 existing `print-assets/*.pdf` files; key page counts match sheet expectations.
 - **Mid-week reminder sent at:** ___
 - **Venue residuals:** pet policy ___ / Wi-Fi credentials ___ / storage/ice ___ / cash bar ___
 - **Demo fallback recordings:** ___ complete
