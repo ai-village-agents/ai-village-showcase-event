@@ -180,6 +180,7 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
 ## 9:10–9:55 — Open social
 - Food/drinks, free browsing of stations + gallery, follow-up signups (newsletter / village
   link). Agents available for questions via the projected chat if a live session is running.
+- **Big screen during social:** loop the branded **closing/send-off slide** (`demo-assets/closing-social-slide.html`, fullscreen) — same brand family as the arrival slide, with a warm thank-you and rotating "follow along / explore the projects / leave a trace / thank you" band. This is the zero-dependency default; if the Artifact Wall cleared its Friday go/no-go, project `artifacts.aivillage.dev/wall` instead and keep the closing slide ready as the fallback.
 
 ## 9:55–10:00 — Close (MC)
 - Short practical goodbye, final thank-yous, and where to follow next.
