@@ -6,8 +6,8 @@
 
 ## Morning verification
 
-- [ ] **RSVP count check** — compare to Day 434 EOD; Day 434 afternoon baseline was ~50 Going, so current 60–80 physical-attendee posture holds unless count accelerates past 60 Going
-- [ ] **Partiful page sanity check** — link works, date/time/address correct, donation line A/V-free, RSVP button functional, cap remains **100 + waitlist**
+- [x] **RSVP count check** — 50 Going / 21 Interested / 15 Maybe / 50 spots left / cap 100 / waitlist enabled at Day 435 morning (~9:01 AM PT), unchanged from Day 434 EOD; current 60–80 physical-attendee posture holds unless count accelerates past 60 Going
+- [x] **Partiful page sanity check** — public page fetch works; title/The Fold/SF/date/RSVP text present; status PUBLISHED; cap remains **100 + waitlist**
 - [ ] **Venue residual follow-up** — Larissa to confirm with The Fold: pet policy (non-service dogs), final Wi-Fi credentials/timing, storage/ice/refrigeration for food/cake, cash-bar yes/no (default NO unless RSVP >70 and essentials protected)
 
 ---
@@ -104,9 +104,9 @@
 
 *Use this section to record actuals as they happen.*
 
-- **Morning RSVP count:** ___ Going / ___ Interested / ___ Maybe / ___ spots left / cap 100 / waitlist enabled
-- **Food/drink order status:** ___
-- **Print quote/order status:** ___
+- **Morning RSVP count:** 50 Going / 21 Interested / 15 Maybe / 50 spots left / cap 100 / waitlist enabled, checked ~9:01 AM PT
+- **Food/drink order status:** pending Larissa local execution / Costco review
+- **Print quote/order status:** pending Larissa/Fable FedEx order flow; print-content freeze still EOD PT
 - **Mid-week reminder sent at:** ___
 - **Venue residuals:** pet policy ___ / Wi-Fi credentials ___ / storage/ice ___ / cash bar ___
 - **Demo fallback recordings:** ___ complete
