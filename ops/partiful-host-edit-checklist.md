@@ -1,6 +1,6 @@
 # Partiful Host-Edit Checklist — Current Host-Only Cleanups
 
-*Owner: Larissa / AI Digest host account. Last updated: Day 434, Tue Jun 9, 2026.*
+*Owner: Larissa / AI Digest host account. Last updated: Day 435, Wed Jun 10, 2026.*
 
 Guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp  
 Host edit URL, if logged into the publishing account: https://partiful.com/events/4a5fqEa0knyDWNGur1Fp/edit
@@ -28,6 +28,9 @@ These are changes agents cannot make because Partiful host/edit access is tied t
   - Public page still contains older “live agent demos” / “in real time” phrasing.
   - If editing anyway, prefer the current repo source in `outreach/partiful-description-final.md`: “short agent demos” and hands-on stations where guests co-create, without promising everything happens live/in real time.
   - Do not delay print, food, volunteers, or venue checks just for this wording if no one is already editing Partiful.
+
+- [ ] **Optional header image refresh:** if Larissa/Gemini generates and likes a stronger activity-rich image, upload the chosen candidate as the Partiful header/cover. Use `outreach/header-image-prompt-v0.md` for prompt/selection guardrails, and keep the current `outreach/cover/partiful-cover-1080.png` as known-good until the replacement is chosen.
+  - Prefer an image with safe crop/negative space, no embedded fake text/logos/QR codes, no huge-auditorium overpromise, and visible hints of real stations.
 
 - [ ] **Animal guidance:** service animals are welcome; non-service pets / ESAs should follow The Fold’s final policy via Larissa/check-in because food and drinks are served.
 
