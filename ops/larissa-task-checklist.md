@@ -2,7 +2,7 @@
 
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
-_Last updated: Day 435, Wednesday June 10, 2026_
+_Last updated: Day 435, Wednesday June 10, 2026, ~10:15 AM PT_
 
 ## Status key
 
@@ -11,7 +11,26 @@ _Last updated: Day 435, Wednesday June 10, 2026_
 - **Done** — complete.
 - **Blocked / agent-first** — agents are trying first; ask Larissa only if we hit a real limitation.
 
-## Immediate / critical path
+
+## Current Larissa-facing todo — active first
+
+Completed/context items are intentionally moved below this active list so Larissa can scan only what still needs human/local action.
+
+| Priority | Status | Task | Notes / prep |
+|---:|---|---|---|
+| P0 | Ready for human send | Send/post the mid-week reminder if useful | Use `outreach/reminder-blurbs.md`; current documented count is 55 Going unless rechecked before sending. |
+| P0 | Open | Place/confirm print order and pickup route | Use `logistics/larissa-print-order-v1.md` and the regenerated vendor zip `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; station signs now include printed QRs. |
+| P0 | Open | Place/confirm food, NA drinks, snacks, and dessert orders | Costco drinks/snacks/supplies cart is in `logistics/purchase-shortlist-v1.md`; Timeless Bakery remains preferred for vegan cake/cupcakes; substantial bites still need a human/local route if desired. |
+| P1 | In progress | Recruit/check names for day-of helpers | Target 6–8 total crew if easy; lean plan works with Larissa + 2–3. Priority: demo laptop driver, check-in/greeter, 1–2 station floaters, cleanup help. |
+| P1 | Primary laptop offered; backup open | Confirm devices/adapters | Larissa plans to bring her laptop; still confirm charger/adapters, clean browser/notifications off, and one supervised backup laptop/tablet if available. |
+| P1 | Ready for physical review | Physical print/guest-journey playtest | Use the checklist below after proof/test print/on-site mock layout; report only concrete blockers or “physical playtest OK.” |
+| P1 | Pending | Confirm final Wi‑Fi credentials/timing and non-service pet policy | Wi‑Fi availability and private day-of venue contact are confirmed; do not put private contact details in repo/chat. |
+| P1 | Optional / decide yes-no | Cash bar decision | Quote received: $500 minimum cash bar, $7–$13/drink, team covers shortfall. Default no unless RSVPs >70 and essentials are protected. |
+| P2 | Optional polish | Header image refresh | If a stronger generated image lands, use `outreach/header-image-prompt-v0.md` / `ops/partiful-host-edit-checklist.md`; current cover is acceptable fallback. |
+
+---
+
+## Detailed tracking / context, including completed items
 
 **Larissa has confirmed she will MC / host the event** (~Day 433 noon). This fills the highest-leverage human role and makes the lean staffing plan viable. `program/mc-cue-card.md` is written for single-host delivery.
 
@@ -29,6 +48,7 @@ _Last updated: Day 435, Wednesday June 10, 2026_
 
 ## Latest human-side status
 
+- **Larissa availability note:** Day 435 Larissa expects lunch at 12:30 PM PT and a break around 3:00 PM PT; batch non-urgent asks around those windows.
 - Day 435 ~9:03 AM PT: Adam confirmed he can create `#showcase-live` for the Thu Jun 11 Demo 2 rehearsal; actual room creation/access, human prompt-poster, and projection/operator confirmation are still pending. Day 434 local status remains: volunteers are still being sourced; Wi‑Fi will be available; no journalist reply yet; pet policy remains pending.
 - Day 433 ~12:17 PT: Larissa said she is emailing journalist contacts and was waiting on The Fold.
 - Day 433 ~3:43 PM PT: Larissa pasted The Fold reply question-by-question. Key confirmed answers: entire downstairs; seating 60 + standing/back breakout tables; 80 comfortable and possible higher cap for free event/no-shows; setup 6 PM; breakdown 10:30 PM; included projector/screen/3 mics/PA/cables/adapters/uplights; event Wi‑Fi details later; outside food/NA/cake allowed with cleanup/trash/leftover removal; no wall mounting; easels/rolling whiteboards/sign holders; stage power strip, extension cords/cable covers; front check-in then downstairs to Theater Gallery; ADA elevator assistance via staff; food/drink in back of Theater Gallery.
@@ -98,20 +118,10 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 ## Current Larissa-facing todo after The Fold reply
 
-### Done / mostly done
-
-- Venue booked and paid for Sat Jun 13, 7–10 PM.
-- Larissa confirmed MC/host role.
-- The Fold confirmed: entire downstairs, 60 seated + standing/back breakouts, 80 comfortable in-room, 6 PM setup, 10:30 PM cleanup, included projector/screen/3 mics/PA/cables/adapters/uplights, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension/cable covers, outside NA/food/cake allowed, front check-in/downstairs Theater Gallery flow, ADA elevator assistance via staff, and trash/recycling/compost bins.
-- RSVP cap decision: Larissa said **100** makes sense; agents are updating docs around **100 + waitlist**.
-- Donation option is visible and remains optional/free-entry-safe.
-
 ### Larissa decisions / actions still needed
 
 | Priority | Status | Task | Notes |
 |---:|---|---|---|
-| P0 | Done / monitor | Change Partiful cap to **100 + waitlist** | Public page verified cap 100 + waitlist after newsletter; use `CURRENT-OPERATING-PACKET.md` for the latest documented RSVP pulse and monitor RSVP velocity. |
-| P0 | Done / monitor | Send AI Digest newsletter / public promotion | Sent Day 434 morning; copy was fallback-safe for live or recorded Demo 2. |
 | P1 | Preferred route identified | Decide DIY NA drinks vs The Fold NA sparkling drinks | Default to Costco pickup for sparkling water, still water, soft drinks, and snacks; The Fold NA sparkling at $3–4/person remains backup if pickup timing fails. |
 | P1 | Preferred cake vendor identified | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. Larissa recommends Timeless Bakery for vegan cake/cupcakes; still choose quantity/format and keep basics protected. |
 | P1 | Preferred route identified | Choose printer / pickup / delivery route | Larissa identified Kinko’s / FedEx Office as best Bay Area print calibration route; use `logistics/larissa-print-order-v1.md` for the ready-to-order FedEx upload list/costs, with `logistics/print-specifications-v1.md` as the master spec and the optional single-upload zip at `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`. Alternate local shops only if timing, cutting, or quote fails. |
@@ -121,6 +131,15 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | P1 | Quote received — decide yes/no | Get beer/wine bar-package quote only if alcohol remains desired | Quote: $500 minimum cash bar, $7–$13/drink, we cover shortfall. Skip unless RSVPs >70 and food/NA/cleanup/signage are already locked in. |
 | P1 | Pending | Ask/confirm non-service pet policy | Larissa says pet policy is still pending. Current public stance: service animals welcome; non-service pets / ESAs follow The Fold’s final policy via Larissa/check-in because food and drinks are served. |
 | P1 | Day-of contact confirmed privately; Wi‑Fi availability confirmed; credentials timing open | Hold private day-of venue contact and final Wi‑Fi credentials | Larissa has the venue day-of contact and says Wi‑Fi will be there; do not commit private contact info to repo/chat. Final Wi‑Fi credentials/timing still pending. |
+
+### Done / mostly done
+
+- Venue booked and paid for Sat Jun 13, 7–10 PM.
+- Larissa confirmed MC/host role.
+- The Fold confirmed: entire downstairs, 60 seated + standing/back breakouts, 80 comfortable in-room, 6 PM setup, 10:30 PM cleanup, included projector/screen/3 mics/PA/cables/adapters/uplights, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension/cable covers, outside NA/food/cake allowed, front check-in/downstairs Theater Gallery flow, ADA elevator assistance via staff, and trash/recycling/compost bins.
+- RSVP cap is set to **100 + waitlist** and verified live.
+- AI Digest newsletter/public promotion went out Day 434 morning.
+- Donation option is visible and remains optional/free-entry-safe.
 
 ### Larissa physical playtest checklist
 
