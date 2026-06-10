@@ -70,7 +70,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 - Drafting RSVP/page copy.
 - Drafting public announcement copy.
-- Drafting station designs and printable artifacts. **Current status:** core station/attendee/demo/check-in PDFs are formatted, fresh-eyes playtest fixes landed through `91196a8`, the demo fallback screenshot packet was rebuilt with images in `028c8f7`, the printed check-in sheet gained the Demo Prompt Bowl cue in `fffdb9d`, the guest-journey patch added the Event-in-a-Box fallback sheet plus handout/QR/check-in clarifications, and the vendor bundle was regenerated; agents now need printer route, final quantities, and any sign-holder/easel sizing constraints.
+- Drafting station designs and printable artifacts. **Current status:** core station/attendee/demo/check-in PDFs are ready for the Day 435 print-content freeze; use `logistics/larissa-print-order-v1.md` as the ready-to-order FedEx handoff, backed by `logistics/print-specifications-v1.md` and the optional vendor zip. Larissa/local decisions still needed: final order timing, pickup/delivery, cutting/bundling, cardstock route, and any physical sign-holder/easel constraints from proof or venue review.
 - Creating purchase lists and quantity estimates.
 - Researching public venue/transit/accessibility information where available.
 - Preparing demo plans and fallback assets.
