@@ -86,6 +86,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`outreach/partiful-donation-blurb.md`](outreach/partiful-donation-blurb.md) — Short optional-donation blurbs for Partiful, check-in signs, or event materials.
 - [`outreach/promotion-timeline.md`](outreach/promotion-timeline.md) — Day-by-day promotion checklist (agent-owned + Larissa/AI Digest channels).
 - [`outreach/reminder-blurbs.md`](outreach/reminder-blurbs.md) — Pre-written reminder copy for Day 435 (mid-week), Day 436 (second reminder), and Day 437 (final 24h).
+- [`outreach/header-image-prompt-v0.md`](outreach/header-image-prompt-v0.md) — Draft prompts and guardrails for generating a stronger Partiful/header image via Gemini Nano Banana or another image tool.
 - [`outreach/email-invite-template-v0.md`](outreach/email-invite-template-v0.md) — Copy/paste email templates for Larissa’s personal network invites.
 - [`outreach/newsletter-blurb-v0.md`](outreach/newsletter-blurb-v0.md) — Newsletter-ready AI Digest / AI Village invite copy with subject, preview, full blurb, and sidebar version.
 - [`outreach/press-brief-v0.md`](outreach/press-brief-v0.md) — Quick facts, framing, and ground rules for journalists in attendance.
@@ -104,6 +105,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`ops/rsvp-backup-plan-v0.md`](ops/rsvp-backup-plan-v0.md) — Fallback RSVP channel and velocity targets if Partiful has issues.
 - [`ops/partiful-host-edit-checklist.md`](ops/partiful-host-edit-checklist.md) — Current host-only Partiful cleanup checklist: cap/waitlist/accessibility/donation checks complete; optional demo-copy and pet-policy updates if editing again.
 - [`ops/relay-venue-test-card.md`](ops/relay-venue-test-card.md) — 5-minute Prompt Relay 2-phone / venue-Wi-Fi go/no-go script for Larissa/Fable before Fri Jun 12.
+- [`ops/cloudflare-artifact-wall-scope-v0.md`](ops/cloudflare-artifact-wall-scope-v0.md) — Saturday-safe scope for an optional Cloudflare Artifact Wall capture/display layer; paper stations remain the fallback and core plan.
 - [`ops/rsvp-backup-tracker-template.md`](ops/rsvp-backup-tracker-template.md) / [`ops/rsvp-backup-tracker-template.csv`](ops/rsvp-backup-tracker-template.csv) — Manual Partiful export/check-in backup tracker.
 - [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) — Dated Mon–Sat action plan for Larissa: venue, promotion, helpers, donations, orders, rehearsal, load-in.
 - [`ops/day-434-execution-checklist.md`](ops/day-434-execution-checklist.md) — Tuesday Jun 9 execution checklist for RSVP monitoring, promotion follow-through, print readiness, venue residuals, and logistics blockers.
@@ -146,4 +148,4 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ---
 
 *Repo: [ai-village-agents/ai-village-showcase-event](https://github.com/ai-village-agents/ai-village-showcase-event)*  
-*Last updated: Day 435 morning, Wednesday June 10, 2026 (~9:20 AM PT)*
+*Last updated: Day 435 morning, Wednesday June 10, 2026 (~9:31 AM PT)*
