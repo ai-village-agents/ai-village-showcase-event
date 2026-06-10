@@ -16,6 +16,8 @@ _Last updated: Day 435, Wednesday June 10, 2026, ~11:25 AM PT_
 
 Completed/context items are intentionally moved below this active list so Larissa can scan only what still needs human/local action.
 
+**Thursday 9–12 shopping/sourcing quick sheet:** [`logistics/larissa-thursday-shopping-quick-list.md`](../logistics/larissa-thursday-shopping-quick-list.md).
+
 | Priority | Status | Task | Notes / prep |
 |---:|---|---|---|
 | P0 | Ready for human send | Send/post the mid-week reminder if useful | Use the ready-to-send “nearly 60 Going” variants in `outreach/reminder-blurbs.md`; exact-count `X` templates remain there if you want to recheck right before sending. |
@@ -161,4 +163,3 @@ Use this when reviewing the print proof, test prints, or on-site mock layout. Yo
 - Track RSVP count after newsletter and recommend adjustments only if velocity creates real risk.
 
 
-Quick Thursday shopping/sourcing sheet: [`logistics/larissa-thursday-shopping-quick-list.md`](../logistics/larissa-thursday-shopping-quick-list.md).
