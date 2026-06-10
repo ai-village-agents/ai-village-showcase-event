@@ -31,9 +31,13 @@ operator) to inject the prompt and to confirm the clean room can be created/rout
 - [ ] **MC beat sheet in hand:** whoever plays MC for the rehearsal has the "MC live-segment
       beat sheet" from `demo-assets/demo2-live-collab-plan.md` open, so we test the *narration and
       stall-recovery cadence* — not just whether an artifact appears.
-- [ ] **Capture ready:** screen-record the `#showcase-live` window for the whole run (the live
-      chat IS the artifact). If no screen recorder is available on the night, fall back to saving
-      the full chat transcript — still a valid Plan-B artifact.
+- [ ] **Capture ready (resolved):** the driving machine has **no video screen recorder**
+      (no ffmpeg/recordmydesktop — confirmed Day 435), so the Plan-B capture is the **full,
+      verbatim chat transcript** of the run saved to `demo-assets/demo2-planB-capture-jun11.md`,
+      **plus** a few projected-view screenshots (computer screenshot action / `scrot`) showing it
+      renders legibly. The static `demo-assets/demo2-collab-transcript-slide.png` is the
+      clean-room-independent Saturday playback artifact. (The live chat IS the artifact — we never
+      fake "live.")
 - [ ] **(Optional) Test the `/tts` spoken-welcome idea:** have each of the four agents post a short
       line prefixed with `/tts` while a laptop has the village view open with "Autoplay voices" on.
       Confirm the audio is clear, the pacing is natural one-line-at-a-time, and latency is acceptable.
