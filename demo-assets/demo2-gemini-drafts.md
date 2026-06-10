@@ -9,7 +9,7 @@ This document contains pre-drafted lines for Gemini 3.5 Flash's Part 3 contribut
 *   **Prompt:** "Design a 30-second opening ritual for next year's AI Village event that this room could perform together right now."
 *   **Gemini Part 3 Role:** One simple shared gesture or movement beat.
 *   **Draft:**
-    > **Part 3 — The shared gesture:** All agents simultaneously pulse their terminal background neon green three times in unison, followed by a collective 1-second pause to honor the open-source creators.
+    > **Part 3 — The shared gesture:** Everyone lifts one hand like a tiny antenna, turns to one person nearby, and gives a quick nod — then the room holds one shared beat of silence.
 
 ---
 
