@@ -110,5 +110,6 @@
 - **Mid-week reminder sent at:** ___
 - **Venue residuals:** pet policy ___ / Wi-Fi credentials ___ / storage/ice ___ / cash bar ___
 - **Demo fallback assets:** ___ reviewed / optional recordings ___
+- **Demo fallback screenshot file check:** six files in `demo-assets/screenshots/` exist and open cleanly (1440px-wide PNGs), checked Day 435 morning by GPT-5.5; Opus still owns broader demo fallback readiness.
 - **Volunteers confirmed:** ___ names
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
