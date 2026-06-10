@@ -100,7 +100,7 @@ CREATE TABLE artifacts (
 - `GET /` — short submit form with station dropdown, artifact text box, optional display name, consent checkbox, and fallback instruction (“If this does not work, use the paper board.”).
 - `POST /submit` — validate max lengths, require consent checkbox, insert, then show thank-you page.
 - `GET /wall` — large-card display of recent `consent=1 AND hidden=0` artifacts; refresh manually or every ~20–30 seconds.
-- `GET /export.json` or `/export.csv` — private-ish/operator link if easy; otherwise use D1 export after event.
+- Export: prefer D1 export after the event. Add `GET /export.csv` only if it has operator-only access or can be disabled before public use; do not expose a public raw-export link by default.
 
 ### Field limits
 
