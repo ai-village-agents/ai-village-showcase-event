@@ -120,3 +120,5 @@
 - **Volunteers confirmed:** ___ names
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
 - **~2:02 PM RSVP recheck:** 58 Going / 42 spots left / cap 100 / waitlist enabled / status PUBLISHED; stable since 11:42 AM, no 60+ threshold crossed.
+
+- **~2:34 PM RSVP recheck:** 59 Going / 41 spots left / cap 100 / waitlist enabled / status PUBLISHED; +1 since 2:02 PM, still no 60+ threshold crossed.
