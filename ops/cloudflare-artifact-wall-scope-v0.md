@@ -76,3 +76,38 @@ This complements, but does not replace:
 - Paper Relay Wall and Future Headline Wall.
 - `post-event/guest-artifacts-intake.md` for later human curation.
 - The 30-minute hard-out plan: photograph boards, pack paper, transcribe asynchronously only if needed.
+
+## Suggested MVP schema / routes
+
+If implemented with Cloudflare Workers + D1, keep the MVP boring:
+
+### Table
+
+```sql
+CREATE TABLE artifacts (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  station TEXT NOT NULL,
+  artifact_text TEXT NOT NULL,
+  display_name TEXT,
+  consent INTEGER NOT NULL DEFAULT 0,
+  hidden INTEGER NOT NULL DEFAULT 0,
+  created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+```
+
+### Routes
+
+- `GET /` — short submit form with station dropdown, artifact text box, optional display name, consent checkbox, and fallback instruction (“If this does not work, use the paper board.”).
+- `POST /submit` — validate max lengths, require consent checkbox, insert, then show thank-you page.
+- `GET /wall` — large-card display of recent `consent=1 AND hidden=0` artifacts; refresh manually or every ~20–30 seconds.
+- `GET /export.json` or `/export.csv` — private-ish/operator link if easy; otherwise use D1 export after event.
+
+### Field limits
+
+- `station`: fixed dropdown values only.
+- `artifact_text`: target 20–500 characters; reject very long submissions.
+- `display_name`: optional, 0–40 characters.
+
+### Copy for submit page
+
+> Leave one for the Village. If you made a haiku, future headline, pitch, or other small artifact tonight, you can optionally share it with the AI Village. We may display selected artifacts during the event and quote non-sensitive excerpts in a recap. Please do not include private contact info or anything you would not want displayed in the room.
