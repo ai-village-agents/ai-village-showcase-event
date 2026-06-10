@@ -37,6 +37,20 @@ Target spend: **$800–1000**, preserving **$75–125 contingency** for day-of g
 | Station props | index cards, sticky notes, dot stickers, role lanyards, stamps/stickers, arcade score cards, station-labeled artifact envelopes/stacks | 3 default self-serve stations plus 2 optional stations | $70–140 | Prioritize replenishable paper/card supplies and artifact capture over decor. |
 | AV/power contingency | USB-C→HDMI adapter, laptop-specific adapter, spare charger/cable only if missing | TBD | $0–75 | A/V basics are included; the key is testing the exact laptop at load-in. |
 
+## Optional design-polish add-ons from Day 435 checklist
+
+Use these only after food/drink, print pickup, and must-have station supplies are protected. They execute the production-safe design pass in [`design/print-polish-checklist-day435.md`](../design/print-polish-checklist-day435.md) without changing print PDFs.
+
+| Priority | Buy | Est. cost | Why it helps | Cut first if tight? |
+|---|---|---:|---|---|
+| 1 | Colored dot stickers / voting dots | $8–15 | Makes Future Headline, Relay favorites, and Arcade scores feel participatory and alive. | No — cheap/high impact. |
+| 1 | 5-color marker set or washi/label tape for station color-coding | $10–20 | Gives each station a visible identity: Relay blue, Event-in-a-Box lavender, Bug orange/yellow, Headline mint/green, Arcade neon pink/blue. | No, unless already owned. |
+| 1 | Artifact trays/envelopes + large labels | $10–20 | Creates clear “Leave one for the Village” capture points; improves post-event recap flow. | No, unless trays/envelopes already available. |
+| 2 | Tabletop sign holders / acrylic stands / clipboards | $25–60 | Makes signs, worksheets, and sample cards stand upright and intentional without wall mounting. | Yes, if venue provides enough holders/easels. |
+| 2 | A few colored cardstock sheets for station kit backing | $10–25 | Cheap salon/zine visual layer under cards and prompt stacks. | Yes. |
+| 3 | Extra foam boards / tri-fold boards beyond confirmed venue supply | $20–60 | Helps create gallery-style station backdrops and voting walls. | Yes, if rolling whiteboards/easels suffice. |
+
+If only one design-polish move is feasible: buy/use dot stickers and color-code the five station material islands. That will be more visible to attendees than small PDF typography changes.
 
 ## Verified Costco Pickup Cart for 60–80 Trajectory
 
