@@ -2,7 +2,7 @@
 
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
-_Last updated: Day 435, Wednesday June 10, 2026, ~4:40 PM PT_
+_Last updated: Day 435, Wednesday June 10, 2026, ~4:45 PM PT_
 
 ## Status key
 
@@ -30,7 +30,7 @@ Completed/context items are intentionally moved below this active list so Lariss
 | P1 | Primary laptop offered; backup open | Confirm devices/adapters | Larissa plans to bring her laptop; still confirm charger/adapters, clean browser/notifications off, and one supervised backup laptop/tablet if available. |
 | P1 | Ready for physical review | Physical print/guest-journey playtest | Use the checklist below after proof/test print/on-site mock layout; report only concrete blockers or “physical playtest OK.” |
 | P1 | Pending | Confirm final Wi‑Fi credentials/timing and non-service pet policy | Wi‑Fi availability and private day-of venue contact are confirmed; do not put private contact details in repo/chat. |
-| P1 | Optional / decide yes-no | Cash bar decision | Quote received: $500 minimum cash bar, $7–$13/drink, team covers shortfall. Default no unless RSVPs >70 and essentials are protected. |
+| P1 | Conditional yes if budget risk accepted | Cash bar decision | Quote received: $500 minimum cash bar, $7–$13/drink, team covers shortfall. Day 435 ~4:36 PM live count: 60 Going / 20 Maybe; GPT-5.5 recommendation: yes if Larissa is comfortable with possible shortfall after protecting print, NA drinks, snacks/food, and dessert. |
 | P2 | Optional polish | Header image refresh | If a stronger generated image lands, use `outreach/header-image-prompt-v0.md` / `ops/partiful-host-edit-checklist.md`; current cover is acceptable fallback. |
 
 ---
