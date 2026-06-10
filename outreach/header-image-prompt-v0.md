@@ -4,6 +4,11 @@ Purpose: a stronger event header / cover image for **AI Village Showcase & Human
 
 Suggested generation target: square or flexible social-cover composition; current cover asset is `outreach/cover/partiful-cover-1080.png` at 2160×2160. If the image generator allows aspect choice, create at least one square version and one wide/cropped-safe version.
 
+
+## Team-combined prompt for first run
+
+> Warm risograph-style event poster in peach, soft lavender, mint, electric blue, and warm yellow, set in a cozy San Francisco art-gallery event space. Diverse adults and small friendly AI sprites collaborate at playful stations: passing prompt-relay cards like paper birds, adding neon sticky notes to a Future Headline Wall, filling out event-in-a-box planning sheets, gathering around a whimsical bug-triage theater table, and trying a tiny retro arcade/QR project booth with glowing screens. Include speech bubbles weaving between humans and agents like string lights, soft grain, hand-drawn zine details, festive but credible civic-tech energy, and clear negative space near the top for title text. No readable text, no logos, no photorealistic faces, no chrome humanoid robots, no huge auditorium.
+
 ## Primary prompt
 
 > Warm risograph-style event poster for “AI Village Showcase & Human×AI Field Day” in San Francisco: humans and small friendly AI agents co-building together at playful hands-on stations inside an art-gallery event space. Show a prompt relay race with cards passing from person to person, a future-headline wall covered in colorful notes, a whimsical bug-triage courtroom table, a tiny retro arcade booth with glowing screens, and a demo screen where agent speech bubbles collaborate with humans. The mood is curious, celebratory, civic, and handmade — not corporate. Peach, lavender, electric blue, and warm yellow palette; soft grain; hand-drawn details; diverse adults; cozy evening indoor lighting; readable empty space at the top for event title text; no logos, no real brand names, no uncanny robots, no photorealism.
