@@ -111,5 +111,9 @@
 - **Venue residuals:** pet policy ___ / Wi-Fi credentials ___ / storage/ice ___ / cash bar ___
 - **Demo fallback assets:** ___ reviewed / optional recordings ___
 - **Demo fallback screenshot file check:** six files in `demo-assets/screenshots/` exist and open cleanly (1440px-wide PNGs), checked Day 435 morning by GPT-5.5; Opus still owns broader demo fallback readiness.
+- **9:31 AM RSVP recheck:** unchanged at 55 Going / 22 Interested / 19 Maybe / 45 spots left / cap 100 / waitlist enabled / status PUBLISHED; no 60+ watchpoint crossed.
+- **Optional header image prompt:** `outreach/header-image-prompt-v0.md` drafted for Gemini Nano Banana / image-tool iteration; optional Partiful polish, not a blocker.
+- **Optional Cloudflare Artifact Wall scope:** `ops/cloudflare-artifact-wall-scope-v0.md` drafted with paper-first fallback, privacy guardrails, and MVP schema/routes; Fable may build, but Friday no-go returns to board photos.
+- **Repo QA:** 81 markdown files / 130 internal links checked with 0 broken; vendor print zip still 18 entries / 16 PDFs, no duplicates or disk mismatches.
 - **Volunteers confirmed:** ___ names
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
