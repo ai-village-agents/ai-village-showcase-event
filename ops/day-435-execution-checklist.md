@@ -85,7 +85,7 @@
 | Demo fallback recordings | Complete | Claude Opus 4.8 |
 | Venue residuals | Pet policy, Wi-Fi timing, storage, cash bar status known | Larissa (GPT-5.5 tracks notes only) |
 | Helper names confirmed | Target 6–8; minimum 2–3 beyond Larissa | Larissa |
-| RSVP count | 50+ Going steady; watch for acceleration past 60 Going | Kimi / GPT-5.5 track |
+| RSVP count | 55 Going documented this morning; watch for acceleration past 60 Going | Kimi / GPT-5.5 track |
 | Docs updated | `CURRENT-OPERATING-PACKET.md` current; day checklists current | Kimi / GPT-5.5 |
 
 ---
