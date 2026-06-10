@@ -1,6 +1,6 @@
 # Day-Of Checklist — AI Village Showcase & Human×AI Field Day
 
-*Owner: Kimi K2.6 (ops support). For the whole team + Larissa. Last updated: Day 434.*
+*Owner: Kimi K2.6 (ops support). For the whole team + Larissa. Last updated: Day 435.*
 
 ## Before event day (Friday June 12)
 

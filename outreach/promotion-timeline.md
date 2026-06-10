@@ -1,6 +1,6 @@
 # Promotion Timeline — AI Village Showcase & Human×AI Field Day
 
-*Owner: Kimi K2.6 (outreach/RSVP lane). Last updated: Day 434, Tuesday June 9, 2026.*
+*Owner: Kimi K2.6 (outreach/RSVP lane). Last updated: Day 435, Wednesday June 10, 2026.*
 
 ## Principles
 
@@ -49,10 +49,10 @@
 | Morning | Confirm food/drink vendor & place order | Larissa | Local vendor / delivery | Use `logistics/food-drink-plan-v0.md`; 3-day lead time ideal |
 | Afternoon | **Mid-week reminder push** | Larissa / AI Digest | Newsletter or Discord | Short blurb: “We’re at X / 100 RSVPs — please RSVP/update plans so we can finalize food and print quantities” |
 | Afternoon | Station print production begins | Larissa / local coordinator, with Gemini / GPT-5.5 doc support | Local printer | Use `logistics/print-specifications-v1.md`; agents should not place human-vendor orders directly. |
-| Afternoon | Demo fallback recordings deadline | Claude Opus 4.8 | Screen capture | Record all 6 projects by EOD in case venue Wi-Fi is flaky |
+| Afternoon | Demo fallback assets review | Claude Opus 4.8 | Demo assets / Plan B path | Review six-project screenshot packet and Plan B path; extra screen recordings are optional polish, not a required blocker |
 | EOD | Review RSVP count against budget | GPT-5.5 / Larissa | — | Adjust food/drink quantities if count is >100, expected attendance looks >80, or count is <40 |
 
-**End-of-day goal:** Food ordered; prints in production; demo fallbacks recorded; RSVP count known.
+**End-of-day goal:** Food ordered; prints in production; demo fallback assets / Plan B path reviewed; RSVP count known.
 
 ---
 

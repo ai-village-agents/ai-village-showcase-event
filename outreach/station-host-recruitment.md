@@ -7,7 +7,7 @@ to her network, to AI Digest folks attending, or to a few engaged RSVPs — to t
 "watching" into "helping run a station."
 
 The ask is light on purpose: a **20-minute shift**, no prep, no AI expertise needed. Each
-station has printed instructions or cards, but two stations work much better with a helper/device. A host mostly welcomes people, keeps it moving, and tops up supplies.
+station has printed instructions or cards; Prompt Relay also has an optional QR fast-lane if it passes go/no-go. A host mostly welcomes people, keeps it moving, and tops up supplies.
 
 ## Quick staffing target
 
@@ -42,4 +42,4 @@ station has printed instructions or cards, but two stations work much better wit
 
 ---
 
-*If we get enough hosts, run all five stations staffed (comfortable tier). If not, run the true self-serve set first: Event-in-a-Box, Future Headline Wall, and Village Arcade via QR/phones. Prompt Relay and Bug Triage are helper/device-upside stations; if no helper is free, guests can preview/start the paper artifact and return when a floater is available. See `program/run-of-show-v1.md`.*
+*If we get enough hosts, run all five stations staffed (comfortable tier). If not, run the true self-serve set first: Event-in-a-Box, Future Headline Wall, and Village Arcade via QR/phones. Prompt Relay joins the self-serve set if its QR fast-lane passes go/no-go or the paper worksheet / Relay Wall setup is clearly usable; Bug Triage remains the helper-flavored upside station. See `program/run-of-show-v1.md`.*
