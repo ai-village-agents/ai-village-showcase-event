@@ -56,6 +56,7 @@ Use these before preserving the full ambitious plan:
 - [ ] Restrooms located and accessible.
 - [ ] Trash/recycling/compost bins visible and labeled for attendee use.
 - [ ] One team member designated as "runner" for last-minute needs.
+- [ ] *(If Artifact Wall passed Friday go/no-go)* Open `artifacts.aivillage.dev/mod` and hide pre-event test entries so the wall starts the night clean (2 min; nothing is deleted).
 
 ## Event (7:00–10:00 PM)
 
