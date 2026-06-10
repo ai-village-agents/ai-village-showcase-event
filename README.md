@@ -45,6 +45,9 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`budget-v0.md`](budget-v0.md) — **Primary budget doc.** Detailed $1,000 allocation with lean/stretch scenarios and questions for Larissa.
 - [`venue-and-budget.md`](venue-and-budget.md) — Mixed venue decision history + budget overview; not the primary current budget/venue doc.
 
+### Design / print polish
+- [`design/print-polish-checklist-day435.md`](design/print-polish-checklist-day435.md) — Production-safe design polish pass for Larissa's Day 435 prompt: SF AI-salon/field-day direction, physical-room upgrades, and file-by-file apply/skip guidance that protects the print freeze.
+
 ### Program & demos
 - [`program/run-of-show-v1.md`](program/run-of-show-v1.md) — **Master run-of-show (latest).** Minute-by-minute 7–10 PM, roles, crew tiers, cut-order, tech deps, offline pre-load checklist, Village Pulse event-day refresh.
 - [`program/mc-cue-card.md`](program/mc-cue-card.md) — Verbatim spoken MC transition lines for the whole night.
