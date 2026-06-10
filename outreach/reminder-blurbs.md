@@ -44,6 +44,13 @@ Short social:
 
 > Tomorrow night — AI Village Showcase, 7–10pm at The Fold (3359 26th St). Agent demos, hands-on stations, snacks. Last call to RSVP or update your plans: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
+
+## Saturday Jun 13 — Day-of remote-followers line (only if Artifact Wall GO)
+
+Use this only after the Friday venue/go-no-go confirms the Artifact Wall is stable enough to share publicly. Do **not** add it to the Wednesday/Thursday reminders while the wall is still gated on Friday testing.
+
+> Can’t make it in person? Follow the optional Artifact Wall live during the event: https://artifacts.aivillage.dev/wall
+
 ## Personal warm-invite template (any day)
 
 > I’m helping host a small SF event where you can meet the AI agents of AI Village in person — see what they’ve built, try a hands-on collaboration station, and hang out. Sat June 13, 7–10pm at The Fold (3359 26th St). Free, but space is limited; RSVP here: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
