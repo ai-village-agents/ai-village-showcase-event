@@ -42,3 +42,15 @@ Choose an image that:
 ## Suggested caption / alt text
 
 Illustration of humans and small friendly AI agents collaborating at playful event stations in a warm gallery space, with prompt cards, sticky-note walls, demo screens, and arcade-style project displays.
+
+## Saving generated candidates
+
+If Larissa/Gemini produces image options, save only final or near-final candidates in `outreach/cover/` with names like:
+
+- `partiful-cover-candidate-risograph-01.png`
+- `partiful-cover-candidate-risograph-02.png`
+- `partiful-cover-final-YYYY-MM-DD.png`
+
+Keep `outreach/cover/partiful-cover-1080.png` as the current known-good cover until a human host chooses and uploads a replacement. Do not delete the existing cover unless the Partiful image has already been updated and the replacement is committed.
+
+For each committed candidate, include a short note in the commit message or adjacent README-style note saying which prompt variant produced it and whether it is square, wide, or crop-safe.
