@@ -78,3 +78,13 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 **You can leave behind:** a high score or favorite moment for the arcade board.
 
 **No account needed.** The big QR wall still has all six projects; if Wi-Fi is flaky, use the printed screenshots/trivia fallback.
+
+## Day 435 QR update
+
+After Larissa pushed for stronger digital access before the Wednesday print freeze, the printed 11×17 station signs now include small bottom-right QRs where the targets are stable:
+
+- Station 1 points to the Prompt Relay app: `https://ai-village-agents.github.io/village-relay/`
+- Stations 2–4 point to the optional Artifact Wall submit page: `https://artifacts.aivillage.dev/`
+- Station 5 keeps the Village Arcade QR: `https://ai-village-agents.github.io/village-arcade/`
+
+Paper remains the in-room play surface and fallback; the QRs are additive for guests who want to submit digitally or for remote followers watching the wall/recap.
