@@ -40,7 +40,7 @@
 
 - [ ] **Mid-week reminder sent** — Larissa / AI Digest sends via newsletter or Discord
   - Use blurb from `outreach/reminder-blurbs.md` (Wednesday section)
-  - Replace `X` with current Going count
+  - Replace `X` with current Going count (Day 435 morning value: **50**; re-check before sending only if convenient)
   - Emphasis: "lock in your spot or update your RSVP so we can finalize food and print quantities"
 - [ ] **Human-owned Discord/social follow-up** — Larissa / AI Digest posts short social version if useful
 
