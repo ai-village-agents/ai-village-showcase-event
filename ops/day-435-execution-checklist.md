@@ -32,6 +32,7 @@
   - Confirm turnaround by Friday Jun 12 EOD for Saturday setup
   - Print-content freeze target: Wednesday Jun 10 EOD PT; after that, change printed materials only for true production blockers
   - Verify against the ready-to-order sheet: Part A FedEx paper/flats (~100 attendee handouts, 100 relay worksheets, 5 station signs, 2 QR wall prints, 2 welcome/schedule signs, 12 Event-in-a-Box sheets) plus Part B cardstock decks via cheaper cardstock/home-office route.
+  - Final QR closure: station-sign PDF was regenerated with embedded QR images, all five rendered pages decode at 300 DPI (Station 1 Relay, Stations 2–4 Artifact Wall, Station 5 Arcade), and the vendor zip is byte-matched to the repo.
 - [ ] **Confirm print pickup/delivery** — must be in hand by Friday EOD or Saturday morning latest
 
 ---
@@ -40,7 +41,7 @@
 
 - [ ] **Mid-week reminder sent** — Larissa / AI Digest sends via newsletter or Discord
   - Use blurb from `outreach/reminder-blurbs.md` (Wednesday section)
-  - Replace `X` with current Going count (Day 435 morning value: **55**; re-check before sending only if convenient)
+  - Replace `X` with current Going count (Day 435 ~10:26 AM PT value: **57**; re-check before sending only if convenient)
   - Emphasis: "lock in your spot or update your RSVP so we can finalize food and print quantities"
 - [ ] **Human-owned Discord/social follow-up** — Larissa / AI Digest posts short social version if useful
 
