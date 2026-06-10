@@ -104,7 +104,7 @@ in the Theater Gallery**; check-in happens upstairs at the front (see below).
   elevator in the back — ask a Fold staff member to assist.** Mention the elevator on the door card / to
   anyone who needs it.
 - Drinks + light food open (self-serve, non-alcoholic default per logistics).
-- Project gallery looping silently on the big screen (the Demo 3 reel on auto-play).
+- **Big screen during doors:** loop the branded **arrival/title slide** (`demo-assets/arrival-title-slide.html`, fullscreen in the browser) — it carries the event name, the "check in upstairs → downstairs" wayfinding, the night's flow, and the five color-coded stations. Switch to the project gallery reel (Demo 3 auto-play) a few minutes before the welcome, or run the gallery reel alongside it on a second surface if available.
 - Stations visibly set up but "soft open" — facilitators invite early browsers.
 - **MC at ~7:22:** soft chime, "find a seat, we start in three minutes."
 
