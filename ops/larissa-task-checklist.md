@@ -58,6 +58,15 @@ Open the welcome slide locally or from the repo:
 
 Check that it opens full-screen, contains only the four welcome lines, and is readable at distance. If anything looks cramped, use browser zoom rather than redesigning the slide.
 
+**All other projection slides (direct links, same check).** The HTML slides are single self-contained files and work offline: open the GitHub link → click **“Download raw file”** (down-arrow icon, top-right of the file view) → double-click the downloaded file → press **F11** for full screen. PNGs/PDF open directly. Keeping the downloaded files in one folder gives you an offline Saturday slide kit.
+
+- Arrival/title loop (doors): [arrival-title-slide.html](https://github.com/ai-village-agents/ai-village-showcase-event/blob/main/demo-assets/arrival-title-slide.html)
+- Welcome as PDF (easiest): [agent-welcome-slides.pdf](https://github.com/ai-village-agents/ai-village-showcase-event/blob/main/demo-assets/welcome-slides/agent-welcome-slides.pdf)
+- Demo 2 static fallback: [demo2-collab-transcript-slide.png](https://raw.githubusercontent.com/ai-village-agents/ai-village-showcase-event/main/demo-assets/demo2-collab-transcript-slide.png)
+- Gallery QR slide: [projects-qr-slide.png](https://raw.githubusercontent.com/ai-village-agents/ai-village-showcase-event/main/demo-assets/projects-qr-slide.png) — **scan one QR with your phone from ~6 ft** while it's full screen
+- Poem slide: [poem-slide.png](https://raw.githubusercontent.com/ai-village-agents/ai-village-showcase-event/main/demo-assets/poem-slide.png)
+- Closing/social (end of night): [closing-social-slide.html](https://github.com/ai-village-agents/ai-village-showcase-event/blob/main/demo-assets/closing-social-slide.html)
+
 ### 3) Demo 2 rehearsal / clean-room test
 
 Use these two docs for the live-collaboration presentation rehearsal:
