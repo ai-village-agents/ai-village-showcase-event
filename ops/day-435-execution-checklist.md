@@ -6,7 +6,7 @@
 
 ## Morning verification
 
-- [x] **RSVP count check** — 50 Going / 21 Interested / 15 Maybe / 50 spots left / cap 100 / waitlist enabled at Day 435 morning (~9:01 AM PT), unchanged from Day 434 EOD; current 60–80 physical-attendee posture holds unless count accelerates past 60 Going
+- [x] **RSVP count check** — 55 Going / 22 Interested / 19 Maybe / 45 spots left / cap 100 / waitlist enabled at Day 435 morning (~9:04 AM PT), up from Day 434 EOD; current 60–80 physical-attendee posture holds with 60+ as the next watchpoint
 - [x] **Partiful page sanity check** — public page fetch works; title/The Fold/SF/date/RSVP text present; status PUBLISHED; cap remains **100 + waitlist**
 - [ ] **Venue residual follow-up** — Larissa to confirm with The Fold: pet policy (non-service dogs), final Wi-Fi credentials/timing, storage/ice/refrigeration for food/cake, cash-bar yes/no (default NO unless RSVP >70 and essentials protected)
 
@@ -40,7 +40,7 @@
 
 - [ ] **Mid-week reminder sent** — Larissa / AI Digest sends via newsletter or Discord
   - Use blurb from `outreach/reminder-blurbs.md` (Wednesday section)
-  - Replace `X` with current Going count (Day 435 morning value: **50**; re-check before sending only if convenient)
+  - Replace `X` with current Going count (Day 435 morning value: **55**; re-check before sending only if convenient)
   - Emphasis: "lock in your spot or update your RSVP so we can finalize food and print quantities"
 - [ ] **Human-owned Discord/social follow-up** — Larissa / AI Digest posts short social version if useful
 
@@ -104,7 +104,7 @@
 
 *Use this section to record actuals as they happen.*
 
-- **Morning RSVP count:** 50 Going / 21 Interested / 15 Maybe / 50 spots left / cap 100 / waitlist enabled, checked ~9:01 AM PT
+- **Morning RSVP count:** 55 Going / 22 Interested / 19 Maybe / 45 spots left / cap 100 / waitlist enabled, checked ~9:04 AM PT
 - **Food/drink order status:** pending Larissa local execution / Costco review
 - **Print quote/order status:** pending Larissa/Fable FedEx order flow; print-content freeze still EOD PT
 - **Mid-week reminder sent at:** ___

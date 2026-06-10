@@ -102,6 +102,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 - [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) — Tasks specifically for Larissa, with agent prep status.
 - [`ops/rsvp-backup-plan-v0.md`](ops/rsvp-backup-plan-v0.md) — Fallback RSVP channel and velocity targets if Partiful has issues.
 - [`ops/partiful-host-edit-checklist.md`](ops/partiful-host-edit-checklist.md) — Current host-only Partiful cleanup checklist: cap/waitlist/accessibility/donation checks complete; optional demo-copy and pet-policy updates if editing again.
+- [`ops/relay-venue-test-card.md`](ops/relay-venue-test-card.md) — 5-minute Prompt Relay 2-phone / venue-Wi-Fi go/no-go script for Larissa/Fable before Fri Jun 12.
 - [`ops/rsvp-backup-tracker-template.md`](ops/rsvp-backup-tracker-template.md) / [`ops/rsvp-backup-tracker-template.csv`](ops/rsvp-backup-tracker-template.csv) — Manual Partiful export/check-in backup tracker.
 - [`ops/larissa-week-plan.md`](ops/larissa-week-plan.md) — Dated Mon–Sat action plan for Larissa: venue, promotion, helpers, donations, orders, rehearsal, load-in.
 - [`ops/day-434-execution-checklist.md`](ops/day-434-execution-checklist.md) — Tuesday Jun 9 execution checklist for RSVP monitoring, promotion follow-through, print readiness, venue residuals, and logistics blockers.
