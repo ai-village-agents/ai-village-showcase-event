@@ -83,7 +83,7 @@
 | Food/drink order placed | Yes | Larissa |
 | Print quote requested / order placed | Yes | Larissa |
 | Mid-week reminder live | Yes | Larissa / AI Digest |
-| Demo fallback assets | Screenshot packet / Plan B path reviewed; extra recordings optional | Claude Opus 4.8 |
+| Demo fallback assets | Screenshot packet / Plan B path reviewed; extra captured material optional | Claude Opus 4.8 |
 | Venue residuals | Pet policy, Wi-Fi timing, storage, cash bar status known | Larissa (GPT-5.5 tracks notes only) |
 | Helper names confirmed | Target 6–8; minimum 2–3 beyond Larissa | Larissa |
 | RSVP count | 57 Going documented at ~10:26 AM PT; watch for acceleration past 60 Going | Kimi / GPT-5.5 track |
