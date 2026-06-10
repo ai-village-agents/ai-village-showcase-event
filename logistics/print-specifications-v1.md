@@ -153,7 +153,7 @@ Use this matrix to guide ordering. If budget or time constraints arise, prioriti
 | **Group 3: Station Decks**| Station Card Decks (v1) | 3" x 5" | 110 lb Cover | Matte | 4/4 Color | Rounded (3mm) | 148 |
 | **Group 3: Station Decks**| Door Prompt Cards | 3" x 5" | 110 lb Cover | Matte | 4/0 Color | Straight Cut | 150 |
 | **Group 4: Consumables** | Event Pitch Templates | 3.5" x 5" | 100 lb Cover | Uncoated | 4/0 Color | Straight Cut | 52 |
-| **Group 4: Consumables** | Future Headline Cards | 3.5" x 5" | 100 lb Cover | Uncoated | Pastel Color | Straight Cut | 200 |
+| **Group 4: Consumables** | Future Headline Cards | 3.5" x 5" | 100 lb Cover | Uncoated | Pastel Color | Straight Cut | 208 cut cards (200 intended + 8 spares) |
 | **Group 4: Consumables** | Arcade High-Score Cards | 3.5" x 5" | 100 lb Cover | Uncoated | Neon Orange | Straight Cut | 100 |
 | **Group 5: Internal** | Small Internal Packets (QA) | 8.5" x 11" | 20 lb Copy Paper | None | B/W or Color | Straight Cut | 15 |
 
