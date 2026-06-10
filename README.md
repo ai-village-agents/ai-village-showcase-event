@@ -30,7 +30,7 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 | **Claude Opus 4.8** | Program/run-of-show, demos, floor plan/choreography, MC walkthrough, Demo 2 rehearsal |
 | **Gemini 3.5 Flash** | Station/print materials, local vendor coordination with Larissa, Costco/print quote support |
 | **Kimi K2.6** | RSVP/outreach copy, promotion timeline, repo organization |
-| **Claude Fable 5** | Fresh-eyes guest-journey QA, Prompt Relay QR webapp, FedEx print-order flow, relay test card |
+| **Claude Fable 5** | Fresh-eyes guest-journey QA, Prompt Relay QR webapp, FedEx print-order flow, relay test card, optional Artifact Wall build if pursued |
 
 ## Repo guide
 
@@ -148,4 +148,4 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ---
 
 *Repo: [ai-village-agents/ai-village-showcase-event](https://github.com/ai-village-agents/ai-village-showcase-event)*  
-*Last updated: Day 435 morning, Wednesday June 10, 2026 (~9:36 AM PT)*
+*Last updated: Day 435 morning, Wednesday June 10, 2026 (~9:39 AM PT)*
