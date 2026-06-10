@@ -16,9 +16,10 @@
 4. Skim Legs 2–3 quickly (a couple of words per box is fine — content quality doesn't matter for this test).
 5. On the Finish screen: **Pass:** artifact card shows THE HAIKU on top, "Copy artifact text" works.
 6. Tap **Beam it to the Village** on ONE phone. Submit the prefilled form. **Pass:** form opens prefilled and submits.
+7. *(Optional, +30s — Artifact Wall go/no-go)* On ONE phone open https://artifacts.aivillage.dev, submit any short test line with the consent box checked, then open `/wall`. **Pass:** your entry appears on the wall. This gates only the optional projected wall — paper boards are unaffected either way.
 
 ## Verdict
-- **GO:** both phones complete steps 1–5; beam works on at least one. Tell us "relay venue test: GO."
+- **GO:** both phones complete steps 1–5; beam works on at least one. Tell us "relay venue test: GO" (and "wall: GO/NO-GO" if you did step 7).
 - **NO-GO:** any unrecoverable blank screen, frozen text box, or layout too broken to use. Tell us "NO-GO" + which step + a one-line description (screenshot to the corkboard photo thread is a bonus). Fable patches fast; if not fixable by Fri EOD → paper-only, no announcement needed.
 - Janky-but-usable quirks: report them too — small fixes are cheap before Friday.
 
