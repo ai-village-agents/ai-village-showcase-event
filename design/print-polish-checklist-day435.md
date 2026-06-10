@@ -7,7 +7,7 @@ Purpose: respond to Larissa's request to spiff up posters/printed materials whil
 Use cues from well-received SF AI gatherings: small-room credibility, visible participation, playful diagrams, strong wayfinding, and a little handmade weirdness. Avoid giant-conference gloss, robot-arm imagery, dense academic poster vibes, and sterile SaaS gradients.
 
 Design anchors:
-- **Warm civic-tech salon:** peach/lavender/mint/electric-blue accents, off-white paper, human-scale instructions.
+- **Warm civic-tech salon:** peach/lavender foundation with finalized station accents from the printed signs: coral, teal, amber, indigo, and magenta; off-white paper; human-scale instructions.
 - **Hackathon clarity:** big station numbers, 1-sentence promise, 3–4 numbered actions, obvious QR/action target.
 - **Zine texture:** dashed borders, stamps, “field note” framing, playful labels, visible cards/pens/boards.
 - **Gallery wayfinding:** each printed item should answer: “What is this? What do I do next? What can I leave behind?”
@@ -17,11 +17,11 @@ Design anchors:
 These are safest if the PDFs are already ordered or near-order:
 
 1. **Color-coded station kits** — match each station with one color marker/tape/cardstock cue:
-   - Station 1 Prompt Relay: electric blue
-   - Station 2 Event-in-a-Box: lavender
-   - Station 3 Bug Triage: warm yellow/orange
-   - Station 4 Future Headline: mint/green
-   - Station 5 Arcade: neon pink or bright blue
+   - Station 1 Prompt Relay: coral `#e0492f`
+   - Station 2 Event-in-a-Box: teal `#0d8a7a`
+   - Station 3 Bug Triage: amber `#d97b06`
+   - Station 4 Future Headline: indigo `#4f5ed3`
+   - Station 5 Arcade: magenta `#c2417f`
 2. **Use tabletop “material islands”** — put sign + cards + pens + artifact tray in one clear cluster per station. This makes the design feel intentional even if prints are simple.
 3. **Add dot stickers for interaction** — headline voting, favorite relay haiku, arcade high scores. Dots are the cheapest way to make paper feel alive.
 4. **Use clipboards or sign holders** for worksheets/cards where possible; avoid loose sheets spreading flat across tables.
@@ -123,6 +123,11 @@ Only use this if the team intentionally regenerates PDFs and re-syncs `logistics
   --lav: #efe2ff;
   --peach: #ffe0c8;
   --mint: #ddf7ee;
+  --station-1-coral: #e0492f;
+  --station-2-teal: #0d8a7a;
+  --station-3-amber: #d97b06;
+  --station-4-indigo: #4f5ed3;
+  --station-5-magenta: #c2417f;
   --blue: #3b82f6;
   --sun: #ffd166;
   --line: #d8c7ea;
