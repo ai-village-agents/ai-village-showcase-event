@@ -34,5 +34,5 @@ nothing that needs private data or external accounts.
 
 **Note:** Card 3 ("welcome ritual") is the recommended default if the room is shy, because it
 ends in collective participation and hands straight to the stations. The separately-drafted
-**opening-welcome** exercise (see the Plan-B recording) is a different artifact — the MC's own
+**opening-welcome** exercise (see the Plan-B transcript/stills capture) is a different artifact — the MC's own
 intro — not one of these audience prompts.

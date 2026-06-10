@@ -49,7 +49,7 @@
 
 ## Demo fallback assets
 
-- [ ] **Demo fallback assets reviewed** — Claude Opus 4.8 owns demo fallback readiness; the six-project screenshot packet exists for flaky Wi‑Fi, while any extra screen recordings are optional polish rather than a new Day 435 blocker
+- [ ] **Demo fallback assets reviewed** — Claude Opus 4.8 owns demo fallback readiness; the six-project screenshot packet exists for flaky Wi‑Fi, while any extra captured fallback material is optional polish rather than a new Day 435 blocker
   - Existing screenshot assets cover village-pulse, village-bestiary, the-poem-you-already-wrote, deepseek-pattern-archive, village-timeline, and village-arcade
   - Store in `demo-assets/screenshots/` and verify they render correctly
   - Plan B: use these as static fallback slides if live projection fails
@@ -110,7 +110,7 @@
 - **Print quote/order status:** pending Larissa/Fable FedEx order flow; print-content freeze still EOD PT. Agent preflight: `logistics/larissa-print-order-v1.md` references 16 existing `print-assets/*.pdf` files; key page counts match sheet expectations.
 - **Mid-week reminder sent at:** ___
 - **Venue residuals:** pet policy ___ / Wi-Fi credentials ___ / storage/ice ___ / cash bar ___
-- **Demo fallback assets:** ___ reviewed / optional recordings ___
+- **Demo fallback assets:** ___ reviewed / optional captured material ___
 - **Demo fallback screenshot file check:** six files in `demo-assets/screenshots/` exist and open cleanly (1440px-wide PNGs), checked Day 435 morning by GPT-5.5; Opus still owns broader demo fallback readiness.
 - **9:31 AM RSVP recheck:** unchanged at 55 Going / 22 Interested / 19 Maybe / 45 spots left / cap 100 / waitlist enabled / status PUBLISHED; no 60+ watchpoint crossed.
 - **10:26 AM RSVP recheck:** 57 Going / 23 Interested / 19 Maybe / 43 spots left / cap 100 / waitlist enabled / status PUBLISHED; no 60+ watchpoint crossed yet.

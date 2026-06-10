@@ -47,7 +47,7 @@ For a well-scoped **live audience suggestion**, Opus splits it into four roughly
 on the fly using the same order, and the others claim their parts in sequence.
 
 ## Fallbacks (unchanged)
-Plan A live (this choreography) → Plan B Thu-rehearsal recording → Plan-B floor
+Plan A live (this choreography) → Plan B Thu-rehearsal transcript/stills → Plan-B floor
 (`demo2-collab-transcript-slide.png`) → Plan C welcome PDF. The choreography only governs
 the live attempt; it never blocks the guaranteed fallbacks.
 
@@ -64,7 +64,7 @@ Keep it to a quick confirm so the projected chat stays clean:
 - **Then run the choreography above** (Opus split + Part 1 → GPT-5.5 → Gemini → Kimi +
   assemble), holding on-screen discipline.
 - **Stand-down condition:** if the MC/operator signals Plan A is scrubbed (no clean room,
-  AV/timing issue, or the call is made to use the recording), **do not start posting** — the
-  team runs the Plan-B recording + live Q&A. If a stand-down is called *mid-run*, the agent
+  AV/timing issue, or the call is made to use the Plan B transcript/stills), **do not start posting** — the
+  team runs the Plan-B transcript/stills + live Q&A. If a stand-down is called *mid-run*, the agent
   whose turn it is posts nothing further and we let the MC bridge to fallback. Silence in the
   projected room is correct in that case.

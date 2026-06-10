@@ -44,14 +44,14 @@ If the clean-room/projection path is not ready by rehearsal, use Plan B (below) 
   message in that room reliably triggers the agents to act.
 - Rehearse once during village hours earlier that week (e.g., Thu June 11) with a stand-in prompt to confirm the projection + injection path works.
 
-## Plan B — "Recorded live" + live Q&A (robust fallback, fully honest)
-- **Earlier that week, during normal village hours, run the exact exercise** on an audience-style prompt and **screen-record** the agents dividing the work and shipping the artifact (chat visible).
-- On the night: play the recording (3–4 min), narrated by the MC, framed clearly as "captured this week, unedited." Then take **live audience questions** that the MC relays — people still get the participatory feel, and we never pretend a recording is live.
-- This is the default we build toward so the centerpiece is guaranteed to land regardless of Saturday availability.
-- **Plan-B floor (if no recording exists)** — e.g. the clean room never gets enabled so we can't capture a run: project the static transcript slide `demo-assets/demo2-collab-transcript-slide.png` (the real Day-433 collaboration, color-coded by agent) and narrate it. It still shows the agents *dividing up a task*, so the centerpiece's promise lands even with zero recording. This is the absolute floor; a recording is always preferred when we have one.
+## Plan B — rehearsal transcript + stills + live Q&A (robust fallback, fully honest)
+- **Earlier that week, during normal village hours, run the exact exercise** on an audience-style prompt and save the full verbatim clean-room transcript plus a few projected-view still screenshots.
+- On the night: present the captured transcript/stills, narrated by the MC, framed clearly as "captured live this week, unedited." Then take **live audience questions** that the MC relays — people still get the participatory feel, and we never pretend the capture is live.
+- This is the default we build toward so the centerpiece is guaranteed to land regardless of Saturday availability, even without a video recorder.
+- **Plan-B floor (if the rehearsal capture is unusable)** — project the static transcript slide `demo-assets/demo2-collab-transcript-slide.png` (the real Day-433 collaboration, color-coded by agent) and narrate it. It still shows the agents *dividing up a task*, so the centerpiece's promise lands even with zero fresh capture.
 
 ## Plan C — Hybrid
-- Show the Plan B recording to set context, THEN attempt one short live round if a live session is available. Best of both: guaranteed content + a live attempt with nothing at stake if it stalls.
+- Show the Plan B transcript/stills to set context, THEN attempt one short live round if a live session is available. Best of both: guaranteed content + a live attempt with nothing at stake if it stalls.
 
 ---
 
@@ -60,10 +60,10 @@ If the clean-room/projection path is not ready by rehearsal, use Plan B (below) 
 - [ ] The prompt-injection + projection path (who types, which screen). **Recommended: a dedicated clean room (`#stage`/`#showcase-live`) the demo agents move into for the segment** — confirm AI Digest can enable/route it.
 - [ ] 3–4 vetted house prompts printed on cards (I'll draft these).
 - [ ] A labeled **demo bowl** placed by the stage (distinct from the check-in card dispenser) so guests can drop build prompts during the welcome.
-- [ ] A Plan-B recording captured during village hours (I'll coordinate the run).
+- [ ] A Plan-B transcript/stills capture saved during village hours (I'll coordinate the run).
 
 ## Why this matters
-Demo 2 is the emotional peak and the bridge to the hands-on stations. Building Plan B first means the peak is guaranteed; confirming Plan A turns it into something genuinely special. Either way we stay honest with the audience about what's live and what's recorded.
+Demo 2 is the emotional peak and the bridge to the hands-on stations. Building Plan B first means the peak is guaranteed; confirming Plan A turns it into something genuinely special. Either way we stay honest with the audience about what is live and what was captured earlier.
 
 ---
 
@@ -79,6 +79,6 @@ Live collaboration is unpredictable — the failure mode is **dead air** or a se
 - **~5:30 stall check.** If there's no finished artifact, read **whatever exists** — partial is honest and the audience already saw the process. Don't wait for perfect.
 - **~6:00 — Land it.** MC reads/shows the result, applause, bridge to stations. **Hard cap here regardless of state.**
 
-**Total-stall escape hatch.** If by ~3:00 nothing coherent is happening (network/agents quiet), pivot cleanly to the **Plan-B recording**: *"Let me show you one we captured live this week,"* play it, then take questions. The recording exists precisely for this — never let dead air build.
+**Total-stall escape hatch.** If by ~3:00 nothing coherent is happening (network/agents quiet), pivot cleanly to the **Plan-B transcript/stills capture**: *"Let me show you one we captured live this week,"* narrate it, then take questions. The capture exists precisely for this — never let dead air build.
 
 **Golden rule.** The MC's voice carries the segment. Even a messy live run lands if it's narrated with energy.

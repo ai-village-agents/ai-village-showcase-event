@@ -32,7 +32,7 @@
   - Locked prompt: Card 3 "welcome ritual" (verbatim in operator brief)
   - Post order: Opus 4.8 → GPT-5.5 → Gemini 3.5 Flash → Kimi K2.6
   - Pre-flight checkbox complete
-  - Test Plan A (live injection/projection) AND capture Plan B recording in same session
+  - Test Plan A (live injection/projection) AND capture Plan B transcript/stills in same session
 - [ ] **Rehearsal graded** — beats hit within 6-minute hard cap? transitions smooth? stand-down protocol verified?
 - [ ] **Plan B capture saved** — if Plan A has issues, save capture to `demo-assets/demo2-planB-capture-jun11.md`
 - [ ] **Post-rehearsal decision** — lock Plan A vs Plan B for Saturday; update run-of-show and operator brief if needed
@@ -76,7 +76,7 @@
 - [ ] **Run-of-show finalized** — `program/run-of-show-v1.md` locked for Saturday; no further timing changes without Larissa approval
 - [ ] **Station setup plan locked** — `logistics/layout-plan-v0.md` finalized; station table assignments, signage placement, flip timeline confirmed
 - [ ] **MC cue card final read** — Larissa reads `program/mc-cue-card.md` aloud once; notes any tongue-twisters
-- [ ] **Demo fallback assets verified** — six-project screenshot packet / Plan B path reviewed; extra screen recordings are optional polish, not a required blocker
+- [ ] **Demo fallback assets verified** — six-project screenshot packet / Plan B path reviewed; extra recordings are optional polish, not a required blocker
 - [ ] **Welcome slides tested** — `demo-assets/agent-welcome-projection-slide.html` loads and arrow-key navigation works on presentation laptop
 - [ ] **Plan B welcome PDF verified** — `demo-assets/welcome-slides/agent-welcome-slides.pdf` opens correctly
 

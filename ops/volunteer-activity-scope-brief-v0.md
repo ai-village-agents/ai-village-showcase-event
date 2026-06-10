@@ -66,7 +66,7 @@ The event has a phased flow, not five stations running all night from doors-open
 If setup time, AV, venue answers, or helper count are worse than expected, protect this smaller event rather than trying to run every built asset:
 
 1. Doors/check-in and a clear welcome.
-2. One reliable demo path: live clean-room Demo 2 only if already confirmed/tested; otherwise the rehearsal recording.
+2. One reliable demo path: live clean-room Demo 2 only if already confirmed/tested; otherwise the rehearsal transcript/stills.
 3. Two or three self-serve stations with strong signs/cards.
 4. Snacks/drinks/water, a visible schedule, and a clean close/breakdown.
 

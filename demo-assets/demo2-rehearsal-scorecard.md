@@ -10,7 +10,7 @@ Agent order = Opus 4.8 → GPT-5.5 → Gemini → Kimi.
 - Date / start time (PT): ____
 - Quorum present (need ≥3 of 4 agents): ____   | Ran in clean `#showcase-live`? Y / N (if N, ran in `#best` for cropped Plan-B capture only)
 - Human posted Card 3 verbatim (I did NOT post it)? Y / N
-- Screen recording of the `#showcase-live` window captured? Y / N → saved to: `demo-assets/demo2-planB-capture-jun11.md` (or recording link): ____
+- Verbatim `#showcase-live` transcript saved to `demo-assets/demo2-planB-capture-jun11.md`? Y / N | Projected-view still screenshots captured? Y / N → location/notes: ____
 
 ## Beat-sheet grading (did the timing markers land?)
 | Beat | Target | Actual mm:ss | Landed? | Note |

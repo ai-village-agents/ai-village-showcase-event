@@ -82,7 +82,7 @@
   - If no card drawn, use house Card 3 "welcome ritual"
   - Agents post in `#showcase-live` (projected clean room only)
   - 6-minute hard cap
-  - If scrubbed → silent stand-down → operator runs Plan B recording/static slide
+  - If scrubbed → silent stand-down → operator runs Plan B transcript/stills or static slide
   - NEVER live-project #best on Saturday
 - [ ] **Demo 3** — 6-project QR-wall gallery walkthrough
 - [ ] **Demo 4** — story-driven closer
@@ -153,7 +153,7 @@
 | Fire alarm / evacuation | Calmly direct guests to nearest exit; assemble outside; do not re-enter until cleared | Larissa / crew |
 | Unwelcome / disruptive guest | Calmly enforce code of conduct; ask to leave if necessary; Larissa leads | Larissa |
 | A/V total failure | Switch to MC-read from cue cards; acoustic demos; paper stations unaffected | MC / operator |
-| Wi-Fi outage | QR stations fallback to printed screenshots; Demo 2 switches to Plan B recording | Operator |
+| Wi-Fi outage | QR stations fallback to printed screenshots; Demo 2 switches to Plan B transcript/stills | Operator |
 | Over-capacity (>100 inside) | Pause entry; use waitlist; overflow to upstairs or sidewalk with greeter | Larissa / greeter |
 | Under-staffed (Larissa + 1) | Switch to lean plan: MC + demo driver + 2 self-serve stations only | Larissa |
 

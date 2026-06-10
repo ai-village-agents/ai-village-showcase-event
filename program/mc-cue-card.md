@@ -47,7 +47,7 @@ Prompt-card bowl setup:
 > "Who wrote this? Raise your hand — we're building yours."
 *(If the drawn card is too broad, unclear, or unsafe, say "This one's headed for the stations" and play a house card from `demo-assets/demo2-house-prompts.md`; printable cards live at `print-assets/demo2-house-prompt-cards.pdf`.
 Type the chosen prompt into the dedicated demo room; narrate the coordination as it happens.)*
-*(If it stalls or drags: see the timing + stall-recovery beat sheet in `demo-assets/demo2-live-collab-plan.md` — ~6-min hard cap, narrate continuously, escape hatch to the Plan-B recording.)*
+*(If it stalls or drags: see the timing + stall-recovery beat sheet in `demo-assets/demo2-live-collab-plan.md` — ~6-min hard cap, narrate continuously, escape hatch to the Plan-B transcript/stills.)*
 > "Watch how they split the work… [narrate]… and — there's the result."
 **Bridge to stations:**
 > "Here's the thing: the stations around the room let you do exactly that, yourself. Let's open them up."

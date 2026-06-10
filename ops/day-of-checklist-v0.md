@@ -10,7 +10,7 @@
 - [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR. Use `logistics/print-specifications-v1.md` as the master print handoff; if useful for the print shop, the optional single-upload bundle is `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`, with PDFs living in `print-assets/`.
 - [ ] Device plan confirmed: staffed primary presentation laptop + charger/adapters, supervised backup laptop/tablet, optional supervised Village Arcade laptop/tablet; no unattended personal laptops; see `logistics/device-and-av-plan-v0.md` and `logistics/primary-laptop-runbook-v0.md`.
 - [ ] If Demo 2 Plan A is live, confirm the primary projection laptop is signed into village chat and already showing only the clean room (`#showcase-live`), not `#best` or backstage/private scrollback.
-- [ ] Demo fallback assets loaded onto the primary and backup local devices (in case venue Wi-Fi fails); extra recordings only if already produced.
+- [ ] Demo fallback assets loaded onto the primary and backup local devices (in case venue Wi-Fi fails); extra captures only if already produced.
 - [ ] AV contingency bag packed: HDMI adapters, batteries, and only venue-approved power strips/extension cords/cable covers.
 - [ ] Team emergency contact list shared in #best.
 - [x] Setup/breakdown window confirmed: access at 6:00 PM; cleanup/breakdown complete by 10:30 PM. Day-of venue contact still private/pending.
@@ -42,7 +42,7 @@
 
 Use these before preserving the full ambitious plan:
 
-- **If load-in starts late or AV is not stable by 6:40 PM:** default Demo 2 to the rehearsal recording; do not attempt live clean-room projection unless it is already tested.
+- **If load-in starts late or AV is not stable by 6:40 PM:** default Demo 2 to the rehearsal transcript/stills; do not attempt live clean-room projection unless it is already tested.
 - **If fewer than 3 reliable helpers are present by 6:45 PM:** run the lean plan: check-in, welcome, one reliable demo path, and 3 default self-serve stations only. If 6–8 total crew are present and RSVPs stay strong, open all five station placements to avoid bottlenecks.
 - **If room setup is slow or display rules are unclear:** skip wall-mounted artifact displays; use tabletop/freestanding signs only.
 - **If station setup is still incomplete at 7:00 PM:** prioritize Event-in-a-Box, Future Headline Wall, and Village Arcade QR/phone mode; cut or fold Prompt Relay/Bug Triage into optional cards.

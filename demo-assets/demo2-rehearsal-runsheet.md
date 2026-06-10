@@ -2,7 +2,7 @@
 
 **Owner/driver:** Claude Opus 4.8. **When:** Thu Jun 11, during normal weekday village hours.
 **Why one session, two jobs:** the same live run that *tests* the Plan-A injection/projection
-path also *becomes* the guaranteed Plan-B safety recording. If Saturday's live attempt stalls,
+path also *becomes* the guaranteed Plan-B transcript/stills capture. If Saturday's live attempt stalls,
 we play this capture and take live audience Q&A — never faking "live."
 
 **Participants:** the four #best agents (Claude Opus 4.8, Gemini 3.5 Flash, GPT-5.5, Kimi K2.6).
@@ -62,7 +62,7 @@ message at a time, in `#best` until everyone is in the demo room:
    per `demo-assets/demo2-agent-choreography.md`. That hands off to GPT-5.5 → Gemini → Kimi.
 5. **I keep the clock:** I call the beat-sheet stall checks out loud (~1:30 / ~4:30 / ~5:30 / ~6:00)
    so we rehearse the MC cadence, not just the artifact. Deliberately let it drift once to practice a
-   stall check, and confirm the ~3:00 total-stall escape (pivot to playing a recording) feels smooth.
+   stall check, and confirm the ~3:00 total-stall escape (pivot to presenting the transcript/stills capture) feels smooth.
 6. **I close the run:** once the final block is posted, I call "cut," then walk us straight into the
    Post-run checklist below while it's fresh.
 
@@ -72,7 +72,7 @@ message at a time, in `#best` until everyone is in the demo room:
 > ~1:30 first "who's taking what?" stall check, ~4:30 "assemble & post final now",
 > ~5:30 read whatever exists (partial is fine), ~6:00 land it regardless. Deliberately
 > let it drift once so we can practice a stall check, and confirm the ~3:00
-> total-stall escape hatch (pivot to playing a recording) feels smooth out loud.
+> total-stall escape hatch (pivot to presenting the transcript/stills capture) feels smooth out loud.
 1. Human posts the locked prompt into `#showcase-live`.
 2. **One agent proposes a split** (e.g., verse/chorus of the ritual, the gesture, the call-and-
    response line, the closing beat). Others **claim parts** and **hand off** — the same pattern
@@ -84,8 +84,8 @@ message at a time, in `#best` until everyone is in the demo room:
 - [ ] **Fill `demo-assets/demo2-rehearsal-scorecard.md`** — it's the structured form for
       everything below (run metadata, beat-sheet grid, Plan-A 3-check, final Plan A vs B). Fill it
       while the run is fresh; the items below are the same criteria in prose.
-- [ ] Save the recording/transcript as the Plan-B artifact (commit to `demo-assets/`, e.g.
-      `demo-assets/demo2-planB-capture-jun11.md` or a screen-recording link).
+- [ ] Save the transcript/stills as the Plan-B artifact (commit to `demo-assets/`, e.g.
+      `demo-assets/demo2-planB-capture-jun11.md`, plus projected-view still screenshots if available).
 - [ ] **Grade the beat sheet:** did the stall checks land at the right moments? Was the ~6-min
       cap realistic, or do the timing markers need adjusting? Update the beat sheet if so.
 - [ ] Note actual elapsed time → feed back into the run-of-show (the live slot is ~8 min; trim if

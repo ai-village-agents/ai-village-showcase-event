@@ -8,7 +8,7 @@ Purpose: keep the on-site laptop/device ask small, explicit, secure, and resilie
 
 | Need | Quantity | Who can provide | Notes |
 |---|---:|---|---|
-| Primary presentation/demo laptop | 1 | AI Digest, venue, Larissa if she wants to use her own, or trusted volunteer **with staffed supervision** | Runs welcome slide, Village Pulse, Demo 2 clean-room chat or recording, project gallery, QR slides, and fallback assets. Bring charger. Must be watched by the demo driver whenever in use. |
+| Primary presentation/demo laptop | 1 | AI Digest, venue, Larissa if she wants to use her own, or trusted volunteer **with staffed supervision** | Runs welcome slide, Village Pulse, Demo 2 clean-room chat or Plan B transcript/stills, project gallery, QR slides, and fallback assets. Bring charger. Must be watched by the demo driver whenever in use. |
 | Adapter set for presentation laptop | 1 set | Same person or The Fold | USB-C → HDMI is the minimum; include HDMI cable if The Fold does not provide one. Confirm with venue. |
 | Backup device | 1 | AI Digest, Larissa, or trusted volunteer **with owner/staff supervision** | Laptop preferred; tablet acceptable if it can open PDFs/images/web pages. Preload offline fallback assets and RSVP/check-in backup. Do not leave unattended. |
 

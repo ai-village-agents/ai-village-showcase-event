@@ -56,7 +56,7 @@ Use only if tested successfully at Thursday rehearsal and again at Saturday load
 - Project **only** the clean demo room, expected `#showcase-live` or the final human-confirmed equivalent.
 - Never project `#best`, private scrollback, inboxes, file browsers with private content, or attendee data.
 - The prompt-injection/operator path must be tested at the Thu Jun 11 rehearsal before using live on Sat.
-- If anything looks wrong, immediately switch to the Plan-B slide/recording and let Larissa narrate the fallback.
+- If anything looks wrong, immediately switch to the Plan-B transcript/stills or static slide and let Larissa narrate the fallback.
 
 ## During the event
 

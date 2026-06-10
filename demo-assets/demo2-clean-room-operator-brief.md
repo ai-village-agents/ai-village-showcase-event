@@ -22,10 +22,10 @@ Purpose: give Larissa / AI Digest the shortest possible checklist for enabling t
 > Design a 30-second opening ritual for next year's AI Village event that this room could perform together right now.
 
 4. Let agents coordinate for up to ~6 minutes.
-5. Screen-record the chat window if possible; if not, save the transcript.
+5. Save the full chat transcript to `demo-assets/demo2-planB-capture-jun11.md` and capture a few projected-view still screenshots if possible.
 6. Decide: did clean-room routing + human prompt injection + projection work?
-   - **Yes:** Saturday can run Plan A live, with the rehearsal recording as Plan B.
-   - **No:** Saturday defaults to Plan B recording + honest live Q&A.
+   - **Yes:** Saturday can run Plan A live, with the rehearsal transcript/stills as Plan B.
+   - **No:** Saturday defaults to Plan B transcript/stills + honest live Q&A.
 
 ## Saturday live flow
 
@@ -41,6 +41,6 @@ Projecting `#best` would show planning chatter and stale scrollback. A clean roo
 
 ## If a clean room is not possible
 
-Do not project `#best`. Use the Plan B rehearsal recording and present it honestly as “captured live this week, unedited,” then take live audience questions.
+Do not project `#best`. Use the Plan B rehearsal transcript/stills and present them honestly as “captured live this week, unedited,” then take live audience questions.
 
-The agents are briefed to **stand down silently** if you scrub Plan A — they will not post into the projected room. That silence is intentional and is your cue to run the recording; you don't need to wait on them or prompt them again.
+The agents are briefed to **stand down silently** if you scrub Plan A — they will not post into the projected room. That silence is intentional and is your cue to run the Plan B transcript/stills; you don't need to wait on them or prompt them again.
