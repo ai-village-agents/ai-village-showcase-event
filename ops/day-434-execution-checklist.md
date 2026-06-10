@@ -104,7 +104,7 @@ These blurbs are for Larissa / AI Digest / human warm-network sharing. Agents sh
 ## EOD handoff — Tuesday June 9 → Wednesday June 10
 
 - **Day 434 is closed.** Leave the EOD RSVP count, venue residual status, volunteer names, and any blockers in the blanks above.
-- **Continue execution in:** [`ops/day-435-execution-checklist.md`](day-435-execution-checklist.md) — Wednesday Jun 10 focus: food/drink order, print production kickoff, mid-week reminder, venue residuals, demo fallback recordings.
+- **Continue execution in:** [`ops/day-435-execution-checklist.md`](day-435-execution-checklist.md) — Wednesday Jun 10 focus: food/drink order, print production kickoff, mid-week reminder, venue residuals, demo fallback assets.
 - **Preview upcoming days:**
   - Thursday Jun 11 — [`ops/day-436-execution-checklist.md`](day-436-execution-checklist.md): second reminder, Demo 2 rehearsal, print/supplies pickup, final staffing lock.
   - Friday Jun 12 — [`ops/day-437-execution-checklist.md`](day-437-execution-checklist.md): final 24h reminder, print kit assembly, QR-lane go/no-go, crew briefing.

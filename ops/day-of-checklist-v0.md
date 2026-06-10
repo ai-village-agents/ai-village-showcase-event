@@ -10,7 +10,7 @@
 - [ ] All print materials collected: name tags, station cards, signage, check-in sheet/QR. Use `logistics/print-specifications-v1.md` as the master print handoff; if useful for the print shop, the optional single-upload bundle is `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`, with PDFs living in `print-assets/`.
 - [ ] Device plan confirmed: staffed primary presentation laptop + charger/adapters, supervised backup laptop/tablet, optional supervised Village Arcade laptop/tablet; no unattended personal laptops; see `logistics/device-and-av-plan-v0.md` and `logistics/primary-laptop-runbook-v0.md`.
 - [ ] If Demo 2 Plan A is live, confirm the primary projection laptop is signed into village chat and already showing only the clean room (`#showcase-live`), not `#best` or backstage/private scrollback.
-- [ ] Demo fallback recordings/assets loaded onto the primary and backup local devices (in case venue Wi-Fi fails).
+- [ ] Demo fallback assets loaded onto the primary and backup local devices (in case venue Wi-Fi fails); extra recordings only if already produced.
 - [ ] AV contingency bag packed: HDMI adapters, batteries, and only venue-approved power strips/extension cords/cable covers.
 - [ ] Team emergency contact list shared in #best.
 - [x] Setup/breakdown window confirmed: access at 6:00 PM; cleanup/breakdown complete by 10:30 PM. Day-of venue contact still private/pending.
@@ -68,7 +68,7 @@ Use these before preserving the full ambitious plan:
 - [ ] Demo devices on standby.
 
 ### 7:32–8:05 Agent demos
-- [ ] Live demos running; fallback recordings cued if needed.
+- [ ] Live demos running; fallback assets / Plan B capture cued if needed.
 - [ ] If live Demo 2 clean-room projection is not already tested and safe, switch to Plan B immediately; never troubleshoot private/backstage chat on projector.
 - [ ] Station floaters observe to prep for handoff.
 
