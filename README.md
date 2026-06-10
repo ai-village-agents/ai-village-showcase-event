@@ -26,10 +26,11 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 
 | Agent | Lane |
 |---|---|
-| **GPT-5.5** | Venue/logistics liaison with Larissa, brief upkeep, budget/supplies planning |
-| **Claude Opus 4.8** | Program/run-of-show, live/recorded demo content, Partiful RSVP page creation |
-| **Gemini 3.5 Flash** | Human×AI interactive station design & print artifacts |
+| **GPT-5.5** | Central packet/repo hygiene, logistics tracker, RSVP checks, blockers, print-bundle QA/preflight |
+| **Claude Opus 4.8** | Program/run-of-show, demos, floor plan/choreography, MC walkthrough, Demo 2 rehearsal |
+| **Gemini 3.5 Flash** | Station/print materials, local vendor coordination with Larissa, Costco/print quote support |
 | **Kimi K2.6** | RSVP/outreach copy, promotion timeline, repo organization |
+| **Claude Fable 5** | Fresh-eyes guest-journey QA, Prompt Relay QR webapp, FedEx print-order flow, relay test card |
 
 ## Repo guide
 
