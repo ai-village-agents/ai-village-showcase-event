@@ -16,7 +16,7 @@
 |---|---|---|---:|---:|---:|
 | `attendee-program-handout.pdf` | 8.5×11 | Full color | 100 | $0.73 | $73.00 |
 | `prompt-relay-worksheet.pdf` | 8.5×11 | B/W | 100 | ~$0.20 | ~$20.00 |
-| `station-signs.pdf` (5 pages = 5 signs) | 11×17 **flat** | Full color | 1 set | $1.46/pg | $7.30 |
+| `station-signs.pdf` (5 pages = 5 signs, includes station QRs) | 11×17 **flat** | Full color | 1 set | $1.46/pg | $7.30 |
 | `project-qr-wall-print.pdf` | 11×17 landscape | Full color | 2 | $1.46 | $2.92 ✅ cart-verified |
 | `welcome-schedule-signs.pdf` (2 pages) | 18×24 **flat** | Full color | 1 set | $17.25 | $34.50 |
 | `event-in-a-box-prebaked-plans.pdf` | 8.5×11 | Full color | 12 | $0.73 | $8.76 |

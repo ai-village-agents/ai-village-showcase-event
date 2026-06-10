@@ -84,7 +84,7 @@ For Station 2 self-serve mode if no agent/device/facilitator is immediately avai
 - **Finishing:** No cut; stack at Event-in-a-Box table
 
 ### 2.5 Station Title & Rule Signs
-Self-explanatory instructions displayed at each station to guide self-serve flow; flat prints in venue sign holders/easels are preferred over foam mounting if cost is high.
+Self-explanatory instructions displayed at each station to guide self-serve flow; flat prints in venue sign holders/easels are preferred over foam mounting if cost is high. The Day 435 print-freeze version includes station-relevant QRs: Prompt Relay on Station 1, Artifact Wall submit on Stations 2–4, and Arcade on Station 5.
 * **File Source:** `print-assets/station-signs.pdf` (5 pages)
 * **Physical Specifications:**
   - **Dimensions:** Tabloid size (11" x 17"), single-sided.
@@ -122,7 +122,7 @@ Before sending the package to the local SF print shop, the coordinator can verif
 |---|---:|---|---|
 | `print-assets/attendee-program-handout.pdf` | 1 | Guest handout; print 100 copies on text weight. | OK |
 | `print-assets/prompt-relay-worksheet.pdf` | 1 | Station 1 worksheet; print 100 copies, uncoated. | OK |
-| `print-assets/station-signs.pdf` | 5 | Five station signs; 1 set as flat 11x17 prints for venue sign holders/easels; foam mounting only if cheap/easy. | OK |
+| `print-assets/station-signs.pdf` | 5 | Five station signs with printed station QRs; 1 set as flat 11x17 prints for venue sign holders/easels; foam mounting only if cheap/easy. | OK |
 | `print-assets/welcome-schedule-signs.pdf` | 2 | Welcome + schedule signs; 1 set as flat 18x24 posters for venue sign holders/easels; foam mounting only if cheap/easy. | OK |
 | `print-assets/project-qr-wall-print.pdf` | 1 | QR project wall; print 1–2 copies, 17x11 landscape. | OK |
 | `print-assets/door-prompt-cards.pdf` | 3 | 4-up arrival prompt cards; print 15 copies on cardstock, cut to ~150 cards. | OK |
@@ -209,6 +209,7 @@ Please review our technical requirements and print files below:
 
 3. Station Signs (File: print-assets/station-signs.pdf — 5 pages)
    - Size: Tabloid 11" x 17", single-sided.
+   - Includes printed station QRs: Prompt Relay, Artifact Wall for Stations 2–4, and Village Arcade.
    - Substrate: Flat tabloid color-copy/sign paper; no mounting by default.
    - Finish: Matte/Anti-glare.
    - Color: Full color (CMYK).

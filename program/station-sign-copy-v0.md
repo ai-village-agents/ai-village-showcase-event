@@ -17,7 +17,7 @@ Design note: each sign should fit on one page/board with a big title, one-senten
 
 **You can leave behind:** a relay sheet + a final tiny artifact for the Relay Wall of Fame.
 
-**No account needed.** Self-serve: scan the separate QR if available, or use the paper worksheet and Relay Wall; no staff required.
+**No account needed.** Self-serve: scan the printed Prompt Relay QR, or use the paper worksheet and Relay Wall; no staff required.
 
 ---
 
