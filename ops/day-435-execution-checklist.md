@@ -6,7 +6,7 @@
 
 ## Morning verification
 
-- [x] **RSVP count check** — 55 Going / 22 Interested / 19 Maybe / 45 spots left / cap 100 / waitlist enabled at Day 435 morning (~9:04 AM PT), up from Day 434 EOD; current 60–80 physical-attendee posture holds with 60+ as the next watchpoint
+- [x] **RSVP count check** — initial Day 435 morning check was 55 Going / 22 Interested / 19 Maybe / 45 spots left; latest documented pulse is 57 Going / 23 Interested / 19 Maybe / 43 spots left / cap 100 / waitlist enabled, so the 60–80 physical-attendee posture holds with 60+ as the next watchpoint
 - [x] **Partiful page sanity check** — public page fetch works; title/The Fold/SF/date/RSVP text present; status PUBLISHED; cap remains **100 + waitlist**
 - [ ] **Venue residual follow-up** — Larissa to confirm with The Fold: pet policy (non-service dogs), final Wi-Fi credentials/timing, storage/ice/refrigeration for food/cake, cash-bar yes/no (default NO unless RSVP >70 and essentials protected)
 
