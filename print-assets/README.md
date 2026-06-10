@@ -16,6 +16,8 @@ These are secondary to `logistics/print-specifications-v1.md`; if a professional
 
 If editing the HTML, regenerate PDFs before sending to a printer.
 
+**Regeneration safety (learned Day 435):** always run WeasyPrint from *inside* `print-assets/` (e.g. `cd print-assets && weasyprint station-signs.html station-signs.pdf`) so relative `../demo-assets/...` image paths resolve. WeasyPrint silently skips missing images — a sign PDF generated from the repo root will look normal but ship with NO QR codes. After regenerating any PDF that contains QRs, verify before committing: render pages (`gs -sDEVICE=png16m -r150 ...`) and decode with `zbarimg`; a quick structural check is that `pypdf` reports >0 image XObjects per QR page.
+
 
 - `attendee-program-handout.pdf` / `.html` — 8.5x11 one-page attendee program handout, generated from `program/attendee-program-handout.md`.
 - `check-in-sheet-template.pdf` / `.html` — 8.5x11 six-page check-in packet with RSVP rows 1–100 plus 20 walk-in/last-minute rows.
