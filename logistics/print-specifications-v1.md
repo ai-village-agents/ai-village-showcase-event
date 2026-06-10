@@ -69,7 +69,7 @@ For Station 2 (Event-in-a-Box), Station 4 (Headline Wall), and Station 5 (Villag
       - *Pink/Magenta* (Weird): **50 cards**
       - *Blue* (Practical): **50 cards**
       - *Yellow* (Cautionary): **50 cards**
-      - *Total Headline Cards:* **200 cards** (uncoated, cut).
+      - *Total Headline Cards:* **200 intended guest cards + 8 spares** when printing 13 copies of the 4-page, 4-up master (208 cut cards total; uncoated, cut).
     - **Station 5 Arcade High-Score Cards:** `print-assets/arcade-high-score-cards.pdf`. Print 25 copies of the 1-page, 4-up master on Neon Orange or Neon Green uncoated cardstock, cut into **100 cards**.
 
 
