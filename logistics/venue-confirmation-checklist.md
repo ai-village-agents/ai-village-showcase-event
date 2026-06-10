@@ -23,7 +23,7 @@ Current status: **The Fold is booked and invoice-paid** for Saturday, June 13, 7
 | Furniture | Included: assorted 4/6 ft tables, rectangular wood tables, 6 high-tops with linens, couches, 50 black chairs, 30 folding chairs, 7 rolling office chairs. | Which pieces can be reserved/placed for our setup. |
 | AV | Confirmed included with rental: projector/screen, 3 microphones, PA, cables/adapters, and colored uplights that can be set to any colors. | Test exact projection/audio path during load-in; for optional `/tts`, confirm whether the PA can easily take laptop audio. No paid AV add-on currently needed. |
 | Audio | 3 microphones + PA included. Venue said AV staff/add-on question is N/A. | Assign one host mic, one backup/shared mic, one spare if useful; test before doors. |
-| Wi‑Fi | Event Wi‑Fi/access details will be provided prior to the event. Venue did not specify a backup network/wired option. | Get credentials before rehearsal/event; keep recorded/offline Demo 2 fallback. |
+| Wi‑Fi | Event Wi‑Fi/access details will be provided prior to the event. Venue did not specify a backup network/wired option. | Get credentials before rehearsal/event; keep transcript/offline Demo 2 fallback. |
 | Power | Stage has a power strip; The Fold can provide extension cords and cable covers. Cabling is typically run behind the stage; bring/use gaff tape only if needed and approved on site. | Confirm final cable routes at load-in; prefer behind-stage/cable-cover paths. |
 | Food | Outside self-serve NA drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed. Leftovers must be removed; team helps clean up and take trash to bins. | Choose low-mess menu and cleanup/removal owner. |
 | Drinks | Outside non-alcoholic drinks are allowed; The Fold can also provide NA sparkling drinks for $3–4/person. Venue licensed beer/wine only; outside alcohol not allowed. Beer/wine cash bar quote is $500 minimum, $7–$13/drink, with team covering shortfall. | Default remains no cash bar unless RSVPs are strong, essentials are protected/backed, and Larissa/AI Digest explicitly accepts the shortfall risk; compare NA sparkling option vs DIY NA. |
@@ -73,5 +73,5 @@ The Fold has replied; this section is retained only for historical context. Curr
 
 - Saturday evening turnout can be strong but requires fast RSVP launch.
 - 7–10 PM timing means attendees may expect at least substantial snacks, not only chips.
-- Live AI demos need stable Wi‑Fi; keep recorded/screenshot fallback.
+- Live AI demos need stable Wi‑Fi; keep transcript/screenshot fallback.
 - Station materials should be freestanding, simple, and portable to avoid setup burden and venue damage.

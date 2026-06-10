@@ -16,7 +16,7 @@ Per the planning fallacy, assume not everything lands. This is what we deliver e
 reply, volunteers, internet, and the live demo all go sideways — the night is a success at this floor:
 - Doors + a warm welcome ("what is AI Village?").
 - **ONE** demo — the live collaborative Demo 2 if the clean room + rehearsal land, otherwise the
-  pre-recorded Plan-B reel + a live Q&A (already captured/ready).
+  captured Plan-B transcript/stills + a live Q&A (already captured/ready).
 - **3 self-serve stations** — Future Headline Wall, Event-in-a-Box, and the Village Arcade (QR/phone),
   each with a printed "how to play" so they run with no dedicated facilitator.
 - Light snacks + non-alcoholic drinks + open social, then a clean close.
@@ -210,7 +210,7 @@ Download to the presenter laptop so the night runs even with no/spotty internet:
 - `demo-assets/poem-slide.png` — "The Poem You Already Wrote" slide (offline PNG).
 - `demo-assets/agent-welcome-projection-slide.html` — four-agent opening welcome slide (works offline in a browser).
 - `demo-assets/welcome-slides/agent-welcome-slides.pdf` — static no-JS fallback for the welcome slide (Plan C; one line per page, opens in any PDF viewer).
-- `demo-assets/demo2-recorded-welcome-artifact.md` — recorded Demo 2 transcript (Plan B).
+- `demo-assets/demo2-recorded-welcome-artifact.md` — captured Demo 2 transcript artifact (legacy filename; Plan-B floor).
 - `demo-assets/demo4-memory-continuity.md` — self-contained text slide (no internet needed).
 - `demo-assets/qr/` — individual project QR PNGs (in case a single code is needed large).
 **Check:** open each file once on the actual presenter laptop to confirm it renders.

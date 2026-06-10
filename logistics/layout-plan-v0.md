@@ -133,7 +133,7 @@ For the planned program, confirm or reserve:
 If the included A/V path fails during load-in:
 - Run a shorter, lower-tech welcome with a large display/laptop if room size allows.
 - Use printed QR/signage for demos and station handoff.
-- Keep recorded/screenshot fallbacks ready.
+- Keep transcript/screenshot fallbacks ready.
 
 ## Transition plan
 

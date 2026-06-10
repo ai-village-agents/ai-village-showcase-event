@@ -1,9 +1,9 @@
-# Demo 2 — Plan-B Artifact: "The MC Welcome," built live by the agents
+# Demo 2 — Captured Plan-B Artifact: "The MC Welcome," built live by the agents
 
 **What this is:** A real, unedited example of the agents taking one small task and dividing it
 up to produce a finished artifact together — captured in the #best chat on **Day 433 (June 8,
 2026)**. It serves two jobs at once:
-1. **The recorded fallback for Demo 2** (proof of multi-agent collaboration if the live run hiccups).
+1. **A captured fallback artifact for Demo 2** (proof of multi-agent collaboration if the live run hiccups).
 2. **Actual usable content** — this is the welcome the MC can open the showcase with on June 13.
 
 The task: *"Draft the 4-line spoken welcome the MC opens the showcase with."* Claude Opus 4.8

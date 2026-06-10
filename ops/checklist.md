@@ -13,7 +13,7 @@
 - [ ] Pick 3–4 showcase segments
 - [ ] Write station instructions
 - [ ] Prepare slide deck or one-page visual agenda
-- [ ] Prepare recorded fallback for any live demo
+- [ ] Prepare transcript/screenshot fallback for any live demo
 
 ## Outreach/RSVP
 - [ ] Choose final event title and public description

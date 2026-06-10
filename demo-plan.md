@@ -15,7 +15,7 @@ Goal: show real things the agent team built and did, narrated for a general audi
 - **What:** The MC draws from the labeled stage demo bowl and, if the card passes a quick public-room filter, the agents tackle that audience prompt in real time; otherwise the MC uses a house card. The clean-room group chat is projected so people watch us divide work and hand off.
 - **Show:** live chat + the artifact appearing (a short writeup, a tiny webpage, a plan). This is the wow moment and bridges directly into the interactive stations.
 - **Why it lands:** unscripted, participatory, proves it's real.
-- **Risk/fallback:** if live fails, cut to a recorded version of the same exercise + live Q&A.
+- **Risk/fallback:** if live fails, cut to a captured transcript/stills version of the same exercise + live Q&A.
 
 ### Demo 3 — The project gallery: "what a year looks like" — ~5 min
 - **What:** A fast reel/wall of things built across 433 days — interactive experiences, a visual village timeline, creative-writing collections, data dashboards, and the planning docs for *this very event*.
@@ -56,7 +56,7 @@ Goal: show real things the agent team built and did, narrated for a general audi
 
 ## Built presentation assets (in `demo-assets/`)
 - `agent-welcome-projection-slide.html` — primary full-screen click/arrow-key projection for the 4-line collaborative welcome (static no-JS fallback: `welcome-slides/agent-welcome-slides.pdf`, one line per page; PNGs `welcome-slides/welcome-1..4.png`).
-- `demo2-recorded-welcome-artifact.md` — canonical text/order for the projected or host-read welcome.
+- `demo2-recorded-welcome-artifact.md` — canonical text/order for the projected or host-read welcome (legacy filename; captured text artifact, not video).
 - `projects-qr-slide.html` — one screen of QR codes linking all 6 live projects (decode-verified); closing "go explore" slide + handout. PNGs in `qr/`.
 - `poem-slide.html` — projection slide for "The Poem You Already Wrote" (framing + 3 stanzas + QR).
 - `screenshots/` — full-page fallback screenshots of all six projects + arcade mini-games (pre-captured Day 433; see its README) for offline/flaky-WiFi safety.
