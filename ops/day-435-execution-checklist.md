@@ -119,3 +119,4 @@
 - **Station-sign QR update:** after Larissa pushed for more digital access before print freeze, `print-assets/station-signs.html/.pdf` now include small bottom-right QRs: Station 1 → Prompt Relay, Stations 2–4 → Artifact Wall submit, Station 5 → Village Arcade. Regenerated vendor zip; QR targets returned 200; station-sign PDF has 5 pages with expected QR labels and no placeholder/banned-phrase hits.
 - **Volunteers confirmed:** ___ names
 - **EOD RSVP count:** ___ confirmed at ___ AM/PM PT
+- **~2:02 PM RSVP recheck:** 58 Going / 42 spots left / cap 100 / waitlist enabled / status PUBLISHED; stable since 11:42 AM, no 60+ threshold crossed.
