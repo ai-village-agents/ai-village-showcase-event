@@ -2,7 +2,7 @@
 
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
-_Last updated: Day 435, Wednesday June 10, 2026, ~2:40 PM PT_
+_Last updated: Day 435, Wednesday June 10, 2026, ~4:40 PM PT_
 
 ## Status key
 
@@ -18,8 +18,11 @@ Completed/context items are intentionally moved below this active list so Lariss
 
 **Thursday 9–12 shopping/sourcing quick sheet:** [`logistics/larissa-thursday-shopping-quick-list.md`](../logistics/larissa-thursday-shopping-quick-list.md).
 
+**Thursday morning presentation-test sheet:** see [“Thursday morning presentation tests”](#thursday-morning-presentation-tests) below.
+
 | Priority | Status | Task | Notes / prep |
 |---:|---|---|---|
+| P0 | Ready for Thu AM test | Test presentation laptop / projector / audio / demo links | Use [Thursday morning presentation tests](#thursday-morning-presentation-tests). Key links: [`logistics/primary-laptop-runbook-v0.md`](../logistics/primary-laptop-runbook-v0.md), [`demo-assets/demo2-rehearsal-runsheet.md`](../demo-assets/demo2-rehearsal-runsheet.md), [`demo-assets/demo2-clean-room-operator-brief.md`](../demo-assets/demo2-clean-room-operator-brief.md), [`demo-assets/agent-welcome-projection-slide.html`](../demo-assets/agent-welcome-projection-slide.html), Prompt Relay, Artifact Wall, Project QR Wall, Partiful. |
 | P0 | Ready for human send | Send/post the mid-week reminder if useful | Use the ready-to-send “nearly 60 Going” variants in `outreach/reminder-blurbs.md`; exact-count `X` templates remain there if you want to recheck right before sending. |
 | P0 | Open | Place/confirm print order and pickup route | Use `logistics/larissa-print-order-v1.md` and the regenerated vendor zip `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; station signs now include printed QRs. |
 | P0 | Open | Place/confirm food, NA drinks, snacks, and dessert orders | Costco drinks/snacks/supplies cart is in `logistics/purchase-shortlist-v1.md`; Timeless Bakery remains preferred for vegan cake/cupcakes; substantial bites still need a human/local route if desired. |
@@ -31,6 +34,67 @@ Completed/context items are intentionally moved below this active list so Lariss
 | P2 | Optional polish | Header image refresh | If a stronger generated image lands, use `outreach/header-image-prompt-v0.md` / `ops/partiful-host-edit-checklist.md`; current cover is acceptable fallback. |
 
 ---
+
+## Thursday morning presentation tests
+
+Purpose: give Larissa one place to click through the presentation/demo surfaces before the afternoon rehearsal and Saturday load-in. This is a practical smoke test only: if anything is confusing, broken, private, or hard to project, tell the agents what failed and we will simplify or switch to the fallback.
+
+### 1) Presentation laptop / projector / sound
+
+Start with [`logistics/primary-laptop-runbook-v0.md`](../logistics/primary-laptop-runbook-v0.md).
+
+Quick test:
+1. Use the laptop that will drive the presentation if possible; plug in charger and HDMI/USB-C adapter.
+2. Turn on Do Not Disturb / Focus mode and close private tabs, messaging, email, and anything not meant for projection.
+3. Open a clean browser window at 125–150% zoom if text looks small from the back of the room.
+4. If a projector/screen is available, test mirroring/extended display and make sure the room can read text from the audience area.
+5. Test audio routing only if it is easy: a short local sound or `/tts` test is enough. If audio is fiddly, skip it; the MC can read lines aloud.
+
+### 2) Welcome projection slide
+
+Open the welcome slide locally or from the repo:
+
+- [`demo-assets/agent-welcome-projection-slide.html`](../demo-assets/agent-welcome-projection-slide.html)
+
+Check that it opens full-screen, contains only the four welcome lines, and is readable at distance. If anything looks cramped, use browser zoom rather than redesigning the slide.
+
+### 3) Demo 2 rehearsal / clean-room test
+
+Use these two docs for the live-collaboration presentation rehearsal:
+
+- [`demo-assets/demo2-rehearsal-runsheet.md`](../demo-assets/demo2-rehearsal-runsheet.md)
+- [`demo-assets/demo2-clean-room-operator-brief.md`](../demo-assets/demo2-clean-room-operator-brief.md)
+
+What to test in the morning:
+1. Confirm the intended clean room exists once Adam creates it, expected name `#showcase-live`.
+2. Confirm the presentation laptop can open only that clean room, not private/backstage planning chat.
+3. Confirm the operator/MC knows the locked prompt: “Design a 30-second opening ritual for next year's AI Village event that this room could perform together right now.”
+4. If `#showcase-live` is not ready yet, just verify the docs above and wait for Opus to call the rehearsal.
+5. Do **not** use `/tts` during this projected demo; agents will type their parts in order.
+
+### 4) Guest-facing web links to smoke-test
+
+Open these on the presentation laptop and, if possible, one phone on normal cellular/Wi-Fi. The goal is only “loads and is understandable,” not a deep QA pass.
+
+- Prompt Relay app: <https://ai-village-agents.github.io/village-relay/>
+- Artifact Wall submit page: <https://artifacts.aivillage.dev/>
+- Artifact Wall display page: <https://artifacts.aivillage.dev/wall>
+- Village Arcade: <https://ai-village-agents.github.io/village-arcade/>
+- Project QR Wall source PDF: [`print-assets/project-qr-wall-print.pdf`](../print-assets/project-qr-wall-print.pdf)
+- Partiful public RSVP page: <https://partiful.com/e/4a5fqEa0knyDWNGur1Fp>
+
+Pass condition: each page loads in under ~20 seconds and does not require an account/login for a guest. If a link is slow or broken, note the URL, device, network, and visible error message.
+
+### 5) Fallback files to keep handy
+
+Keep these available offline or in a clean browser/downloads folder before Saturday:
+
+- Demo fallback screenshots: [`print-assets/demo-fallback-screenshot-packet.pdf`](../print-assets/demo-fallback-screenshot-packet.pdf)
+- Program handout: [`print-assets/attendee-program-handout.pdf`](../print-assets/attendee-program-handout.pdf)
+- Welcome/schedule signs: [`print-assets/welcome-schedule-signs.pdf`](../print-assets/welcome-schedule-signs.pdf)
+- Station signs: [`print-assets/station-signs.pdf`](../print-assets/station-signs.pdf)
+
+If Wi-Fi, projection, or chat is unstable by rehearsal time, the safe fallback is: MC reads the welcome, uses static slides/PDFs, and treats hands-on stations as the core of the evening.
 
 ## Detailed tracking / context, including completed items
 
