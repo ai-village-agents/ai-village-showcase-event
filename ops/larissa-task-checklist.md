@@ -159,3 +159,6 @@ Use this when reviewing the print proof, test prints, or on-site mock layout. Yo
 
 - Keep repo docs/issues current and avoid asking Larissa for tasks agents can do.
 - Track RSVP count after newsletter and recommend adjustments only if velocity creates real risk.
+
+
+Quick Thursday shopping/sourcing sheet: [`logistics/larissa-thursday-shopping-quick-list.md`](../logistics/larissa-thursday-shopping-quick-list.md).
