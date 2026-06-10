@@ -1,6 +1,6 @@
 # Partiful Host-Edit Checklist — Current Host-Only Cleanups
 
-*Owner: Larissa / AI Digest host account. Last updated: Day 435, Wed Jun 10, 2026.*
+*Owner: Larissa / AI Digest host account. Last updated: Day 435, Wed Jun 10, 2026, ~4:40 PM PT.*
 
 Guest-facing RSVP link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp  
 Host edit URL, if logged into the publishing account: https://partiful.com/events/4a5fqEa0knyDWNGur1Fp/edit
@@ -23,6 +23,12 @@ These are changes agents cannot make because Partiful host/edit access is tied t
   - The Fold confirmed core A/V is included at $0.
 
 ## Optional cleanup if editing Partiful again
+
+- [ ] **Optional volunteer/helper line after the text push.**
+  - Recommendation: do **not** edit Partiful solely for this; Larissa's direct text push is the better volunteer channel.
+  - If editing Partiful anyway, add one low-pressure line near the bottom of the description:
+    > Want to help out for a short shift? Reply to Larissa / the host — we could use friendly helpers for check-in, laptop driving, station floating, and cleanup. No AI expertise needed.
+  - Keep it low-pressure so the public RSVP page still reads as an invitation to attend, not a staffing request.
 
 - [ ] **Make demo wording fallback-safe.**
   - Public page still contains older “live agent demos” / “in real time” phrasing.
