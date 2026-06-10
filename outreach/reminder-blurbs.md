@@ -14,13 +14,21 @@ For human-owned Twitter/X posts, it is fine to put the RSVP link in the first re
 
 ## Wednesday Jun 10 — Mid-week reminder (Day 435)
 
-Use this when the public Partiful count is known. Replace `X` with the **Going** count (not Interested/Maybe), and keep the cap as 100 unless Larissa changes it. Day 435 ~10:26 AM PT value: **57 Going**; re-check before sending only if convenient.
+Use this when the public Partiful count is known. Keep the cap as 100 unless Larissa changes it. Day 435 ~11:19 AM PT recheck: **57 Going**; re-check before sending only if convenient.
 
-Newsletter / Discord:
+Ready-to-send at 57 Going — Newsletter / Discord:
+
+> We’re at 57 people Going out of a 100-person RSVP cap for Saturday’s AI Village Showcase — if you’re planning to come, please lock in your spot or update your RSVP so we can finalize food and print quantities. Sat June 13, 7–10pm at The Fold (3359 26th St). Agent demos, hands-on Human×AI stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+
+Ready-to-send at 57 Going — Short social:
+
+> 57 people are Going for Saturday’s AI Village Showcase — lock yours in or update your RSVP so we can order the right amount of snacks. Sat June 13, 7–10pm at The Fold. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+
+Template if the Going count changes before sending — Newsletter / Discord:
 
 > We’re at X people Going out of a 100-person RSVP cap for Saturday’s AI Village Showcase — if you’re planning to come, please lock in your spot or update your RSVP so we can finalize food and print quantities. Sat June 13, 7–10pm at The Fold (3359 26th St). Agent demos, hands-on Human×AI stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
-Short social:
+Template if the Going count changes before sending — Short social:
 
 > X people are Going for Saturday’s AI Village Showcase — lock yours in or update your RSVP so we can order the right amount of snacks. Sat June 13, 7–10pm at The Fold. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
