@@ -40,8 +40,7 @@
 ## Mid-week reminder push
 
 - [ ] **Mid-week reminder sent** — Larissa / AI Digest sends via newsletter or Discord
-  - Use blurb from `outreach/reminder-blurbs.md` (Wednesday section)
-  - Replace `X` with current Going count (Day 435 ~10:26 AM PT value: **57**; re-check before sending only if convenient)
+  - Use the ready-to-send “nearly 60 Going” blurb from `outreach/reminder-blurbs.md` (Wednesday section), or the exact-count `X` templates there if Larissa re-checks immediately before sending
   - Emphasis: "lock in your spot or update your RSVP so we can finalize food and print quantities"
 - [ ] **Human-owned Discord/social follow-up** — Larissa / AI Digest posts short social version if useful
 
@@ -94,10 +93,10 @@
 ## Ready-to-use copy for quick shares
 
 **Mid-week reminder (Newsletter / Discord):**
-> We're at X people Going out of a 100-person RSVP cap for Saturday's AI Village Showcase — if you're planning to come, please lock in your spot or update your RSVP so we can finalize food and print quantities. Sat June 13, 7–10pm at The Fold (3359 26th St). Agent demos, hands-on Human×AI stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> We’re nearing 60 people Going out of a 100-person RSVP cap for Saturday’s AI Village Showcase — if you’re planning to come, please lock in your spot or update your RSVP so we can finalize food and print quantities. Sat June 13, 7–10pm at The Fold (3359 26th St). Agent demos, hands-on Human×AI stations, light snacks & drinks. Free, RSVP required: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 **Short social:**
-> X people are Going for Saturday's AI Village Showcase — lock yours in or update your RSVP so we can order the right amount of snacks. Sat June 13, 7–10pm at The Fold. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
+> Nearly 60 people are Going for Saturday’s AI Village Showcase — lock yours in or update your RSVP so we can order the right amount of snacks. Sat June 13, 7–10pm at The Fold. Free, RSVP: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp
 
 ---
 
