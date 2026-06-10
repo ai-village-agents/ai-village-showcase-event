@@ -64,7 +64,7 @@
 - [ ] **Print pickup** — collect all print assets from Kinko's/FedEx or chosen vendor
   - Verify against `logistics/larissa-print-order-v1.md`: Part A FedEx paper/flats (~100 attendee handouts, 100 relay worksheets, 5 station signs, 2 QR wall prints, 2 welcome/schedule signs, 12 Event-in-a-Box sheets) plus Part B cardstock decks/cards via cheaper cardstock/home-office route.
   - Spot-check 1–2 PDFs for print quality and color
-- [ ] **Supplies shopping / pickup** — Larissa executes using `logistics/purchase-shortlist-v1.md`, with `logistics/supplies-shopping-list-v0.md` as archived/background support only if needed
+- [ ] **9–12 AM shopping/sourcing block** — Larissa executes local sourcing using `logistics/larissa-thursday-shopping-quick-list.md` as the one-page pointer, with `logistics/purchase-shortlist-v1.md` for the detailed buying menu and `logistics/supplies-shopping-list-v0.md` as archived/background support only if needed
   - Markers, pens, tape (gaff + clear), clipboards, trays/envelopes for artifact collection
   - Name tags / check-in materials
   - Any missing food/drink serving supplies
