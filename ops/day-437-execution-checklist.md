@@ -37,7 +37,7 @@
 ## Print & station kit assembly
 
 - [ ] **Kit assembly** — Larissa / human crew packs everything into labeled bags/boxes by station/role
-  - **MC kit:** cue card, run-of-show printout, welcome slides (HTML + PDF fallback), Demo 2 operator brief, timer/phone
+  - **MC kit:** cue card, run-of-show printout, welcome slides (HTML + PDF fallback), Demo 2 operator brief, [`ops/mc-split-card.md`](mc-split-card.md) printed for podium stall recovery / missing welcome lines, timer/phone
   - **Check-in kit:** check-in sheets, name tags, pens, donation sign, door prompt cards
   - **Station kits:** 
     - Station 1 (Prompt Relay): challenge/constraint decks, relay worksheets, wall display materials, QR fast-lane printout for https://ai-village-agents.github.io/village-relay/ (only deploy if it clears the 2-phone/browser go/no-go using `ops/relay-venue-test-card.md`; paper remains base)
