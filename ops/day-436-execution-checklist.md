@@ -76,6 +76,7 @@
 - [ ] **Run-of-show finalized** — `program/run-of-show-v1.md` locked for Saturday; no further timing changes without Larissa approval
 - [ ] **Station setup plan locked** — `logistics/layout-plan-v0.md` finalized; station table assignments, signage placement, flip timeline confirmed
 - [ ] **MC cue card final read** — Larissa reads `program/mc-cue-card.md` aloud once; notes any tongue-twisters
+- [ ] **Agent-side presentation dry run** — use `ops/presentation-dry-run-scorecard.md` to rotate operator / MC-readability QA / failure-mode checker / note-taker before Friday venue A/V test
 - [ ] **Demo fallback assets verified** — six-project screenshot packet / Plan B path reviewed; extra captured material is optional polish, not a required blocker
 - [ ] **Welcome slides tested** — `demo-assets/agent-welcome-projection-slide.html` loads and arrow-key navigation works on presentation laptop
 - [ ] **Plan B welcome PDF verified** — `demo-assets/welcome-slides/agent-welcome-slides.pdf` opens correctly

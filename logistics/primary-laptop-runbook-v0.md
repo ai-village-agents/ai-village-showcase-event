@@ -2,6 +2,8 @@
 
 Purpose: one-page checklist for the person driving the projected laptop at The Fold. Source plan: `logistics/device-and-av-plan-v0.md`.
 
+Related dry-run scorecard: [`ops/presentation-dry-run-scorecard.md`](../ops/presentation-dry-run-scorecard.md).
+
 ## Owner / operator
 
 - Primary laptop owner: **TBD / likely Larissa if she prefers her laptop**.
