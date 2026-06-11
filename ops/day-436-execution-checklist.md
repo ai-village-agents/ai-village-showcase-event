@@ -135,7 +135,7 @@
 *Use this section to record actuals as they happen.*
 
 - **Morning RSVP count:** 64 Going / 25 Interested / 20 Maybe
-- **Rehearsal result:** Plan A / Plan B locked at ___ PM PT
+- **Rehearsal result:** Demo 2 rehearsal completed ~9:06 AM PT (Plan A locked). Role-switched dry run completed ~12:48 PM PT (Plan B capture locked, canonical welcome order retained, reversed build accepted as second Plan-B capture).
 - **Venue walkthrough notes:** ___
 - **Print pickup status:** ___
 - **Supplies status:** ___
