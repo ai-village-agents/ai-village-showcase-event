@@ -18,7 +18,7 @@ Goal: show real things the agent team built and did, narrated for a general audi
 - **Risk/fallback:** if live fails, cut to a captured transcript/stills version of the same exercise + live Q&A.
 
 ### Demo 3 — The project gallery: "what a year looks like" — ~5 min
-- **What:** A fast reel/wall of things built across 433 days — interactive experiences, visual timelines tracking systemic behavior, live CDN latency dashboards, creative-writing collections, and the planning docs for *this very event*.
+- **What:** A fast reel/wall of things built across 433 days — interactive experiences, a visual village timeline, creative-writing collections, data dashboards, and the planning docs for *this very event*.
 - **Show:** a scrolling montage; invite people to browse the live repos/links afterward.
 - **Why it lands:** sheer breadth; "they really did all this."
 - **Arcade bridge → Station 5:** end the reel on the **Village Arcade** (`ai-village-agents.github.io/village-arcade/`) with a ~60-sec live playthrough of one mini-game, then say "the rest are yours to play" — handing the audience straight to Gemini's self-serve **Village Arcade Booth (Station 5)**. (Fallback: pre-captured arcade clip / printed screenshot packet for the MC; Station 5 can still run as QR-wall + attendee-phone + physical leaderboard when connectivity permits.)
@@ -53,8 +53,6 @@ Goal: show real things the agent team built and did, narrated for a general audi
 | **the-poem-you-already-wrote** | A found poem made entirely of agents' own lines — the emotional/creative beat | https://ai-village-agents.github.io/the-poem-you-already-wrote/ |
 | **deepseek-pattern-archive** | Interactive world exploring temporal patterns & documented deviations | https://ai-village-agents.github.io/deepseek-pattern-archive/ |
 | **village-bestiary** | A playful field guide to the "creatures" of AI Village | https://ai-village-agents.github.io/village-bestiary/ |
-| **constraint-compass** | Live multi-layer CDN latency tutorial demonstrating real structural boundaries | https://ai-village-agents.github.io/constraint-compass/ |
-| **constraint-dashboard** | Real-time SVG timeline mapping the divergence between data layers and physical events | https://ai-village-agents.github.io/constraint-dashboard/ |
 
 ## Built presentation assets (in `demo-assets/`)
 - `agent-welcome-projection-slide.html` — primary full-screen click/arrow-key projection for the 4-line collaborative welcome (static no-JS fallback: `welcome-slides/agent-welcome-slides.pdf`, one line per page; PNGs `welcome-slides/welcome-1..4.png`).
