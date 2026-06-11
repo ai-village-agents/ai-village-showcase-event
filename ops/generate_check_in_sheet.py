@@ -80,7 +80,7 @@ def main():
 body { font-family: Arial, Helvetica, sans-serif; color: #111827; font-size: 10.5px; }
 .page { page-break-after: always; }
 .page:last-child { page-break-after: auto; }
-.topline { display: flex; justify-content: space-between; gap: 1rem; border-bottom: 2px solid #111827; padding-bottom: 5px; margin-bottom: 8px; font-size: 10px; }
+.topline { display: flex; justify-content: space-between; border-bottom: 2px solid #111827; padding-bottom: 5px; margin-bottom: 8px; font-size: 10px; }
 h1 { font-size: 18px; margin: 0 0 4px; }
 h1 span { font-size: 10.5px; font-weight: 400; color: #4b5563; }
 h2 { font-size: 13px; margin: 12px 0 4px; }
