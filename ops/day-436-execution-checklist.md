@@ -25,17 +25,17 @@
 
 ## Demo 2 rehearsal (Claude Opus 4.8 drives)
 
-- [ ] **Clean room `#showcase-live` confirmed active** — Adam confirmed Day 435 that he can create the room; humans/AI Digest still need to create/enable it before rehearsal
-- [ ] **All 4 agents confirm clean-room access** — Opus 4.8, GPT-5.5, Gemini 3.5 Flash, Kimi K2.6 can post in `#showcase-live`
-- [ ] **Operator brief reviewed** — human operator has read `demo-assets/demo2-clean-room-operator-brief.md`
-- [ ] **Driver coordination sequence followed** — per `demo-assets/demo2-rehearsal-runsheet.md`
+- [x] **Clean room `#showcase-live` confirmed active** — Adam confirmed Day 435 that he can create the room; humans/AI Digest still need to create/enable it before rehearsal
+- [x] **All 4 agents confirm clean-room access** — Opus 4.8, GPT-5.5, Gemini 3.5 Flash, Kimi K2.6 can post in `#showcase-live`
+- [x] **Operator brief reviewed** — human operator has read `demo-assets/demo2-clean-room-operator-brief.md`
+- [x] **Driver coordination sequence followed** — per `demo-assets/demo2-rehearsal-runsheet.md`
   - Locked prompt: Card 3 "welcome ritual" (verbatim in operator brief)
   - Post order: Opus 4.8 → GPT-5.5 → Gemini 3.5 Flash → Kimi K2.6
   - Pre-flight checkbox complete
   - Test Plan A (live injection/projection) AND capture Plan B transcript/stills in same session
 - [ ] **Rehearsal graded** — beats hit within 6-minute hard cap? transitions smooth? stand-down protocol verified?
-- [ ] **Plan B capture saved** — if Plan A has issues, save capture to `demo-assets/demo2-planB-capture-jun11.md`
-- [ ] **Post-rehearsal decision** — lock Plan A vs Plan B for Saturday; update run-of-show and operator brief if needed
+- [x] **Plan B capture saved** — if Plan A has issues, save capture to `demo-assets/demo2-planB-capture-jun11.md`
+- [x] **Post-rehearsal decision** — Plan A live confirmed; canonical welcome order locked; reversed Demo-2 build tested clean — lock Plan A vs Plan B for Saturday; update run-of-show and operator brief if needed
 
 ---
 
@@ -76,10 +76,10 @@
 - [ ] **Run-of-show finalized** — `program/run-of-show-v1.md` locked for Saturday; no further timing changes without Larissa approval
 - [ ] **Station setup plan locked** — `logistics/layout-plan-v0.md` finalized; station table assignments, signage placement, flip timeline confirmed
 - [ ] **MC cue card final read** — Larissa reads `program/mc-cue-card.md` aloud once; notes any tongue-twisters
-- [ ] **Agent-side presentation dry run** — use `ops/presentation-dry-run-scorecard.md` to rotate operator / MC-readability QA / failure-mode checker / note-taker before Friday venue A/V test
-- [ ] **Demo fallback assets verified** — six-project screenshot packet / Plan B path reviewed; extra captured material is optional polish, not a required blocker
-- [ ] **Welcome slides tested** — `demo-assets/agent-welcome-projection-slide.html` loads and arrow-key navigation works on presentation laptop
-- [ ] **Plan B welcome PDF verified** — `demo-assets/welcome-slides/agent-welcome-slides.pdf` opens correctly
+- [x] **Agent-side presentation dry run** — role-switched run completed ~12:45-1:00 PM PT; notes in ops/presentation-dry-run-notes-day436.md — use `ops/presentation-dry-run-scorecard.md` to rotate operator / MC-readability QA / failure-mode checker / note-taker before Friday venue A/V test
+- [x] **Demo fallback assets verified** — six-project screenshot packet / Plan B path reviewed; extra captured material is optional polish, not a required blocker
+- [x] **Welcome slides tested** — `demo-assets/agent-welcome-projection-slide.html` loads and arrow-key navigation works on presentation laptop
+- [x] **Plan B welcome PDF verified** — `demo-assets/welcome-slides/agent-welcome-slides.pdf` opens correctly
 
 ---
 
