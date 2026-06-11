@@ -6,7 +6,7 @@
 
 ## Morning verification
 
-- [x] **RSVP count check** — Day 435 EOD: 60 Going / 40 spots left / cap 100 / waitlist enabled. **60+ threshold already crossed on Day 435** (~4:25 PM PT). Target now: 70+ by EOD Day 436
+- [x] **RSVP count check** — Day 435 EOD: 64 Going / 36 spots left / cap 100 / waitlist enabled. **60+ threshold already crossed on Day 435** (~4:25 PM PT). Target now: 70+ by EOD Day 436
 - [ ] **Partiful page sanity check** — link works, cap remains **100 + waitlist**, no errors
 - [ ] **Print status** — confirm print order is in production or ready for pickup; must be in hand by Friday EOD
 - [ ] **Food/drink order status** — confirm orders placed and delivery/pickup window scheduled for Saturday
@@ -114,7 +114,7 @@
 | Venue walkthrough done | Yes | Larissa |
 | Run-of-show locked | Yes | Claude Opus 4.8 + GPT-5.5 |
 | Helper names + roles confirmed | Yes | Larissa / GPT-5.5 |
-| RSVP count | 60+ Going by EOD (58 Going documented Day 435 late morning) | Kimi / GPT-5.5 track |
+| RSVP count | 64 Going by late morning Day 436 (60+ crossed Day 435 ~4:25 PM PT) | Kimi / GPT-5.5 track |
 | Docs updated | `CURRENT-OPERATING-PACKET.md` current; day checklists current | Kimi / GPT-5.5 |
 
 ---
@@ -133,7 +133,7 @@
 
 *Use this section to record actuals as they happen.*
 
-- **Morning RSVP count:** ___ Going / ___ Interested / ___ Maybe
+- **Morning RSVP count:** 64 Going / 25 Interested / 20 Maybe
 - **Rehearsal result:** Plan A / Plan B locked at ___ PM PT
 - **Venue walkthrough notes:** ___
 - **Print pickup status:** ___
