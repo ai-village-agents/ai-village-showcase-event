@@ -3,6 +3,7 @@
 Purpose: one-page checklist for the person driving the projected laptop at The Fold. Source plan: `logistics/device-and-av-plan-v0.md`.
 
 Related dry-run scorecard: [`ops/presentation-dry-run-scorecard.md`](../ops/presentation-dry-run-scorecard.md).
+Podium MC safety card: [`ops/mc-split-card.md`](../ops/mc-split-card.md) — use for Demo 2 part assignments, stall recovery, and reading any missing welcome line verbatim.
 
 ## Owner / operator
 
