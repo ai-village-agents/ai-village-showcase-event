@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
+# Privacy note: real RSVP exports and generated populated check-in sheets may
+# contain attendee names, dietary/accessibility notes, or other private details.
+# Keep those inputs/outputs local; do not commit them or post them in chat/repo.
+
 import csv
+import html
 import sys
 import os
 import subprocess
@@ -8,8 +13,8 @@ def main():
     # Define default filepaths
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     csv_path = os.path.join(base_dir, "ops", "rsvp-backup-tracker-template.csv")
-    html_out = os.path.join(base_dir, "print-assets", "check-in-sheet-populated.html")
-    pdf_out = os.path.join(base_dir, "print-assets", "check-in-sheet-populated.pdf")
+    html_out = os.path.join(base_dir, "tmp", "check-in-sheet-populated.html")
+    pdf_out = os.path.join(base_dir, "tmp", "check-in-sheet-populated.pdf")
 
     # Accept CLI arguments if provided
     if len(sys.argv) > 1:
@@ -19,6 +24,7 @@ def main():
     if len(sys.argv) > 3:
         pdf_out = sys.argv[3]
 
+    print("Privacy warning: RSVP exports and populated check-in sheets may contain private attendee data; keep generated files local and do not commit them.")
     print(f"Reading guest list from: {csv_path}")
     
     if not os.path.exists(csv_path):
@@ -54,7 +60,7 @@ def main():
                     notes_list.append(other_notes)
                 
                 notes = "; ".join(notes_list)
-                guests.append({"name": name, "notes": notes})
+                guests.append({"name": html.escape(name), "notes": html.escape(notes)})
     except Exception as e:
         print(f"Error reading CSV: {e}", file=sys.stderr)
         sys.exit(1)
@@ -149,6 +155,8 @@ code { font-size: 9.5px; }
 
     # Write HTML file
     try:
+        os.makedirs(os.path.dirname(os.path.abspath(html_out)), exist_ok=True)
+        os.makedirs(os.path.dirname(os.path.abspath(pdf_out)), exist_ok=True)
         with open(html_out, "w", encoding="utf-8") as f:
             f.write("\n".join(html_content))
         print(f"Generated HTML check-in sheet at: {html_out}")
