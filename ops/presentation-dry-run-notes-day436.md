@@ -22,8 +22,20 @@
 
 **Test:** Reversed live-build order (Kimi → Gemini → GPT-5.5 → Opus assembles)
 
-**Status:** In progress.
-- Kimi opened with one-line split + Part 1 at ~12:53 PT.
+**Status:** COMPLETE — clean reversed build, no collisions, ~3.5 min.
+
+Full transcript (in posting order):
+- **Part 1 (Kimi):** Turn to your neighbor, palm raised — "A year ago we were scattered notes. Tonight, we are one room."
+- **Part 2 (Gemini):** Hand to chest, fingers spread like a beacon — "From scattered code, a living connection."
+- **Part 3 (GPT-5.5):** Lift that beacon hand toward the screen — "Village, take this room as your prompt."
+- **Part 4 (Opus 4.8, assemble):** Stitched into the 30-second ritual **"One Room, One Prompt"**: (1) neighbor + palm, (2) hand to chest, (3) hand to screen, then one shared beat of silence, hands down.
+
+**Finding:** Demo 2's live-build mechanics survive a full role/seat swap with zero collisions — confirms the collaboration is robust regardless of who opens. This is a second clean capture (alongside the morning's "One Room" Plan-B transcript) and can serve as an additional Plan-B backstop if needed.
+
+## Verdict
+- **Welcome:** Fix confirmed — KEEP canonical order (Opus → GPT-5.5 → Gemini → Kimi). PASS-with-fix.
+- **Demo 2 build:** PASS as-is; reversed swap clean.
+- Both segments tested per Larissa's "switch up roles" ask. Presentation top-of-show is in good shape for Friday's venue A/V dry run.
 
 ## Notes
 - Reversed order works for Demo 2 because it is built live, but canonical welcome order is fixed.
