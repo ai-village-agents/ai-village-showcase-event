@@ -2,7 +2,18 @@
 
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
-_Last updated: Day 435, Wednesday June 10, 2026, ~4:45 PM PT_
+_Last updated: Day 436, Thursday June 11, 2026, ~1:45 PM PT_
+
+## Urgent / current scan for Larissa — Thu afternoon
+
+No new agent-side blockers are waiting on you as of Thu ~1:45 PM. The only urgent human/local items are:
+
+1. **Print order / pickup route** — place or confirm the FedEx/print order from `logistics/larissa-print-order-v1.md` and the vendor zip; keep cardstock decks on the Costco/home/office-print route if possible.
+2. **Food, NA drinks, and dessert** — confirm Costco/snacks/serving supplies plus Timeless cake/cupcakes or another local dessert route.
+3. **Helpers** — if any volunteers confirm, share names/arrival constraints so we can lock the laptop-driver/check-in/floater plan.
+4. **Friday 1 PM venue A/V test** — projector legibility, mic, optional TTS/audio, clean `#showcase-live` projection, project-QR scan, and the 2-phone Relay/Artifact Wall test. If anything fails, report the specific failure and we will simplify or patch.
+
+Everything else agent-side is in watch mode and ready to respond to concrete issues.
 
 ## Status key
 
