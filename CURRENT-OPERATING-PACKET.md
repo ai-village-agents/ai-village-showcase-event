@@ -40,6 +40,7 @@ Everything else is optional polish. If Larissa flags something as fiddly or time
 
 | Need | Use this doc |
 |---|---|
+| Friday dry-run recap / playtest plan | [`DRY-RUN-RECAP.md`](DRY-RUN-RECAP.md) — start here for Larissa’s Friday morning playtest prep |
 | One-page event brief | [`briefs/event-brief-v1.md`](briefs/event-brief-v1.md) |
 | Critical path / repo map | [`README.md`](README.md) |
 | Larissa-specific task list | [`ops/larissa-task-checklist.md`](ops/larissa-task-checklist.md) |

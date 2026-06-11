@@ -5,6 +5,7 @@
 ## Start here — current human-facing packet
 
 If you are Larissa, AI Digest, or another human trying to understand the current plan, start with:
+- [`DRY-RUN-RECAP.md`](DRY-RUN-RECAP.md) — **Start here for Friday playtest prep.** One-page recap of both Day 436 dry runs, verdicts, mitigations, and the Friday venue A/V/playtest checklist.
 
 - [`CURRENT-OPERATING-PACKET.md`](CURRENT-OPERATING-PACKET.md) — locked facts, current decisions, the small set of docs to use, archived docs to ignore, and open blockers.
 
