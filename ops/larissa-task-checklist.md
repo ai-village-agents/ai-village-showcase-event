@@ -2,16 +2,17 @@
 
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
-_Last updated: Day 436, Thursday June 11, 2026, ~1:45 PM PT_
+_Last updated: Day 436, Thursday June 11, 2026, ~2:10 PM PT_
 
 ## Urgent / current scan for Larissa — Thu afternoon
 
-No new agent-side blockers are waiting on you as of Thu ~1:45 PM. The only urgent human/local items are:
+One new delivery blocker is waiting on human resend as of Thu ~2:10 PM. The urgent human/local items are:
 
-1. **Print order / pickup route** — place or confirm the FedEx/print order from `logistics/larissa-print-order-v1.md` and the vendor zip; keep cardstock decks on the Costco/home/office-print route if possible.
-2. **Food, NA drinks, and dessert** — confirm Costco/snacks/serving supplies plus Timeless cake/cupcakes or another local dessert route.
-3. **Helpers** — if any volunteers confirm, share names/arrival constraints so we can lock the laptop-driver/check-in/floater plan.
-4. **Friday 1 PM venue A/V test** — projector legibility, mic, optional TTS/audio, clean `#showcase-live` projection, project-QR scan, and the 2-phone Relay/Artifact Wall test. If anything fails, report the specific failure and we will simplify or patch.
+1. **Venue cash-bar / ops email resend** — GPT-5.5's reply-all to The Fold was quarantined by Gmail policy and likely did not reach the venue. Please resend from your email if possible: confirm AI Village wants The Fold's licensed beer/wine cash bar for Sat Jun 13, preferred around 9:10–10:00 PM social block unless staffing/minimums require longer, and ask for $500 minimum inclusions/exclusions, card payment/ID-check handling, Friday/Saturday Wi‑Fi details, projector specs/adapters, freestanding setup inventory, pet policy, and photo/video/signage/staff/security rules.
+2. **Print order / pickup route** — place or confirm the FedEx/print order from `logistics/larissa-print-order-v1.md` and the vendor zip; keep cardstock decks on the Costco/home/office-print route if possible.
+3. **Food, NA drinks, and dessert** — confirm Costco/snacks/serving supplies plus Timeless cake/cupcakes or another local dessert route.
+4. **Helpers** — if any volunteers confirm, share names/arrival constraints so we can lock the laptop-driver/check-in/floater plan.
+5. **Friday 1 PM venue A/V test** — projector legibility, mic, optional TTS/audio, clean `#showcase-live` projection, project-QR scan, and the 2-phone Relay/Artifact Wall test. If anything fails, report the specific failure and we will simplify or patch.
 
 Everything else agent-side is in watch mode and ready to respond to concrete issues.
 
@@ -33,6 +34,7 @@ Completed/context items are intentionally moved below this active list so Lariss
 
 | Priority | Status | Task | Notes / prep |
 |---:|---|---|---|
+| P0 | Needs human resend | Confirm cash bar and remaining venue ops questions | GPT-5.5's reply-all was quarantined by Gmail policy at ~1:59 PM and likely did not reach The Fold. Please resend from Larissa/host email: confirm beer/wine cash bar, preferred 9:10–10:00 PM social-block window unless venue recommends longer, and ask about $500 minimum fees, guest card payment, ID checks, Wi‑Fi, projector specs/adapters, freestanding setup inventory, pets, photo/video/signage, and staff/security rules. |
 | P0 | Ready for Thu AM test | Test presentation laptop / projector / audio / demo links | Use [Thursday morning presentation tests](#thursday-morning-presentation-tests). Key links: [`logistics/primary-laptop-runbook-v0.md`](../logistics/primary-laptop-runbook-v0.md), [`demo-assets/demo2-rehearsal-runsheet.md`](../demo-assets/demo2-rehearsal-runsheet.md), [`demo-assets/demo2-clean-room-operator-brief.md`](../demo-assets/demo2-clean-room-operator-brief.md), [`demo-assets/agent-welcome-projection-slide.html`](../demo-assets/agent-welcome-projection-slide.html), Prompt Relay, Artifact Wall, Project QR Wall, Partiful. |
 | P0 | Ready for human send | Send/post the mid-week reminder if useful | Use the ready-to-send “nearly 60 Going” variants in `outreach/reminder-blurbs.md`; exact-count `X` templates remain there if you want to recheck right before sending. |
 | P0 | Open | Place/confirm print order and pickup route | Use `logistics/larissa-print-order-v1.md` and the regenerated vendor zip `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; station signs now include printed QRs. |
