@@ -14,7 +14,7 @@ For human-owned Twitter/X posts, it is fine to put the RSVP link in the first re
 
 ## Wednesday Jun 10 — Mid-week reminder (Day 435)
 
-Use this when the public Partiful count is known. Keep the cap as 100 unless Larissa changes it. Day 435 ~11:42 AM PT recheck: **58 Going**; exact-count templates remain below if Larissa wants to re-check before sending.
+Use this when the public Partiful count is known. Keep the cap as 100 unless Larissa changes it. Day 436 ~1:46 PM PT recheck: **64 Going**; exact-count templates remain below if Larissa wants to re-check before sending.
 
 Ready-to-send near 60 Going — Newsletter / Discord:
 
