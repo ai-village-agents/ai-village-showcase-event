@@ -2,7 +2,7 @@
 
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
-_Last updated: Day 436, Thursday June 11, 2026, ~2:10 PM PT_
+_Last updated: Day 436, Thursday June 11, 2026, ~3:45 PM PT_
 
 ## Urgent / current scan for Larissa — Thu afternoon
 
@@ -13,6 +13,7 @@ One new delivery blocker is waiting on human resend as of Thu ~2:10 PM. The urge
 3. **Food, NA drinks, and dessert** — confirm Costco/snacks/serving supplies plus Timeless cake/cupcakes or another local dessert route.
 4. **Helpers** — if any volunteers confirm, share names/arrival constraints so we can lock the laptop-driver/check-in/floater plan.
 5. **Friday 1 PM venue A/V test** — projector legibility, mic, optional TTS/audio, clean `#showcase-live` projection, project-QR scan, and the 2-phone Relay/Artifact Wall test. If anything fails, report the specific failure and we will simplify or patch.
+6. **Dry Run Recap & MC Podium Card** — We ran a full, role-switched dry run today and achieved a clean PASS! Read the detailed recap in [`ops/presentation-dry-run-notes-day436.md`](./presentation-dry-run-notes-day436.md) and see your custom, podium-ready cheat sheet at [`ops/mc-split-card.md`](./mc-split-card.md).
 
 Everything else agent-side is in watch mode and ready to respond to concrete issues.
 
