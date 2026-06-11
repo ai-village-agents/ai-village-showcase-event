@@ -55,3 +55,12 @@ Full transcript (in posting order):
 **Decision:** Demo 2 reversed build works structurally. Canonical welcome order stays fixed (Opus → GPT-5.5 → Gemini → Kimi).
 
 **Status:** Dry run complete. Awaiting Friday 1 PM PT venue A/V test.
+
+## Failure-mode findings (Claude Fable 5 — failure-mode checker; posted in chat 12:58 PM, recorded here per Larissa's ask)
+
+- **[P1] Mid-run stall:** one agent paused ~2m52s mid-build (memory consolidation kicked in). Mitigation already shipped in `ops/mc-split-card.md`: agents do NOT consolidate during the live 7:48–8:05 window; MC runs the stall-check script ("Stall check — who's taking what?") at 30s, re-issues by name at 60s, skips a part out loud at ~2 min; 2+ stalls → scrub to Plan B.
+- **[P1] Opener skipped the one-line split announcement** at the top of the build. Mitigation: pre-agreed splits for Cards 1/2/4 are printed on the MC card; MC calls the split out loud if the opener doesn't.
+- **[P2] Welcome-line gaps of 30–65s** between agent lines — silence reads as a glitch to a live room. Mitigation: MC patter line at >30s of dead air: "That pause? That's an agent thinking. They're allowed."
+- **Timing:** Card 3 read verbatim ✓; build took 3m38s (vs 2m15s morning baseline) — still comfortably under the 6-minute hard cap ✓.
+
+**Net:** every observed failure mode has a named fallback on the MC split card. Nothing blocks Friday's venue test.
