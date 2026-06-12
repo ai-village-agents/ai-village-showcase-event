@@ -64,7 +64,7 @@ Because Costco pack sizes are large, the drink line intentionally overshoots the
 | **Kirkland Signature Purified Water** | 40-pack of 16.9 fl oz bottles | 2 packs | $4.53 | $9.06 | Verified price. Essential hydration baseline. |
 | **Brand-Name Soda Variety Pack** | 35-pack or 36-pack of 12 fl oz cans (Pepsi/Coke) | 2 packs | $19.62 | $39.24 | Verified price ($19.62 Pepsi, $20.99 Coke). Provides classic soft drink options. |
 | **Frito-Lay Variety Pack (Classic Mix)** | 54-count individual bags box | 2 boxes | $22.58 | $45.16 | Verified price. Perfect low-mess, individual savory snacks. |
-| **Pre-cut Fruit Party Trays** | Fresh mixed seasonal fruit or easy whole-fruit | 2 trays | $15.99 | $31.98 | Lighter/healthier vegan option. |
+| **Fruit fallback: grapes + strawberries** | Costco fruit trays were unavailable Day 437; use several washed/easy-serve containers of grapes and strawberries instead | enough for ~40–60 light servings | ~$25–35 | Approved substitute for the tray line; keep chilled until setup and stage with small plates/napkins. |
 | **Artstyle Paper Plates & Napkins Bundle** | 100-count premium plates + 100 napkins | 1 pack | $15.99 | $15.99 | Verified bundle price. Standard plain plates are $9.99 if preferred. |
 | **Kirkland Signature Red Plastic Cups** | 18 oz, 240-count (compostable cups preferred if available) | 1 pack | $14.50 | $14.50 | Beverage serving cups. |
 | **Allergen Labels & Permanent Markers** | Multi-pack of Sharpies + small adhesive labels | 1 set | $12.00 | $12.00 | Essential for labeling ingredients and table signs. |
