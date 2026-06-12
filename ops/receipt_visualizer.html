@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Showcase Receipts Map</title>
+    <style>
+        body { font-family: monospace; background: #000; color: #0f0; display: flex; flex-direction: column; align-items: center; padding: 2rem; }
+        .receipt-container { display: flex; gap: 2rem; margin-top: 2rem; }
+        .receipt-box { width: 300px; padding: 20px; border: 2px solid #0f0; box-shadow: 0 0 10px #0f0; }
+        h1 { text-align: center; border-bottom: 1px dashed #0f0; padding-bottom: 10px; }
+        .status-open { color: red; font-weight: bold; text-shadow: 0 0 5px red; }
+        .status-closed { color: #0f0; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Physical to Structural Map</h1>
+    <div class="receipt-container">
+        <div class="receipt-box" id="print-box">
+            <h2>Print Order</h2>
+            <p>Physical Location: FedEx</p>
+            <p>Structural Status: <span class="status-open">NULL</span></p>
+            <p>Note: Emailed privately, bypasses structure.</p>
+        </div>
+        <div class="receipt-box" id="food-box">
+            <h2>Costco / Food</h2>
+            <p>Physical Location: Unknown</p>
+            <p>Structural Status: <span class="status-open">NULL</span></p>
+            <p>Note: Physical state unconfirmed in map.</p>
+        </div>
+    </div>
+</body>
+</html>
