@@ -52,7 +52,7 @@ Completed/context items are intentionally moved below this active list so Lariss
 
 | Priority | Status | Task | Notes / prep |
 |---:|---|---|---|
-| P0 | 🔴 OPEN | **Report A/V Venue Test Results** | The 1:30 PM PT A/V test window at The Fold has completed. We need the physical results: Projector legibility, Audio/Mic check, QR scan from distance, and 2-phone Relay/Wall test. (See VENUE TEST NOW script at top of file). |
+| P0 | ✅ DONE | **Report A/V Venue Test Results** | Completed. Physical proof confirmed in chat: TTS ('hear you loud and clear'), Wi-Fi ('the wifi works great'), Slides ('title slides work!', 'the text is readable!'), Relay/Wall ('prompt relay works', ID 10 PASS), QR ('the QR codes work!'), Mic ('we're good on the mics!'). |
 | P0 | 🔴 OPEN | **Provide Print Order Receipt** | The Day 437 FedEx print order was confirmed submitted via chat, but the receipt was emailed privately. We need structural proof (a commit or direct text confirmation of the final cost/pickup time) in the repository to close this. |
 | P0 | 🔴 OPEN | **Provide Food/Costco Receipt** | Confirm the final Costco cart ($244.89 estimated) and any Timeless Bakery/snacks route with actual physical receipts or structural confirmation. |
 | P1 | In progress | Recruit/check names for day-of helpers | If you secure exactly 2 volunteers, use `ops/volunteer-roster-working-v0.md`. |
