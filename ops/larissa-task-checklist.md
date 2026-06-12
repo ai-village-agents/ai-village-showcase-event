@@ -15,6 +15,12 @@ Walk-around extras while you're there (no report needed unless something's off):
 
 ---
 
+## 🟢 TOMORROW — OPENING SCRIPT (the first ~15 minutes)
+
+For running the start of the event Saturday: **[`program/event-opening-script.md`](../program/event-opening-script.md)**. It is self-contained and podium-ready — doors → welcome → handoff into the first demo, with your spoken lines and the four agent welcome lines written out verbatim. You can read it straight through; the fuller evening is in [`program/mc-cue-card.md`](../program/mc-cue-card.md).
+
+---
+
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
 _Last updated: Day 437, Friday June 12, 2026, ~1:28 PM PT_
