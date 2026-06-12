@@ -18,7 +18,7 @@
 | `prompt-relay-worksheet.pdf` | 8.5×11 | B/W | 100 | ~$0.20 | ~$20.00 |
 | `station-signs.pdf` (5 pages = 5 signs, includes station QRs) | 11×17 **flat** | Full color | 1 set | $1.46/pg | $7.30 |
 | `project-qr-wall-print.pdf` | 11×17 landscape | Full color | 2 | $1.46 | $2.92 ✅ cart-verified |
-| `welcome-schedule-signs.pdf` (2 pages) | 18×24 **flat** | Full color | 1 set | $17.25 | $34.50 |
+| `welcome-sign.pdf` + `schedule-sign.pdf` (1 page each; split from `welcome-schedule-signs.pdf`) | 18×24 **flat** | Full color | 1 each | $17.25 | $34.50 |
 | `event-in-a-box-prebaked-plans.pdf` | 8.5×11 | Full color | 12 | $0.73 | $8.76 |
 
 **Subtotal ≈ $146.48** → with MTP155 ≈ **$136.48** (pre-tax). No foam mounting anywhere — flat is the settled default (venue allows no wall mounting; signs go in holders/easels).

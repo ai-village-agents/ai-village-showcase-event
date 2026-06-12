@@ -13,6 +13,8 @@ These are secondary to `logistics/print-specifications-v1.md`; if a professional
 
 - `station-signs.pdf` — generated from `station-signs.html`.
 - `welcome-schedule-signs.pdf` — generated from `welcome-schedule-signs.html`.
+- `welcome-sign.pdf` — page 1 split out for discrete poster upload.
+- `schedule-sign.pdf` — page 2 split out for discrete poster upload.
 
 If editing the HTML, regenerate PDFs before sending to a printer.
 

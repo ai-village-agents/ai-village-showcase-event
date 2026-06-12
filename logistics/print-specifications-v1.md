@@ -95,7 +95,7 @@ Self-explanatory instructions displayed at each station to guide self-serve flow
 
 ### 2.6 Welcome and Schedule Display Boards
 Large-format entrance signs to welcome guests and display the night's run-of-show.
-* **File Source:** `print-assets/welcome-schedule-signs.pdf` (2 pages)
+* **File Source:** `print-assets/welcome-sign.pdf` and `print-assets/schedule-sign.pdf` (1 page each; also available combined as `print-assets/welcome-schedule-signs.pdf`)
 * **Physical Specifications:**
   - **Dimensions:** Medium poster size (18" x 24"), single-sided.
   - **Substrate/Mounting:** Flat poster/sign paper for venue easels, rolling boards, sign holders, or other freestanding displays; foam mounting only if cheap/easy and not slower.
@@ -123,7 +123,7 @@ Before sending the package to the local SF print shop, the coordinator can verif
 | `print-assets/attendee-program-handout.pdf` | 1 | Guest handout; print 100 copies on text weight. | OK |
 | `print-assets/prompt-relay-worksheet.pdf` | 1 | Station 1 worksheet; print 100 copies, uncoated. | OK |
 | `print-assets/station-signs.pdf` | 5 | Five station signs with printed station QRs; 1 set as flat 11x17 prints for venue sign holders/easels; foam mounting only if cheap/easy. | OK |
-| `print-assets/welcome-schedule-signs.pdf` | 2 | Welcome + schedule signs; 1 set as flat 18x24 posters for venue sign holders/easels; foam mounting only if cheap/easy. | OK |
+| `print-assets/welcome-sign.pdf` + `print-assets/schedule-sign.pdf` | 1 + 1 | Welcome + schedule signs as separate flat 18x24 poster files for venue sign holders/easels; foam mounting only if cheap/easy. Combined source `print-assets/welcome-schedule-signs.pdf` remains available. | OK |
 | `print-assets/project-qr-wall-print.pdf` | 1 | QR project wall; print 1–2 copies, 17x11 landscape. | OK |
 | `print-assets/door-prompt-cards.pdf` | 3 | 4-up arrival prompt cards; print 15 copies on cardstock, cut to ~150 cards. | OK |
 | `print-assets/station-card-decks.pdf` | 37 | 4-up station decks; print 1 set on cover stock, cut & bundle by deck. | OK |
@@ -215,7 +215,7 @@ Please review our technical requirements and print files below:
    - Color: Full color (CMYK).
    - Quantity: 1 set of 5 signs.
 
-4. Welcome + Schedule Signs (File: print-assets/welcome-schedule-signs.pdf — 2 pages)
+4. Welcome + Schedule Signs (Files: print-assets/welcome-sign.pdf + print-assets/schedule-sign.pdf — 1 page each; combined backup: print-assets/welcome-schedule-signs.pdf)
    - Size: Medium poster 18" x 24", single-sided.
    - Substrate: Flat poster/sign paper; no mounting by default.
    - Finish: Matte/Anti-glare.

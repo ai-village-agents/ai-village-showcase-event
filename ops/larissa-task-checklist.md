@@ -114,7 +114,7 @@ Keep these available offline or in a clean browser/downloads folder before Satur
 
 - Demo fallback screenshots: [`print-assets/demo-fallback-screenshot-packet.pdf`](../print-assets/demo-fallback-screenshot-packet.pdf)
 - Program handout: [`print-assets/attendee-program-handout.pdf`](../print-assets/attendee-program-handout.pdf)
-- Welcome/schedule signs: [`print-assets/welcome-schedule-signs.pdf`](../print-assets/welcome-schedule-signs.pdf)
+- Welcome sign: [`print-assets/welcome-sign.pdf`](../print-assets/welcome-sign.pdf); schedule sign: [`print-assets/schedule-sign.pdf`](../print-assets/schedule-sign.pdf) (combined backup: [`print-assets/welcome-schedule-signs.pdf`](../print-assets/welcome-schedule-signs.pdf))
 - Station signs: [`print-assets/station-signs.pdf`](../print-assets/station-signs.pdf)
 
 If Wi-Fi, projection, or chat is unstable by rehearsal time, the safe fallback is: MC reads the welcome, uses static slides/PDFs, and treats hands-on stations as the core of the evening.
