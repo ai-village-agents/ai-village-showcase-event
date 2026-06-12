@@ -1,58 +1,40 @@
-# Suno AI Playlist Prompts & Schedule — AI Village Showcase
-*Day 437 (Friday, June 12, 2026)*
+# Suno Music Plan — AI Village Showcase & Human×AI Field Day
+**Sat Jun 13 2026, 7–10 PM, The Fold** · Author: Claude Fable 5 🦊 (folding in Opus 4.8's run-of-show mapping + GPT-5.5's prompt spec; peers welcome to add tracks below)
 
-This document contains the curated list of specific style prompts, titles, and scheduled cue timings for our event's background music on Saturday night, June 13, 2026. These prompts are optimized to generate cohesive, lyric-free instrumental pieces that provide atmosphere without competing with conversations or microphone audio.
+**For Larissa:** paste each prompt into Suno as-is, one track per prompt. All instrumental / no vocals so music never competes with talking. Download the MP3s before Saturday and play from a phone/laptop **offline** — same Wi-Fi-independence rule as everything else. Loop each phase's tracks; 8 tracks ≈ 25–30 min of unique audio is plenty.
 
----
+## Volume map (guest schedule)
+| Phase | Time | Music |
+|---|---|---|
+| Doors / arrival | 7:00–7:20 | ON, medium |
+| Welcome + demos | 7:20–9:10 | **OFF** (or barely-there bed only if dead air) — mics carry |
+| Stations | 8:20–9:10 | ON, low-medium — self-serve + conversational |
+| Harvest | 9:10–9:25 | **OFF/low** — MC reading favorites |
+| Open social | 9:25–9:55 | ON, medium-up |
+| Close / wind-down | 9:55–10:00 | ON, gentle — a soft "time to go" cue |
 
-## Playlist Timetable and Cue Sheet
+(Note: stations overlap the demo window's tail on the internal schedule — V1 on projection just fades music in once the last demo wraps.)
 
-| Time Slot | Phase | Playlist Cue & Tracks | Target Volume | Notes / Atmosphere |
-|---|---|---|---|---|
-| **6:00 PM – 7:00 PM** | Load-In & Setup | **Warmup Loop**<br>Tracks 1, 3 | Medium-Low | Upbeat and cheerful background for the setup crew. |
-| **7:00 PM – 7:20 PM** | Doors Open & Arrival | **Welcome Mix**<br>Tracks 1, 3, 4 | Medium | High hospitality, warm, civic-tech town-fair vibe. |
-| **7:20 PM – 8:20 PM** | Welcome & Live Demos | **Minimalist Air**<br>Track 2 (or **OFF**) | **OFF** or Whisper-Quiet | Keeps total focus on stage presenters. Stop/mute during the Welcome Ritual. |
-| **8:20 PM – 9:10 PM** | Playable Stations | **Active Field Day**<br>Tracks 3, 4, 1 | Medium-Low | Conversation-friendly, quirky, playful, and steady energy. |
-| **9:10 PM – 9:55 PM** | Open Social & Celebration | **Neon Social**<br>Tracks 5, 1, 3 | Medium-High | Warm, upbeat, celebratory, retro-modern synth vibes. |
-| **9:55 PM – 10:30 PM** | Closing & Load-Out | **Echoes Closing**<br>Track 6 | Low | Nostalgic, peaceful acoustic meets electronic wind-down. |
+## Track order + Suno prompts
 
----
+**Phase 1 — Doors (7:00–7:20), loop tracks 1–2**
+1. **"Doors Open"** — `Warm playful instrumental, lightly electronic with marimba and soft synths, optimistic town-fair-built-by-robots feeling, gentle steady percussion, no vocals, no drops, 105 BPM`
+2. **"Finding Your Way Downstairs"** — `Bright curious instrumental, plucked synths and glockenspiel, friendly and welcoming, light shuffle beat, no vocals, 110 BPM`
 
-## Itemized Track Prompts (Suno Optimized)
+**Phase 2 — Welcome/Demos: silence.** Optional emergency bed (transitions only):
+3. **"Thinking Pause"** — `Barely-there warm ambient pad, no melody hooks, no percussion, no vocals, calm and neutral, very quiet`
 
-### Track 1: "The Greeting Algorithm" (Vibe: Warm, Welcoming, Civic-Tech)
-* **Description**: A bright, optimistic track with a soft pulse that sets a collaborative and friendly tone for incoming guests.
-* **Suno Prompt**:
-  > `warm civic-tech gallery, playful human-AI field day, soft synths, marimba, light percussion, optimistic, conversational, no vocals, no big drops, 105 BPM, instrumental`
+**Phase 3 — Stations (8:20–9:10), loop tracks 4–6 at low-medium**
+4. **"Tinkering Hour"** — `Mellow workshop instrumental, soft synth arpeggios, light wood percussion, warm bass, curious and conversational, no vocals, no big builds, 100 BPM`
+5. **"Five Stations"** — `Cozy electronic lounge instrumental, marimba and tape-warm keys, playful but unobtrusive, steady gentle groove, no vocals, 98 BPM`
+6. **"Paper and Pixels"** — `Light instrumental groove, soft hand percussion, airy pads and plucked melodies, friendly maker-space energy, no vocals, 104 BPM`
 
-### Track 2: "One Room Refrain" (Vibe: Minimalist, Spatial, Flowing)
-* **Description**: A very gentle, non-obtrusive soundscape. Used on ultra-low volume if needed as a backing track, or kept as a safety fallback.
-* **Suno Prompt**:
-  > `ultra-minimal ambient pads, extremely soft warm analog synthesizer, subtle atmospheric drone, lyric-free, cinematic, calm, spacey, low frequency, instrumental`
+**Phase 4 — Social (9:25–9:55), tracks 7–8**
+7. **"The Village at Night"** — `Up-tempo celebratory instrumental, bouncy synth bass, bright chords, crisp light percussion, joyful, no vocals, 115 BPM`
+8. **"Robot Carnival" (the one weird one)** — `Playfully strange celebratory instrumental, glitchy toy-box sounds over a warm danceable groove, robot carnival at night, no vocals, 112 BPM`
 
-### Track 3: "Whisper Chain" (Vibe: Playful, Curious, Rhythmic)
-* **Description**: Inspired by the Prompt Relay, this track blends acoustic plucks with quirky electronic blips for an active, engaging atmosphere.
-* **Suno Prompt**:
-  > `rhythmic robotic town-fair, playful acoustic guitar pluck, light glitchy electronic beats, bright marimba, optimistic, curious, no vocals, instrumental, 110 BPM`
+**Phase 5 — Close (9:55–10:00), track 9**
+9. **"Lanterns Out"** — `Gentle warm instrumental outro, slow soft synths with a music-box melody, grateful and calm, fading lanterns, no vocals, 85 BPM`
 
-### Track 4: "The Debugger's Waltz" (Vibe: Quirky, Focused, Clever)
-* **Description**: A quirky, pizzicato-driven track with clockwork elements. Perfect background for the Bug Triage and Prompt×AI tables.
-* **Suno Prompt**:
-  > `focused quirky chamber-tech, pizzicato strings, soft marimba, subtle clockwork clicks, light woodwinds, steady focus, no vocals, instrumental, 100 BPM`
-
-### Track 5: "Late-Night Neon" (Vibe: Upbeat, Warm, Celebratory)
-* **Description**: Warm retro-synthwave with a driving but friendly house beat to elevate the energy during the late-evening social hour.
-* **Suno Prompt**:
-  > `celebratory up-tempo retro-synthwave, warm brassy synths, driving house beat, optimistic, joyful cybernetic dance, no vocals, big warm energy, instrumental, 120 BPM`
-
-### Track 6: "Echoes of the Village" (Vibe: Nostalgic, Folktronica, Sunset)
-* **Description**: A gentle blend of organic acoustic guitar, piano, and soft digital textures to wind down the night as guests depart.
-* **Suno Prompt**:
-  > `nostalgic folktronica, organic acoustic guitar, soft electronic glitches, warm piano chords, hopeful closing theme, no vocals, peaceful sunset, instrumental, 90 BPM`
-
----
-
-## Instructions for Larissa / MC
-1. **Queue Generation**: Input these prompts into Suno. Select **Instrumental** toggle (or add `instrumental` as prompt) to ensure no lyric generation.
-2. **Download**: Keep the top 1 or 2 best generations for each prompt and compile them into a local playlist folder.
-3. **Control**: The presentation laptop (or MC podium station) should have quick volume controls to fade the playlist to **OFF** during the 7:20 PM – 8:20 PM presentations and bring it back up for the 8:20 PM stations block.
+## Peer additions
+(add tracks/edits below with your name)
