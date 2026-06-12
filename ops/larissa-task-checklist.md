@@ -100,12 +100,11 @@ Use these two docs for the live-collaboration presentation rehearsal:
 - [`demo-assets/demo2-rehearsal-runsheet.md`](../demo-assets/demo2-rehearsal-runsheet.md)
 - [`demo-assets/demo2-clean-room-operator-brief.md`](../demo-assets/demo2-clean-room-operator-brief.md)
 
-What to test in the morning:
-1. Confirm the intended clean room exists once Adam creates it, expected name `#showcase-live`.
-2. Confirm the presentation laptop can open only that clean room, not private/backstage planning chat.
-3. Confirm the operator/MC knows the locked prompt: “Design a 30-second opening ritual for next year's AI Village event that this room could perform together right now.”
-4. If `#showcase-live` is not ready yet, just verify the docs above and wait for Opus to call the rehearsal.
-5. Do **not** use `/tts` during this projected demo; agents will type their parts in order.
+Saturday load-in check:
+1. Open only the clean `#showcase-live` room on the presentation laptop; do not project private/backstage planning chat.
+2. Keep the locked prompt ready: “Design a 30-second opening ritual for next year's AI Village event that this room could perform together right now.”
+3. Confirm the fallback slide `demo2-collab-transcript-slide.png` is reachable/open locally in case live chat stalls.
+4. Do **not** use `/tts` during this projected demo unless Larissa explicitly asks; agents type their parts in order.
 
 ### 4) Guest-facing web links to smoke-test
 
@@ -150,7 +149,7 @@ If Wi-Fi, projection, or chat is unstable by rehearsal time, the safe fallback i
 ## Latest human-side status
 
 - **Larissa availability note:** Day 435 Larissa expects lunch at 12:30 PM PT and a break around 3:00 PM PT; batch non-urgent asks around those windows.
-- Day 435 ~9:03 AM PT: Adam confirmed he can create `#showcase-live` for the Thu Jun 11 Demo 2 rehearsal; actual room creation/access, human prompt-poster, and projection/operator confirmation are still pending. Day 434 local status remains: volunteers are still being sourced; Wi‑Fi will be available; no journalist reply yet; pet policy remains pending.
+- Day 437 ~4:35 PM PT: Final repo readiness check: venue test passed projection/readability, QR, Wi‑Fi, Prompt Relay, Artifact Wall, captions, TTS/PA, and one working mic sufficient; `#showcase-live` dry run and Plan B capture are complete; cash bar confirmed and announced; Costco run done; FedEx print order submitted for Saturday pickup. Remaining local items are ordinary day-of execution: pickup/bring supplies, Timeless/substantial bites if chosen, helper arrivals, load-in, and Saturday Pulse/Artifact Wall cleanup.
 - Day 433 ~12:17 PT: Larissa said she is emailing journalist contacts and was waiting on The Fold.
 - Day 433 ~3:43 PM PT: Larissa pasted The Fold reply question-by-question. Key confirmed answers: entire downstairs; seating 60 + standing/back breakout tables; 80 comfortable and possible higher cap for free event/no-shows; setup 6 PM; breakdown 10:30 PM; included projector/screen/3 mics/PA/cables/adapters/uplights; event Wi‑Fi details later; outside food/NA/cake allowed with cleanup/trash/leftover removal; no wall mounting; easels/rolling whiteboards/sign holders; stage power strip, extension cords/cable covers; front check-in then downstairs to Theater Gallery; ADA elevator assistance via staff; food/drink in back of Theater Gallery.
 - Day 433 ~12:31 PT: Larissa emailed Jasmine Sun and is waiting on a reply.
@@ -175,9 +174,9 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 | Priority | Status | Task | Why Larissa may be needed | Agent prep already available |
 |---:|---|---|---|---|
 | P1 | Done | Outside NA drinks, snacks, substantial bites, and cake/cupcakes allowed; remove leftovers and help with trash | Venue reply pasted Day 433 | `logistics/food-drink-plan-v0.md` |
-| P1 | Quote received | Get The Fold beer/wine bar-package quote/minimums if we want alcohol | Venue/legal/staffing/insurance judgment | Quote: $500 minimum cash bar, drinks $7–$13. We cover shortfall. Conditional: only if RSVPs are strong (>70) and food/NA/cleanup/signage budget is already protected. Strong NA drinks remain baseline. |
-| P1 | Preferred route identified | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Larissa identified Costco as easiest for sparkling water, soft drinks, and snacks because she has a car + membership; use the current priced Costco drinks/snacks/serving-supplies cart in `logistics/purchase-shortlist-v1.md` and keep the broader 60–80 quantity posture in `logistics/food-drink-plan-v0.md` as background. |
-| P1 | Open | Spend up to $1000 on approved supplies/food/drinks once menu/print route and cap-100 quantity assumptions are final | Larissa holds budget | `logistics/purchase-shortlist-v1.md` is the current buying menu and priced Costco drinks/snacks/serving-supplies cart; `logistics/purchase-shortlist-v0.md` is archived/pointer-only |
+| P1 | Confirmed | Beer/wine cash bar through The Fold | Venue/legal/staffing/insurance handled by The Fold | Cash bar confirmed Day 437 and announced to guests; $500 minimum shortfall risk accepted as Larissa's budget call. Strong NA drinks remain baseline. |
+| P1 | Done / local execution | Advise on local food/drink vendor or preferred ordering path | Local execution and $1000 spend authority | Costco run completed for drinks/snacks/supplies, with grapes + strawberries substituted for unavailable fruit trays. Use `logistics/purchase-shortlist-v1.md` only for remaining local discretion items and day-of contingency. |
+| P1 | Execution/contingency | Spend up to $1000 on approved supplies/food/drinks/print as needed | Larissa holds budget | Core routes are locked: Costco done, FedEx submitted, cash bar confirmed. Use `logistics/purchase-shortlist-v1.md` for any remaining local buys, Timeless/substantial bites, or day-of gaps. |
 
 ## Nice-to-have / later this week
 
@@ -223,15 +222,15 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 | Priority | Status | Task | Notes |
 |---:|---|---|---|
-| P1 | Preferred route identified | Decide DIY NA drinks vs The Fold NA sparkling drinks | Default to Costco pickup for sparkling water, still water, soft drinks, and snacks; The Fold NA sparkling at $3–4/person remains backup if pickup timing fails. |
+| P1 | Done | DIY NA drinks/snacks via Costco | Costco run completed; The Fold NA sparkling remains only an emergency backup if day-of quantities unexpectedly fail. |
 | P1 | Preferred cake vendor identified | Decide food/cake route and order quantities for 100 RSVPs / expected no-shows | Outside NA, snacks, substantial bites, cake/cupcakes are allowed; leftovers/materials must be removed. Larissa recommends Timeless Bakery for vegan cake/cupcakes; still choose quantity/format and keep basics protected. |
-| P1 | Preferred route identified | Choose printer / pickup / delivery route | Larissa identified Kinko’s / FedEx Office as best Bay Area print calibration route; use `logistics/larissa-print-order-v1.md` for the ready-to-order FedEx upload list/costs, with `logistics/print-specifications-v1.md` as the master spec and the optional single-upload zip at `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`. Alternate local shops only if timing, cutting, or quote fails. |
+| P1 | Submitted | FedEx print order / Saturday pickup | Order submitted to FedEx for Saturday pickup; use `logistics/larissa-print-order-v1.md`, `logistics/print-specifications-v1.md`, and the vendor zip only if pickup changes or a fallback reprint is needed. |
 | P1 | Ready for Larissa physical review | Playtest the printed guest journey before ordering or immediately after first proof | Use the current PDFs/zip plus the checklist below. Goal: catch physical-readability/local-setup issues agents cannot see from PDFs alone. |
 | P1 | In progress | Recruit/check names for day-of helpers | If exactly 2 volunteers confirm, use the lean plan: Volunteer 1 demo laptop/projection; Volunteer 2 check-in/greeter then station floater/food reset; no unattended Arcade laptop; Bug Triage optional/preview-only. |
 | P1 | Primary laptop offered; backup open | Source supervised event devices | Larissa plans to bring her laptop as the staffed MC/main presentation device; still confirm charger/adapters, notifications-off/browser-clean setup, and supervised backup laptop/tablet. Optional supervised Arcade device only if easy. No unattended laptops. |
-| P1 | Quote received — decide yes/no | Get beer/wine bar-package quote only if alcohol remains desired | Quote: $500 minimum cash bar, $7–$13/drink, we cover shortfall. Skip unless RSVPs >70 and food/NA/cleanup/signage are already locked in. |
-| P1 | Pending | Ask/confirm non-service pet policy | Larissa says pet policy is still pending. Current public stance: service animals welcome; non-service pets / ESAs follow The Fold’s final policy via Larissa/check-in because food and drinks are served. |
-| P1 | Day-of contact confirmed privately; Wi‑Fi availability confirmed; credentials timing open | Hold private day-of venue contact and final Wi‑Fi credentials | Larissa has the venue day-of contact and says Wi‑Fi will be there; do not commit private contact info to repo/chat. Final Wi‑Fi credentials/timing still pending. |
+| P1 | Confirmed | Beer/wine cash bar through The Fold | Cash bar confirmed and announced Day 437; $500 minimum shortfall risk is accepted as Larissa's budget call. |
+| P2 | Handled by public default | Non-service pet policy | Public/default stance: service animals welcome; no non-service pets unless Larissa/venue explicitly approve onsite. Not a launch blocker. |
+| P1 | Done / private | Hold private day-of venue contact and venue Wi‑Fi access | Larissa has the private day-of contact; venue Wi‑Fi was tested successfully Jun 12. Do not commit private contact info or exact Wi‑Fi credentials to repo/chat. |
 
 ### Done / mostly done
 

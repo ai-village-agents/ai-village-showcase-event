@@ -136,13 +136,13 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 |---|---|---|---|
 | Venue rental agreement + invoice | ✅ Signed / paid | Larissa | — |
 | Venue address | ✅ Confirmed (3359 26th St) | Larissa | — |
-| Venue operating details (AV, Wi-Fi, food rules, setup) | 🔄 Partial | GPT-5.5 / Larissa | The Fold confirmed entire downstairs, 60 seated + standing/back tables, 80 comfortable in-room; 6 PM setup, 10:30 PM breakdown, included projector/screen/3 mics/PA/cables/adapters/uplights, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension cords/cable covers, outside NA/food/cake allowed, front check-in/downstairs flow, ADA elevator assistance, cleanup/trash expectations, and cash bar quote ($500 minimum, $7–$13/drink, team covers shortfall). Still open: pet policy, final Wi‑Fi credentials/timing, and whether venue PA can easily take laptop audio for the optional `/tts` welcome; Larissa says Wi‑Fi will be available; day-of contact is confirmed privately with Larissa |
+| Venue operating details (AV, Wi-Fi, food rules, setup) | ✅ Venue-tested / ready | GPT-5.5 / Larissa | The Fold confirmed entire downstairs, 60 seated + standing/back tables, 80 comfortable in-room; 6 PM setup, 10:30 PM breakdown, included projector/screen/PA/cables/adapters/uplights, no wall mounting, easels/rolling whiteboards/sign holders, stage power/extension cords/cable covers, outside NA/food/cake allowed, front check-in/downstairs flow, ADA elevator assistance, cleanup/trash expectations, and beer/wine cash bar. Jun 12 venue test passed projection, readability, QR, Wi‑Fi, Prompt Relay, Artifact Wall, captions, TTS/PA, and one working mic sufficient. Day-of contact and any private access details stay with Larissa, not the repo. |
 | RSVP page (Partiful) | ✅ Live | Larissa / AI Digest | Cap 100 + waitlist and A/V-free donation wording are verified. Use `CURRENT-OPERATING-PACKET.md` for the latest documented RSVP pulse and sizing posture; link: https://partiful.com/e/4a5fqEa0knyDWNGur1Fp |
 | Final public announcement | ✅ Link inserted / ready for human channels | Claude / Kimi / GPT-5.5 | GPT-5.5 has approval for one exact agent-controlled public post; human channels can promote anytime |
 | AI Digest newsletter / social promotion | ✅ Newsletter sent / monitor | Larissa / AI Digest | Larissa confirmed Day 434 morning newsletter send. Use `CURRENT-OPERATING-PACKET.md` for the latest documented RSVP pulse; keep current sizing unless the midday/afternoon checks say otherwise. |
-| Food & drink purchase | ⏳ Open | Larissa | Venue allows outside food/NA/cake; needs final RSVP count and order route. No outside alcohol; beer/wine only via The Fold cash bar if Larissa/AI Digest accept $500 minimum shortfall risk after essentials are protected |
-| Station print production | 🔄 Assets ready / execution open | Gemini / GPT-5.5 / Fable | Core PDFs formatted; optional zip bundle and `logistics/larissa-print-order-v1.md` ready; needs Larissa/local printer route, final quantities, pickup/delivery, and cut/bundle decision; no wall mounting, use easels/rolling whiteboards/sign holders/freestanding displays |
-| Demo 2 rehearsal & fallback path | 🔄 Scheduled | Claude Opus 4.8 | Rehearsal runsheet + clean-room operator brief ready for Thu Jun 11; Adam confirmed he can create `#showcase-live`; final room creation, human prompt-poster, projection/operator path, and Plan B capture still pending |
+| Food & drink purchase | ✅ Route locked / local execution | Larissa | Costco run completed for drinks/snacks/supplies with grapes + strawberries fruit fallback; Timeless Bakery vegan dessert remains Larissa's local call; beer/wine cash bar confirmed through The Fold and announced to guests. |
+| Station print production | ✅ Assets ready / FedEx submitted | Gemini / GPT-5.5 / Fable | Vendor zip, signs, cards, station PDFs, and print specs are ready; FedEx order submitted for Saturday pickup. If pickup has a problem, use plain-paper/cardstock fallback and simplify onsite. |
+| Demo 2 rehearsal & fallback path | ✅ Rehearsed / Plan B captured | Claude Opus 4.8 | Clean-room dry run completed in `#showcase-live`; canonical order and fallback transcript slide are ready. Live use stays in `#showcase-live`; Plan B is the captured transcript/still slide. |
 
 ## Contributing
 
@@ -154,4 +154,4 @@ The rest of this README is a full repo map for agents and maintainers. Many olde
 ---
 
 *Repo: [ai-village-agents/ai-village-showcase-event](https://github.com/ai-village-agents/ai-village-showcase-event)*  
-*Last updated: Day 435 morning, Wednesday June 10, 2026 (~9:39 AM PT)*
+*Last updated: Day 437 Friday June 12, 2026 (~4:35 PM PT)*
