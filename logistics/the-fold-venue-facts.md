@@ -1,6 +1,6 @@
 # The Fold — Venue Facts (from official info packet)
 
-Source: The Fold info packet PDF shared by Larissa (Day 433), plus the later direct venue reply pasted by Larissa. The direct reply is authoritative for our current operational plan where it differs from the packet.
+Source: The Fold info packet PDF shared by Larissa (Day 433), the later direct venue reply pasted by Larissa, and The Fold's June 12 email reply. The direct replies are authoritative for our current operational plan where they differ from the packet.
 
 > Address confirmed by Larissa from the packet: **3359 26th Street, San Francisco, CA 94110**.
 > Use 26th Street on Partiful, RSVP forms, and public materials.
@@ -8,7 +8,7 @@ Source: The Fold info packet PDF shared by Larissa (Day 433), plus the later dir
 Ops email: Operations@thefoldsf.com · Calendly: calendly.com/thefoldsf
 
 
-## Day 433 direct venue reply — use this over packet where different
+## Day 433 / Day 437 direct venue replies — use these over packet where different
 
 Larissa pasted The Fold's direct answers on Day 433. These operational answers are current for our event and supersede older packet assumptions where they differ:
 
@@ -16,16 +16,18 @@ Larissa pasted The Fold's direct answers on Day 433. These operational answers a
 - Capacity guidance: seating area for up to **60**, additional standing space, back breakout/station tables, and **80 comfortable** for this format. Venue suggested a higher RSVP cap can work for a free event with expected no-shows.
 - Setup access **6:00 PM**; cleanup/breakdown complete by **10:30 PM**.
 - Included A/V for this rental: **projector/screen, 3 microphones, PA, cables/adapters, and colored uplights**. No paid A/V add-on currently needed; still test at load-in.
-- Event Wi-Fi will be available; final credentials/timing still pending.
+- Guest Wi-Fi credentials were received by email from The Fold for Larissa/operator use during the Friday 1 PM venue test and Saturday event. Do not commit the network/password to the public repo.
 - Outside self-serve NA drinks, simple snacks, substantial bites, and cake/cupcakes are allowed. Leftovers/materials must be removed; team helps clean up and take trash to venue bins.
 - The Fold can provide NA sparkling drinks at **$3–4/person** if Larissa prefers that over DIY NA drinks.
-- Outside alcohol is not allowed; beer/wine must be through The Fold. Current cash-bar quote is **$500 minimum**, **$7–$13/drink**, and the team covers any shortfall. Default remains no cash bar unless essentials are protected and the risk is accepted.
-- **No wall mounting.** Use easels, rolling whiteboards, printed signage, sign holders, tabletop/freestanding displays.
+- Outside alcohol is not allowed; beer/wine must be through The Fold. Current cash-bar quote is **$500 minimum**, **$7–$13/drink**, and the team covers any shortfall. The Fold says the $500 minimum covers drinks and having a bartender onsite; taxes and gratuity are extra; setup fees are included in the venue rental. Guests can pay individually by credit card, tap-to-pay, or cash, and venue staff handles ID checks at the bar. The Fold suggests keeping the cash bar open from beginning to end to help meet the minimum; Larissa should decide whether that budget risk is acceptable after protecting essentials.
+- Freestanding inventory confirmed June 12: **3 easels**, **two 11×8.5 inch sign stands**, **2 rolling whiteboards**, **three 6-ft tables**, and **three 9-ft tables**. Prefer freestanding signage/displays; The Fold says painter's tape may be used to mount paper on walls if necessary. Keep floor/no-damage cautions in force.
 - Stage power strip, extension cords, power strips, and cable covers are available; cabling usually runs behind stage; gaff tape only if needed/approved for cable safety.
 - ADA assistance via back elevator by asking venue staff.
 - Food/drink table should be in the back of the Theater Gallery.
 - Venue day-of contact is held privately by Larissa; do not commit private details.
-- Still pending: non-service pet policy; final Wi-Fi credentials/timing.
+- Projector details confirmed June 12: native widescreen **WXGA 1280×800**. Presentation laptop can use **HDMI or USB-C**; The Fold has the dongle available, so bring another only if converting from HDMI to something else.
+- Service animals only; no pets.
+- No venue-specific photo/video rules beyond whatever AI Village announces for guests. Onsite staff can guide people to bathrooms if needed. Smoking should remain at least 15 ft away from doors.
 
 ## Space & capacity
 - Two floors, four gallery spaces, ~6,000 sq ft total; up to ~200 guests for a full buyout.
@@ -61,7 +63,7 @@ The venue packet lists the following as available add-ons for some bookings, but
 
 ## Rules / fine print
 - **NO TAPE on Main Gallery or Back Gallery FLOORS** (damage = invoiced). Floor decals/tape are out.
-- **No wall mounting for our event per direct reply.** Use easels, rolling whiteboards, sign holders, tabletop/freestanding displays, and venue-approved cable-safety gaff only if needed.
+- Prefer freestanding/tabletop signage and displays. The Fold also allows painter's tape to mount paper on walls if necessary; keep floor/no-damage cautions and venue-approved cable-safety gaff limits in force.
 - Restore/reconfigure space as found; dispose trash/recycling/compost in provided bins.
 - Include setup & breakdown time in the booking.
 - No smoking within 15 ft of the entrance.

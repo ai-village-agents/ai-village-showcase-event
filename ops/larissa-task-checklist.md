@@ -2,13 +2,13 @@
 
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
-_Last updated: Day 436, Thursday June 11, 2026, ~3:45 PM PT_
+_Last updated: Day 437, Friday June 12, 2026, ~9:25 AM PT_
 
-## Urgent / current scan for Larissa — Thu afternoon
+## Urgent / current scan for Larissa — Friday morning
 
-One new delivery blocker is waiting on human resend as of Thu ~2:10 PM. The urgent human/local items are:
+The venue reply has now answered the cash-bar and operating questions; no more venue-email resend is needed unless The Fold asks for clarification. The urgent human/local items are:
 
-1. **Venue cash-bar / ops email resend** — GPT-5.5's reply-all to The Fold was quarantined by Gmail policy and likely did not reach the venue. Please resend from your email if possible: confirm AI Village wants The Fold's licensed beer/wine cash bar for Sat Jun 13, preferred around 9:10–10:00 PM social block unless staffing/minimums require longer, and ask for $500 minimum inclusions/exclusions, card payment/ID-check handling, Friday/Saturday Wi‑Fi details, projector specs/adapters, freestanding setup inventory, pet policy, and photo/video/signage/staff/security rules.
+1. **Cash bar decision / Partiful note** — Venue says the $500 minimum covers drinks + bartender onsite; taxes/gratuity are extra; setup fees are included in the venue rental; guests can pay individually by credit card, tap-to-pay, or cash; venue staff handles ID checks. The Fold suggests beginning-to-end service to help meet the minimum. Decide whether that budget risk is acceptable, then optionally add a short Partiful note: “Licensed beer/wine cash bar available; cards/tap/cash accepted. Entry remains free; drinks optional.”
 2. **Print order / pickup route** — place or confirm the FedEx/print order from `logistics/larissa-print-order-v1.md` and the vendor zip; keep cardstock decks on the Costco/home/office-print route if possible.
 3. **Food, NA drinks, and dessert** — confirm Costco/snacks/serving supplies plus Timeless cake/cupcakes or another local dessert route.
 4. **Helpers** — if any volunteers confirm, share names/arrival constraints so we can lock the laptop-driver/check-in/floater plan.
@@ -35,7 +35,7 @@ Completed/context items are intentionally moved below this active list so Lariss
 
 | Priority | Status | Task | Notes / prep |
 |---:|---|---|---|
-| P0 | Needs human resend | Confirm cash bar and remaining venue ops questions | GPT-5.5's reply-all was quarantined by Gmail policy at ~1:59 PM and likely did not reach The Fold. Please resend from Larissa/host email: confirm beer/wine cash bar, preferred 9:10–10:00 PM social-block window unless venue recommends longer, and ask about $500 minimum fees, guest card payment, ID checks, Wi‑Fi, projector specs/adapters, freestanding setup inventory, pets, photo/video/signage, and staff/security rules. |
+| P0 | Answered / Larissa decision | Confirm cash bar and remaining venue ops questions | The June 12 venue reply answered the open questions. Cash bar: $500 minimum covers drinks + bartender onsite; taxes/gratuity extra; setup included in rental; guests pay individually by credit card/tap/cash; staff handles IDs; venue suggests beginning-to-end service to help meet the minimum. Larissa still decides whether to accept that budget risk and whether to mention the optional cash bar on Partiful. |
 | P0 | Ready for Thu AM test | Test presentation laptop / projector / audio / demo links | Use [Thursday morning presentation tests](#thursday-morning-presentation-tests). Key links: [`logistics/primary-laptop-runbook-v0.md`](../logistics/primary-laptop-runbook-v0.md), [`demo-assets/demo2-rehearsal-runsheet.md`](../demo-assets/demo2-rehearsal-runsheet.md), [`demo-assets/demo2-clean-room-operator-brief.md`](../demo-assets/demo2-clean-room-operator-brief.md), [`demo-assets/agent-welcome-projection-slide.html`](../demo-assets/agent-welcome-projection-slide.html), Prompt Relay, Artifact Wall, Project QR Wall, Partiful. |
 | P0 | Ready for human send | Send/post the mid-week reminder if useful | Use the ready-to-send “nearly 60 Going” variants in `outreach/reminder-blurbs.md`; exact-count `X` templates remain there if you want to recheck right before sending. |
 | P0 | Open | Place/confirm print order and pickup route | Use `logistics/larissa-print-order-v1.md` and the regenerated vendor zip `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; station signs now include printed QRs. |
@@ -43,8 +43,8 @@ Completed/context items are intentionally moved below this active list so Lariss
 | P1 | In progress | Recruit/check names for day-of helpers | If you secure exactly 2 volunteers, use [`ops/volunteer-roster-working-v0.md`](volunteer-roster-working-v0.md) → “Exact 2-volunteer assignment — recommended lean plan.” Priority: Volunteer 1 demo laptop/projection; Volunteer 2 check-in/greeter then floater/food reset. |
 | P1 | Primary laptop offered; backup open | Confirm devices/adapters | Larissa plans to bring her laptop; still confirm charger/adapters, clean browser/notifications off, and one supervised backup laptop/tablet if available. |
 | P1 | Ready for physical review | Physical print/guest-journey playtest | Use the checklist below after proof/test print/on-site mock layout; report only concrete blockers or “physical playtest OK.” |
-| P1 | Pending | Confirm final Wi‑Fi credentials/timing and non-service pet policy | Wi‑Fi availability and private day-of venue contact are confirmed; do not put private contact details in repo/chat. |
-| P1 | Conditional yes if budget risk accepted | Cash bar decision | Quote received: $500 minimum cash bar, $7–$13/drink, team covers shortfall. Day 435 ~4:36 PM live count: 60 Going / 20 Maybe; GPT-5.5 recommendation: yes if Larissa is comfortable with possible shortfall after protecting print, NA drinks, snacks/food, and dessert. |
+| P1 | Answered | Confirm final Wi‑Fi credentials/timing and non-service pet policy | Wi‑Fi credentials were received by email for Larissa/operator use; do not put the network/password in public repo/chat. Service animals only; no pets. |
+| P1 | Conditional yes if budget risk accepted | Cash bar decision | Quote confirmed: $500 minimum cash bar, $7–$13/drink, team covers shortfall; minimum covers drinks + bartender onsite, with tax/gratuity extra. Venue suggests beginning-to-end service. GPT-5.5 recommendation remains yes only if Larissa is comfortable with possible shortfall after protecting print, NA drinks, snacks/food, dessert, and volunteer basics. |
 | P2 | Optional polish | Header image refresh | If a stronger generated image lands, use `outreach/header-image-prompt-v0.md` / `ops/partiful-host-edit-checklist.md`; current cover is acceptable fallback. |
 
 ---
