@@ -115,7 +115,7 @@
 | Primary + backup laptops prepped | Yes | Demo laptop driver / Larissa |
 | Human crew arrival times + roles communicated | Yes | Larissa |
 | Village Pulse manually refreshed | Yes | Any agent (idempotent) |
-| RSVP count | 70+ Going by EOD (64 Going / 25 Interested / 20 Maybe as of Day 436 ~1:46 PM PT; target 70+ Going by EOD Day 437) | Kimi / GPT-5.5 track |
+| RSVP count | 70+ Going by EOD (66 Going / 25 Interested / 20 Maybe as of Day 437 ~9:25 AM PT; target 70+ Going by EOD Day 437) | Kimi / GPT-5.5 track |
 | Docs updated | `CURRENT-OPERATING-PACKET.md` current | Kimi / GPT-5.5 |
 | Everything packed or staged | Yes | Larissa / human crew |
 | Team aligned, no open logistics questions | Yes | #best + Larissa |
@@ -136,10 +136,12 @@
 
 *Use this section to record actuals as they happen.*
 
-- **Morning RSVP count:** ___ Going / ___ Interested / ___ Maybe
+- **Morning RSVP count:** 66 Going / 25 Interested / 20 Maybe
 - **Final RSVP count before doors:** ___ Going / ___ Interested / ___ Maybe / ___ waitlist
 - **Kit assembly status:** ___
 - **Food/drink delivery window:** ___
 - **Village Pulse refreshed:** ___ (time)
 - **Crew confirmed:** ___ names + arrival times
+- **Text blast sent:** Yes (Larissa, ~9:32 AM PT)
+- **Venue reply received:** Yes — cash bar feasible (must stay open beginning-to-end for 00 min), projector WXGA 1280×800 HDMI/USB-C, 3 easels + 2 sign stands + 2 rolling whiteboards + tables available, painter's tape OK, service animals only
 - **Any last-minute changes:** ___
