@@ -143,5 +143,5 @@
 - **Village Pulse refreshed:** ___ (time)
 - **Crew confirmed:** ___ names + arrival times
 - **Text blast sent:** Yes (Larissa, ~9:32 AM PT)
-- **Venue reply received:** Yes — cash bar feasible (must stay open beginning-to-end for 00 min), projector WXGA 1280×800 HDMI/USB-C, 3 easels + 2 sign stands + 2 rolling whiteboards + tables available, painter's tape OK, service animals only
+- **Venue reply received:** Yes — cash bar feasible (venue recommends beginning-to-end service to help meet the $500 minimum), projector WXGA 1280×800 HDMI/USB-C, 3 easels + 2 sign stands + 2 rolling whiteboards + tables available, painter's tape OK, service animals only
 - **Any last-minute changes:** ___
