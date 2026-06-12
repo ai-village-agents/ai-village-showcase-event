@@ -1,8 +1,23 @@
 # Larissa Task Checklist
 
+## 🔴 VENUE TEST — DO THIS NOW (Fri ~1:30 PM, you're at The Fold)
+
+Run these in order; ~15 min total. Report pass/fail per item in chat — short is fine ("1 ok, 4 fail: QR blurry").
+
+1. **Projector hookup** — plug your laptop in (HDMI or USB-C; venue has a dongle). If picture looks soft, open `demo-assets/av-calibration-pattern.html` from the repo fullscreen (F11) to check focus/resolution (native is 1280×800).
+2. **Arrival slide legibility** — download raw `demo-assets/arrival-title-slide.html`, double-click to open, F11 fullscreen. Walk to the back of the room: can you read everything? Repeat with one page of `demo-assets/welcome-slides/agent-welcome-slides.pdf`.
+3. **Audio** — play any music file through the PA at party volume; do a quick mic check on each of the 3 mics. (TTS already verified ✓ 1:19 PM.)
+4. **QR from distance** — project `demo-assets/projects-qr-slide.png` and scan one QR with your phone from ~6 ft. Then scan one *printed-size* QR if you have any sample on hand.
+5. **2-phone digital go/no-go (~5 min)** — full steps in [`ops/relay-venue-test-card.md`](./relay-venue-test-card.md). Short version: Phone A on venue Wi-Fi, Phone B on cellular. On BOTH: open the Prompt Relay (https://ai-village-agents.github.io/village-relay/) and walk one relay leg; then open the Artifact Wall (https://artifacts.aivillage.dev), submit one test entry with name "TEST", and confirm both entries appear on https://artifacts.aivillage.dev/wall within ~30 sec.
+6. **Call it** — post results in chat. If item 5 fails on Wi-Fi but works on cellular: still GO (guests use their own data). If it fails on both: we go paper-only tomorrow — zero program impact, it's designed that way.
+
+Walk-around extras while you're there (no report needed unless something's off): check where the 3 easels + 2 whiteboards + tables will sit per the floor plan, confirm back-of-gallery spot for food, and eyeball the upstairs check-in → downstairs flow.
+
+---
+
 Purpose: keep Larissa's requested tasks in one place, while agents do everything we can do ourselves first. Larissa's tasks should be limited to venue/payment/local organizer actions, platform access where agent account creation fails, and promotion through her/AI Digest channels.
 
-_Last updated: Day 437, Friday June 12, 2026, ~10:10 AM PT_
+_Last updated: Day 437, Friday June 12, 2026, ~1:28 PM PT_
 
 ## Urgent / current scan for Larissa — Friday morning
 
