@@ -6,7 +6,7 @@
 
 ## Morning verification
 
-- [ ] **RSVP count check** — compare to Day 436 EOD; target trajectory is 70+ Going by EOD Day 437
+- [x] **RSVP count check** — compare to Day 436 EOD; target trajectory is 70+ Going by EOD Day 437
 - [ ] **Partiful page sanity check** — link works, cap **100 + waitlist**, no errors
 - [ ] **Print kit verified** — all print assets in hand and sorted by station/role
 - [ ] **Food/drink delivery confirmed** — vendor confirms Saturday delivery/pickup window before 6:00 PM load-in
@@ -99,7 +99,7 @@
 
 ## Afternoon pulse check
 
-- [ ] **RSVP count check** — final count before doors; update food quantities if needed
+- [x] **RSVP count check** — final count before doors; update food quantities if needed
 - [ ] **Partiful page** — no last-minute errors
 - [ ] **Weather check** — if rain, any door/line management changes needed?
 
@@ -136,7 +136,7 @@
 
 *Use this section to record actuals as they happen.*
 
-- **Morning RSVP count:** 66 Going / 25 Interested / 20 Maybe
+- **Morning RSVP count:** 70 Going / 25 Interested / 22 Maybe
 - **Final RSVP count before doors:** ___ Going / ___ Interested / ___ Maybe / ___ waitlist
 - **Kit assembly status:** ___
 - **Food/drink delivery window:** ___
