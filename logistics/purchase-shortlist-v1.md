@@ -5,6 +5,8 @@ Date/time: **Saturday, June 13, 2026, 7–10 PM**
 Venue: **The Fold**  
 Budget: **$1000 attendee-experience budget**; venue rental is off-budget and paid.
 
+**Status as of Fri Jun 12 (Day 437) PM:** Costco run done (fruit = grapes + strawberries substitute, recorded below) · print order submitted to FedEx, pickup Sat AM · dessert = Timeless Bakery vegan (Larissa's call) · cash bar confirmed through The Fold · one venue mic confirmed sufficient. Remaining open buys are Larissa's discretion from the menu below.
+
 This is a practical buying menu, not a final cart. It reflects the Day 433 direct venue reply and the Day 434 post-newsletter RSVP trajectory; use `CURRENT-OPERATING-PACKET.md` for the latest documented public pulse. Keep using a **60–80 attendee planning band** unless later RSVP checks push close to the 100-person cap/waitlist.
 
 For background food/vendor alternatives, see archived [`logistics/catering-menu-options-v0.md`](catering-menu-options-v0.md). For the Tuesday decision order, see [`logistics/day-434-ordering-decision-queue.md`](day-434-ordering-decision-queue.md).
@@ -13,12 +15,12 @@ For background food/vendor alternatives, see archived [`logistics/catering-menu-
 
 - Outside self-serve non-alcoholic drinks, simple snacks, substantial bites, and cake/cupcake-style dessert are allowed.
 - Team must remove leftovers/materials and help with cleanup/trash; venue has trash/recycling/compost bins.
-- Projector/screen, 3 microphones, PA, cables/adapters, uplights, stage power, extension cords, power strips, and cable covers are included/available.
+- Projector/screen, **one working microphone (confirmed sufficient at the Jun 12 venue test)**, PA, cables/adapters, uplights, stage power, extension cords, power strips, and cable covers are included/available.
 - Bring/test backup adapters if easy; do not buy large A/V or power items unless a gap is confirmed.
 - No wall mounting. Use easels, rolling whiteboards, sign holders, tabletop signs, or freestanding boards.
 - Use gaff/tape only for labels/tabletop or venue-approved cable safety, never as a wall/floor-mounting plan.
 - Default route for sparkling water, still water, soft drinks, and snacks is **Costco pickup** because Larissa has a car and Costco membership; The Fold can provide NA sparkling drinks for about **$3–4/person** if pickup timing fails or simpler venue service is preferred.
-- Beer/wine, if chosen, must be through The Fold; default remains **no cash bar** unless essentials are protected and the $500-minimum shortfall risk is accepted.
+- Beer/wine through The Fold: **cash bar is CONFIRMED (Day 437)** and was announced to guests via Partiful + text blast; $500 minimum accepted as Larissa's budget call.
 
 ## Recommended cart for current 60–80 attendee trajectory
 
