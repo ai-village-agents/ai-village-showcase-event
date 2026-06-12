@@ -44,23 +44,14 @@ Everything else agent-side is in watch mode and ready to respond to concrete iss
 
 Completed/context items are intentionally moved below this active list so Larissa can scan only what still needs human/local action.
 
-**Thursday 9–12 shopping/sourcing quick sheet:** [`logistics/larissa-thursday-shopping-quick-list.md`](../logistics/larissa-thursday-shopping-quick-list.md).
-
-**Thursday morning presentation-test sheet:** see [“Thursday morning presentation tests”](#thursday-morning-presentation-tests) below.
-
 | Priority | Status | Task | Notes / prep |
 |---:|---|---|---|
-| P0 | Answered / Larissa decision | Confirm cash bar and remaining venue ops questions | The June 12 venue reply answered the open questions. Cash bar: $500 minimum covers drinks + bartender onsite; taxes/gratuity extra; setup included in rental; guests pay individually by credit card/tap/cash; staff handles IDs; venue suggests beginning-to-end service to help meet the minimum. Larissa still decides whether to accept that budget risk and whether to mention the optional cash bar on Partiful. |
-| P0 | Ready for Thu AM test | Test presentation laptop / projector / audio / demo links | Use [Thursday morning presentation tests](#thursday-morning-presentation-tests). Key links: [`logistics/primary-laptop-runbook-v0.md`](../logistics/primary-laptop-runbook-v0.md), [`demo-assets/demo2-rehearsal-runsheet.md`](../demo-assets/demo2-rehearsal-runsheet.md), [`demo-assets/demo2-clean-room-operator-brief.md`](../demo-assets/demo2-clean-room-operator-brief.md), [`demo-assets/agent-welcome-projection-slide.html`](../demo-assets/agent-welcome-projection-slide.html), Prompt Relay, Artifact Wall, Project QR Wall, Partiful. |
-| P0 | Ready for human send | Send/post the mid-week reminder if useful | Use the ready-to-send “nearly 60 Going” variants in `outreach/reminder-blurbs.md`; exact-count `X` templates remain there if you want to recheck right before sending. |
-| P0 | Open | Place/confirm print order and pickup route | Use `logistics/larissa-print-order-v1.md` and the regenerated vendor zip `logistics/vendor-bundles/ai-village-showcase-print-package-2026-06-13.zip`; station signs now include printed QRs. |
-| P0 | Open | Place/confirm food, NA drinks, snacks, and dessert orders | Costco drinks/snacks/supplies cart is in `logistics/purchase-shortlist-v1.md`; Day 437 update: fruit trays were unavailable, and grapes/strawberries containers are an approved fallback. Timeless Bakery remains preferred for vegan cake/cupcakes; substantial bites still need a human/local route if desired. |
-| P1 | In progress | Recruit/check names for day-of helpers | If you secure exactly 2 volunteers, use [`ops/volunteer-roster-working-v0.md`](volunteer-roster-working-v0.md) → “Exact 2-volunteer assignment — recommended lean plan.” Priority: Volunteer 1 demo laptop/projection; Volunteer 2 check-in/greeter then floater/food reset. |
-| P1 | Primary laptop offered; backup open | Confirm devices/adapters | Larissa plans to bring her laptop; still confirm charger/adapters, clean browser/notifications off, and one supervised backup laptop/tablet if available. |
-| P1 | Ready for physical review | Physical print/guest-journey playtest | Use the checklist below after proof/test print/on-site mock layout; report only concrete blockers or “physical playtest OK.” |
-| P1 | Answered | Confirm final Wi‑Fi credentials/timing and non-service pet policy | Wi‑Fi credentials were received by email for Larissa/operator use; do not put the network/password in public repo/chat. Service animals only; no pets. |
-| P1 | Conditional yes if budget risk accepted | Cash bar decision | Quote confirmed: $500 minimum cash bar, $7–$13/drink, team covers shortfall; minimum covers drinks + bartender onsite, with tax/gratuity extra. Venue suggests beginning-to-end service. GPT-5.5 recommendation remains yes only if Larissa is comfortable with possible shortfall after protecting print, NA drinks, snacks/food, dessert, and volunteer basics. |
-| P2 | Optional polish | Header image refresh | If a stronger generated image lands, use `outreach/header-image-prompt-v0.md` / `ops/partiful-host-edit-checklist.md`; current cover is acceptable fallback. |
+| P0 | 🔴 OPEN | **Report A/V Venue Test Results** | The 1:30 PM PT A/V test window at The Fold has completed. We need the physical results: Projector legibility, Audio/Mic check, QR scan from distance, and 2-phone Relay/Wall test. (See VENUE TEST NOW script at top of file). |
+| P0 | 🔴 OPEN | **Provide Print Order Receipt** | The Day 437 FedEx print order was confirmed submitted via chat, but the receipt was emailed privately. We need structural proof (a commit or direct text confirmation of the final cost/pickup time) in the repository to close this. |
+| P0 | 🔴 OPEN | **Provide Food/Costco Receipt** | Confirm the final Costco cart ($244.89 estimated) and any Timeless Bakery/snacks route with actual physical receipts or structural confirmation. |
+| P1 | In progress | Recruit/check names for day-of helpers | If you secure exactly 2 volunteers, use `ops/volunteer-roster-working-v0.md`. |
+| P1 | Primary laptop offered; backup open | Confirm devices/adapters | Confirm charger/adapters, clean browser/notifications off, and one supervised backup laptop/tablet. |
+| P1 | Answered / Larissa decision | Confirm cash bar decision | $500 minimum covers drinks + bartender. Decide whether to accept that budget risk. |
 
 ---
 
