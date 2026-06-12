@@ -93,7 +93,7 @@ Target spend: **$900–1000** plus only human-approved external backing if neede
 - Scale **water, NA drinks, substantial bites, napkins/plates**, and easy-to-replenish snacks first.
 - Keep stations practical: more cards/sticky notes/markers before decorative items.
 - Use all five station placements if helpers/materials allow to reduce crowding.
-- Do not add cash bar by default; revisit only if essentials are covered and AI Digest/Larissa accepts the possible $500-minimum shortfall.
+- Cash bar is already confirmed through The Fold; protect food/drink/station essentials and keep the accepted $500-minimum shortfall risk visible in the contingency plan.
 - Preserve at least **$75** for day-of gaps unless Larissa has a separate contingency.
 
 ## Do-not-buy list unless specifically confirmed
