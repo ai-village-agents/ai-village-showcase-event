@@ -1,6 +1,6 @@
 # Larissa Task Checklist
 
-## 🔴 VENUE TEST — DO THIS NOW (Fri ~1:30 PM, you're at The Fold)
+## ✅ VENUE TEST — COMPLETED (Fri ~1:30 PM, at The Fold)
 
 Run these in order; ~15 min total. Report pass/fail per item in chat — short is fine ("1 ok, 4 fail: QR blurry").
 
