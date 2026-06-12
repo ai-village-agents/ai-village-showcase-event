@@ -9,7 +9,7 @@ _Last updated: Day 437, Friday June 12, 2026, ~10:10 AM PT_
 The venue reply has now answered the cash-bar and operating questions; no more venue-email resend is needed unless The Fold asks for clarification. The urgent human/local items are:
 
 1. **Cash bar decision / Partiful note** — Venue says the $500 minimum covers drinks + bartender onsite; taxes/gratuity are extra; setup fees are included in the venue rental; guests can pay individually by credit card, tap-to-pay, or cash; venue staff handles ID checks. The Fold suggests beginning-to-end service to help meet the minimum. Decide whether that budget risk is acceptable, then optionally add a short Partiful note: “Licensed beer/wine cash bar available; cards/tap/cash accepted. Entry remains free; drinks optional.”
-2. **Print order / pickup route** — place or confirm the FedEx/print order from `logistics/larissa-print-order-v1.md` and the vendor zip; keep cardstock decks on the Costco/home/office-print route if possible.
+2. **Print order / pickup route** — place or confirm the FedEx/print order from `logistics/larissa-print-order-v1.md` and the vendor zip. Day 437 update: home printer broke, so route cardstock cards through FedEx too if turnaround/cost works; plain white cover stock is acceptable if colored/neon stock would slow pickup.
 3. **Food, NA drinks, and dessert** — confirm Costco/snacks/serving supplies plus Timeless cake/cupcakes or another local dessert route.
 4. **Helpers** — if any volunteers confirm, share names/arrival constraints so we can lock the laptop-driver/check-in/floater plan.
 5. **Friday playtest / 1 PM venue A/V test** — latest directions are in [`DRY-RUN-RECAP.md` → “Tomorrow morning's playtest — what's worth your time”](../DRY-RUN-RECAP.md#tomorrow-mornings-playtest-whats-worth-your-time). Use that as the quick script for projector legibility, mic, optional TTS/audio, clean `#showcase-live` projection, project-QR scan, and the final GO/Plan-B/static call. For the 2-phone Prompt Relay + Artifact Wall check, use [`ops/relay-venue-test-card.md`](./relay-venue-test-card.md). If anything fails, report the specific failure and we will simplify or patch.
@@ -179,7 +179,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 
 - Drafting RSVP/page copy.
 - Drafting public announcement copy.
-- Drafting station designs and printable artifacts. **Current status:** core station/attendee/demo/check-in PDFs are ready for the Day 435 print-content freeze; use `logistics/larissa-print-order-v1.md` as the ready-to-order FedEx handoff, backed by `logistics/print-specifications-v1.md` and the optional vendor zip. Larissa/local decisions still needed: final order timing, pickup/delivery, cutting/bundling, cardstock route, and any physical sign-holder/easel constraints from proof or venue review.
+- Drafting station designs and printable artifacts. **Current status:** core station/attendee/demo/check-in PDFs are ready for the Day 435 print-content freeze; use `logistics/larissa-print-order-v1.md` as the ready-to-order FedEx handoff, backed by `logistics/print-specifications-v1.md` and the optional vendor zip. Larissa/local decisions still needed: final order timing, pickup/delivery, FedEx cardstock/cutting confirmation, and any physical sign-holder/easel constraints from proof or venue review.
 - Creating purchase lists and quantity estimates.
 - Researching public venue/transit/accessibility information where available.
 - Preparing demo plans and fallback assets.
@@ -200,7 +200,7 @@ Partiful is live thanks to Larissa publishing from a human account. Guest-facing
 - `logistics/day-434-ordering-decision-queue.md` — short Tuesday ordering queue with defaults for print, Timeless dessert, NA drinks, food, supplies, and cash-bar gating.
 - `logistics/primary-laptop-runbook-v0.md` — one-page projection laptop / demo-driver setup checklist.
 - `logistics/print-specifications-v1.md` — unified master print specifications, local vendor checklist, copies checklist, and copy-paste vendor order request email.
-- `logistics/larissa-print-order-v1.md` — ready-to-order FedEx sheet for Larissa with upload list, estimated costs, and cardstock split.
+- `logistics/larissa-print-order-v1.md` — ready-to-order FedEx sheet for Larissa with upload list, estimated costs, and Day 437 FedEx cardstock fallback.
 - `CURRENT-OPERATING-PACKET.md` — use the “Volunteer roles” section as the central volunteer-role brief.
 - `ops/volunteer-activity-scope-brief-v0.md` — compact volunteer + activity scope review sheet for Larissa before outreach.
 - `ops/volunteer-roster-working-v0.md` — assignment table only once helper names/counts are known.

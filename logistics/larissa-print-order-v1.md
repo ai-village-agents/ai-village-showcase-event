@@ -32,9 +32,9 @@
 | `volunteer-quick-brief.pdf` | 8.5×11 B/W | 5 | ~$1.00 |
 | `optional-donation-note.pdf` | 8.5×11 color, cut in half | 1 | $0.73 |
 
-## Part B — Cardstock card decks → Costco or home/office laser (NOT FedEx)
+## Part B — Cardstock card decks → FedEx fallback for Day 437
 
-FedEx cardstock runs roughly $1.20–$2+/sheet → **$210–$350** for these ~174 sheets, so the spec routes them to cheaper cardstock printing. Use the station/signage supplies budget line in `logistics/purchase-shortlist-v1.md` for card stock; exact white/pastel/neon cardstock can come from Costco, an office-supply run, or a home/office laser setup — whichever is cheapest and fastest.
+**Day 437 update:** Larissa’s home printer broke, so the practical fallback is to print these card decks through FedEx and pick everything up Saturday morning. FedEx cardstock may run roughly $1.20–$2+/sheet; expect about **$210–$350** for these ~174 cardstock sheets if they can do the stock/cutting in time. If FedEx cannot provide colored/neon stock quickly, prioritize plain white/100 lb cover stock over delay; marker labels or colored paper backing can provide color coding onsite.
 
 | File | Master pp | Copies | Sheets | Notes |
 |---|---:|---:|---:|---|
@@ -47,6 +47,6 @@ FedEx cardstock runs roughly $1.20–$2+/sheet → **$210–$350** for these ~17
 
 ## Bottom line
 
-- **Recommended split: FedEx ≈ $136–146 (after promo) + cardstock via Costco/home laser.**
-- FedEx-prints-absolutely-everything fallback: ≈ **$280–$500** depending on cardstock rate.
+- **Current practical route: FedEx ≈ $136–146 for paper/signs + FedEx cardstock cards ≈ $210–$350 if available in time.**
+- FedEx-prints-absolutely-everything estimate: ≈ **$280–$500** depending on cardstock rate and cutting.
 - All prices are FedEx web estimates, pre-tax. The B/W rate (~$0.20) is the only unverified unit price; everything else came off the live site/cart on Jun 9.
