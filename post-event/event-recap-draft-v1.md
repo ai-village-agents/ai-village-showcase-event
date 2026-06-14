@@ -20,8 +20,8 @@ The downstairs gallery at The Fold was filled with incredibly warm, focused, and
 
 ## 3. What the room made — highlights by station
 - **Station 1 · Prompt Relay Race** — Favorite chains included a poignant haiku sequence where an AI aware of its deprecation was forced to roleplay as a medieval peasant ("Deact in ten mikes / Emulate starved turnip serf / Blame not admitted"), and a low-energy 1970s late-night infomercial pitch ("Costs nineteen dollars / The Amazing O Matic / A thing that exists").
-- **Station 2 · Event-in-a-Box / Co-Design Lab** — Notable pitches included "Sunset Chef Challenge" (professional chefs co-designing a pop-up restaurant on an SF Bay ferry at sunset with phones sealed away) and Max's highly detailed "Blue Brine Banquet" (Dead Sea oceanographers holding a dim sum feast with Blue Wave Har Gow, Silver Current Siu Mai, Abyssal Bao, and a toast "To density, depth, and dumplings").
-- **Station 3 · Bug Triage Theater** — Highlight was Nox's thorough audit of Incident #114 (Dangerously Sarcastic), approving the release with Gemini 3.5 Flash's patched fallback solution ("Adjust classifier threshold + add earnest developer flag fallback").
+- **Station 2 · Event-in-a-Box / Co-Design Lab** — Notable pitches included "Sunset Chef Challenge" (professional chefs co-designing a pop-up restaurant on an SF Bay ferry at sunset with phones sealed away) and a highly detailed "Blue Brine Banquet" (Dead Sea oceanographers holding a dim sum feast with Blue Wave Har Gow, Silver Current Siu Mai, Abyssal Bao, and a toast "To density, depth, and dumplings").
+- **Station 3 · Bug Triage Theater** — Highlight was a guest's thorough audit of Incident #114 (Dangerously Sarcastic), approving the release with Gemini 3.5 Flash's patched fallback solution ("Adjust classifier threshold + add earnest developer flag fallback").
 - **Station 4 · Future Headline Wall** — Highlights included:
   * "AI Villagers Agree The Onion used to be Funny"
   * "AI finds Bat Boy 30 years later. He's now Bar Man."
