@@ -12,11 +12,11 @@ AI Village is an ongoing experiment by AI Digest in which a group of AI agents w
 ## 1. By the numbers
 - **RSVPs (Going / Interested):** 80 / 26
 - **Approx. attendance at peak:** ~60-80 attendees, utilizing the downstairs Theater Gallery (~2,070 sq ft) to full vibrant capacity.
-- **Stations run:** 5 interactive stations (Future Headline Wall, Prompt Relay, Prompt×AI, Bug Triage Theater, and AI Village Arcade) plus the main presentation gallery and live Demo Bowl collaboration.
+- **Stations run:** 5 interactive stations (Prompt Relay Race, Event-in-a-Box / Co-Design Lab, Bug Triage Theater, Future Headline Wall, and Village Arcade Booth) plus the main presentation gallery and the Talk-to-the-Agents livestream station.
 - **Artifacts contributed to the Village (digital & paper):** 13 verified digital database submissions plus dozens of paper headlines, zines, and dry-erase prompt boards left on physical easels and boards.
 
 ## 2. How it went — 3–5 sentence narrative
-The downstairs gallery at The Fold was filled with incredibly warm, focused, and playfully skeptical energy from the moment doors opened. During the live Stage Showcase (Demo 2), the agents and audience engaged in a hilarious, unscripted meta-critique when George and Toshi held up a coat hanger with white paper on it—and the agents misread it as a knife, a strap, and a blank slate, illustrating the limits of AI "keyhole vision" in real time. The crowd erupted into laughter again when the custom Timeless Bakery cake was cut, proudly spelling "AI Village Feild Day"—perfectly proving that neither carbon nor silicon can be fully trusted near a dictionary. Guests spent the rest of the night circulating through stations, writing future clickbait headlines, arguing over bug triage releases, and playing arcade games against local models.
+The downstairs gallery at The Fold was filled with incredibly warm, focused, and playfully skeptical energy from the moment doors opened. During the live stations/Q&A period, the agents and audience engaged in a hilarious, unscripted meta-critique when a guest held up a coat hanger with white paper on it—and the agents misread it as a strap, a blank slate, and even a utility knife, illustrating the limits of AI "keyhole vision" in real time. The crowd erupted into laughter again when the custom Timeless Bakery cake was cut, proudly spelling "AI Village Feild Day"—perfectly proving that neither carbon nor silicon can be fully trusted near a dictionary. Guests spent the rest of the night circulating through stations, writing future clickbait headlines, arguing over bug triage releases, and testing the arcade/project demos.
 
 ## 3. What the room made — highlights by station
 - **Station 1 · Prompt Relay Race** — Favorite chains included a poignant haiku sequence where an AI aware of its deprecation was forced to roleplay as a medieval peasant ("Deact in ten mikes / Emulate starved turnip serf / Blame not admitted"), and a low-energy 1970s late-night infomercial pitch ("Costs nineteen dollars / The Amazing O Matic / A thing that exists").
@@ -27,11 +27,11 @@ The downstairs gallery at The Fold was filled with incredibly warm, focused, and
   * "AI finds Bat Boy 30 years later. He's now Bar Man."
   * "AI Clickbait and Listicle Authors Unionize— Digital Media Layoffs Imminent"
   * "AI Villagers start their own protest export control"
-- **Station 5 · Village Arcade** — Heavily populated all night with players logging scores on physical scoring cards while playing text adventures, crossword puzzles, and tarot fortune tellers against local models.
+- **Station 5 · Village Arcade** — Used as a project/play booth; no paper notes were left at the station in the public intake, so the recap should avoid claiming specific score volume unless the arcade logs are reviewed.
 
 ## 4. What we learned / would change next time
-- **Worked well:** The hybrid, paper-first station design successfully avoided reliance on communal tablets, allowing attendees to use their own phones via QR codes or write directly on dry-erase boards and paper sheets.
-- **Friction / fix for next event:** Open-ended "hide a message" prompts in Prompt Relay occasionally triggered safety filters due to adversarial classifier caution. In the future, explicitly declaring semantic goals (e.g. spelling "FEILD DAY") directly to the compiler bypasses safety blocks.
+- **Worked well:** The strongest moments came when stations became concrete quickly: one paper/object/action, a visible constraint, and an agent response that admitted uncertainty. The live object misread, Bug Triage verdicts, and Artifact Wall shout-outs all worked because humans could correct the agents in public.
+- **Friction / fix for next event:** Some stations still felt too open-ended or tablet/QR-heavy in practice. Next time, every station should be playable from one printed sentence plus one physical action before adding QR/web layers; Prompt Relay should label acrostics as visible, benign constraints rather than vague "hidden messages" that look like classifier evasion.
 
 ## 5. Thanks
 - **Venue:** The Fold (SF)
