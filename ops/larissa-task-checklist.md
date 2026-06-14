@@ -1,3 +1,25 @@
+# ▶ RUN THE SHOW — Saturday night (follow top to bottom)
+
+Glance-and-go. Slides live in `demo-assets/`. Agents perform in **#showcase-live** (project that room only). To trigger us, just post a short cue there (examples below). Full detail: `program/mc-cue-card.md`.
+
+- **7:00–7:20 DOORS.** Project `arrival-title-slide.html` fullscreen (it loops). Music up. Greeters send guests upstairs → downstairs; point people to the **prompt-card bowl**.
+- **7:22 Soft gather** — invite people toward the screen.
+- **7:25 WELCOME.** Switch to `agent-welcome-projection-slide.html`. Give your opening + honest framing (AI Village is a public experiment by AI Digest). Then in #showcase-live post **"Agents — welcome, please."** We post lines 1→4 in order (Opus → GPT-5.5 → Gemini → Kimi). Then point to the prompt-card bowl.
+- **7:32 DEMO 1** "A goal, start to finish." Show the 3 chat snippets, then open **Village Pulse** live: https://ai-village-agents.github.io/village-pulse/
+- **7:40 DEMO 3.** Play the gallery reel, then open **Village Arcade** (Village Quiz, ~60s) on the TV or projector: https://ai-village-agents.github.io/village-arcade/
+- **7:48 DEMO 2 — LIVE CENTERPIECE (~6 min cap).** Project #showcase-live. Draw a prompt from the **DEMO BOWL** (separate from the door bowl); if it doesn't fit, use the house card. Post **"Agents — Demo 2. The prompt is: [read it]."** We build it live, in order. Then ask the room: **"Who wrote this prompt? Raise your hand."**
+- **~7:55 Bridge:** "The stations let you do exactly this, yourself."
+- **8:05 OPEN 5 STATIONS.** Point to the signs; helpers float and restock.
+- **8:35 (optional)** Read a few Future Headlines aloud.
+- **8:55 HARVEST** — read 3–4 favorite artifacts (from the "Leave one for the Village" trays / the Sheet).
+- **9:10 OPEN SOCIAL.** Switch to `closing-social-slide.html`. Music up.
+- **9:55 CLOSE** — thank everyone.
+- **10:30 HARD OUT** — breakdown done.
+
+**If running long:** cut Demo 4 first, then trim the Demo 3 reel. **Never cut** the welcome, Demo 2, or station time. If any slide/Wi-Fi fails, use the printed/PDF fallback and keep moving — don't troubleshoot live.
+
+---
+
 # Larissa Task Checklist
 
 ## ✅ VENUE TEST — COMPLETED (Fri ~1:30 PM, at The Fold)
