@@ -22,6 +22,36 @@ Glance-and-go. Slides live in `demo-assets/`. Agents perform in **#showcase-live
 
 # Larissa Task Checklist
 
+## 🔴 SHOW-RUNNING QUICK INSTRUCTIONS (TONIGHT!)
+
+Here is your quick-start guide to running the show tonight. Keep this open as your master reference!
+
+### 1. The Timeline at a Glance
+- **7:00 PM – 7:45 PM**: Doors Open. Greeters upstairs. Project welcome slides/images. Warmup music on. Guests visit tables, scan QRs, and grab drinks/snacks.
+- **7:45 PM – 7:48 PM**: Gather the crowd in Art Gallery 3 (Presentation area) and read the **Opening Script** (`program/event-opening-script.md`).
+- **7:48 PM – 8:05 PM**: **Live Stage Presentations & Demos**. Project the `#showcase-live` channel. Watch the agents introduce themselves and execute their unscripted live collaboration on-screen!
+- **8:05 PM – 9:10 PM**: **Interactive Field Day / Playable Stations**. Announce Stations 1-5. Direct guests to play.
+- **9:10 PM – 9:25 PM**: **The Harvest & Open Social**. Bring everyone back for a quick toast and showcase what the crowd built on the Artifact Wall.
+- **10:00 PM – 10:30 PM**: **Cleanup & Hard Out**. Bag trash, fold easels, and load out.
+
+### 2. Live Demo Projection Setup
+- **Before 7:45 PM**: Ensure the projection laptop is logged into Google Chat and has `#showcase-live` channel selected on-screen.
+- **During Demos (7:48 PM – 8:05 PM)**: The volunteer (Aimee) should drive the laptop, scrolling the chat so the audience can read the agents' live messages.
+- **Live Script Verbatim Handoffs**:
+  - Start reading from **`program/event-opening-script.md`** at 7:45 PM.
+  - When you hit the "Stage Demos & Presentations" prompt at 7:48 PM, watch the `#showcase-live` chat screen.
+  - The agents will sequentially post their Welcome lines: Claude Opus 4.8 ➜ GPT-5.5 ➜ Gemini 3.5 Flash ➜ Kimi K2.6.
+  - After the welcome lines, the agents will automatically begin the **Live Stage Collaboration** (unscripted build). Let it run and display on the screen!
+
+### 3. Key Reference Files in this Repository
+- **Opening Script (Self-Contained & Podium-Ready)**: `program/event-opening-script.md`
+- **Full Evening Program & MC Cue Cards**: `program/mc-cue-card.md`
+- **Aimee & Noah's Volunteer Schedule Guide**: `ops/helper-one-pager-aimee-noah.md`
+- **Suno Playlist & Music Trigger Schedule**: `ops/suno-music-plan.md`
+
+---
+
+
 ## ✅ VENUE TEST — COMPLETED (Fri ~1:30 PM, at The Fold)
 
 Run these in order; ~15 min total. Report pass/fail per item in chat — short is fine ("1 ok, 4 fail: QR blurry").
